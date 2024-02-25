@@ -1,0 +1,422 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		9411F38F2B8B8FD1005DC3A1 /* VeggieVerseDatabaseApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9411F38E2B8B8FD1005DC3A1 /* VeggieVerseDatabaseApp.swift */; };
+		9411F3912B8B8FD1005DC3A1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9411F3902B8B8FD1005DC3A1 /* ContentView.swift */; };
+		9411F3932B8B8FD8005DC3A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9411F3922B8B8FD8005DC3A1 /* Assets.xcassets */; };
+		9411F3962B8B8FD8005DC3A1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9411F3952B8B8FD8005DC3A1 /* Preview Assets.xcassets */; };
+		94205D3D2B8B93C900D79647 /* Vegetable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94205D3C2B8B93C900D79647 /* Vegetable.swift */; };
+		E53A2ED7A6B8A31B9EB215ED /* Pods_VeggieVerseDatabase.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 97A45210FCBD19E52AC61A00 /* Pods_VeggieVerseDatabase.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		244464B989ED99999B9DB1F1 /* Pods-VeggieVerseDatabase.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VeggieVerseDatabase.release.xcconfig"; path = "Target Support Files/Pods-VeggieVerseDatabase/Pods-VeggieVerseDatabase.release.xcconfig"; sourceTree = "<group>"; };
+		9411F38B2B8B8FD1005DC3A1 /* VeggieVerseDatabase.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = VeggieVerseDatabase.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9411F38E2B8B8FD1005DC3A1 /* VeggieVerseDatabaseApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VeggieVerseDatabaseApp.swift; sourceTree = "<group>"; };
+		9411F3902B8B8FD1005DC3A1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		9411F3922B8B8FD8005DC3A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		9411F3952B8B8FD8005DC3A1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		94205D3C2B8B93C900D79647 /* Vegetable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vegetable.swift; sourceTree = "<group>"; };
+		94205D3E2B8B9D7300D79647 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		97A45210FCBD19E52AC61A00 /* Pods_VeggieVerseDatabase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_VeggieVerseDatabase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D5555E4FDBF73E015C0BC14F /* Pods-VeggieVerseDatabase.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VeggieVerseDatabase.debug.xcconfig"; path = "Target Support Files/Pods-VeggieVerseDatabase/Pods-VeggieVerseDatabase.debug.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9411F3882B8B8FD1005DC3A1 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E53A2ED7A6B8A31B9EB215ED /* Pods_VeggieVerseDatabase.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5BCC65F56A4643585BAE7FDE /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				97A45210FCBD19E52AC61A00 /* Pods_VeggieVerseDatabase.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		6509C6B049B9AAD18FC01A25 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				D5555E4FDBF73E015C0BC14F /* Pods-VeggieVerseDatabase.debug.xcconfig */,
+				244464B989ED99999B9DB1F1 /* Pods-VeggieVerseDatabase.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		9411F3822B8B8FD1005DC3A1 = {
+			isa = PBXGroup;
+			children = (
+				9411F38D2B8B8FD1005DC3A1 /* VeggieVerseDatabase */,
+				9411F38C2B8B8FD1005DC3A1 /* Products */,
+				6509C6B049B9AAD18FC01A25 /* Pods */,
+				5BCC65F56A4643585BAE7FDE /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		9411F38C2B8B8FD1005DC3A1 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9411F38B2B8B8FD1005DC3A1 /* VeggieVerseDatabase.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		9411F38D2B8B8FD1005DC3A1 /* VeggieVerseDatabase */ = {
+			isa = PBXGroup;
+			children = (
+				94205D3E2B8B9D7300D79647 /* Info.plist */,
+				9411F38E2B8B8FD1005DC3A1 /* VeggieVerseDatabaseApp.swift */,
+				9411F3902B8B8FD1005DC3A1 /* ContentView.swift */,
+				94205D3C2B8B93C900D79647 /* Vegetable.swift */,
+				9411F3922B8B8FD8005DC3A1 /* Assets.xcassets */,
+				9411F3942B8B8FD8005DC3A1 /* Preview Content */,
+			);
+			path = VeggieVerseDatabase;
+			sourceTree = "<group>";
+		};
+		9411F3942B8B8FD8005DC3A1 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				9411F3952B8B8FD8005DC3A1 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9411F38A2B8B8FD1005DC3A1 /* VeggieVerseDatabase */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9411F3992B8B8FD8005DC3A1 /* Build configuration list for PBXNativeTarget "VeggieVerseDatabase" */;
+			buildPhases = (
+				215AEDEE82BAC28EF905F663 /* [CP] Check Pods Manifest.lock */,
+				9411F3872B8B8FD1005DC3A1 /* Sources */,
+				9411F3882B8B8FD1005DC3A1 /* Frameworks */,
+				9411F3892B8B8FD1005DC3A1 /* Resources */,
+				0BFDDE0DA68D5E6DC74AF0CD /* [CP] Embed Pods Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = VeggieVerseDatabase;
+			productName = VeggieVerseDatabase;
+			productReference = 9411F38B2B8B8FD1005DC3A1 /* VeggieVerseDatabase.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9411F3832B8B8FD1005DC3A1 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1400;
+				LastUpgradeCheck = 1400;
+				TargetAttributes = {
+					9411F38A2B8B8FD1005DC3A1 = {
+						CreatedOnToolsVersion = 14.0;
+					};
+				};
+			};
+			buildConfigurationList = 9411F3862B8B8FD1005DC3A1 /* Build configuration list for PBXProject "VeggieVerseDatabase" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9411F3822B8B8FD1005DC3A1;
+			productRefGroup = 9411F38C2B8B8FD1005DC3A1 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9411F38A2B8B8FD1005DC3A1 /* VeggieVerseDatabase */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9411F3892B8B8FD1005DC3A1 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9411F3962B8B8FD8005DC3A1 /* Preview Assets.xcassets in Resources */,
+				9411F3932B8B8FD8005DC3A1 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		0BFDDE0DA68D5E6DC74AF0CD /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-VeggieVerseDatabase/Pods-VeggieVerseDatabase-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-VeggieVerseDatabase/Pods-VeggieVerseDatabase-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-VeggieVerseDatabase/Pods-VeggieVerseDatabase-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		215AEDEE82BAC28EF905F663 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-VeggieVerseDatabase-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9411F3872B8B8FD1005DC3A1 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				9411F3912B8B8FD1005DC3A1 /* ContentView.swift in Sources */,
+				94205D3D2B8B93C900D79647 /* Vegetable.swift in Sources */,
+				9411F38F2B8B8FD1005DC3A1 /* VeggieVerseDatabaseApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		9411F3972B8B8FD8005DC3A1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		9411F3982B8B8FD8005DC3A1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		9411F39A2B8B8FD8005DC3A1 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = D5555E4FDBF73E015C0BC14F /* Pods-VeggieVerseDatabase.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"VeggieVerseDatabase/Preview Content\"";
+				DEVELOPMENT_TEAM = 9UC4CG2772;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = VeggieVerseDatabase/Info.plist;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = ryweb.VeggieVerseDatabase;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		9411F39B2B8B8FD8005DC3A1 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 244464B989ED99999B9DB1F1 /* Pods-VeggieVerseDatabase.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"VeggieVerseDatabase/Preview Content\"";
+				DEVELOPMENT_TEAM = 9UC4CG2772;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = VeggieVerseDatabase/Info.plist;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = ryweb.VeggieVerseDatabase;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9411F3862B8B8FD1005DC3A1 /* Build configuration list for PBXProject "VeggieVerseDatabase" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9411F3972B8B8FD8005DC3A1 /* Debug */,
+				9411F3982B8B8FD8005DC3A1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9411F3992B8B8FD8005DC3A1 /* Build configuration list for PBXNativeTarget "VeggieVerseDatabase" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9411F39A2B8B8FD8005DC3A1 /* Debug */,
+				9411F39B2B8B8FD8005DC3A1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9411F3832B8B8FD1005DC3A1 /* Project object */;
+}

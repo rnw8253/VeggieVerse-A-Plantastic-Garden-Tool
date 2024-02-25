@@ -1,0 +1,6 @@
+framework module Pods_VeggieVerseDatabase {
+  umbrella header "Pods-VeggieVerseDatabase-umbrella.h"
+
+  export *
+  module * { export * }
+}
