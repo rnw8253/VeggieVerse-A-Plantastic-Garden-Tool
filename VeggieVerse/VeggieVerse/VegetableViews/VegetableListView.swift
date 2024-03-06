@@ -10,23 +10,37 @@ import SwiftUI
 
 struct VegetableListView: View {
     @EnvironmentObject var data: LoadDataModel
+    private let adaptiveColumns = Array(repeating: GridItem(.flexible(), spacing: 20), count: 3)
     var body: some View {
-        VStack {
-            List {
-                ForEach(data.vegetables.sorted(byKeyPath: "name"), id: \.vegetableId) { vegetable in
-                    HStack {
-                        AsyncImage(url: URL(string: vegetable.thumbnailImage)) { image in
-                            image.resizable()
-                        } placeholder: {
-                            ProgressView()
+        ZStack {
+            Color.themeBackground
+                .edgesIgnoringSafeArea(.all)
+            ScrollView {
+                LazyVGrid(columns: adaptiveColumns, spacing: 20) {
+                    ForEach(data.vegetables) { vegetable in
+                        NavigationLink(value: Route.vegetableView(vegetable: vegetable)) {
+                            VStack {
+                                Image(vegetable.thumbnailImageUrl)
+                                    .resizable()
+                                    .aspectRatio(1, contentMode: .fit)
+                                    .cornerRadius(10)
+                                    .overlay(RoundedRectangle(cornerRadius: 10)
+                                        .stroke(Color.themeSecondary, lineWidth: 4))
+                                    .shadow(radius: 10)
+                                    .frame(minWidth: 0, maxWidth: .infinity, minHeight: 100)
+                                Text(vegetable.name)
+                                    .font(.headline)
+                                    .foregroundColor(Color.themeAccent)
+                            }
+                            
                         }
-                            .frame(maxWidth: 50, maxHeight: 75)
-                        Text(vegetable.name)
                     }
                 }
+                .padding(.horizontal)
             }
+            .navigationBarTitle("Vegetables", displayMode: .inline)
+            .padding(.bottom)
         }
-        .navigationTitle("Vegetables")
     }
 }
 
@@ -35,3 +49,5 @@ struct VegetableListView_Previews: PreviewProvider {
         VegetableListView().environmentObject(LoadDataModel())
     }
 }
+
+

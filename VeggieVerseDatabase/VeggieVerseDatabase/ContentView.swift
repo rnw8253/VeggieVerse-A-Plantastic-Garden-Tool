@@ -19,10 +19,12 @@ struct ContentView: View {
                 Text("Hello, world!")
                     .task {
                         do {
-                            let veg = try await getVegetables()
-                            for vegetable in veg {
-                                vegetables.append(vegetable.generateRealmVegetable())
-                            }
+                            let veg = convertJSON()
+//                            let _ = print(veg)
+//                            let veg = try await getVegetables()
+//                            for vegetable in veg {
+//                                vegetables.append(vegetable.generateRealmVegetable())
+//                            }
                             // Realm
                             let config = Realm.Configuration(deleteRealmIfMigrationNeeded: true, shouldCompactOnLaunch: { totalBytes, usedBytes in
                                 let oneHundredMB = 100 * 1024 * 1024
@@ -33,7 +35,7 @@ struct ContentView: View {
                             try realm.write {
                                 realm.deleteAll()
                             }
-                            for data in vegetables {
+                            for data in veg {
                                 try realm.write {
                                     realm.add(data)
                                 }

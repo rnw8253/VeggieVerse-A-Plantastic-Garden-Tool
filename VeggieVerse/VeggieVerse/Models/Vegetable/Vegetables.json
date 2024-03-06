@@ -1,0 +1,739 @@
+[
+    {
+        "plantName": "Tomatoes",
+        "description": "Tomatoes are a popular garden vegetable known for their juicy, flavorful fruits.",
+        "thumbnailImageUrl": "Tomato_thumbnail",
+        "backgroundImageUrl": "Tomato_background",
+        "varieties": [
+            {
+                "name": "Beefsteak",
+                "description": "Beefsteak tomatoes are large, flavorful slicing tomatoes known for their juicy texture and rich taste. They are relatively easy to grow, making them popular among home gardeners and farmers alike.",
+                "image": "beefsteak.jpg",
+                "category": "Slicing Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "75-85 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Brandywine",
+                "description": "Brandywine tomatoes are heirloom slicing tomatoes cherished for their exceptional flavor and large size. While they may require some extra care, such as staking or pruning, they are worth the effort for their delicious taste.",
+                "image": "brandywine.jpg",
+                "category": "Slicing Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "80-100 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Better Boy",
+                "description": "Better Boy tomatoes are hybrid slicing tomatoes prized for their high yields and disease resistance. They are relatively easy to grow, making them suitable for both beginner and experienced gardeners.",
+                "image": "better_boy.jpg",
+                "category": "Slicing Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "70-80 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Mortgage Lifter",
+                "description": "Mortgage Lifter tomatoes are heirloom slicing tomatoes with a fascinating history. Despite their large size, they are relatively easy to grow and offer excellent flavor, making them a favorite among tomato enthusiasts.",
+                "image": "mortgage_lifter.jpg",
+                "category": "Slicing Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "80-90 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Cherokee Purple",
+                "description": "Cherokee Purple tomatoes are heirloom slicing tomatoes known for their unique, dusky purple color and rich, smoky flavor. While they may require some attention to disease prevention, they are generally easy to grow and highly rewarding.",
+                "image": "cherokee_purple.jpg",
+                "category": "Slicing Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "70-80 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Pink Berkeley Tie-Dye",
+                "description": "Pink Berkeley Tie-Dye tomatoes are unique slicing tomatoes prized for their stunning appearance and complex flavor profile. Despite their striking looks, they are relatively easy to grow, making them a popular choice for home gardeners seeking something special.",
+                "image": "pink_berkeley_tie_dye.jpg",
+                "category": "Slicing Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "75-85 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Black Krim",
+                "description": "Black Krim tomatoes are heirloom slicing tomatoes valued for their striking appearance and bold, complex flavor. While they may have some susceptibility to cracking, they are generally easy to grow and highly sought after by tomato aficionados.",
+                "image": "black_krim.jpg",
+                "category": "Slicing Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "80-90 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "German Johnson",
+                "description": "German Johnson tomatoes are heirloom slicing tomatoes cherished for their excellent flavor and juicy, meaty texture. They are relatively easy to grow, making them a favorite among home gardeners and market growers alike.",
+                "image": "german_johnson.jpg",
+                "category": "Slicing Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "75-85 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Hillbilly",
+                "description": "Hillbilly tomatoes are heirloom slicing tomatoes with a distinctive appearance and a sweet, tangy flavor. They are relatively easy to grow and perform well in various climates, making them a popular choice among gardeners.",
+                "image": "hillbilly.jpg",
+                "category": "Slicing Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "80-90 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Pineapple",
+                "description": "Pineapple tomatoes are heirloom slicing tomatoes prized for their large size, sweet flavor, and low acidity. They are relatively easy to grow, making them a popular choice for home gardeners looking to add a unique touch to their harvest.",
+                "image": "pineapple.jpg",
+                "category": "Slicing Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "80-90 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Sweet 100",
+                "description": "Sweet 100 tomatoes are cherry tomatoes prized for their exceptional sweetness and prolific production. They are incredibly easy to grow, making them a favorite among gardeners, especially beginners.",
+                "image": "sweet_100.jpg",
+                "category": "Cherry Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "60-70 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Sun Gold",
+                "description": "Sun Gold tomatoes are cherry tomatoes cherished for their sweet, fruity flavor and vibrant orange color. They are incredibly easy to grow and highly productive, making them a popular choice for home gardeners.",
+                "image": "sun_gold.jpg",
+                "category": "Cherry Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "55-65 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Black Cherry",
+                "description": "Black Cherry tomatoes are cherry tomatoes known for their rich, complex flavor and dark purple color. They are relatively easy to grow and produce abundantly, making them a favorite for salads and snacking.",
+                "image": "black_cherry.jpg",
+                "category": "Cherry Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "65-75 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Yellow Pear",
+                "description": "Yellow Pear tomatoes are small, pear-shaped cherry tomatoes with a mild, sweet flavor. They are incredibly easy to grow and add a pop of color to salads and culinary dishes.",
+                "image": "yellow_pear.jpg",
+                "category": "Cherry Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "70-80 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Chocolate Cherry",
+                "description": "Chocolate Cherry tomatoes are cherry tomatoes with a rich, earthy flavor reminiscent of chocolate. They are relatively easy to grow and produce abundant clusters of fruit, making them a delightful addition to any garden.",
+                "image": "chocolate_cherry.jpg",
+                "category": "Cherry Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "65-75 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Red Currant",
+                "description": "Red Currant tomatoes are tiny cherry tomatoes with a tangy, sweet flavor. They are incredibly easy to grow and produce abundant clusters of fruit, making them a favorite for snacking and garnishing.",
+                "image": "red_currant.jpg",
+                "category": "Cherry Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "60-70 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Matt's Wild Cherry",
+                "description": "Matt's Wild Cherry tomatoes are small cherry tomatoes bursting with intense, tangy flavor. They are incredibly easy to grow and produce prolifically, making them a favorite among gardeners seeking bold, zesty tomatoes.",
+                "image": "matts_wild_cherry.jpg",
+                "category": "Cherry Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "60-70 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Isis Candy",
+                "description": "Isis Candy tomatoes are small cherry tomatoes with a sweet, fruity flavor and marbled red and yellow skin. They are incredibly easy to grow and add a burst of color and flavor to salads and culinary creations.",
+                "image": "isis_candy.jpg",
+                "category": "Cherry Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "60-70 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Roma",
+                "description": "Roma tomatoes, also known as plum tomatoes, are prized for their meaty texture and low moisture content, making them ideal for sauces, soups, and canning. They are relatively easy to grow and highly productive.",
+                "image": "roma.jpg",
+                "category": "Paste Tomatoes",
+                "growthHabit": "Determinate",
+                "growthType": "Annual",
+                "supportType": "Caging",
+                "daysToHarvest": "70-80 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "San Marzano",
+                "description": "San Marzano tomatoes are a type of plum tomato known for their sweet, complex flavor and low acidity. They are a favorite for making sauces, pastes, and canned tomatoes. Although they require a longer growing season, they are relatively easy to grow with proper care.",
+                "image": "san_marzano.jpg",
+                "category": "Paste Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "75-85 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Amish Paste",
+                "description": "Amish Paste tomatoes are large, meaty tomatoes with a rich, sweet flavor. They are excellent for sauces, pastes, and canning, and are relatively easy to grow with proper care. Their vigorous growth and prolific fruiting make them a favorite among home gardeners.",
+                "image": "amish_paste.jpg",
+                "category": "Paste Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "75-85 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Opalka",
+                "description": "Opalka tomatoes are elongated paste tomatoes known for their sweet, complex flavor and meaty texture. They are excellent for sauces, pastes, and canning, and are relatively easy to grow with proper care. Their unique appearance and rich flavor make them a favorite among gardeners.",
+                "image": "opalka.jpg",
+                "category": "Paste Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "80-90 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Viva Italia",
+                "description": "Viva Italia tomatoes are plum tomatoes prized for their rich flavor and meaty texture. They are excellent for sauces, pastes, and canning, and are relatively easy to grow with proper care. Their high yields and disease resistance make them a favorite among home gardeners.",
+                "image": "viva_italia.jpg",
+                "category": "Paste Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "75-85 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Orange Banana",
+                "description": "Orange Banana tomatoes are elongated, paste-type tomatoes with a sweet, fruity flavor. They are excellent for sauces, pastes, and canning, and are relatively easy to grow with proper care. Their vibrant color and unique shape make them a delightful addition to any garden.",
+                "image": "orange_banana.jpg",
+                "category": "Paste Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "75-85 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Striped Roman",
+                "description": "Striped Roman tomatoes are elongated, striped tomatoes with a unique appearance and a rich, sweet flavor. They are perfect for salads, slicing, and garnishes. They are relatively easy to grow, making them a favorite among gardeners.",
+                "image": "striped_roman.jpg",
+                "category": "Paste Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "75-85 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Purple Cherokee",
+                "description": "Purple Cherokee tomatoes are heirloom tomatoes known for their rich, complex flavor and deep purple color. They are relatively easy to grow and highly productive, making them a favorite among gardeners seeking unique and flavorful tomatoes.",
+                "image": "purple_cherokee.jpg",
+                "category": "Heirloom Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "75-85 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Brandywine Pink",
+                "description": "Brandywine Pink tomatoes are heirloom tomatoes known for their large size and exceptional flavor. They have a sweet, rich taste and a slightly acidic tang. They are relatively easy to grow and highly prized by gardeners for their superior flavor and texture.",
+                "image": "brandywine_pink.jpg",
+                "category": "Heirloom Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "75-85 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Green Zebra",
+                "description": "Green Zebra tomatoes are small to medium-sized heirloom tomatoes known for their vibrant green color with yellow stripes and tangy flavor. They are relatively easy to grow and add a unique visual and taste element to salads and dishes. Their distinctive appearance and delicious taste make them a favorite among gardeners.",
+                "image": "green_zebra.jpg",
+                "category": "Heirloom Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "70-80 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Aunt Ruby's German Green",
+                "description": "Aunt Ruby's German Green tomatoes are large, beefsteak-type tomatoes with a unique green color and rich, sweet flavor. They are relatively easy to grow and highly productive, making them a favorite among gardeners seeking flavorful and visually striking tomatoes. Their sweet, tangy taste makes them perfect for slicing, salads, and sandwiches.",
+                "image": "aunt_rubys_german_green.jpg",
+                "category": "Heirloom Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "75-85 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Gold Medal",
+                "description": "Gold Medal tomatoes, also known as Yellow Brandywine, are large, beefsteak-type tomatoes with a rich, sweet flavor and golden yellow color. They are relatively easy to grow and highly productive, making them a favorite among gardeners seeking flavorful and visually striking tomatoes. Their sweet, juicy flesh makes them perfect for slicing, salads, and sandwiches.",
+                "image": "gold_medal.jpg",
+                "category": "Heirloom Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "75-85 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Bush Early Girl",
+                "description": "Bush Early Girl tomatoes are compact, determinate tomatoes known for their early ripening and abundant fruit production. They are relatively easy to grow and perfect for small gardens or containers. Their medium-sized fruits have a rich, sweet flavor and are ideal for slicing, salads, and sandwiches.",
+                "image": "bush_early_girl.jpg",
+                "category": "Determinate Tomatoes",
+                "growthHabit": "Determinate",
+                "growthType": "Annual",
+                "supportType": "Caging",
+                "daysToHarvest": "55-65 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Celebrity",
+                "description": "Celebrity tomatoes are determinate tomatoes known for their disease resistance and high yields. They are relatively easy to grow and produce medium-sized, flavorful fruits perfect for slicing, salads, and sandwiches. Their reliable performance and disease resistance make them a favorite among gardeners.",
+                "image": "celebrity.jpg",
+                "category": "Determinate Tomatoes",
+                "growthHabit": "Determinate",
+                "growthType": "Annual",
+                "supportType": "Caging",
+                "daysToHarvest": "70-75 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Rutgers",
+                "description": "Rutgers tomatoes are determinate tomatoes known for their classic tomato flavor and versatility in the kitchen. They are relatively easy to grow and produce medium-sized, round fruits perfect for slicing, canning, and sauces. Their disease resistance and reliable performance make them a popular choice for home gardeners.",
+                "image": "rutgers.jpg",
+                "category": "Determinate Tomatoes",
+                "growthHabit": "Determinate",
+                "growthType": "Annual",
+                "supportType": "Caging",
+                "daysToHarvest": "70-75 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Tiny Tim",
+                "description": "Tiny Tim tomatoes are compact, determinate tomatoes known for their small size and early ripening. They are relatively easy to grow and perfect for small gardens, containers, or hanging baskets. Their cherry-sized fruits have a sweet, tangy flavor and are ideal for snacking, salads, and garnishes.",
+                "image": "tiny_tim.jpg",
+                "category": "Determinate Tomatoes",
+                "growthHabit": "Determinate",
+                "growthType": "Annual",
+                "supportType": "Caging",
+                "daysToHarvest": "50-60 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Patio",
+                "description": "Patio tomatoes are compact, determinate tomatoes ideal for small spaces or container gardening. They are relatively easy to grow and produce small to medium-sized fruits perfect for slicing, salads, and snacks. Their compact growth habit makes them suitable for patio containers, hanging baskets, or small garden plots.",
+                "image": "patio.jpg",
+                "category": "Determinate Tomatoes",
+                "growthHabit": "Determinate",
+                "growthType": "Annual",
+                "supportType": "Caging",
+                "daysToHarvest": "70-75 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Roma VF",
+                "description": "Roma VF tomatoes are determinate tomatoes known for their firm texture and excellent flavor. They are relatively easy to grow and produce abundant clusters of elongated, plum-shaped fruits perfect for sauces, canning, and paste. Their disease resistance and consistent performance make them a favorite among home gardeners and for processing.",
+                "image": "roma_vf.jpg",
+                "category": "Determinate Tomatoes",
+                "growthHabit": "Determinate",
+                "growthType": "Annual",
+                "supportType": "Caging",
+                "daysToHarvest": "75-80 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Marglobe",
+                "description": "Marglobe tomatoes are determinate tomatoes known for their disease resistance and excellent flavor. They are relatively easy to grow and produce medium-sized, round fruits perfect for slicing, salads, and sandwiches. Their disease resistance and reliable performance make them a favorite among home gardeners and market growers.",
+                "image": "marglobe.jpg",
+                "category": "Determinate Tomatoes",
+                "growthHabit": "Determinate",
+                "growthType": "Annual",
+                "supportType": "Caging",
+                "daysToHarvest": "70-75 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Mountain Magic",
+                "description": "Mountain Magic tomatoes are indeterminate tomatoes known for their disease resistance and high yields. They are relatively easy to grow and produce medium-sized, round fruits perfect for slicing, salads, and sandwiches. Their disease resistance and reliable performance make them a favorite among home gardeners and market growers.",
+                "image": "mountain_magic.jpg",
+                "category": "Indeterminate Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "65-75 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Big Beef",
+                "description": "Big Beef tomatoes are indeterminate tomatoes known for their large, flavorful fruits and high yields. They are relatively easy to grow and produce meaty, beefsteak-type tomatoes perfect for slicing, salads, and sandwiches. Their disease resistance, excellent flavor, and reliable performance make them a favorite among home gardeners.",
+                "image": "big_beef.jpg",
+                "category": "Indeterminate Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "73-80 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Sungold Select II",
+                "description": "Sungold Select II tomatoes are indeterminate tomatoes known for their exceptionally sweet flavor and prolific fruit production. They are relatively easy to grow and produce small, golden-orange fruits perfect for snacking, salads, and garnishes. Their sweetness and productivity make them a favorite among home gardeners and market growers.",
+                "image": "sungold_select_ii.jpg",
+                "category": "Indeterminate Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "65-75 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Early Girl",
+                "description": "Early Girl tomatoes are indeterminate tomatoes known for their early ripening and abundant fruit production. They are relatively easy to grow and produce medium-sized, round fruits perfect for slicing, salads, and sandwiches. Their early maturity and reliable performance make them a favorite among home gardeners.",
+                "image": "early_girl.jpg",
+                "category": "Indeterminate Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "50-60 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Super Sweet 100",
+                "description": "Super Sweet 100 tomatoes are indeterminate cherry tomatoes known for their exceptionally sweet flavor and prolific fruit production. They are relatively easy to grow and produce small, red cherry tomatoes perfect for snacking, salads, and garnishes. Their sweetness and productivity make them a favorite among home gardeners and market growers.",
+                "image": "super_sweet_100.jpg",
+                "category": "Indeterminate Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "65-75 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Early Girl Hybrid",
+                "description": "Early Girl Hybrid tomatoes are indeterminate tomatoes known for their early ripening and abundant fruit production. They are relatively easy to grow and produce medium-sized, round fruits perfect for slicing, salads, and sandwiches. Their early maturity and reliable performance make them a favorite among home gardeners.",
+                "image": "early_girl_hybrid.jpg",
+                "category": "Hybrid Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "50-60 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Celebrity Hybrid",
+                "description": "Celebrity Hybrid tomatoes are indeterminate tomatoes known for their disease resistance and high yields. They are relatively easy to grow and produce medium-sized, round fruits perfect for slicing, salads, and sandwiches. Their disease resistance and reliable performance make them a favorite among home gardeners.",
+                "image": "celebrity_hybrid.jpg",
+                "category": "Hybrid Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "65-75 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Big Beef Hybrid",
+                "description": "Big Beef Hybrid tomatoes are indeterminate tomatoes known for their large, flavorful fruits and high yields. They are relatively easy to grow and produce meaty, beefsteak-type tomatoes perfect for slicing, salads, and sandwiches. Their disease resistance, excellent flavor, and reliable performance make them a favorite among home gardeners.",
+                "image": "big_beef_hybrid.jpg",
+                "category": "Hybrid Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "73-80 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Better Boy Hybrid",
+                "description": "Better Boy Hybrid tomatoes are indeterminate tomatoes known for their disease resistance and high yields. They are relatively easy to grow and produce large, flavorful fruits perfect for slicing, salads, and sandwiches. Their disease resistance and reliable performance make them a favorite among home gardeners.",
+                "image": "better_boy_hybrid.jpg",
+                "category": "Hybrid Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "70-80 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            },
+            {
+                "name": "Mountain Fresh Plus Hybrid",
+                "description": "Mountain Fresh Plus Hybrid tomatoes are indeterminate tomatoes known for their disease resistance and high yields. They are relatively easy to grow and produce medium to large-sized, round fruits perfect for slicing, salads, and sandwiches. Their disease resistance and reliable performance make them a favorite among home gardeners.",
+                "image": "mountain_fresh_plus_hybrid.jpg",
+                "category": "Hybrid Tomatoes",
+                "growthHabit": "Indeterminate",
+                "growthType": "Annual",
+                "supportType": "Staking or caging",
+                "daysToHarvest": "75-80 days from transplanting.",
+                "germinationSoilTemp": "70-85°F (21-29°C)",
+                "growingSoilTemp": "70-85°F (21-29°C)",
+                "squareFootPlantingRecommendations": 1
+            }
+        ],
+        "sowingAndPlanting": {
+            "sowingIndoorsDescription": "Start tomato seeds indoors 6-8 weeks before the last frost date. Use seed starting trays filled with seed starting mix. Plant seeds 1/4 inch deep. Keep the soil consistently moist and maintain a temperature of 70-85°F (21-29°C) for optimal germination. Once seedlings have 4-6 true leaves and the risk of frost has passed, transplant them outdoors into well-drained soil and full sun.",
+            "sowingOutdoorsDescription": "Directly sow tomato seeds outdoors after the last frost date. Choose a sunny location with well-drained soil. Plant seeds 1/4 inch deep and space them according to the desired plant spacing. Keep the soil consistently moist until seedlings emerge.",
+            "spaceBetweenPlants": "18\" - 36\"",
+            "spaceBetweenRows": "24\" - 48\"",
+            "seedDepth": "1/4\"",
+            "pHRange": "6.0 - 7.0",
+            "germinationSoilTemp": "70 - 85°F",
+            "season": "Warm season crop, planted after the last frost date and harvested throughout the summer and early fall."
+        },
+        "careAndMaintenance": {
+            "optimalSun": "Full Sun",
+            "growingSoilTemp": "70-85°F",
+            "growingDescription": "Tomatoes require full sun and well-drained soil. Provide support for indeterminate varieties with stakes or cages. Water consistently to keep soil evenly moist. Mulch around plants to retain moisture and suppress weeds.",
+            "wateringNeeds": "Regular watering, 1-2 inches per week.",
+            "soilFertility": "Fertilize with balanced fertilizer at planting and again every 4-6 weeks during the growing season.",
+            "pruningRequirements": "Tomato pruning involves removing suckers—small shoots that grow between the main stem and branches—to enhance fruit production and airflow. It's also beneficial to trim lower leaves for better air circulation and disease prevention, ensuring healthier, more fruitful plants.",
+            "supportRequirements": "Stake, cage, or trellis tomato plants to support heavy fruiting."
+        },
+        "harvestingAndStorage": {
+            "timeToMaturity": "60-85 days from transplanting.",
+            "storageRecommendations": "Store ripe tomatoes at room temperature away from direct sunlight. Refrigerate only if needed to prolong storage, but bring them back to room temperature before eating for best flavor.",
+            "harvestDescription": "Harvest tomatoes when they reach full color and are slightly soft to the touch. Cut or twist fruits from the vine, being careful not to damage the plant. Harvest tomatoes when fully ripe for best flavor. Avoid harvesting green fruits unless needed, as they will ripen off the vine but may not develop full flavor."
+        },
+        "companionPlants": {
+            "goodCompanionPlants": ["Basil", "Marigolds", "Nasturtiums"],
+            "badCompanionPlants": ["Potatoes", "Fennel", "Brassicas (cabbage, broccoli, cauliflower)"]
+        },
+        "pests": [
+            {
+              "name": "Tomato Hornworm",
+              "description": "Tomato hornworms are large, green caterpillars with white diagonal stripes found on tomato plants. They can defoliate plants and cause significant damage."
+            },
+            {
+              "name": "Aphids",
+              "description": "Aphids are small, soft-bodied insects that feed on tomato plants by sucking sap from leaves, stems, and fruit. They can cause stunted growth, yellowing, and distortion."
+            },
+            {
+              "name": "Whiteflies",
+              "description": "Whiteflies are tiny, moth-like insects that feed on tomato plants by sucking sap from leaves. They can cause yellowing, wilting, and the transmission of viral diseases."
+            },
+            {
+              "name": "Cutworms",
+              "description": "Cutworms are moth larvae that feed on tomato seedlings by cutting through stems near the soil surface. They can cause plants to wilt and die."
+            },
+            {
+              "name": "Flea Beetles",
+              "description": "Flea beetles are small, jumping insects that feed on tomato leaves, causing tiny holes and damage to foliage. They can transmit bacterial diseases."
+            },
+            {
+              "name": "Leaf Miners",
+              "description": "Leaf miners are small larvae that feed on tomato leaves by tunneling through the tissue, creating winding trails or blotches. They can cause aesthetic damage."
+            },
+            {
+              "name": "Spider Mites",
+              "description": "Spider mites are tiny pests that feed on tomato leaves by sucking sap, causing stippling, yellowing, and webbing. They thrive in hot, dry conditions."
+            },
+            {
+              "name": "Thrips",
+              "description": "Small, slender insects that feed on tomato leaves and buds, causing stippling, distortion, and silvering of leaves."
+            },
+            {
+              "name": "Root Knot Nematodes",
+              "description": "Soil-borne pests that infect tomato roots, causing galls, stunted growth, and reduced yield."
+            }
+          ],
+          "diseases": [
+            {
+              "name": "Early Blight",
+              "description": "Early blight is a fungal disease caused by Alternaria solani, characterized by dark lesions with yellow halos on tomato leaves. It can lead to reduced plant vigor and yield."
+            },
+            {
+              "name": "Late Blight",
+              "description": "Late blight is a fungal disease caused by Phytophthora infestans, characterized by dark lesions on tomato foliage and fruit. It can cause rapid defoliation and fruit rot."
+            },
+            {
+              "name": "Septoria Leaf Spot",
+              "description": "Septoria leaf spot is a fungal disease caused by Septoria lycopersici, characterized by small, circular lesions with dark borders on tomato leaves. It can lead to premature defoliation."
+            },
+            {
+              "name": "Blossom End Rot",
+              "description": "Blossom end rot is a physiological disorder caused by calcium deficiency in tomato plants, resulting in dark, sunken lesions on the blossom end of fruit."
+            },
+            {
+              "name": "Powdery Mildew",
+              "description": "Powdery mildew is a fungal disease caused by various species of fungi, characterized by white, powdery growth on tomato leaves, stems, and fruit."
+            },
+            {
+              "name": "Fusarium Wilt",
+              "description": "Fusarium wilt is a soilborne fungal disease caused by Fusarium oxysporum, characterized by wilting, yellowing, and vascular discoloration in tomato plants."
+            },
+            {
+              "name": "Verticillium Wilt",
+              "description": "Verticillium wilt is a fungal disease caused by Verticillium dahliae, characterized by wilting, yellowing, and vascular discoloration in tomato plants."
+            },
+            {
+              "name": "Bacterial Speck",
+              "description": "Bacterial speck is a bacterial disease caused by Pseudomonas syringae pv. tomato, characterized by small, dark lesions on tomato leaves and fruit."
+            }
+          ],
+          
+        "tipsAndTricks": [
+            "Pinch off the first few flower clusters to encourage stronger, more productive plants.",
+            "Mulch around plants to conserve moisture and suppress weeds.",
+            "Rotate tomato crops annually to prevent soilborne diseases."
+        ],
+        
+        "linksToAdditionalResources": [
+            {
+                "title": "Growing Tomatoes Fact Sheet from UNH",
+                "url": "https://extension.unh.edu/resource/growing-vegetables-tomatoes-fact-sheet-1"
+            },
+            {
+                "title": "80 Fresh Tomato Recipes",
+                "url": "https://www.southernliving.com/food/holidays-occasions/fresh-tomato-recipes"
+            }
+        ]
+    }
+]
+

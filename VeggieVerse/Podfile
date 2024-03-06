@@ -7,4 +7,6 @@ target 'VeggieVerse' do
 
   # Pods for VeggieVerse
   pod 'RealmSwift'
+  pod 'SwiftCSV'
+  pod 'SwiftSoup'
 end

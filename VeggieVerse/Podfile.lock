@@ -4,19 +4,27 @@ PODS:
   - Realm/Headers (10.47.0)
   - RealmSwift (10.47.0):
     - Realm (= 10.47.0)
+  - SwiftCSV (0.9.1)
+  - SwiftSoup (2.7.1)
 
 DEPENDENCIES:
   - RealmSwift
+  - SwiftCSV
+  - SwiftSoup
 
 SPEC REPOS:
   trunk:
     - Realm
     - RealmSwift
+    - SwiftCSV
+    - SwiftSoup
 
 SPEC CHECKSUMS:
   Realm: e43fb540ae947497e3ea8a662443256920602060
   RealmSwift: 8b06ed06b5d16749ae0c4d91c0cba414a9e28189
+  SwiftCSV: 434082457a1598fd3d0028e9de6d0a3302933966
+  SwiftSoup: bb0c252d37f7b9d18d94fb5d503e52c37f0255e4
 
-PODFILE CHECKSUM: cba2cd6d2ae305114fbab8a96d64960c57442ba7
+PODFILE CHECKSUM: 5adb5849aec31ecec0ff6133db9409f1e10e36c5
 
 COCOAPODS: 1.15.2

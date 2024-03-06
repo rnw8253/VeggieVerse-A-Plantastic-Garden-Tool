@@ -13,12 +13,31 @@
 		9411F37C2B8AFA6D005DC3A1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9411F37B2B8AFA6D005DC3A1 /* Preview Assets.xcassets */; };
 		94205D442B8BC01600D79647 /* data.realm in Resources */ = {isa = PBXBuildFile; fileRef = 94205D432B8BC00F00D79647 /* data.realm */; };
 		94205D502B8BCFF000D79647 /* LoadDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94205D4F2B8BCFF000D79647 /* LoadDataModel.swift */; };
-		94205D522B8BD00700D79647 /* Vegetable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94205D512B8BD00700D79647 /* Vegetable.swift */; };
 		94205D542B8BD02500D79647 /* Route.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94205D532B8BD02500D79647 /* Route.swift */; };
 		94205D572B8BD06200D79647 /* VegetableListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94205D562B8BD06200D79647 /* VegetableListView.swift */; };
 		94205D5B2B8BD09000D79647 /* VegetableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94205D5A2B8BD09000D79647 /* VegetableView.swift */; };
 		94205D5D2B8BD25100D79647 /* AppState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94205D5C2B8BD25100D79647 /* AppState.swift */; };
 		94205D5F2B8BD2FD00D79647 /* RealmManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94205D5E2B8BD2FD00D79647 /* RealmManager.swift */; };
+		94BEB1382B8CE91000754E01 /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB1372B8CE91000754E01 /* LocationModel.swift */; };
+		94BEB1452B8ED4BA00754E01 /* Vegetables.json in Resources */ = {isa = PBXBuildFile; fileRef = 94BEB1442B8ED4BA00754E01 /* Vegetables.json */; };
+		94BEB1472B8ED4DD00754E01 /* VegetableModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB1462B8ED4DD00754E01 /* VegetableModel.swift */; };
+		94BEB1492B8F964500754E01 /* CurvedSideRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB1482B8F964500754E01 /* CurvedSideRectangle.swift */; };
+		94BEB14E2B8FA64500754E01 /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB14D2B8FA64500754E01 /* ColorExtension.swift */; };
+		94BEB1522B9013D500754E01 /* CustomNavBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB1512B9013D500754E01 /* CustomNavBarView.swift */; };
+		94BEB15A2B91658F00754E01 /* VegetableNavBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB1592B91658F00754E01 /* VegetableNavBarView.swift */; };
+		94BEB15C2B916E4600754E01 /* RoundVarietyCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB15B2B916E4600754E01 /* RoundVarietyCard.swift */; };
+		94BEB15E2B92589E00754E01 /* VarietyPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB15D2B92589E00754E01 /* VarietyPickerView.swift */; };
+		94BEB1622B957BF300754E01 /* PlantHardinessZone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB1612B957BF300754E01 /* PlantHardinessZone.swift */; };
+		94BEB1662B9585AC00754E01 /* hardiness_zones.csv in Resources */ = {isa = PBXBuildFile; fileRef = 94BEB1652B9585AC00754E01 /* hardiness_zones.csv */; };
+		94BEB1682B958FF200754E01 /* PlantSowDates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB1672B958FF200754E01 /* PlantSowDates.swift */; };
+		94BEB16E2B96637200754E01 /* UserLocationData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB16D2B96637200754E01 /* UserLocationData.swift */; };
+		94BEB1702B966E7800754E01 /* AverageFrostDates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB16F2B966E7800754E01 /* AverageFrostDates.swift */; };
+		94BEB1742B97A6C800754E01 /* SowingAndPlantingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB1732B97A6C800754E01 /* SowingAndPlantingView.swift */; };
+		94BEB1762B97A6F600754E01 /* SowingAndPlantingRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB1752B97A6F600754E01 /* SowingAndPlantingRowView.swift */; };
+		94BEB1792B97A72A00754E01 /* VegetableSectionHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB1782B97A72A00754E01 /* VegetableSectionHeaderView.swift */; };
+		94BEB17D2B97CC1100754E01 /* CareAndMaintenanceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB17C2B97CC1100754E01 /* CareAndMaintenanceView.swift */; };
+		94BEB17F2B97E11000754E01 /* FullWidthTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB17E2B97E11000754E01 /* FullWidthTextView.swift */; };
+		94BEB1822B98274900754E01 /* HarvestingAndStorageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB1812B98274900754E01 /* HarvestingAndStorageView.swift */; };
 		B354D617A92DD730D1951E9F /* Pods_VeggieVerse.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC5AC6B380F7B61FADC25895 /* Pods_VeggieVerse.framework */; };
 /* End PBXBuildFile section */
 
@@ -32,12 +51,31 @@
 		9411F37B2B8AFA6D005DC3A1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		94205D432B8BC00F00D79647 /* data.realm */ = {isa = PBXFileReference; lastKnownFileType = file; path = data.realm; sourceTree = "<group>"; };
 		94205D4F2B8BCFF000D79647 /* LoadDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadDataModel.swift; sourceTree = "<group>"; };
-		94205D512B8BD00700D79647 /* Vegetable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vegetable.swift; sourceTree = "<group>"; };
 		94205D532B8BD02500D79647 /* Route.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Route.swift; sourceTree = "<group>"; };
 		94205D562B8BD06200D79647 /* VegetableListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VegetableListView.swift; sourceTree = "<group>"; };
 		94205D5A2B8BD09000D79647 /* VegetableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VegetableView.swift; sourceTree = "<group>"; };
 		94205D5C2B8BD25100D79647 /* AppState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppState.swift; sourceTree = "<group>"; };
 		94205D5E2B8BD2FD00D79647 /* RealmManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RealmManager.swift; sourceTree = "<group>"; };
+		94BEB1372B8CE91000754E01 /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
+		94BEB1442B8ED4BA00754E01 /* Vegetables.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Vegetables.json; sourceTree = "<group>"; };
+		94BEB1462B8ED4DD00754E01 /* VegetableModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VegetableModel.swift; sourceTree = "<group>"; };
+		94BEB1482B8F964500754E01 /* CurvedSideRectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurvedSideRectangle.swift; sourceTree = "<group>"; };
+		94BEB14D2B8FA64500754E01 /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
+		94BEB1512B9013D500754E01 /* CustomNavBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomNavBarView.swift; sourceTree = "<group>"; };
+		94BEB1592B91658F00754E01 /* VegetableNavBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VegetableNavBarView.swift; sourceTree = "<group>"; };
+		94BEB15B2B916E4600754E01 /* RoundVarietyCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundVarietyCard.swift; sourceTree = "<group>"; };
+		94BEB15D2B92589E00754E01 /* VarietyPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VarietyPickerView.swift; sourceTree = "<group>"; };
+		94BEB1612B957BF300754E01 /* PlantHardinessZone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantHardinessZone.swift; sourceTree = "<group>"; };
+		94BEB1652B9585AC00754E01 /* hardiness_zones.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = hardiness_zones.csv; sourceTree = "<group>"; };
+		94BEB1672B958FF200754E01 /* PlantSowDates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantSowDates.swift; sourceTree = "<group>"; };
+		94BEB16D2B96637200754E01 /* UserLocationData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserLocationData.swift; sourceTree = "<group>"; };
+		94BEB16F2B966E7800754E01 /* AverageFrostDates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AverageFrostDates.swift; sourceTree = "<group>"; };
+		94BEB1732B97A6C800754E01 /* SowingAndPlantingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SowingAndPlantingView.swift; sourceTree = "<group>"; };
+		94BEB1752B97A6F600754E01 /* SowingAndPlantingRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SowingAndPlantingRowView.swift; sourceTree = "<group>"; };
+		94BEB1782B97A72A00754E01 /* VegetableSectionHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VegetableSectionHeaderView.swift; sourceTree = "<group>"; };
+		94BEB17C2B97CC1100754E01 /* CareAndMaintenanceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CareAndMaintenanceView.swift; sourceTree = "<group>"; };
+		94BEB17E2B97E11000754E01 /* FullWidthTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FullWidthTextView.swift; sourceTree = "<group>"; };
+		94BEB1812B98274900754E01 /* HarvestingAndStorageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HarvestingAndStorageView.swift; sourceTree = "<group>"; };
 		EC5AC6B380F7B61FADC25895 /* Pods_VeggieVerse.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_VeggieVerse.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -73,6 +111,7 @@
 		9411F3682B8AFA69005DC3A1 = {
 			isa = PBXGroup;
 			children = (
+				94BEB1652B9585AC00754E01 /* hardiness_zones.csv */,
 				94205D432B8BC00F00D79647 /* data.realm */,
 				9411F3732B8AFA69005DC3A1 /* VeggieVerse */,
 				9411F3722B8AFA69005DC3A1 /* Products */,
@@ -93,13 +132,12 @@
 			isa = PBXGroup;
 			children = (
 				9411F3742B8AFA69005DC3A1 /* VeggieVerseApp.swift */,
-				94205D532B8BD02500D79647 /* Route.swift */,
-				94205D5C2B8BD25100D79647 /* AppState.swift */,
-				94205D5E2B8BD2FD00D79647 /* RealmManager.swift */,
+				94BEB14C2B8FA62B00754E01 /* Resources */,
 				9411F3762B8AFA69005DC3A1 /* ContentView.swift */,
 				94205D552B8BD03C00D79647 /* VegetableViews */,
 				94205D452B8BC01F00D79647 /* Models */,
 				9411F3782B8AFA6D005DC3A1 /* Assets.xcassets */,
+				94BEB1342B8CE8E300754E01 /* CurrentLocation */,
 				9411F37A2B8AFA6D005DC3A1 /* Preview Content */,
 			);
 			path = VeggieVerse;
@@ -117,7 +155,8 @@
 			isa = PBXGroup;
 			children = (
 				94205D4F2B8BCFF000D79647 /* LoadDataModel.swift */,
-				94205D512B8BD00700D79647 /* Vegetable.swift */,
+				94BEB1712B966EB400754E01 /* Location */,
+				94BEB1432B8ED49600754E01 /* Vegetable */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -126,9 +165,91 @@
 			isa = PBXGroup;
 			children = (
 				94205D562B8BD06200D79647 /* VegetableListView.swift */,
-				94205D5A2B8BD09000D79647 /* VegetableView.swift */,
+				94BEB1722B97A6A100754E01 /* VegetbaleView */,
+				94BEB1512B9013D500754E01 /* CustomNavBarView.swift */,
+				94BEB1592B91658F00754E01 /* VegetableNavBarView.swift */,
+				94BEB15D2B92589E00754E01 /* VarietyPickerView.swift */,
+				94BEB15B2B916E4600754E01 /* RoundVarietyCard.swift */,
 			);
 			path = VegetableViews;
+			sourceTree = "<group>";
+		};
+		94BEB1342B8CE8E300754E01 /* CurrentLocation */ = {
+			isa = PBXGroup;
+			children = (
+				94BEB1372B8CE91000754E01 /* LocationModel.swift */,
+			);
+			path = CurrentLocation;
+			sourceTree = "<group>";
+		};
+		94BEB1432B8ED49600754E01 /* Vegetable */ = {
+			isa = PBXGroup;
+			children = (
+				94BEB1442B8ED4BA00754E01 /* Vegetables.json */,
+				94BEB1462B8ED4DD00754E01 /* VegetableModel.swift */,
+			);
+			path = Vegetable;
+			sourceTree = "<group>";
+		};
+		94BEB14C2B8FA62B00754E01 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				94BEB1482B8F964500754E01 /* CurvedSideRectangle.swift */,
+				94BEB14D2B8FA64500754E01 /* ColorExtension.swift */,
+				94205D5E2B8BD2FD00D79647 /* RealmManager.swift */,
+				94205D5C2B8BD25100D79647 /* AppState.swift */,
+				94205D532B8BD02500D79647 /* Route.swift */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		94BEB1712B966EB400754E01 /* Location */ = {
+			isa = PBXGroup;
+			children = (
+				94BEB1612B957BF300754E01 /* PlantHardinessZone.swift */,
+				94BEB1672B958FF200754E01 /* PlantSowDates.swift */,
+				94BEB16F2B966E7800754E01 /* AverageFrostDates.swift */,
+				94BEB16D2B96637200754E01 /* UserLocationData.swift */,
+			);
+			path = Location;
+			sourceTree = "<group>";
+		};
+		94BEB1722B97A6A100754E01 /* VegetbaleView */ = {
+			isa = PBXGroup;
+			children = (
+				94205D5A2B8BD09000D79647 /* VegetableView.swift */,
+				94BEB1782B97A72A00754E01 /* VegetableSectionHeaderView.swift */,
+				94BEB17A2B97CB1000754E01 /* SowingAndPlanting */,
+				94BEB17B2B97CBF500754E01 /* CareAndMaintenance */,
+				94BEB1802B98218A00754E01 /* HarvestingAndStorage */,
+			);
+			path = VegetbaleView;
+			sourceTree = "<group>";
+		};
+		94BEB17A2B97CB1000754E01 /* SowingAndPlanting */ = {
+			isa = PBXGroup;
+			children = (
+				94BEB1732B97A6C800754E01 /* SowingAndPlantingView.swift */,
+				94BEB1752B97A6F600754E01 /* SowingAndPlantingRowView.swift */,
+			);
+			path = SowingAndPlanting;
+			sourceTree = "<group>";
+		};
+		94BEB17B2B97CBF500754E01 /* CareAndMaintenance */ = {
+			isa = PBXGroup;
+			children = (
+				94BEB17C2B97CC1100754E01 /* CareAndMaintenanceView.swift */,
+				94BEB17E2B97E11000754E01 /* FullWidthTextView.swift */,
+			);
+			path = CareAndMaintenance;
+			sourceTree = "<group>";
+		};
+		94BEB1802B98218A00754E01 /* HarvestingAndStorage */ = {
+			isa = PBXGroup;
+			children = (
+				94BEB1812B98274900754E01 /* HarvestingAndStorageView.swift */,
+			);
+			path = HarvestingAndStorage;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -191,7 +312,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94BEB1662B9585AC00754E01 /* hardiness_zones.csv in Resources */,
 				94205D442B8BC01600D79647 /* data.realm in Resources */,
+				94BEB1452B8ED4BA00754E01 /* Vegetables.json in Resources */,
 				9411F37C2B8AFA6D005DC3A1 /* Preview Assets.xcassets in Resources */,
 				9411F3792B8AFA6D005DC3A1 /* Assets.xcassets in Resources */,
 			);
@@ -246,15 +369,32 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94BEB1492B8F964500754E01 /* CurvedSideRectangle.swift in Sources */,
+				94BEB1522B9013D500754E01 /* CustomNavBarView.swift in Sources */,
+				94BEB1742B97A6C800754E01 /* SowingAndPlantingView.swift in Sources */,
 				9411F3772B8AFA69005DC3A1 /* ContentView.swift in Sources */,
-				94205D522B8BD00700D79647 /* Vegetable.swift in Sources */,
 				94205D572B8BD06200D79647 /* VegetableListView.swift in Sources */,
+				94BEB1792B97A72A00754E01 /* VegetableSectionHeaderView.swift in Sources */,
+				94BEB15C2B916E4600754E01 /* RoundVarietyCard.swift in Sources */,
 				94205D5D2B8BD25100D79647 /* AppState.swift in Sources */,
+				94BEB14E2B8FA64500754E01 /* ColorExtension.swift in Sources */,
 				94205D5B2B8BD09000D79647 /* VegetableView.swift in Sources */,
 				94205D5F2B8BD2FD00D79647 /* RealmManager.swift in Sources */,
+				94BEB1702B966E7800754E01 /* AverageFrostDates.swift in Sources */,
+				94BEB17F2B97E11000754E01 /* FullWidthTextView.swift in Sources */,
+				94BEB1622B957BF300754E01 /* PlantHardinessZone.swift in Sources */,
+				94BEB15A2B91658F00754E01 /* VegetableNavBarView.swift in Sources */,
+				94BEB1822B98274900754E01 /* HarvestingAndStorageView.swift in Sources */,
+				94BEB1472B8ED4DD00754E01 /* VegetableModel.swift in Sources */,
+				94BEB1682B958FF200754E01 /* PlantSowDates.swift in Sources */,
 				94205D502B8BCFF000D79647 /* LoadDataModel.swift in Sources */,
+				94BEB16E2B96637200754E01 /* UserLocationData.swift in Sources */,
 				94205D542B8BD02500D79647 /* Route.swift in Sources */,
+				94BEB17D2B97CC1100754E01 /* CareAndMaintenanceView.swift in Sources */,
+				94BEB15E2B92589E00754E01 /* VarietyPickerView.swift in Sources */,
+				94BEB1382B8CE91000754E01 /* LocationModel.swift in Sources */,
 				9411F3752B8AFA69005DC3A1 /* VeggieVerseApp.swift in Sources */,
+				94BEB1762B97A6F600754E01 /* SowingAndPlantingRowView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -387,6 +527,7 @@
 				DEVELOPMENT_TEAM = 9UC4CG2772;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "This app needs your location to get your weather information.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -417,6 +558,7 @@
 				DEVELOPMENT_TEAM = 9UC4CG2772;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "This app needs your location to get your weather information.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

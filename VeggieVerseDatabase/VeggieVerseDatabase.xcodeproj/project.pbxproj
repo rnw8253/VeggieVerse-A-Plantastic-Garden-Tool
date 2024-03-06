@@ -12,6 +12,8 @@
 		9411F3932B8B8FD8005DC3A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9411F3922B8B8FD8005DC3A1 /* Assets.xcassets */; };
 		9411F3962B8B8FD8005DC3A1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9411F3952B8B8FD8005DC3A1 /* Preview Assets.xcassets */; };
 		94205D3D2B8B93C900D79647 /* Vegetable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94205D3C2B8B93C900D79647 /* Vegetable.swift */; };
+		94BEB13E2B8E74E800754E01 /* VegetableJSONModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB13D2B8E74E800754E01 /* VegetableJSONModel.swift */; };
+		94BEB1402B8E76A400754E01 /* Vegetables.json in Resources */ = {isa = PBXBuildFile; fileRef = 94BEB13F2B8E76A400754E01 /* Vegetables.json */; };
 		E53A2ED7A6B8A31B9EB215ED /* Pods_VeggieVerseDatabase.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 97A45210FCBD19E52AC61A00 /* Pods_VeggieVerseDatabase.framework */; };
 /* End PBXBuildFile section */
 
@@ -24,6 +26,8 @@
 		9411F3952B8B8FD8005DC3A1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		94205D3C2B8B93C900D79647 /* Vegetable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Vegetable.swift; sourceTree = "<group>"; };
 		94205D3E2B8B9D7300D79647 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		94BEB13D2B8E74E800754E01 /* VegetableJSONModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VegetableJSONModel.swift; sourceTree = "<group>"; };
+		94BEB13F2B8E76A400754E01 /* Vegetables.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Vegetables.json; sourceTree = "<group>"; };
 		97A45210FCBD19E52AC61A00 /* Pods_VeggieVerseDatabase.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_VeggieVerseDatabase.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		D5555E4FDBF73E015C0BC14F /* Pods-VeggieVerseDatabase.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VeggieVerseDatabase.debug.xcconfig"; path = "Target Support Files/Pods-VeggieVerseDatabase/Pods-VeggieVerseDatabase.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -82,6 +86,8 @@
 				9411F38E2B8B8FD1005DC3A1 /* VeggieVerseDatabaseApp.swift */,
 				9411F3902B8B8FD1005DC3A1 /* ContentView.swift */,
 				94205D3C2B8B93C900D79647 /* Vegetable.swift */,
+				94BEB13D2B8E74E800754E01 /* VegetableJSONModel.swift */,
+				94BEB13F2B8E76A400754E01 /* Vegetables.json */,
 				9411F3922B8B8FD8005DC3A1 /* Assets.xcassets */,
 				9411F3942B8B8FD8005DC3A1 /* Preview Content */,
 			);
@@ -157,6 +163,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				9411F3962B8B8FD8005DC3A1 /* Preview Assets.xcassets in Resources */,
+				94BEB1402B8E76A400754E01 /* Vegetables.json in Resources */,
 				9411F3932B8B8FD8005DC3A1 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -210,6 +217,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94BEB13E2B8E74E800754E01 /* VegetableJSONModel.swift in Sources */,
 				9411F3912B8B8FD1005DC3A1 /* ContentView.swift in Sources */,
 				94205D3D2B8B93C900D79647 /* Vegetable.swift in Sources */,
 				9411F38F2B8B8FD1005DC3A1 /* VeggieVerseDatabaseApp.swift in Sources */,
