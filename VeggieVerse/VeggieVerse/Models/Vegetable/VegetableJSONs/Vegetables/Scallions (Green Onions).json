@@ -1,0 +1,89 @@
+
+{
+    "plantName": "Scallions",
+    "description": "Scallions, also known as green onions or spring onions, are a type of young onion harvested before the bulb has fully matured. They are characterized by long, slender green stalks and small white bulbs. Scallions have a mild onion flavor and are commonly used in salads, soups, stir-fries, and garnishes. They are easy to grow and can be harvested throughout the growing season.",
+    "thumbnailImageUrl": "Scallions_thumbnail",
+    "backgroundImageUrl": "Scallions_background",
+    "varieties": "Scallions, also known as green onions or spring onions, are typically harvested young for their tender stems and mild flavor. They come in various varieties, but common ones include 'Evergreen', known for its long, slender stalks and mild taste; 'White Lisbon', prized for its white stems and green tops; and 'Red Beard', which offers red-tinged stems and a slightly peppery flavor. These varieties provide options for different culinary preferences and growing conditions.",
+     "sowingAndPlanting": {
+       "sowingIndoorsDescription": "Scallions are best sown directly outdoors rather than started indoors. However, if you want to get a head start on the growing season, you can start seeds indoors in biodegradable pots or trays filled with seed-starting mix. Plant seeds 1/4 inch deep and keep the soil consistently moist and warm (60-70°F). Transplant seedlings outdoors once they have developed several true leaves and the weather has warmed up.",
+       "sowingOutdoorsDescription": "Scallion seeds should be sown directly outdoors as soon as the soil can be worked in the spring. Choose a sunny location with well-drained soil. Plant seeds 1/4 inch deep and space them 1 inch apart in rows spaced 6-12 inches apart. Keep the soil consistently moist until seedlings emerge.",
+       "spaceBetweenPlants": "1\"",
+       "spaceBetweenRows": "6\"-12\"",
+       "squareFootPlantingRecommendationsMin": 16,
+       "squareFootPlantingRecommendationsMax": 36,
+       "lifeCycle": "Annual",
+       "seedDepth": "1/4\"",
+       "pHRange": "6.0 - 7.0",
+       "germinationSoilTemp": "60-70°F",
+       "season": "Scallions prefer cooler weather and should be planted in the early spring or late summer for a fall harvest. They can tolerate light frosts and may even overwinter in mild climates."
+     },
+     "careAndMaintenance": {
+       "optimalSun": "Full Sun to Partial Shade",
+       "growingSoilTemp": "60-70°F",
+       "growingDescription": "Scallions prefer full sun but can tolerate partial shade, especially in warmer climates. They thrive in well-drained, fertile soil with a pH of 6.0-7.0. Scallions require regular watering to keep the soil consistently moist, especially during dry periods. Mulch around plants to conserve moisture and suppress weeds.",
+       "wateringNeeds": "Regular watering, aiming for 1 inch per week.",
+       "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress scallions with a balanced fertilizer once they start growing vigorously.",
+       "pruningRequirements": "Scallions do not require pruning.",
+       "supportRequirements": "Scallions do not require support."
+     },
+     "harvestingAndStorage": {
+       "daysToHarvest": "60-90 days from planting",
+       "timeToMaturity": "Scallions typically mature and are ready for harvest 60-90 days after planting, depending on the variety and growing conditions.",
+       "storageRecommendations": "Harvest scallions when they reach the desired size and have developed a strong root system. Use a sharp knife or scissors to cut the scallions just above the soil level. Store harvested scallions in the refrigerator for up to a week.",
+       "harvestDescription": "Harvest scallions when they reach the desired size, usually 6-8 inches tall for most varieties. Cut them just above the soil level, leaving the roots intact. Rinse the scallions thoroughly to remove any soil before storing or using them."
+     },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Carrots",
+                "description": "Carrots and scallions make excellent companions, as they have similar growing requirements and can be interplanted to maximize space in the garden."
+            },
+            {
+                "name": "Lettuce",
+                "description": "Lettuce and scallions can be interplanted to provide a diverse and attractive garden bed. Lettuce helps shade the soil and retain moisture, while scallions deter pests that may affect lettuce."
+            },
+            {
+                "name": "Tomatoes",
+                "description": "Scallions can help repel pests that may affect tomatoes, making them a good companion plant. Interplanting scallions with tomatoes can create a healthier growing environment for both crops."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Beans",
+                "description": "Beans and other legumes can compete with scallions for water and nutrients, so it's best to avoid planting them too close together."
+            },
+            {
+                "name": "Brassicas",
+                "description": "Brassicas like cabbage, broccoli, and cauliflower can attract pests that may affect scallions. It's best to keep them separate in the garden."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Thrips",
+            "description": "Thrips are tiny, slender insects that feed on scallion leaves by sucking sap from plant tissues. They can cause stunted growth, distorted leaves, and silvering of the foliage. Control thrips by spraying affected plants with insecticidal soap or neem oil, introducing natural predators like lacewings or ladybugs, and practicing good garden hygiene."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Downy Mildew",
+            "description": "Downy mildew is a fungal disease that can affect scallions, causing yellowing and wilting of leaves, along with grayish-white fuzzy growth on the undersides of leaves. Control downy mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest scallions when they reach the desired size for the best flavor and texture. Avoid letting them grow too large, as they can become tough and pungent.",
+        "Rotate scallions to a new location in the garden each year to prevent soilborne diseases and pest buildup.",
+        "Inspect plants regularly for signs of pests and diseases, and take appropriate action as needed to prevent damage."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Scallions: Planting Guide",
+            "url": "https://www.almanac.com/plant/scallions"
+        },
+        {
+            "title": "Scallions: A Flavorful Addition to the Garden",
+            "url": "https://extension.umn.edu/vegetables/growing-scallions"
+        }
+    ]
+}

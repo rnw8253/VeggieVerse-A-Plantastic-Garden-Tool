@@ -1,0 +1,89 @@
+
+{
+    "plantName": "Mizuna",
+    "description": "Mizuna is a leafy green vegetable native to Japan and commonly used in Japanese cuisine. It belongs to the Brassicaceae family, which also includes cabbage, broccoli, and mustard greens. Mizuna has a mild, slightly peppery flavor and delicate texture, making it a popular ingredient in salads, stir-fries, and soups. It is rich in vitamins A, C, and K, as well as folate and antioxidants, making it a nutritious addition to any diet.",
+    "thumbnailImageUrl": "Mizuna_thumbnail",
+    "backgroundImageUrl": "Mizuna_background",
+    "varieties": "Mizuna, a Japanese mustard green, comes in several varieties, each with its unique leaf shape, color, and flavor. Common varieties of mizuna include 'Kyoto', 'Purple Mizuna', and 'Japanese Giant Red'. 'Kyoto' is known for its delicate, feathery leaves and mild flavor, while 'Purple Mizuna' offers a slightly spicy taste and vibrant purple leaves. 'Japanese Giant Red' is prized for its large, deeply serrated leaves and peppery flavor. These varieties provide a range of options suited for different culinary preferences and growing conditions.",
+    "sowingAndPlanting": {
+      "sowingIndoorsDescription": "Mizuna is typically grown from seeds directly sown outdoors rather than started indoors. However, if you want to get a head start on the growing season, you can start seeds indoors in biodegradable pots or trays filled with potting mix. Plant seeds 1/4 inch deep and keep the soil consistently moist and cool (60-70°F). Transplant seedlings outdoors once they are well-established and the soil has warmed up.",
+      "sowingOutdoorsDescription": "Mizuna seeds should be sown directly outdoors once the soil has warmed up and all danger of frost has passed. Choose a sunny location with well-drained soil. Plant seeds 1/4 inch deep and space them 6-12 inches apart in rows spaced 12-18 inches apart. Keep the soil consistently moist until seedlings emerge.",
+      "spaceBetweenPlants": "6\"-12\"",
+      "spaceBetweenRows": "12\"-18\"",
+      "squareFootPlantingRecommendationsMin": 4,
+      "squareFootPlantingRecommendationsMax": 9,
+      "lifeCycle": "Annual",
+      "seedDepth": "1/4\"",
+      "pHRange": "6.0 - 7.0",
+      "germinationSoilTemp": "45-75°F",
+      "season": "Mizuna can be planted in both spring and fall. For spring planting, sow seeds as soon as the soil can be worked. For fall planting, sow seeds 6-8 weeks before the first expected frost date."
+    },
+    "careAndMaintenance": {
+      "optimalSun": "Full Sun to Partial Shade",
+      "growingSoilTemp": "60-75°F",
+      "growingDescription": "Mizuna prefers full sun to partial shade and well-drained soil rich in organic matter. It requires regular watering to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+      "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+      "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress mizuna with a balanced fertilizer once it starts growing.",
+      "pruningRequirements": "Mizuna generally does not require pruning. However, you can harvest outer leaves to encourage new growth and prolong the harvest period.",
+      "supportRequirements": "Mizuna typically does not require support."
+    },
+    "harvestingAndStorage": {
+      "daysToHarvest": "30-40 days from planting",
+      "timeToMaturity": "Mizuna typically matures and is ready for harvest 30-40 days after planting, depending on the variety and growing conditions.",
+      "storageRecommendations": "Harvest mizuna by cutting outer leaves from the plant as needed, allowing the inner leaves to continue growing. Wash harvested leaves thoroughly to remove any dirt or debris. Store mizuna in the refrigerator for up to a week, loosely wrapped in a damp paper towel or plastic bag to maintain moisture.",
+      "harvestDescription": "Harvest mizuna by cutting outer leaves from the plant with a sharp knife or scissors. Leave the inner leaves to continue growing for future harvests."
+    },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Lettuce",
+                "description": "Lettuce is a good companion plant for Mizuna, as it has similar growing requirements and can help shade the soil, conserving moisture and suppressing weeds."
+            },
+            {
+                "name": "Radishes",
+                "description": "Radishes can be interplanted with Mizuna to maximize space in the garden. They mature quickly and can be harvested before Mizuna plants reach full size."
+            },
+            {
+                "name": "Beets",
+                "description": "Beets are another good companion plant for Mizuna, as they have shallow roots that do not compete with Mizuna for nutrients and moisture."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Cabbage",
+                "description": "Cabbage and other Brassicas should not be planted near Mizuna, as they may attract similar pests and diseases."
+            },
+            {
+                "name": "Kohlrabi",
+                "description": "Kohlrabi can compete with Mizuna for space and nutrients and is not recommended as a companion plant."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Flea Beetles",
+            "description": "Flea beetles are small, jumping insects that feed on Mizuna leaves, causing tiny holes and pits. Control flea beetles by covering plants with row covers or insect netting, applying floating row covers, and using insecticidal sprays or dusts as needed."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Downy Mildew",
+            "description": "Downy mildew is a fungal disease that affects Mizuna plants, causing yellowing and wilting of leaves, along with grayish-white fuzzy growth on the undersides of leaves. Control downy mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest Mizuna leaves frequently to encourage continuous growth and prevent plants from bolting.",
+        "Rotate Mizuna crops annually to prevent soilborne diseases and pest buildup.",
+        "Inspect plants regularly for signs of pests and diseases, and take appropriate action as needed to prevent damage."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Mizuna: Planting Guide",
+            "url": "https://www.almanac.com/plant/mizuna"
+        },
+        {
+            "title": "Mizuna: A Versatile Leafy Green",
+            "url": "https://extension.umn.edu/vegetables/growing-leafy-greens"
+        }
+    ]
+}

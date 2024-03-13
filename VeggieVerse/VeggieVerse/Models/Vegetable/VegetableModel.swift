@@ -12,7 +12,7 @@ import RealmSwift
 class Vegetable: Object, Codable, Identifiable {
     @Persisted var name: String
     @Persisted var descriptionText: String
-    @Persisted var varieties: RealmSwift.List<Variety>
+    @Persisted var varieties: String
     @Persisted var sowingAndPlanting: SowingAndPlanting?
     @Persisted var careAndMaintenance: CareAndMaintenance?
     @Persisted var harvestingAndStorage: HarvestingAndStorage?
@@ -41,40 +41,15 @@ class Vegetable: Object, Codable, Identifiable {
     }
 }
 
-class Variety: Object, Codable {
-    @Persisted var name: String
-    @Persisted var descriptionText: String
-    @Persisted var image: String
-    @Persisted var category: String
-    @Persisted var growthHabit: String
-    @Persisted var growthType: String
-    @Persisted var supportType: String
-    @Persisted var daysToHarvest: String
-    @Persisted var germinationSoilTemp: String
-    @Persisted var growingSoilTemp: String
-    @Persisted var squareFootPlantingRecommendations: Int
-    
-    enum CodingKeys: String, CodingKey {
-        case descriptionText = "description"
-        case name
-        case image
-        case category
-        case growthHabit
-        case growthType
-        case supportType
-        case daysToHarvest
-        case germinationSoilTemp
-        case growingSoilTemp
-        case squareFootPlantingRecommendations
-    }
-}
-
 
 class SowingAndPlanting: Object, Codable {
     @Persisted var sowingIndoorsDescription: String
     @Persisted var sowingOutdoorsDescription: String
     @Persisted var spaceBetweenPlants: String
     @Persisted var spaceBetweenRows: String
+    @Persisted var squareFootPlantingRecommendationsMin: Int
+    @Persisted var squareFootPlantingRecommendationsMax: Int
+    @Persisted var lifeCycle: String
     @Persisted var seedDepth: String
     @Persisted var pHRange: String
     @Persisted var germinationSoilTemp: String
@@ -83,23 +58,34 @@ class SowingAndPlanting: Object, Codable {
 
 class CareAndMaintenance: Object, Codable {
     @Persisted var optimalSun: String
+    @Persisted var growingSoilTemp: String
+    @Persisted var growingDescription: String
     @Persisted var wateringNeeds: String
     @Persisted var soilFertility: String
     @Persisted var pruningRequirements: String
     @Persisted var supportRequirements: String
-    @Persisted var growingSoilTemp: String
-    @Persisted var growingDescription: String
 }
 
 class HarvestingAndStorage: Object, Codable {
+    @Persisted var daysToHarvest: String
     @Persisted var timeToMaturity: String
     @Persisted var storageRecommendations: String
     @Persisted var harvestDescription: String
 }
 
 class CompanionPlants: Object, Codable {
-    var goodCompanionPlants = RealmSwift.List<String>()
-    var badCompanionPlants = RealmSwift.List<String>()
+    var goodCompanionPlants = RealmSwift.List<CompanionPlant>()
+    var badCompanionPlants = RealmSwift.List<CompanionPlant>()
+}
+
+
+class CompanionPlant: Object, Codable {
+    @Persisted var name: String
+    @Persisted var descriptionText: String
+    enum CodingKeys: String, CodingKey {
+        case name
+        case descriptionText = "description"
+    }
 }
 
 class Problem: Object, Codable {

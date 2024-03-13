@@ -1,0 +1,89 @@
+
+{
+    "plantName": "Tomatillo",
+    "description": "Tomatillo, also known as Mexican husk tomato, is a member of the nightshade family native to Mexico and Central America. It produces small, round fruits enclosed in papery husks. Tomatillos have a tart, citrusy flavor and are a key ingredient in many Mexican and Latin American dishes, including salsa verde and various sauces. They are easy to grow and can be harvested when the husks turn brown and the fruits fill out.",
+    "thumbnailImageUrl": "Tomatillo_thumbnail",
+    "backgroundImageUrl": "Tomatillo_background",
+    "varieties": "Tatsoi, also known as spoon mustard or spinach mustard, is a leafy green vegetable with tender, spoon-shaped leaves and a mild, mustard-like flavor. It is commonly used in salads, stir-fries, and soups. While there are not as many recognized varieties of tatsoi as other vegetables, some common types include 'Tatsoi Rosette', known for its compact growth habit and vibrant green leaves, and 'Tatsoi Savoy', which offers heavily ruffled leaves and a sweeter taste. These varieties provide options suited for different culinary preferences and growing conditions.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Tatsoi is best sown directly outdoors rather than started indoors. However, if you want to get a head start on the growing season, you can start tatsoi seeds indoors in biodegradable pots or trays filled with seed-starting mix. Plant seeds 1/4 inch deep and space them 1-2 inches apart. Keep the soil consistently moist and warm (60-70°F). Transplant tatsoi seedlings outdoors once they have developed several true leaves and the weather has warmed up.",
+        "sowingOutdoorsDescription": "Tatsoi seeds should be sown directly outdoors as soon as the soil can be worked in the spring. Choose a location with partial shade to full sun and well-drained soil. Plant seeds 1/4 inch deep and space them 4-6 inches apart in rows spaced 12-18 inches apart. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "4\"-6\"",
+        "spaceBetweenRows": "12\"-18\"",
+        "squareFootPlantingRecommendationsMin": 9,
+        "squareFootPlantingRecommendationsMax": 16,
+        "lifeCycle": "Annual",
+        "seedDepth": "1/4\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "60-70°F",
+        "season": "Tatsoi prefers cooler weather and should be planted in the early spring or late summer for a fall harvest. It can tolerate light frosts and may even overwinter in mild climates."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Partial Shade to Full Sun",
+        "growingSoilTemp": "60-70°F",
+        "growingDescription": "Tatsoi prefers partial shade to full sun and well-drained, fertile soil with a pH of 6.0-7.0. It requires regular watering to keep the soil consistently moist, especially during dry periods. Mulch around plants to conserve moisture and suppress weeds.",
+        "wateringNeeds": "Regular watering, aiming for 1 inch per week.",
+        "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress tatsoi with a balanced fertilizer once it starts growing vigorously.",
+        "pruningRequirements": "Tatsoi does not require pruning.",
+        "supportRequirements": "Tatsoi does not require support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "30-40 days from planting",
+        "timeToMaturity": "Tatsoi typically matures and is ready for harvest 30-40 days after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest tatsoi when the leaves are young and tender, usually before they start to bolt (produce flowers). Use a sharp knife or scissors to cut the outer leaves, allowing the inner leaves to continue growing. Store harvested tatsoi in the refrigerator for up to a week.",
+        "harvestDescription": "Harvest tatsoi when the leaves are large enough to use, usually when they are 4-6 inches long. Cut the outer leaves first, leaving the center leaves to continue growing. Rinse the tatsoi thoroughly to remove any soil before storing or using it."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Basil",
+                "description": "Basil is a good companion plant for tomatillos, as it can help repel pests and attract beneficial insects like bees and predatory wasps."
+            },
+            {
+                "name": "Marigolds",
+                "description": "Marigolds are known for their ability to repel pests like nematodes and aphids, making them an excellent companion for tomatillos."
+            },
+            {
+                "name": "Nasturtiums",
+                "description": "Nasturtiums are both edible and ornamental, and their pungent scent can help deter pests like aphids and whiteflies from tomatillo plants."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Potatoes",
+                "description": "Potatoes and tomatillos are both members of the nightshade family and are susceptible to similar pests and diseases. It's best to avoid planting them near each other to prevent cross-contamination."
+            },
+            {
+                "name": "Peppers",
+                "description": "Peppers and tomatillos have similar growing requirements and may compete for resources if planted too close together. It's best to give them plenty of space in the garden."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Tomato Hornworm",
+            "description": "Tomato hornworms are large green caterpillars that feed on the leaves and fruit of tomatillo plants. They can cause significant damage if left unchecked. Control tomato hornworms by handpicking them from plants, applying Bacillus thuringiensis (Bt) insecticide, or introducing natural predators like parasitic wasps."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Early Blight",
+            "description": "Early blight is a fungal disease that can affect tomatillo plants, causing dark brown or black lesions on the leaves and stems. It thrives in warm, humid conditions and can spread rapidly in crowded plantings. Control early blight by practicing good garden hygiene, avoiding overhead watering, and applying fungicidal sprays preventatively."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest tomatillos when the husks turn brown and papery, and the fruits fill out for the best flavor and texture.",
+        "Rotate tomatillos to a new location in the garden each year to prevent soilborne diseases and pest buildup.",
+        "Inspect plants regularly for signs of pests and diseases, and take appropriate action as needed to prevent damage."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Tomatillos: Planting Guide",
+            "url": "https://www.almanac.com/plant/tomatillos"
+        },
+        {
+            "title": "Tomatillo Cultivation and Uses",
+            "url": "https://www.canr.msu.edu/news/tomatillo_cultivation_and_uses"
+        }
+    ]
+}

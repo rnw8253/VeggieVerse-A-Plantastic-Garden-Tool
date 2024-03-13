@@ -1,0 +1,77 @@
+
+{
+    "plantName": "Lemon Balm",
+    "description": "Lemon balm is a fragrant herb with bright green, lemon-scented leaves. It is known for its calming properties and is often used in teas, culinary dishes, and herbal remedies.",
+    "thumbnailImageUrl": "Lemon Balm_thumbnail",
+    "backgroundImageUrl": "Lemon Balm_background",
+    "varieties": "Lemon Balm, scientifically known as Melissa officinalis, is a perennial herb in the mint family Lamiaceae. There are several cultivars of lemon balm, each with unique characteristics such as leaf color, fragrance, and growth habit. Common cultivars include 'Citronella', 'Lemon Queen', and 'All Gold', known for their lemon-scented leaves and ornamental value.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Lemon balm seeds can be started indoors in pots or trays filled with well-draining potting mix. Sow seeds on the soil surface and lightly press them into the soil. Keep the soil consistently moist and provide bright, indirect light or supplemental grow lights. Transplant seedlings outdoors after the last frost date in your area.",
+        "sowingOutdoorsDescription": "Lemon balm seeds can also be directly sown outdoors in the garden after the last frost date. Choose a location with partial shade to full sun and well-drained soil. Scatter seeds over the soil surface and lightly rake them in. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "12\"-18\"",
+        "spaceBetweenRows": "18\"-24\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Perennial",
+        "seedDepth": "Surface sow",
+        "pHRange": "6.0 - 7.5",
+        "germinationSoilTemp": "60-70°F",
+        "season": "Lemon balm should be planted outdoors after the last frost date in your area. It prefers partial shade to full sun and well-drained soil."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Partial Shade to Full Sun",
+        "growingSoilTemp": "60-70°F",
+        "growingDescription": "Lemon balm prefers partial shade to full sun and well-drained, moderately fertile soil. Keep the soil consistently moist, especially during dry periods. Mulch around plants to retain moisture and suppress weeds. Lemon balm is a low-maintenance herb and does not require frequent fertilization.",
+        "wateringNeeds": "Regular watering to keep the soil consistently moist, especially during dry periods.",
+        "soilFertility": "Lemon balm is not a heavy feeder and does not require fertilization. However, incorporating compost or well-aged manure into the soil before planting can provide some nutrients.",
+        "pruningRequirements": "Lemon balm does not require extensive pruning. However, you can prune back the plant in early spring to promote new growth and maintain a compact shape. Remove spent flowers to prevent self-seeding and encourage continuous blooming.",
+        "supportRequirements": "Lemon balm generally does not require support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "60-90 days from planting",
+        "timeToMaturity": "Lemon balm typically matures and is ready for harvest 60-90 days after planting, depending on growing conditions.",
+        "storageRecommendations": "Harvest lemon balm leaves and stems as needed for culinary, medicinal, or ornamental use. Use fresh leaves and stems immediately, or dry them for later use. To dry lemon balm, hang the stems upside down in small bunches in a well-ventilated area out of direct sunlight. Once fully dried, store the leaves and stems in an airtight container in a cool, dark place.",
+        "harvestDescription": "Harvest lemon balm leaves and stems when they are fully developed and at their peak flavor or fragrance. Snip the stems just above a leaf node for continuous growth and harvesting."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Basil",
+                "description": "Basil is a good companion for lemon balm, as it may help deter certain pests and complement its aromatic qualities."
+            },
+            {
+                "name": "Chives",
+                "description": "Chives can be planted near lemon balm as they may help repel aphids and complement its flavor."
+            }
+        ],
+        "badCompanionPlants": []
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids can sometimes infest lemon balm, feeding on the sap of the leaves and causing distortion or yellowing. Control aphids by spraying affected plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs, and applying insecticidal soap or neem oil as needed."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that can affect lemon balm, causing a white powdery growth on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest lemon balm leaves regularly to encourage new growth and prevent flowering.",
+        "Mulch around plants to retain moisture and suppress weeds.",
+        "Consider planting lemon balm in containers to prevent it from becoming invasive.",
+        "Dry lemon balm leaves for longer storage by hanging bundles of stems upside down in a dark, well-ventilated area."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Lemon Balm: Planting Guide",
+            "url": "https://www.almanac.com/plant/lemon-balm"
+        },
+        {
+            "title": "How to Harvest and Dry Lemon Balm",
+            "url": "https://www.growveg.com/guides/how-to-harvest-and-dry-lemon-balm/"
+        }
+    ]
+}

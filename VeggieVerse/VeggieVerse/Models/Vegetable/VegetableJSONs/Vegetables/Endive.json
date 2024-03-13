@@ -1,0 +1,82 @@
+
+{
+    "plantName": "Endive",
+    "description": "Endive is a cool-season leafy green vegetable prized for its crisp texture and slightly bitter flavor. It belongs to the Asteraceae family and is closely related to chicory and lettuce. Endive is commonly used in salads, sandwiches, and cooked dishes.",
+    "thumbnailImageUrl": "Endive_thumbnail",
+    "backgroundImageUrl": "Endive_background",
+    "varieties": "Endive, also known as escarole, comes in several varieties, each with its unique characteristics and culinary uses. Some popular endive varieties include 'Escarole', known for its broad, slightly bitter leaves and versatility in salads and cooked dishes; 'Frisee', recognized for its finely cut, curly leaves and slightly peppery flavor; and 'Batavian', prized for its large, crisp leaves and mild taste. These varieties offer a range of options suited for different culinary preferences and growing conditions.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Endive can be started indoors 4-6 weeks before the last frost date. Plant seeds in pots or trays filled with seed-starting mix. Sow seeds 1/4 inch deep and keep the soil consistently moist and cool (60-70°F). Provide bright, indirect light or use grow lights to encourage healthy seedling growth. Transplant seedlings outdoors after the danger of frost has passed and the soil has warmed up.",
+        "sowingOutdoorsDescription": "Endive can also be directly sown outdoors once the soil has warmed up and all danger of frost has passed. Choose a location with well-drained soil and partial shade. Plant seeds 1/4 inch deep and space them according to the recommended distance for the variety being grown. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "8\"-12\"",
+        "spaceBetweenRows": "12\"-18\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 2,
+        "lifeCycle": "Annual",
+        "seedDepth": "1/4\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "50-75°F",
+        "season": "Endive should be planted in early spring for a summer harvest or in late summer for a fall harvest. It prefers cool weather and can tolerate light frosts."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun to Partial Shade",
+        "growingSoilTemp": "60-75°F",
+        "growingDescription": "Endive prefers full sun to partial shade and well-drained soil rich in organic matter. It requires regular watering to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+        "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress endive with a balanced fertilizer once it starts growing.",
+        "pruningRequirements": "Endive generally does not require pruning. However, you can remove any yellowing or damaged leaves as needed to improve air circulation and aesthetics.",
+        "supportRequirements": "Endive typically does not require support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "50-80 days from planting",
+        "timeToMaturity": "Endive typically matures and is ready for harvest 50-80 days after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest endive when the leaves are young and tender, usually before they become bitter. Cut the outer leaves from the plant using scissors or a sharp knife, allowing the inner leaves to continue growing. Store harvested endive in the refrigerator for up to a week. Wash and dry the leaves before storing to remove any dirt or debris.",
+        "harvestDescription": "Harvest endive by cutting the outer leaves from the plant as needed. Leave the inner leaves to continue growing, and harvest them as they reach the desired size."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Lettuce",
+                "description": "Lettuce can be planted near endive to provide shade and moisture retention for the shallow-rooted endive plants."
+            },
+            {
+                "name": "Radishes",
+                "description": "Radishes can be planted near endive to help repel pests and provide natural pest control in the garden."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Potatoes",
+                "description": "Potatoes are not recommended to be planted near endive as they may compete for space and nutrients."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids are small, soft-bodied insects that feed on endive plants by sucking sap from leaves and stems. They reproduce rapidly and can cause distorted growth, yellowing, and wilting. Control aphids by spraying affected plants with water to dislodge them, introducing natural predators like ladybugs or lacewings, and using insecticidal soap or neem oil."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Downy Mildew",
+            "description": "Downy mildew is a fungal disease that affects endive, causing yellow spots on leaves that eventually turn brown and die. It thrives in cool, humid conditions. Prevent downy mildew by providing good air circulation around plants, avoiding overhead watering, and using fungicides as needed."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest endive leaves when they reach the desired size and texture for the best flavor and tenderness.",
+        "Thin seedlings as needed to ensure proper spacing and promote healthy growth.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed.",
+        "Water endive plants at the base to avoid wetting foliage and reduce the risk of disease."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Endive: Planting Guide",
+            "url": "https://www.almanac.com/plant/endive"
+        },
+        {
+            "title": "How to Harvest and Store Endive",
+            "url": "https://www.gardeningknowhow.com/edible/vegetables/endive/harvesting-endive.htm"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+
+{
+    "plantName": "Lemon Verbena",
+    "description": "Lemon verbena (Aloysia citrodora) is a perennial shrub native to South America but widely cultivated for its aromatic leaves and culinary uses. It belongs to the Verbenaceae family and is prized for its intense lemon fragrance and flavor.",
+    "thumbnailImageUrl": "Lemon Verbena_thumbnail",
+    "backgroundImageUrl": "Lemon Verbena_background",
+    "varieties": "Lemon Verbena, scientifically known as Aloysia citrodora or Verbena citriodora, is a perennial herb prized for its intense lemony fragrance and flavor. While there are no distinct varieties of lemon verbena, different strains may vary slightly in growth habit, leaf size, and intensity of lemon fragrance.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Lemon Verbena seeds can be started indoors in pots or trays filled with well-draining potting mix. Sow seeds on the soil surface and lightly press them into the soil. Keep the soil consistently moist and provide bright, indirect light or supplemental grow lights. Transplant seedlings outdoors after the last frost date in your area.",
+        "sowingOutdoorsDescription": "Lemon Verbena seeds can also be directly sown outdoors in the garden after the last frost date. Choose a location with full sun and well-drained soil. Scatter seeds over the soil surface and lightly rake them in. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "18\"-24\"",
+        "spaceBetweenRows": "24\"-36\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Perennial",
+        "seedDepth": "Surface sow",
+        "pHRange": "6.0 - 7.5",
+        "germinationSoilTemp": "70-80°F",
+        "season": "Lemon Verbena should be planted outdoors after the last frost date in your area. It prefers warm temperatures and well-drained soil."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "70-80°F",
+        "growingDescription": "Lemon Verbena prefers full sun and well-drained, moderately fertile soil. Keep the soil consistently moist, especially during dry periods. Mulch around plants to retain moisture and suppress weeds. Lemon Verbena is a low-maintenance herb and does not require frequent fertilization.",
+        "wateringNeeds": "Regular watering to keep the soil consistently moist, especially during dry periods.",
+        "soilFertility": "Lemon Verbena is not a heavy feeder and does not require fertilization. However, incorporating compost or well-aged manure into the soil before planting can provide some nutrients.",
+        "pruningRequirements": "Lemon Verbena responds well to pruning and benefits from regular trimming to promote bushy growth and maintain a compact shape. Prune back stems in early spring to remove any dead or damaged growth and encourage new growth.",
+        "supportRequirements": "Lemon Verbena generally does not require support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "90-120 days from planting",
+        "timeToMaturity": "Lemon Verbena typically matures and is ready for harvest 90-120 days after planting, depending on growing conditions.",
+        "storageRecommendations": "Harvest lemon verbena leaves as needed for culinary, medicinal, or aromatic use. Use fresh leaves immediately for cooking or brewing tea, or dry them for later use. To dry lemon verbena leaves, hang them upside down in small bunches in a well-ventilated area out of direct sunlight. Once fully dried, store the leaves in an airtight container in a cool, dark place.",
+        "harvestDescription": "Harvest lemon verbena leaves by snipping the stems just above a leaf node. Avoid harvesting more than one-third of the plant's leaves at a time to allow for continued growth and health of the plant."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Basil",
+                "description": "Basil is a good companion plant for lemon verbena, as both herbs share similar growing conditions and can complement each other in the garden. Interplanting lemon verbena with basil may also help deter pests and attract beneficial insects."
+            },
+            {
+                "name": "Lavender",
+                "description": "Lavender is another suitable companion plant for lemon verbena, as it thrives in similar soil and light conditions. Planting lemon verbena and lavender together can create a fragrant and visually appealing herb garden."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Mint",
+                "description": "Mint is not recommended as a companion plant for lemon verbena, as it can be invasive and may compete with lemon verbena for resources. Planting mint near lemon verbena may result in overcrowding and reduced growth for both plants."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids are common pests that may infest lemon verbena plants, especially during periods of new growth. They feed on the sap of the plant and can cause stunted growth, yellowing leaves, and distortion of foliage. Control aphids by spraying the affected plants with a strong jet of water to dislodge them or applying insecticidal soap or neem oil."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that can affect lemon verbena plants, causing a white, powdery growth on the leaves and stems. It thrives in humid conditions and can spread rapidly in crowded plantings. Control powdery mildew by improving air circulation around the plants, avoiding overhead watering, and applying fungicidal treatments as needed."
+        }
+    ],
+    "tipsAndTricks": [
+        "Prune lemon verbena regularly to maintain its shape and promote bushy growth.",
+        "Harvest lemon verbena leaves as needed for culinary or medicinal use, but avoid overharvesting to ensure plant health.",
+        "Provide adequate spacing between lemon verbena plants to improve air circulation and reduce the risk of disease.",
+        "Monitor lemon verbena plants regularly for signs of pests and diseases, and take prompt action to address any issues.",
+        "Consider growing lemon verbena in containers or raised beds to control its spread and accommodate its specific growing requirements."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Lemon Verbena: A Beginner's Guide",
+            "url": "https://www.gardeningknowhow.com/edible/herbs/lemon-verbena/growing-lemon-verbena.htm"
+        },
+        {
+            "title": "Lemon Verbena: Uses and Benefits",
+            "url": "https://www.healthline.com/health/lemon-verbena-uses"
+        }
+    ]
+}

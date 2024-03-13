@@ -1,0 +1,77 @@
+
+{
+    "plantName": "Marjoram",
+    "description": "Marjoram is a fragrant herb with delicate, slightly fuzzy leaves and a mild, sweet flavor. It is often used in culinary dishes, particularly in Mediterranean cuisine, and is prized for its aromatic qualities.",
+    "thumbnailImageUrl": "Marjoram_thumbnail",
+    "backgroundImageUrl": "Marjoram_background",
+    "varieties": "Marjoram, scientifically known as Origanum majorana, is a tender perennial herb in the mint family Lamiaceae. There are several cultivars of marjoram available, each with its own unique characteristics. Common varieties include Sweet Marjoram (Origanum majorana), Pot Marjoram (Origanum onites), and Knotted Marjoram (Origanum majorana 'Compactum'). These varieties may vary slightly in flavor, fragrance, and growth habit.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Marjoram seeds can be started indoors in pots or trays filled with well-draining potting mix. Sow seeds on the soil surface and lightly press them into the soil. Keep the soil consistently moist and provide bright, indirect light or supplemental grow lights. Transplant seedlings outdoors after the last frost date in your area.",
+        "sowingOutdoorsDescription": "Marjoram seeds can also be directly sown outdoors in the garden after the last frost date. Choose a location with full sun and well-drained soil. Scatter seeds over the soil surface and lightly rake them in. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "12\"-18\"",
+        "spaceBetweenRows": "18\"-24\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Perennial",
+        "seedDepth": "Surface sow",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "70-80°F",
+        "season": "Marjoram should be planted outdoors after the last frost date in your area. It prefers warm temperatures and well-drained soil."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun to Partial Shade",
+        "growingSoilTemp": "70-80°F",
+        "growingDescription": "Marjoram prefers full sun to partial shade and well-drained, moderately fertile soil. Keep the soil consistently moist, especially during dry periods. Mulch around plants to retain moisture and suppress weeds. Marjoram is a low-maintenance herb and does not require frequent fertilization.",
+        "wateringNeeds": "Regular watering to keep the soil consistently moist, especially during dry periods.",
+        "soilFertility": "Marjoram is not a heavy feeder and does not require fertilization. However, incorporating compost or well-aged manure into the soil before planting can provide some nutrients.",
+        "pruningRequirements": "Marjoram benefits from regular pruning to encourage bushy growth and prevent legginess. Pinch back the growing tips regularly to promote branching and harvest leaves as needed for culinary use.",
+        "supportRequirements": "Marjoram generally does not require support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "60-90 days from planting",
+        "timeToMaturity": "Marjoram typically matures and is ready for harvest 60-90 days after planting, depending on growing conditions.",
+        "storageRecommendations": "Harvest marjoram leaves as needed for culinary or medicinal use. Use fresh leaves immediately for cooking, or dry them for later use. To dry marjoram, hang the stems upside down in small bunches in a well-ventilated area out of direct sunlight. Once fully dried, store the leaves in an airtight container in a cool, dark place.",
+        "harvestDescription": "Harvest marjoram leaves by snipping the stems just above a leaf node. Avoid harvesting more than one-third of the plant's leaves at a time to allow for continued growth and health of the plant."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Basil",
+                "description": "Basil is a good companion for marjoram, as it may help deter certain pests and complement its aromatic qualities."
+            },
+            {
+                "name": "Thyme",
+                "description": "Thyme can be planted near marjoram as it complements its fragrance and both have similar cultural requirements."
+            }
+        ],
+        "badCompanionPlants": []
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids can sometimes infest marjoram, feeding on the sap of the leaves and causing distortion or yellowing. Control aphids by spraying affected plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs, and applying insecticidal soap or neem oil as needed."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that can affect marjoram, causing a white powdery growth on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest marjoram leaves as needed by snipping them with scissors or shears.",
+        "Pinch back growing tips regularly to encourage bushy growth.",
+        "Mulch around plants to retain moisture and suppress weeds.",
+        "Consider planting marjoram in containers to prevent it from spreading too vigorously."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Marjoram: Planting Guide",
+            "url": "https://www.almanac.com/plant/marjoram"
+        },
+        {
+            "title": "How to Harvest and Store Marjoram",
+            "url": "https://www.gardeningknowhow.com/edible/herbs/marjoram/harvesting-marjoram.htm"
+        }
+    ]
+}

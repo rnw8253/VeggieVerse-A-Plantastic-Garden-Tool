@@ -1,0 +1,82 @@
+
+{
+    "plantName": "Escarole",
+    "description": "Escarole is a leafy green vegetable with broad, frilly leaves and a slightly bitter flavor. It belongs to the chicory family and is closely related to endive and radicchio. Escarole is commonly used in salads, soups, and stir-fries, and its hearty leaves can also be cooked like other leafy greens.",
+    "thumbnailImageUrl": "Escarole_thumbnail",
+    "backgroundImageUrl": "Escarole_background",
+    "varieties": "Escarole, a type of endive, is known for its broad, slightly bitter leaves and versatility in salads and cooked dishes. Some popular escarole varieties include 'Broadleaf Batavian', recognized for its large, crisp leaves and mild taste; 'Full Heart', prized for its compact, dense heads and tender leaves; and 'Natacha', valued for its uniform growth and resistance to bolting. These varieties offer a range of options suited for different culinary preferences and growing conditions.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Escarole can be started indoors 4-6 weeks before the last frost date. Plant seeds in pots or trays filled with seed-starting mix. Sow seeds 1/4 inch deep and keep the soil consistently moist and cool (60-70°F). Provide bright, indirect light or use grow lights to encourage healthy seedling growth. Transplant seedlings outdoors after the danger of frost has passed and the soil has warmed up.",
+        "sowingOutdoorsDescription": "Escarole can also be directly sown outdoors once the soil has warmed up and all danger of frost has passed. Choose a location with well-drained soil and partial shade. Plant seeds 1/4 inch deep and space them according to the recommended distance for the variety being grown. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "8\"-12\"",
+        "spaceBetweenRows": "12\"-18\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 2,
+        "lifeCycle": "Annual",
+        "seedDepth": "1/4\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "50-75°F",
+        "season": "Escarole should be planted in early spring for a summer harvest or in late summer for a fall harvest. It prefers cool weather and can tolerate light frosts."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun to Partial Shade",
+        "growingSoilTemp": "60-75°F",
+        "growingDescription": "Escarole prefers full sun to partial shade and well-drained soil rich in organic matter. It requires regular watering to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+        "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress escarole with a balanced fertilizer once it starts growing.",
+        "pruningRequirements": "Escarole generally does not require pruning. However, you can remove any yellowing or damaged leaves as needed to improve air circulation and aesthetics.",
+        "supportRequirements": "Escarole typically does not require support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "50-80 days from planting",
+        "timeToMaturity": "Escarole typically matures and is ready for harvest 50-80 days after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest escarole when the leaves are young and tender, usually before they become bitter. Cut the outer leaves from the plant using scissors or a sharp knife, allowing the inner leaves to continue growing. Store harvested escarole in the refrigerator for up to a week. Wash and dry the leaves before storing to remove any dirt or debris.",
+        "harvestDescription": "Harvest escarole by cutting the outer leaves from the plant as needed. Leave the inner leaves to continue growing, and harvest them as they reach the desired size."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Lettuce",
+                "description": "Lettuce can be planted near escarole to provide shade and help retain soil moisture."
+            },
+            {
+                "name": "Onions",
+                "description": "Onions can be planted near escarole to help repel pests like aphids and carrot flies."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Tomatoes",
+                "description": "Tomatoes are not recommended to be planted near escarole as they may compete for space and nutrients."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids are small, soft-bodied insects that feed on the sap of escarole plants, causing distorted growth and yellowing leaves. Control aphids by spraying plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs, or applying insecticidal soap."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Downy Mildew",
+            "description": "Downy mildew is a fungal disease that affects escarole, causing yellow spots on leaves that may eventually turn brown. It thrives in cool, humid conditions. Prevent downy mildew by providing good air circulation around plants, avoiding overhead watering, and using fungicides as needed."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest escarole leaves when they reach the desired size and texture for the best flavor and tenderness.",
+        "Remove any yellowing or damaged leaves from escarole plants throughout the growing season to promote air circulation and reduce the risk of disease.",
+        "Provide consistent moisture and fertility to escarole plants for optimal growth and development.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Escarole: Planting Guide",
+            "url": "https://www.almanac.com/plant/escarole"
+        },
+        {
+            "title": "How to Harvest and Store Escarole",
+            "url": "https://www.gardeningknowhow.com/edible/vegetables/escarole/harvesting-escarole.htm"
+        }
+    ]
+}

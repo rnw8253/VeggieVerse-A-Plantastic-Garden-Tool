@@ -1,0 +1,81 @@
+
+{
+    "plantName": "Orach",
+    "description": "Orach (Atriplex hortensis), also known as mountain spinach or French spinach, is a leafy green vegetable valued for its tender, mild-flavored leaves and attractive ornamental qualities. It belongs to the Amaranthaceae family and is native to Europe and western Asia. Orach is grown for its nutritious foliage, which can be harvested throughout the growing season.",
+    "thumbnailImageUrl": "Orach_thumbnail",
+    "backgroundImageUrl": "Orach_background",
+    "varieties": "Orach, also known as mountain spinach or French spinach, belongs to the genus Atriplex and is closely related to spinach. While there are several cultivated varieties of orach, the most common types include red orach (Atriplex hortensis var. rubra) with deep red to purple leaves and green orach (Atriplex hortensis var. viridis) with green leaves. These varieties may differ slightly in flavor, texture, and color.",
+    "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Orach seeds can be started indoors in pots or trays filled with well-draining potting mix. Sow seeds 1/4 inch deep and cover lightly with soil. Keep the soil consistently moist and provide bright, indirect light or supplemental grow lights. Transplant seedlings outdoors after the last frost date in your area.",
+        "sowingOutdoorsDescription": "Orach seeds can also be directly sown outdoors in the garden after the last frost date. Choose a location with full sun to partial shade and well-drained soil. Sow seeds 1/4 inch deep and space them 6-12 inches apart. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "6\"-12\"",
+        "spaceBetweenRows": "12\"-18\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Annual",
+        "seedDepth": "1/4\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "60-70°F",
+        "season": "Orach seeds can be sown outdoors after the last frost date in your area. They prefer cool temperatures and well-drained soil."
+    },
+    "careAndMaintenance": {
+        "optimalSun": "Full Sun to Partial Shade",
+        "growingSoilTemp": "60-70°F",
+        "growingDescription": "Orach prefers full sun to partial shade and well-drained, moderately fertile soil. It is drought-tolerant once established and does not require frequent watering. Orach is generally low-maintenance and does not require fertilization.",
+        "wateringNeeds": "Water young orach plants regularly until established; mature plants are drought-tolerant and generally do not require supplemental watering.",
+        "soilFertility": "Orach does not require fertilization. However, incorporating compost or well-aged manure into the soil before planting can provide some nutrients.",
+        "pruningRequirements": "Orach does not require pruning. However, you may remove any yellow or damaged leaves as needed to maintain plant health.",
+        "supportRequirements": "Orach is generally self-supporting and does not require additional support."
+    },
+    "harvestingAndStorage": {
+        "daysToHarvest": "Varies; leaves can be harvested continuously as they mature.",
+        "timeToMaturity": "Orach typically matures and is ready for harvest 40-60 days after planting, depending on growing conditions.",
+        "storageRecommendations": "Harvest orach leaves as needed for culinary use. Use fresh leaves immediately, or store them in the refrigerator for up to a week. Orach leaves can also be blanched and frozen for longer storage.",
+        "harvestDescription": "Harvest orach leaves by snipping them from the plant as needed. For continuous harvest, pick the outer leaves and allow the inner leaves to continue growing."
+    },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Lettuce",
+                "description": "Lettuce is a good companion plant for orach, as it shares similar growing requirements and can benefit from the shade provided by orach's tall foliage. Interplanting orach with lettuce can help conserve moisture in the soil and suppress weeds."
+            },
+            {
+                "name": "Radishes",
+                "description": "Radishes are another suitable companion plant for orach, as they have similar growing requirements and can help break up compacted soil. Planting radishes near orach can improve soil aeration and overall garden health."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Spinach",
+                "description": "Spinach is not recommended as a companion plant for orach, as they may compete for space and nutrients in the garden. Avoid planting orach near spinach to prevent potential issues with overcrowding and reduced yields."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Leaf Miners",
+            "description": "Leaf miners are common pests of orach plants, especially during periods of new growth. The larvae of these insects tunnel through the leaves, leaving distinctive trails and causing cosmetic damage. Control leaf miners by regularly inspecting plants for signs of infestation and removing affected leaves. You can also apply insecticidal soap or neem oil to deter adult leaf miner flies."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Downy Mildew",
+            "description": "Downy mildew is a fungal disease that can affect orach plants, especially in cool, humid conditions. It appears as yellow or brown spots on the upper surface of the leaves, with a fuzzy gray or white growth on the undersides. Control downy mildew by improving air circulation around the plants, avoiding overhead watering, and applying fungicidal treatments as needed."
+        }
+    ],
+    "tipsAndTricks": [
+        "Use orach leaves as a nutritious addition to salads, sandwiches, soups, and other culinary dishes.",
+        "Harvest orach leaves regularly to encourage continued growth and prevent the plants from bolting.",
+        "Experiment with different orach varieties, which vary in leaf color, texture, and flavor intensity."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Orach: Tips and Techniques",
+            "url": "https://www.growveg.com/plants/us-and-canada/how-to-grow-orach/"
+        },
+        {
+            "title": "Orach Recipes and Uses",
+            "url": "https://www.harvesttotable.com/orach/"
+        }
+    ]
+}

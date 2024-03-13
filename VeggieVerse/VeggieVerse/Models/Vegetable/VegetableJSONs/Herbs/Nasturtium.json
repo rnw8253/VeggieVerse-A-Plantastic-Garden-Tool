@@ -1,0 +1,82 @@
+
+{
+    "plantName": "Nasturtium",
+    "description": "Nasturtium (Tropaeolum majus) is a flowering plant native to South America, but now cultivated worldwide for its colorful flowers and edible leaves and flowers. It belongs to the Tropaeolaceae family and is prized for its vibrant blooms, trailing habit, and peppery flavor.",
+    "thumbnailImageUrl": "Nasturtium_thumbnail",
+    "backgroundImageUrl": "Nasturtium_background",
+    "varieties": "Nasturtium, scientifically known as Tropaeolum majus, is an annual flowering plant native to South America. There are several cultivated varieties of nasturtium available, offering a range of flower colors, sizes, and growth habits. Common varieties include 'Empress of India' with deep red flowers, 'Alaska' with variegated foliage, and 'Jewel Mix' with a mix of vibrant flower colors.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Nasturtium seeds can be started indoors in pots or trays filled with well-draining potting mix. Sow seeds 1/2 inch deep and cover lightly with soil. Keep the soil consistently moist and provide bright, indirect light or supplemental grow lights. Transplant seedlings outdoors after the last frost date in your area.",
+        "sowingOutdoorsDescription": "Nasturtium seeds can also be directly sown outdoors in the garden after the last frost date. Choose a location with full sun to partial shade and well-drained soil. Sow seeds 1/2 inch deep and space them 8-12 inches apart. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "8\"-12\"",
+        "spaceBetweenRows": "12\"-18\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Annual",
+        "seedDepth": "1/2\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "65-75°F",
+        "season": "Nasturtium seeds can be sown outdoors after the last frost date in your area. They prefer warm temperatures and well-drained soil."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun to Partial Shade",
+        "growingSoilTemp": "60-70°F",
+        "growingDescription": "Nasturtiums prefer full sun to partial shade and well-drained, moderately fertile soil. They are drought-tolerant once established and do not require frequent watering. Nasturtiums are generally low-maintenance plants and do not require fertilization.",
+        "wateringNeeds": "Water young nasturtium plants regularly until established; mature plants are drought-tolerant and generally do not require supplemental watering.",
+        "soilFertility": "Nasturtiums do not require fertilization. However, incorporating compost or well-aged manure into the soil before planting can provide some nutrients.",
+        "pruningRequirements": "Nasturtiums do not require pruning. However, you may remove spent flowers to encourage continued blooming.",
+        "supportRequirements": "Nasturtiums are generally low-growing and do not require support. However, you may provide a trellis or other support if growing climbing varieties."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "Varies; flowers typically appear 6-8 weeks after planting.",
+        "timeToMaturity": "Nasturtiums typically mature and begin flowering 6-8 weeks after planting, depending on growing conditions.",
+        "storageRecommendations": "Harvest nasturtium flowers and leaves as needed for culinary or decorative use. Use fresh flowers and leaves immediately, or store them in the refrigerator for up to a week. Nasturtium flowers are also edible and can be used to garnish salads, soups, and other dishes.",
+        "harvestDescription": "Harvest nasturtium flowers by snipping them from the plant as needed. Leaves can be harvested anytime for culinary use."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Tomatoes",
+                "description": "Tomatoes are a good companion plant for nasturtium, as they can help repel pests like aphids and whiteflies. Planting nasturtium near tomatoes may also attract beneficial insects that prey on tomato pests."
+            },
+            {
+                "name": "Cucumbers",
+                "description": "Cucumbers are another suitable companion plant for nasturtium, as they have similar growing requirements and can benefit from the shade provided by nasturtium's trailing foliage. Interplanting nasturtium with cucumbers can help conserve moisture in the soil and suppress weeds."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Brassicas",
+                "description": "Brassicas, such as cabbage, broccoli, and cauliflower, are not recommended as companion plants for nasturtium, as they may compete for space and nutrients in the garden. Avoid planting nasturtium near brassicas to prevent potential issues with overcrowding and reduced yields."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids are common pests that may infest nasturtium plants, especially during periods of new growth. They feed on the sap of the plant and can cause stunted growth and distorted foliage. Control aphids by spraying the affected plants with a strong jet of water to dislodge them or applying insecticidal soap or neem oil."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that can affect nasturtium plants, especially in humid or crowded growing conditions. It appears as a white, powdery growth on the leaves and stems and can lead to leaf distortion and reduced plant vigor. Control powdery mildew by improving air circulation around the plants, avoiding overhead watering, and applying fungicidal treatments as needed."
+        }
+    ],
+    "tipsAndTricks": [
+        "Use nasturtium flowers to add color and peppery flavor to salads, soups, and other culinary dishes.",
+        "Nasturtium leaves can be used as a natural pest repellent in the garden. Plant them near susceptible crops to deter pests like aphids and whiteflies.",
+        "Encourage continuous blooming by deadheading spent flowers regularly and providing adequate water and sunlight.",
+        "Experiment with different nasturtium varieties, which vary in flower color, size, and flavor intensity."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Nasturtium: Tips and Techniques",
+            "url": "https://www.gardeningknowhow.com/ornamental/flowers/nasturtium/growing-nasturtiums.htm"
+        },
+        {
+            "title": "Nasturtium Recipes and Uses",
+            "url": "https://www.thespruceeats.com/nasturtium-recipes-and-uses-4684078"
+        }
+    ]
+}

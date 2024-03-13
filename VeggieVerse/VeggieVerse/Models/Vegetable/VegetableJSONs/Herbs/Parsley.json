@@ -1,0 +1,77 @@
+
+{
+    "plantName": "Parsley",
+    "description": "Parsley is a biennial herb with bright green, finely divided leaves and a fresh, slightly peppery flavor. It is widely used in culinary dishes as a garnish, flavoring agent, and ingredient, prized for its versatility and nutritional benefits.",
+    "thumbnailImageUrl": "Parsley_thumbnail",
+    "backgroundImageUrl": "Parsley_background",
+    "varieties": "Parsley, scientifically known as Petroselinum crispum, is a biennial herb that is commonly cultivated as an annual. There are two main varieties of parsley: curly leaf parsley (Petroselinum crispum var. crispum) and flat-leaf parsley, also known as Italian parsley (Petroselinum crispum var. neapolitanum). Curly leaf parsley has tightly curled, bright green leaves and a milder flavor, while flat-leaf parsley has flat, broad leaves and a stronger flavor.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Parsley seeds can be started indoors in pots or trays filled with well-draining potting mix. Sow seeds 1/4 inch deep and cover lightly with soil. Keep the soil consistently moist and provide bright, indirect light or supplemental grow lights. Transplant seedlings outdoors after the last frost date in your area.",
+        "sowingOutdoorsDescription": "Parsley seeds can also be directly sown outdoors in the garden after the last frost date. Choose a location with full sun to partial shade and well-drained soil. Sow seeds 1/4 inch deep and space them 6-8 inches apart. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "6\"-8\"",
+        "spaceBetweenRows": "12\"-18\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Biennial (usually grown as an annual)",
+        "seedDepth": "1/4\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "70-85°F",
+        "season": "Parsley seeds can be sown outdoors after the last frost date in your area. They prefer cool temperatures and well-drained soil."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun to Partial Shade",
+        "growingSoilTemp": "60-75°F",
+        "growingDescription": "Parsley prefers full sun to partial shade and well-drained, moderately fertile soil. It is drought-tolerant once established and does not require frequent watering. Parsley is generally low-maintenance and does not require fertilization.",
+        "wateringNeeds": "Water young parsley plants regularly until established; mature plants are drought-tolerant and generally do not require supplemental watering.",
+        "soilFertility": "Parsley does not require fertilization. However, incorporating compost or well-aged manure into the soil before planting can provide some nutrients.",
+        "pruningRequirements": "Prune parsley regularly to encourage bushy growth and prevent it from becoming leggy. Harvest leaves regularly to promote new growth and prevent flowering, which can affect flavor.",
+        "supportRequirements": "Parsley generally does not require support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "Varies; leaves can be harvested once the plant is established.",
+        "timeToMaturity": "Parsley can be harvested for culinary use once the plant is well-established, usually within a few months after planting.",
+        "storageRecommendations": "Harvest parsley leaves as needed for culinary use. Use fresh leaves immediately, or dry them for longer storage. To dry parsley, bundle stems together and hang them upside down in a warm, well-ventilated area until leaves are crisp. Once dry, store leaves in an airtight container in a cool, dark place.",
+        "harvestDescription": "Harvest parsley leaves by snipping them from the plant as needed. For the best flavor, harvest leaves before the plant flowers."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Basil",
+                "description": "Basil is a good companion for parsley, as it may help deter certain pests and complement its aromatic qualities."
+            },
+            {
+                "name": "Tomatoes",
+                "description": "Tomatoes can be planted near parsley as they have similar cultural requirements and complement each other in the garden."
+            }
+        ],
+        "badCompanionPlants": []
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids can sometimes infest parsley, feeding on the sap of the leaves and causing distortion or yellowing. Control aphids by spraying affected plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs, and applying insecticidal soap or neem oil as needed."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that can affect parsley, causing a white powdery growth on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest parsley leaves as needed by snipping them with scissors or shears.",
+        "Pinch back flower stalks regularly to encourage leaf production and prevent bolting.",
+        "Mulch around plants to retain moisture and suppress weeds.",
+        "Consider planting parsley in containers to prevent it from spreading too vigorously."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Parsley: Planting Guide",
+            "url": "https://www.almanac.com/plant/parsley"
+        },
+        {
+            "title": "How to Harvest and Store Parsley",
+            "url": "https://www.gardeningknowhow.com/edible/herbs/parsley/harvesting-parsley.htm"
+        }
+    ]
+}

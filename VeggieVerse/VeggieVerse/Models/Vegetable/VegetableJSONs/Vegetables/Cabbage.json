@@ -1,0 +1,110 @@
+
+{
+    "plantName": "Cabbage",
+    "description": "Cabbage is a cool-season biennial vegetable prized for its dense heads of crisp, flavorful leaves. It comes in various colors, including green, red, and Savoy types with crinkled leaves. Cabbage is versatile in the kitchen and can be used raw in salads, cooked in soups and stir-fries, or fermented into sauerkraut.",
+    "thumbnailImageUrl": "Cabbage_thumbnail",
+    "backgroundImageUrl": "Cabbage_background",
+    "varieties": "Cabbage comes in various shapes, sizes, and colors, with each variety offering unique flavors and culinary uses. Some popular cabbage varieties include 'Green Acre', known for its dense, round heads and traditional cabbage flavor; 'Red Express', prized for its vibrant red-purple color and sweet flavor; 'Savoy', valued for its crinkled leaves and mild, sweet taste; and 'Napa', recognized for its elongated shape and delicate flavor. These varieties, among others, offer a range of options suited for different culinary preferences and growing conditions.",
+     "sowingAndPlanting": {
+       "sowingIndoorsDescription": "Cabbage is typically started indoors 6-8 weeks before the last frost date. Plant seeds in trays or pots filled with well-draining potting mix. Sow seeds 1/4 inch deep and keep the soil consistently moist and warm (65-75°F). Provide bright, indirect light or use grow lights to encourage healthy seedling growth. Transplant seedlings outdoors after the danger of frost has passed and the soil has warmed up.",
+       "sowingOutdoorsDescription": "Cabbage can also be directly sown outdoors in early spring or late summer. Prepare a seedbed with loose, fertile soil and sow seeds 1/4 inch deep. Space seeds or thin seedlings to the desired spacing, allowing enough room for plants to grow to full size. Keep the soil consistently moist until seedlings emerge.",
+       "spaceBetweenPlants": "12\"-18\"",
+       "spaceBetweenRows": "24\"-36\"",
+       "squareFootPlantingRecommendationsMin": 1,
+       "squareFootPlantingRecommendationsMax": 2,
+       "lifeCycle": "Annual",
+       "seedDepth": "1/4\"",
+       "pHRange": "6.0 - 7.5",
+       "germinationSoilTemp": "45-85°F",
+       "season": "Cabbage should be planted in early spring for a spring harvest or in late summer for a fall harvest. It prefers cooler temperatures and is sensitive to heat."
+     },
+     "careAndMaintenance": {
+       "optimalSun": "Full Sun",
+       "growingSoilTemp": "60-75°F",
+       "growingDescription": "Cabbage prefers full sun and well-draining soil rich in organic matter. It requires regular watering, especially during dry periods, to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+       "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+       "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Fertilize cabbage plants with a balanced fertilizer once they become established.",
+       "pruningRequirements": "Cabbage generally does not require pruning. However, you can remove any yellowing or damaged leaves as needed to improve air circulation and aesthetics.",
+       "supportRequirements": "Cabbage plants may benefit from support, especially if they are heavily laden with large heads. Stake or cage plants to prevent them from toppling over."
+     },
+     "harvestingAndStorage": {
+       "daysToHarvest": "70-120 days from planting",
+       "timeToMaturity": "Cabbage typically matures and forms heads 70-120 days after planting, depending on the variety and growing conditions.",
+       "storageRecommendations": "Harvest cabbage when the heads are firm and solid, typically 6-10 inches in diameter. Cut the head from the stem with a sharp knife, leaving a few outer leaves attached to protect the head. Store harvested cabbage in the refrigerator for up to a few weeks. Wash and dry the heads before storing to remove any dirt or debris.",
+       "harvestDescription": "Harvest cabbage by cutting the head from the stem when it is firm and solid. Avoid letting the heads become loose or start to split, as this can negatively affect flavor and storage life."
+     },
+     "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Dill",
+             "description": "Dill can attract beneficial insects like ladybugs and lacewings, which prey on pests that may affect cabbage. Additionally, dill can enhance the flavor of cabbage when planted nearby."
+           },
+           {
+             "name": "Chamomile",
+             "description": "Chamomile can improve the flavor of cabbage and deter pests like cabbage moths and aphids when planted nearby. Additionally, its aromatic foliage can attract beneficial insects to the garden."
+           },
+           {
+             "name": "Celery",
+             "description": "Celery can help deter pests like cabbage worms and aphids when planted near cabbage. Its strong scent can mask the smell of the cabbage, making it less attractive to pests."
+           },
+           {
+             "name": "Onions",
+             "description": "Onions can help deter pests like cabbage worms and aphids when planted near cabbage. Their strong scent can mask the smell of the cabbage, making it less attractive to pests."
+           },
+           {
+             "name": "Potatoes",
+             "description": "Potatoes can help repel pests like cabbage worms and aphids when planted near cabbage. Additionally, planting potatoes near cabbage can help optimize space in the garden and improve soil health."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Strawberries",
+             "description": "Strawberries and cabbage have different soil pH and nutrient requirements. Planting them in close proximity may result in competition for resources and reduced yields for both crops."
+           },
+           {
+             "name": "Tomatoes",
+             "description": "Tomatoes and cabbage are susceptible to similar pests and diseases. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
+           },
+           {
+             "name": "Pole Beans",
+             "description": "Pole beans and other legumes can fix nitrogen in the soil, which may result in excessive leafy growth at the expense of cabbage head formation. Avoid planting pole beans near cabbage."
+           },
+           {
+             "name": "Broccoli",
+             "description": "Broccoli and cabbage are susceptible to similar pests and diseases. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
+           },
+           {
+             "name": "Cauliflower",
+             "description": "Cauliflower and cabbage are susceptible to similar pests and diseases. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
+           }
+         ]
+       },
+    "pests": [
+        {
+            "name": "Cabbage Worms",
+            "description": "Cabbage worms are the larvae of cabbage white butterflies and can damage cabbage plants by feeding on the foliage. Control cabbage worms by handpicking them off plants, applying organic insecticides like Bacillus thuringiensis (Bt), and using row covers to exclude adult butterflies."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Clubroot",
+            "description": "Clubroot is a soilborne disease that affects members of the Brassica family, including cabbage. It causes swelling and distortion of the roots, leading to stunted growth and poor yields. Prevent clubroot by practicing crop rotation, improving soil drainage, and using disease-resistant varieties."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest cabbage heads when they reach the desired size and firmness for the best flavor and texture.",
+        "Remove any damaged or yellowing outer leaves from cabbage plants throughout the growing season to promote air circulation and reduce the risk of disease.",
+        "Provide consistent moisture and fertility to cabbage plants for optimal growth and development.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Cabbage: Planting Guide",
+            "url": "https://www.almanac.com/plant/cabbage"
+        },
+        {
+            "title": "How to Harvest and Store Cabbage",
+            "url": "https://www.gardeningknowhow.com/edible/vegetables/cabbage/harvesting-cabbage.htm"
+        }
+    ]
+}

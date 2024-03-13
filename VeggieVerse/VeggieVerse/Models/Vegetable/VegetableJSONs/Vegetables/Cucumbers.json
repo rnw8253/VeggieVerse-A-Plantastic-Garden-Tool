@@ -1,0 +1,82 @@
+{
+    "plantName": "Cucumbers",
+    "description": "Cucumbers are warm-season vining vegetables known for their crisp texture and mild flavor. They belong to the Cucurbitaceae family and are closely related to squash, melons, and pumpkins. Cucumbers are commonly eaten fresh in salads, sandwiches, and as pickles.",
+    "thumbnailImageUrl": "Cucumbers_thumbnail",
+    "backgroundImageUrl": "Cucumbers_background",
+    "varieties": "Cucumbers come in various shapes, sizes, and colors, with each variety offering unique flavors and culinary uses. Some popular cucumber varieties include 'Marketmore', known for its straight, dark green fruits and excellent disease resistance; 'Burpless', valued for its mild, non-bitter flavor and smooth skin; 'Lemon', recognized for its round, yellow fruits with a mild, sweet flavor; and 'Armenian', prized for its long, ribbed fruits and crisp texture. These varieties, among others, offer a range of options suited for different culinary preferences and growing conditions.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Cucumbers can be started indoors 3-4 weeks before the last frost date. Plant seeds in biodegradable pots filled with seed-starting mix. Sow seeds 1/2 to 1 inch deep and keep the soil consistently moist and warm (70-85°F). Provide bright, indirect light or use grow lights to encourage healthy seedling growth. Transplant seedlings outdoors after the danger of frost has passed and the soil has warmed up.",
+        "sowingOutdoorsDescription": "Cucumbers can also be directly sown outdoors once the soil has warmed up and all danger of frost has passed. Choose a sunny location with well-drained soil. Plant seeds 1/2 to 1 inch deep and space them according to the recommended distance for the variety being grown. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "12\"-24\"",
+        "spaceBetweenRows": "36\"-48\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 2,
+        "lifeCycle": "Annual",
+        "seedDepth": "1/2 to 1 inch",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "70-95°F",
+        "season": "Cucumbers should be planted after the danger of frost has passed and the soil has warmed up in spring. They prefer warm temperatures and do not tolerate frost."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "70-95°F",
+        "growingDescription": "Cucumbers prefer full sun and well-drained soil rich in organic matter. They require regular watering, especially during dry periods, to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1-2 inches per week. Avoid overhead watering to prevent fungal diseases.",
+        "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress cucumbers with a balanced fertilizer once they start flowering.",
+        "pruningRequirements": "Cucumbers do not require pruning, but you can pinch off the growing tips to encourage branching and more fruit production.",
+        "supportRequirements": "Cucumbers are vining plants and benefit from support. Install trellises, stakes, or cages for the vines to climb."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "50-70 days from planting",
+        "timeToMaturity": "Cucumbers typically mature and are ready for harvest 50-70 days after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest cucumbers when they are firm, crisp, and have reached the desired size. Cut the fruits from the vine using pruning shears or a sharp knife, leaving a short stem attached. Store harvested cucumbers in the refrigerator for up to a week. Wash and dry the fruits before storing to remove any dirt or debris.",
+        "harvestDescription": "Harvest cucumbers regularly to encourage continuous fruit production. Cut the fruits from the vine when they are mature and have reached the desired size. Avoid letting cucumbers become overripe, as they can become bitter and seedy."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Beans",
+                "description": "Beans can be planted near cucumbers to help fix nitrogen in the soil and provide natural pest control in the garden."
+            },
+            {
+                "name": "Radishes",
+                "description": "Radishes can be planted near cucumbers to help repel cucumber beetles and provide natural pest control in the garden."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Potatoes",
+                "description": "Potatoes are not recommended to be planted near cucumbers as they may compete for space and nutrients."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Cucumber Beetles",
+            "description": "Cucumber beetles are small, striped or spotted beetles that feed on cucumber plants, causing damage to leaves, stems, and fruits. They can also transmit bacterial wilt and other diseases. Control cucumber beetles by handpicking them off plants, using row covers to exclude them from cucumber beds, and applying organic insecticides as needed."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that affects cucumbers, causing white powdery spots to appear on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, watering at the base of plants to avoid wetting foliage, and using fungicides as needed."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest cucumbers when they reach the desired size and color for the best flavor and texture.",
+        "Provide support for vining cucumber varieties with trellises, cages, or stakes to save space and improve air circulation.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed.",
+        "Water cucumber plants at the base to avoid wetting foliage and reduce the risk of disease."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Cucumbers: Planting Guide",
+            "url": "https://www.almanac.com/plant/cucumbers"
+        },
+        {
+            "title": "How to Harvest and Store Cucumbers",
+            "url": "https://www.gardeningknowhow.com/edible/vegetables/cucumber/harvesting-cucumbers.htm"
+        }
+    ]
+}
+

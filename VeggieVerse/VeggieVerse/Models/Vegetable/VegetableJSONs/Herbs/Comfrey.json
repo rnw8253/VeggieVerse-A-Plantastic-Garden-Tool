@@ -1,0 +1,85 @@
+
+{
+    "plantName": "Comfrey",
+    "description": "Comfrey (Symphytum officinale) is a perennial herb native to Europe and Asia but now found in many parts of the world. It is known for its deep taproot and large, hairy leaves, as well as its clusters of bell-shaped flowers that bloom in shades of purple, white, or pink. Comfrey has a long history of medicinal and agricultural use and is valued for its high nutrient content and potential healing properties.",
+    "thumbnailImageUrl": "Comfrey_thumbnail",
+    "backgroundImageUrl": "Comfrey_background",
+    "varieties": "Comfrey, scientifically known as Symphytum officinale, is a perennial herb native to Europe and parts of Asia. While there are no distinct varieties of comfrey, different cultivars may vary slightly in leaf size, flower color, and growth habit. Common cultivars include 'Bocking 14' and 'Bocking 4', which are known for their high yields and sterile seeds.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Comfrey is typically propagated from root cuttings rather than seeds. However, if you have access to comfrey seeds, they can be started indoors in pots or trays filled with well-draining potting mix. Sow seeds 1/4 inch deep and keep the soil consistently moist. Provide bright, indirect light until seedlings emerge.",
+        "sowingOutdoorsDescription": "Comfrey root cuttings are best planted directly outdoors in the garden. Choose a location with full sun to partial shade and well-drained soil. Plant root cuttings horizontally in the soil, with the growing buds facing upward. Space multiple cuttings 24-36 inches apart to allow for spreading growth.",
+        "spaceBetweenPlants": "24\"-36\"",
+        "spaceBetweenRows": "36\"-48\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Perennial",
+        "seedDepth": "1/4\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "65-75°F",
+        "season": "Comfrey can be planted outdoors in the spring or fall, depending on your growing zone. It prefers cool weather and well-drained soil."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun to Partial Shade",
+        "growingSoilTemp": "65-75°F",
+        "growingDescription": "Comfrey prefers full sun to partial shade and fertile, well-drained soil. Keep the soil consistently moist but not waterlogged. Mulch around plants to retain moisture and suppress weeds. Comfrey is a low-maintenance plant and does not require frequent watering once established.",
+        "wateringNeeds": "Regular watering to keep the soil consistently moist, especially during dry periods.",
+        "soilFertility": "Comfrey is a dynamic accumulator of nutrients and can help improve soil fertility. Incorporate compost or well-aged manure into the soil before planting to provide additional nutrients.",
+        "pruningRequirements": "Comfrey can be cut back to the ground several times throughout the growing season to encourage new growth and prevent it from becoming too woody. Harvest leaves regularly for use in compost, mulch, or liquid fertilizers.",
+        "supportRequirements": "Comfrey has sturdy stems and typically does not require support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "90-120 days from planting",
+        "timeToMaturity": "Comfrey typically matures and is ready for harvest 90-120 days after planting, depending on growing conditions.",
+        "storageRecommendations": "Harvest comfrey leaves as needed for use in various applications. Use fresh leaves immediately, or dry them for later use. To dry comfrey leaves, hang them upside down in a well-ventilated area out of direct sunlight until fully dried. Store dried leaves in an airtight container in a cool, dark place.",
+        "harvestDescription": "Harvest comfrey leaves by cutting them close to the base of the plant. Avoid harvesting more than one-third of the plant's leaves at a time to allow for continued growth."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Borage",
+                "description": "Borage is a beneficial companion plant for comfrey, as it attracts pollinators and provides shelter for beneficial insects. Planting them together can create a diverse and productive garden ecosystem."
+            },
+            {
+                "name": "Yarrow",
+                "description": "Yarrow is also a good companion plant for comfrey, as it has deep roots that can help improve soil structure and nutrient availability. Planting them together can enhance overall soil health and plant vigor."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Potatoes",
+                "description": "Potatoes are not recommended as companion plants for comfrey, as they may compete for space and nutrients in the soil. It's best to plant them in separate areas to avoid potential problems."
+            },
+            {
+                "name": "Tomatoes",
+                "description": "Tomatoes are also not recommended as companion plants for comfrey, as they have deep root systems and may compete for water and nutrients. It's best to plant them in separate areas to avoid potential problems."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Slugs and Snails",
+            "description": "Slugs and snails can feed on comfrey leaves, causing damage to young plants and reducing overall plant vigor. Control slugs and snails by handpicking them from the garden, using traps or barriers, and applying organic slug and snail baits sparingly."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a common fungal disease that can affect comfrey plants, causing white powdery patches to form on the leaves. It thrives in warm, humid conditions and can spread rapidly in crowded plantings. Control powdery mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest comfrey leaves regularly to promote continuous growth and prevent plants from becoming too large and woody.",
+        "Use comfrey leaves fresh or dried as a nutrient-rich mulch, compost activator, or fertilizer for other plants.",
+        "Avoid planting comfrey in areas where it may become invasive, as it can spread rapidly under the right conditions."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Comfrey: A Permaculture Favorite",
+            "url": "https://www.permaculturenews.org/2016/03/02/growing-comfrey-a-permaculture-favorite/"
+        },
+        {
+            "title": "Comfrey Cultivation Guide",
+            "url": "https://www.growveg.com/plants/us-and-canada/how-to-grow-comfrey/"
+        }
+    ]
+}

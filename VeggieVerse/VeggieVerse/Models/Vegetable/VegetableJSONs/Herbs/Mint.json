@@ -1,0 +1,77 @@
+
+{
+    "plantName": "Mint",
+    "description": "Mint is a fast-growing herb with aromatic leaves and a refreshing, cooling flavor. It is widely used in culinary dishes, beverages, and herbal remedies, prized for its invigorating scent and taste.",
+    "thumbnailImageUrl": "Mint_thumbnail",
+    "backgroundImageUrl": "Mint_background",
+    "varieties": "Mint, scientifically known as Mentha, is a genus of perennial herbs in the Lamiaceae family. There are many different species and cultivars of mint, each with its own unique flavor, fragrance, and growth habit. Common varieties include spearmint (Mentha spicata), peppermint (Mentha x piperita), chocolate mint (Mentha x piperita 'Chocolate'), and apple mint (Mentha suaveolens). Each variety offers distinct characteristics that make it suitable for various culinary, medicinal, and ornamental purposes.",
+     "sowingAndPlanting": {
+       "sowingIndoorsDescription": "Mint seeds can be started indoors in pots or trays filled with well-draining potting mix. Sow seeds on the soil surface and lightly press them into the soil. Keep the soil consistently moist and provide bright, indirect light or supplemental grow lights. Transplant seedlings outdoors after the last frost date in your area.",
+       "sowingOutdoorsDescription": "Mint seeds can also be directly sown outdoors in the garden after the last frost date. Choose a location with partial to full sun and well-drained soil. Scatter seeds over the soil surface and lightly rake them in. Keep the soil consistently moist until seedlings emerge.",
+       "spaceBetweenPlants": "12\"-18\"",
+       "spaceBetweenRows": "18\"-24\"",
+       "squareFootPlantingRecommendationsMin": 1,
+       "squareFootPlantingRecommendationsMax": 4,
+       "lifeCycle": "Perennial",
+       "seedDepth": "Surface sow",
+       "pHRange": "6.0 - 7.0",
+       "germinationSoilTemp": "65-75°F",
+       "season": "Mint should be planted outdoors after the last frost date in your area. It prefers cool temperatures and well-drained soil."
+     },
+     "careAndMaintenance": {
+       "optimalSun": "Partial Shade to Full Sun",
+       "growingSoilTemp": "60-70°F",
+       "growingDescription": "Mint prefers partial shade to full sun and moist, well-drained soil. Keep the soil consistently moist, especially during dry periods. Mulch around plants to retain moisture and suppress weeds. Mint is a vigorous grower and may become invasive if not contained.",
+       "wateringNeeds": "Regular watering to keep the soil consistently moist, especially during dry periods.",
+       "soilFertility": "Mint is not a heavy feeder and does not require fertilization. However, incorporating compost or well-aged manure into the soil before planting can provide some nutrients.",
+       "pruningRequirements": "Mint benefits from regular pruning to encourage bushy growth and prevent legginess. Pinch back the growing tips regularly to promote branching and harvest leaves as needed for culinary or medicinal use.",
+       "supportRequirements": "Mint generally does not require support."
+     },
+     "harvestingAndStorage": {
+       "daysToHarvest": "30-60 days from planting",
+       "timeToMaturity": "Mint typically matures and is ready for harvest 30-60 days after planting, depending on growing conditions.",
+       "storageRecommendations": "Harvest mint leaves as needed for culinary or medicinal use. Use fresh leaves immediately for cooking, or dry them for later use. To dry mint, hang the stems upside down in small bunches in a well-ventilated area out of direct sunlight. Once fully dried, store the leaves in an airtight container in a cool, dark place.",
+       "harvestDescription": "Harvest mint leaves by snipping the stems just above a leaf node. Avoid harvesting more than one-third of the plant's leaves at a time to allow for continued growth and health of the plant."
+     },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Basil",
+                "description": "Basil is a good companion for mint, as it may help deter certain pests and complement its aromatic qualities."
+            },
+            {
+                "name": "Rosemary",
+                "description": "Rosemary can be planted near mint as it complements its fragrance and both have similar cultural requirements."
+            }
+        ],
+        "badCompanionPlants": []
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids can sometimes infest mint, feeding on the sap of the leaves and causing distortion or yellowing. Control aphids by spraying affected plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs, and applying insecticidal soap or neem oil as needed."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that can affect mint, causing a white powdery growth on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest mint leaves as needed by snipping them with scissors or shears.",
+        "Pinch back growing tips regularly to encourage bushy growth.",
+        "Mulch around plants to retain moisture and suppress weeds.",
+        "Consider planting mint in containers to prevent it from spreading too vigorously."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Mint: Planting Guide",
+            "url": "https://www.almanac.com/plant/mint"
+        },
+        {
+            "title": "How to Harvest and Store Mint",
+            "url": "https://www.thespruceeats.com/how-to-harvest-and-store-mint-1389336"
+        }
+    ]
+}

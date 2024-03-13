@@ -1,0 +1,82 @@
+
+{
+    "plantName": "Garlic",
+    "description": "Garlic is a popular bulbous plant known for its pungent flavor and culinary versatility. It belongs to the Allium family and is closely related to onions, shallots, and leeks. Garlic bulbs consist of multiple cloves enclosed in papery skin and are commonly used in cooking to add flavor to a wide range of dishes.",
+    "thumbnailImageUrl": "Garlic_thumbnail",
+    "backgroundImageUrl": "Garlic_background",
+    "varieties": "Garlic comes in two main types: hardneck and softneck. Hardneck garlic varieties are known for their larger cloves, complex flavors, and scapes (flower stalks) that curl as they grow. Some popular hardneck varieties include 'German Red', 'Spanish Roja', and 'Music'. Softneck garlic varieties are characterized by their smaller cloves and longer storage life. Common softneck varieties include 'California Early', 'Inchelium Red', and 'Silverskin'. Each variety offers a unique flavor profile and adapts to different growing conditions.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Garlic cloves are typically planted outdoors directly into the soil in the fall, but they can also be started indoors in pots or trays filled with potting mix. Plant individual cloves 2 inches deep and 4-6 inches apart, with the pointed end facing up. Keep the soil consistently moist and place the containers in a cool location with indirect sunlight. Transplant the garlic outdoors once the shoots are well-established.",
+        "sowingOutdoorsDescription": "Plant garlic cloves outdoors in the fall, about 4-6 weeks before the first frost date. Choose a sunny location with well-drained soil. Break apart the garlic bulbs into individual cloves and plant them 2 inches deep and 4-6 inches apart, with the pointed end facing up. Cover the cloves with soil and mulch to protect them from winter weather.",
+        "spaceBetweenPlants": "4\"-6\"",
+        "spaceBetweenRows": "12\"-18\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Perennial",
+        "seedDepth": "2\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "50-70°F",
+        "season": "Garlic should be planted in the fall, about 4-6 weeks before the first frost date. It requires a period of cold temperatures to break dormancy and initiate growth."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "50-70°F",
+        "growingDescription": "Garlic prefers full sun and well-drained soil rich in organic matter. Water regularly, especially during dry periods, to keep the soil consistently moist but not waterlogged. Mulch around the plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1 inch per week.",
+        "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress garlic with a balanced fertilizer once shoots emerge in spring.",
+        "pruningRequirements": "Garlic does not require pruning.",
+        "supportRequirements": "Garlic does not require support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "180-210 days from planting",
+        "timeToMaturity": "Garlic typically matures and is ready for harvest 180-210 days after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest garlic when the tops begin to yellow and fall over. Carefully dig up the bulbs using a garden fork, being careful not to damage them. Allow the bulbs to dry in a well-ventilated area out of direct sunlight for 2-3 weeks. Once dry, trim the roots and tops, leaving about an inch of stem attached. Store garlic bulbs in a cool, dry place with good air circulation.",
+        "harvestDescription": "Harvest garlic by gently loosening the soil around the bulbs and lifting them from the ground. Allow the bulbs to cure before storing them."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Lettuce",
+                "description": "Lettuce can be planted near garlic to help repel pests like aphids and provide natural pest control in the garden."
+            },
+            {
+                "name": "Carrots",
+                "description": "Carrots can be planted near garlic to help repel pests like carrot rust fly and provide natural pest control in the garden."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Beans",
+                "description": "Beans are not recommended to be planted near garlic as they may compete for space and nutrients."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Garlic Root Maggot",
+            "description": "Garlic root maggots are small, white larvae that feed on the roots of garlic plants, causing stunted growth and reduced yields. Control garlic root maggots by practicing crop rotation, using floating row covers to exclude flies, and applying beneficial nematodes to the soil."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "White Rot",
+            "description": "White rot is a fungal disease that affects garlic plants, causing white, fluffy growth on bulbs and foliage. It thrives in wet, poorly-drained soil. Prevent white rot by planting garlic in well-draining soil, practicing crop rotation, and avoiding overhead watering."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest garlic bulbs when the lower leaves turn yellow and begin to dry out for the best flavor and storage quality.",
+        "Cure harvested garlic bulbs by hanging them in a warm, dry, well-ventilated area for 2-4 weeks to improve storage quality.",
+        "Practice crop rotation to prevent the buildup of soilborne pests and diseases in garlic beds.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Garlic: Planting Guide",
+            "url": "https://www.almanac.com/plant/garlic"
+        },
+        {
+            "title": "How to Harvest and Store Garlic",
+            "url": "https://www.gardeningknowhow.com/edible/herbs/garlic/harvesting-garlic.htm"
+        }
+    ]
+}

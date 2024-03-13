@@ -56,7 +56,7 @@ struct VegetableNavBarView: View {
 struct VegetableNavBarView_Previews: PreviewProvider {
     static var previews: some View {
         VStack {
-            VegetableNavBarView(title: "Tomato", titleColor: Color.white, shadowColor: .black, openColor: .green, height: 100, curveVal: 50, backgroundImage: "Tomato_background")
+            VegetableNavBarView(title: "Tomatoes", titleColor: Color.white, shadowColor: .black, openColor: .green, height: 100, curveVal: 50, backgroundImage: "Tomatoes_background")
             Spacer()
         }
     }
@@ -69,6 +69,7 @@ extension VegetableNavBarView {
         } label: {
             Image(systemName: "chevron.left")
         }
+        .frame(width: 50, height: 50)
     }
     
     private var titleSection: some View {

@@ -1,0 +1,117 @@
+{
+    "plantName": "Apricots",
+    "description": "Apricots are small, golden-orange fruits known for their sweet, juicy flesh and delicate flavor. They belong to the Rosaceae family and are closely related to peaches, plums, and cherries. Apricots are typically grown on deciduous trees known as apricot trees and are widely cultivated in temperate regions around the world. They are enjoyed fresh, dried, canned, or used in various culinary applications, including jams, preserves, desserts, and savory dishes.",
+    "thumbnailImageUrl": "Apricots_thumbnail",
+    "backgroundImageUrl": "Apricots_background",
+    "varieties": "Apricots come in a variety of cultivars, each with its own unique flavor, texture, and suitability for different climates. Some popular apricot varieties include 'Moorpark', known for its large size and rich flavor; 'Goldcot', prized for its sweetness and productivity; 'Tomcot', favored for its early ripening and resistance to late frosts; 'Royal Blenheim', cherished for its intense apricot flavor and juiciness; and 'Tilton', valued for its firm texture and excellent canning properties. These varieties, among others, offer a range of characteristics to suit different preferences and growing conditions.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Apricot trees are typically propagated from grafted saplings rather than grown from seeds. Purchase young apricot trees from a reputable nursery or garden center, selecting varieties suitable for your climate and growing conditions.",
+        "sowingOutdoorsDescription": "Plant apricot trees in late winter or early spring before bud break. Choose a sunny location with well-drained soil. Dig a hole slightly larger than the root ball of the tree and backfill with soil, ensuring the graft union is above the soil line. Space trees according to their mature size, typically 15-20 feet apart.",
+        "spaceBetweenPlants": "15\'-20\'",
+        "spaceBetweenRows": "Varies based on planting scheme",
+        "squareFootPlantingRecommendationsMin": 0,
+        "squareFootPlantingRecommendationsMax": 0,
+        "lifeCycle": "Perennial",
+        "seedDepth": "N/A",
+        "pHRange": "6.0 - 7.5",
+        "germinationSoilTemp": "N/A",
+        "season": "Apricot trees should be planted in late winter or early spring before bud break. They prefer a chilling period during winter and thrive in regions with mild winters and hot summers."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "60-85°F",
+        "growingDescription": "Apricot trees require full sun and well-drained soil. Water newly planted trees regularly to establish a deep root system. Mulch around trees to retain moisture, suppress weeds, and regulate soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1-2 inches per week, especially during dry periods.",
+        "soilFertility": "Incorporate organic matter into the soil before planting to improve fertility and structure. Fertilize apricot trees in early spring with a balanced fertilizer according to package instructions.",
+        "pruningRequirements": "Prune apricot trees annually in late winter to remove dead, diseased, or crossing branches. Thin out the canopy to improve air circulation and light penetration. Train young trees to a central leader or desired shape.",
+        "supportRequirements": "Young apricot trees may need support until they establish a strong root system. Stake trees at planting or as needed to prevent leaning or damage from wind."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "Varies by variety and growing conditions",
+        "timeToMaturity": "Apricot trees typically begin bearing fruit 2-4 years after planting, depending on the variety, rootstock, and growing conditions.",
+        "storageRecommendations": "Harvest apricots when they are fully ripe, indicated by their color, flavor, and firmness. Gently twist or lift apricots from the tree, taking care not to damage the fruit or branches. Store harvested apricots at room temperature for a few days or in the refrigerator for longer storage.",
+        "harvestDescription": "Harvest apricots by gently twisting or lifting them from the tree when they are fully ripe. Handle apricots carefully to avoid bruising or damaging the fruit."
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
+            {
+              "name": "Comfrey",
+              "description": "Comfrey planted near apricot trees can improve soil fertility with its deep roots and nutrient-rich leaves. It also acts as a dynamic accumulator, bringing up minerals from deep in the soil."
+            },
+            {
+              "name": "Chamomile",
+              "description": "Chamomile can attract beneficial insects like hoverflies and parasitic wasps while repelling pests like aphids and nematodes. It also releases nutrients into the soil as it decomposes."
+            },
+            {
+              "name": "Dwarf Marigolds",
+              "description": "Dwarf marigolds planted around apricot trees can deter pests like nematodes and attract beneficial insects like ladybugs and lacewings. They also add color and beauty to the garden."
+            },
+            {
+              "name": "Nasturtiums",
+              "description": "Nasturtiums planted near apricot trees can repel pests like aphids, whiteflies, and squash bugs. They also attract beneficial insects and add color to the garden."
+            },
+            {
+              "name": "Borage",
+              "description": "Borage planted near apricot trees can attract pollinators like bees and improve soil health with its deep taproot. It also deters pests like tomato hornworms and cabbage worms."
+            },
+            {
+              "name": "Lavender",
+              "description": "Lavender planted near apricot trees can attract pollinators like bees and repel pests like moths, fleas, and mosquitoes. It also adds fragrance and beauty to the garden."
+            }
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Grass",
+              "description": "Grass and other ground covers that compete with apricot trees for nutrients and water should be avoided. They can also provide habitat for pests."
+            },
+            {
+              "name": "Walnuts",
+              "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including apricot trees. Avoid planting apricot trees near walnut trees."
+            },
+            {
+              "name": "Potatoes",
+              "description": "Potatoes are susceptible to diseases like potato blight and can attract pests like Colorado potato beetles, making them poor companions for apricot trees."
+            },
+            {
+              "name": "Corn",
+              "description": "Corn is a heavy feeder that competes for nutrients and can shade out apricot trees. Additionally, corn can attract pests like aphids and corn borers."
+            },
+            {
+              "name": "Fennel",
+              "description": "Fennel produces chemicals that inhibit the growth of certain plants, including apricot trees. Avoid planting fennel near apricot trees."
+            },
+            {
+              "name": "Kohlrabi",
+              "description": "Kohlrabi can inhibit the growth of apricot trees due to chemical interactions in the soil. Avoid planting kohlrabi near apricot trees."
+            }
+          ]
+        },
+    "pests": [
+        {
+            "name": "Apricot Moth",
+            "description": "The apricot moth is a common pest of apricot trees, laying its eggs on developing fruit. The larvae hatch and burrow into the fruit, causing damage and making the apricots unmarketable. Prevent apricot moth damage by monitoring for adult moths with pheromone traps, applying insecticidal sprays or beneficial nematodes to control larvae, and removing infested fruit promptly."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Brown Rot",
+            "description": "Brown rot is a fungal disease that affects apricot trees, causing brown, rotting lesions on fruit and twigs. It thrives in warm, humid conditions and can lead to significant fruit loss. Prevent brown rot by practicing good sanitation, removing and disposing of infected fruit and branches promptly, and applying fungicidal sprays preventatively."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest apricots when they are ripe for the best flavor and texture.",
+        "Store harvested apricots in a cool, humid environment to prolong freshness and prevent spoilage.",
+        "Prune apricot trees annually to remove dead, diseased, or damaged wood and improve airflow."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Apricots: Planting Guide",
+            "url": "https://www.almanac.com/plant/apricots"
+        },
+        {
+            "title": "How to Harvest and Store Apricots",
+            "url": "https://www.gardeningknowhow.com/edible/fruits/apricots/harvesting-and-storing-apricots.htm"
+        }
+    ]
+}
+

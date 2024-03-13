@@ -1,0 +1,109 @@
+
+{
+    "plantName": "Hibiscus",
+    "description": "Hibiscus is a genus of flowering plants belonging to the Malvaceae family. These tropical or subtropical plants are known for their large, showy flowers, which come in a variety of colors including red, pink, yellow, and white. There are hundreds of species of hibiscus, many of which are cultivated for their ornamental value in gardens and landscapes. In addition to their beauty, some species of hibiscus are also valued for their culinary and medicinal uses.",
+    "thumbnailImageUrl": "Hibiscus_thumbnail",
+    "backgroundImageUrl": "Hibiscus_background",
+    "varieties": "Hibiscus, known for its vibrant, showy flowers, comes in various cultivars, each with its own unique flower color, size, and growth habit. Some popular hibiscus varieties include 'Rose of Sharon', prized for its large, trumpet-shaped flowers in shades of pink, white, or purple; 'Tropical Hibiscus', known for its large, colorful blooms and tropical appearance; 'Hardy Hibiscus', valued for its tolerance to cold temperatures and large, dinner plate-sized flowers; and 'Luna Series', which offers compact growth and a wide range of flower colors. These varieties, among others, provide options suited for different climates and landscape settings.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Hibiscus seeds can be started indoors 6-8 weeks before the last frost date. Sow seeds in trays or pots filled with seed starting mix, covering them lightly. Keep the soil consistently moist and provide warmth and bright light for optimal germination.",
+        "sowingOutdoorsDescription": "Sow hibiscus seeds directly into the garden after the danger of frost has passed and the soil has warmed. Plant seeds 1/4 to 1/2 inch deep in well-drained soil amended with compost. Space plants according to their mature size, typically 2-3 feet apart.",
+        "spaceBetweenPlants": "2\'-3\'",
+        "spaceBetweenRows": "",
+        "squareFootPlantingRecommendationsMin": 0,
+        "squareFootPlantingRecommendationsMax": 0,
+        "lifeCycle": "Perennial (some varieties may be annual)",
+        "seedDepth": "1/4\"-1/2\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "70-85°F",
+        "season": "Hibiscus should be planted in spring after the danger of frost has passed. Tropical hibiscus varieties should be treated as annuals in colder climates."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "70-85°F",
+        "growingDescription": "Hibiscus plants thrive in full sun and well-drained soil. Water regularly, aiming to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture and suppress weeds.",
+        "wateringNeeds": "Regular watering, 1-2 inches per week.",
+        "soilFertility": "Incorporate compost into the soil before planting to improve fertility and soil structure. Side-dress with compost or a balanced fertilizer during the growing season.",
+        "pruningRequirements": "Prune hibiscus plants in late winter or early spring to remove dead or weak branches and promote bushy growth and flowering. Pinch off spent flowers to encourage continuous blooming.",
+        "supportRequirements": "Some hibiscus varieties may benefit from staking or support cages, especially when young or in windy areas."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "Varies by variety",
+        "timeToMaturity": "Hibiscus plants typically begin flowering in their first or second year and continue to bloom throughout the growing season.",
+        "storageRecommendations": "Harvest hibiscus flowers when fully open and vibrant in color. Use fresh flowers immediately or dry them for later use in teas, herbal remedies, or crafts.",
+        "harvestDescription": "Harvest hibiscus flowers by snipping them from the plant with sharp, clean pruners. Choose flowers that are fully open and free from damage or pests."
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
+            {
+              "name": "Lavender",
+              "description": "Lavender can attract beneficial insects like bees and parasitic wasps to the hibiscus garden, enhancing pollination and controlling pests like aphids and whiteflies."
+            },
+            {
+              "name": "Marigolds",
+              "description": "Marigolds can help repel pests like nematodes and whiteflies from the hibiscus garden with their strong scent. They also attract beneficial insects like ladybugs and lacewings."
+            },
+            {
+              "name": "Nasturtiums",
+              "description": "Nasturtiums can be interplanted with hibiscus to help repel pests like aphids and attract beneficial insects like ladybugs and lacewings. They also add color and beauty to the garden."
+            },
+            {
+              "name": "Rosemary",
+              "description": "Rosemary has aromatic foliage that can help repel pests like mosquitoes and flies from the hibiscus garden. It also attracts pollinators like bees and butterflies."
+            },
+            {
+              "name": "Chamomile",
+              "description": "Chamomile can attract beneficial insects like hoverflies, which prey on aphids and other pests that may infest hibiscus plants. It also has similar cultural requirements and can enhance the aesthetics of the garden."
+            }
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Grass",
+              "description": "Grass and other ground covers that compete with hibiscus for nutrients, water, and sunlight should be avoided. They can also provide habitat for pests and diseases that affect hibiscus plants."
+            },
+            {
+              "name": "Potatoes",
+              "description": "Potatoes are susceptible to diseases like potato blight and can attract pests like Colorado potato beetles, making them poor companions for hibiscus."
+            },
+            {
+              "name": "Walnuts",
+              "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including hibiscus. Avoid planting hibiscus near walnut trees."
+            },
+            {
+              "name": "Sunflowers",
+              "description": "Sunflowers can compete with hibiscus for sunlight, water, and nutrients, potentially reducing flower production. Additionally, sunflowers may attract birds that can damage hibiscus flowers."
+            },
+            {
+              "name": "Tomatoes",
+              "description": "Tomatoes have different soil and water requirements than hibiscus and may compete for resources. Additionally, tomatoes may attract pests and diseases that can affect hibiscus plants."
+            }
+          ]
+        },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids are small, soft-bodied insects that feed on the sap of hibiscus plants, causing distorted growth and yellowing of leaves. They can also transmit viral diseases. Control aphids by spraying plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs and lacewings, or applying insecticidal soap or neem oil."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that can affect hibiscus plants, especially in warm, humid conditions. It appears as a white, powdery coating on leaves and stems and can inhibit plant growth and flowering. Control powdery mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
+        }
+    ],
+    "tipsAndTricks": [
+        "Mulch around hibiscus plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "Prune hibiscus plants regularly to promote bushy growth and abundant flowering.",
+        "Harvest hibiscus flowers when they are fully open and at their peak of freshness for the best flavor and fragrance."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Hibiscus: Planting Guide",
+            "url": "https://www.gardeningknowhow.com/ornamental/flowers/hibiscus/hibiscus-plant-care.htm"
+        },
+        {
+            "title": "Hibiscus Cultivation and Uses",
+            "url": "https://www.bhg.com/gardening/plant-dictionary/annual/hibiscus/"
+        }
+    ]
+}

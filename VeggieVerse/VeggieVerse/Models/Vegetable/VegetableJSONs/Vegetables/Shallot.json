@@ -1,0 +1,90 @@
+
+{
+    "plantName": "Shallot",
+    "description": "Shallots are a type of onion known for their mild, sweet flavor and distinctive, elongated shape. They belong to the Allium genus and are closely related to onions and garlic. Shallots are commonly used in cooking to add flavor to a wide variety of dishes, including soups, sauces, and salads. They are easy to grow in the garden and can be harvested and stored for later use.",
+    "thumbnailImageUrl": "Shallot_thumbnail",
+    "backgroundImageUrl": "Shallot_background",
+    "varieties": "Shallots come in various varieties, each with its unique flavor profile and bulb characteristics. Common shallot varieties include 'French Red', known for its reddish-brown skin and mild, sweet flavor; 'Dutch Yellow', prized for its golden-brown skin and robust flavor; and 'Grey Griselle', which offers a greyish-pink skin and pungent taste. These varieties provide options suited for different culinary preferences and growing conditions.",
+     "sowingAndPlanting": {
+       "sowingIndoorsDescription": "Shallots are typically propagated from bulbs rather than seeds. If you want to get a head start on the growing season, you can start shallot bulbs indoors in biodegradable pots or trays filled with potting mix. Plant bulbs 1 inch deep with the pointed end facing up. Keep the soil consistently moist and warm (60-70°F). Transplant shallot seedlings outdoors once they have developed roots and the weather has warmed up.",
+       "sowingOutdoorsDescription": "Shallot bulbs should be planted directly outdoors in the early spring or late fall. Choose a sunny location with well-drained soil. Plant bulbs 1 inch deep and space them 4-6 inches apart in rows spaced 12-18 inches apart. Keep the soil consistently moist until bulbs start to grow.",
+       "spaceBetweenPlants": "4\"-6\"",
+       "spaceBetweenRows": "12\"-18\"",
+       "squareFootPlantingRecommendationsMin": 9,
+       "squareFootPlantingRecommendationsMax": 16,
+       "lifeCycle": "Perennial (usually grown as an annual)",
+       "seedDepth": "1\"",
+       "pHRange": "6.0 - 7.0",
+       "germinationSoilTemp": "60-70°F",
+       "season": "Shallots prefer cool weather and should be planted in the early spring or late fall. They can tolerate light frosts and may overwinter in mild climates."
+     },
+     "careAndMaintenance": {
+       "optimalSun": "Full Sun to Partial Shade",
+       "growingSoilTemp": "60-70°F",
+       "growingDescription": "Shallots prefer full sun but can tolerate partial shade, especially in warmer climates. They thrive in well-drained, fertile soil with a pH of 6.0-7.0. Shallots require regular watering to keep the soil consistently moist, especially during dry periods. Mulch around plants to conserve moisture and suppress weeds.",
+       "wateringNeeds": "Regular watering, aiming for 1 inch per week.",
+       "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress shallots with a balanced fertilizer once they start growing vigorously.",
+       "pruningRequirements": "Shallots do not require pruning.",
+       "supportRequirements": "Shallots do not require support."
+     },
+     "harvestingAndStorage": {
+       "daysToHarvest": "90-120 days from planting",
+       "timeToMaturity": "Shallots typically mature and are ready for harvest 90-120 days after planting, depending on the variety and growing conditions.",
+       "storageRecommendations": "Harvest shallots when the tops start to dry and turn brown. Use a garden fork or trowel to loosen the soil around the bulbs and lift them gently from the ground. Remove any excess soil and trim off the tops. Cure harvested shallots in a warm, dry place with good air circulation for 2-3 weeks to allow them to dry and develop flavor. Store cured shallots in a cool, dark place with good ventilation for several months.",
+       "harvestDescription": "Harvest shallots when the tops start to dry and turn brown, usually in late summer or early fall. Gently lift them from the ground, taking care not to damage the bulbs. Rinse the shallots thoroughly to remove any soil before curing or storing them."
+     },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Lettuce",
+                "description": "Lettuce and shallots make excellent companions, as they have similar growing requirements and can be interplanted to maximize space in the garden."
+            },
+            {
+                "name": "Carrots",
+                "description": "Carrots and shallots can be interplanted to provide a diverse and attractive garden bed. Carrots help loosen the soil, making it easier for shallots to grow, while shallots deter pests that may affect carrots."
+            },
+            {
+                "name": "Spinach",
+                "description": "Spinach and shallots can be interplanted to provide a diverse and attractive garden bed. Spinach helps shade the soil and retain moisture, while shallots deter pests that may affect spinach."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Beans",
+                "description": "Beans and other legumes can compete with shallots for water and nutrients, so it's best to avoid planting them too close together."
+            },
+            {
+                "name": "Brassicas",
+                "description": "Brassicas like cabbage, broccoli, and cauliflower can attract pests that may affect shallots. It's best to keep them separate in the garden."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Onion Maggots",
+            "description": "Onion maggots are the larvae of small flies that feed on the roots of shallot plants, causing stunted growth and wilting. Control onion maggots by practicing crop rotation, using row covers to protect young plants, and applying beneficial nematodes to the soil."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Botrytis Rot",
+            "description": "Botrytis rot is a fungal disease that can affect shallot bulbs, causing grayish-brown lesions and decay. Control botrytis rot by avoiding overhead watering, providing good air circulation around plants, and removing and destroying infected bulbs."
+        }
+    ],
+    "tipsAndTricks": [
+        "Plant shallots in well-draining soil with plenty of organic matter for best results.",
+        "Harvest shallots when the tops have begun to yellow and die back, but before the bulbs start to split or sprout.",
+        "Cure harvested shallots in a warm, dry location with good air circulation before storing them.",
+        "Inspect plants regularly for signs of pests and diseases, and take appropriate action as needed to prevent damage."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Shallots: Planting Guide",
+            "url": "https://www.almanac.com/plant/shallots"
+        },
+        {
+            "title": "Shallots: A Flavorful Addition to the Garden",
+            "url": "https://extension.umn.edu/vegetables/growing-shallots"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+
+{
+    "plantName": "Sage",
+    "description": "Sage is a perennial herb with gray-green, velvety leaves and a strong, earthy flavor. It is widely used in culinary dishes, particularly in Mediterranean cuisine, and is prized for its aromatic qualities and medicinal properties.",
+    "thumbnailImageUrl": "Sage_thumbnail",
+    "backgroundImageUrl": "Sage_background",
+    "varieties": "Sage (Salvia officinalis) comes in various cultivars, each with its unique characteristics and flavors. Some common varieties include 'Common Sage' with its classic aroma and flavor, 'Purple Sage' known for its striking purple foliage, 'Tricolor Sage' with variegated leaves of green, white, and purple, and 'Golden Sage' valued for its golden-yellow foliage.",
+     "sowingAndPlanting": {
+       "sowingIndoorsDescription": "Sage seeds can be started indoors 6-8 weeks before the last frost date in your area. Plant seeds in pots or trays filled with well-draining potting mix. Sow seeds shallowly, barely covering them with soil, and keep the soil consistently moist. Place the pots in a warm location with indirect sunlight.",
+       "sowingOutdoorsDescription": "Sage can also be propagated from stem cuttings or divided from established plants. Take 4-6 inch stem cuttings from healthy sage plants, remove the lower leaves, and dip the cut end in rooting hormone. Plant the cuttings in well-draining soil or a mix of perlite and vermiculite. Keep the soil consistently moist until roots develop.",
+       "spaceBetweenPlants": "12\"-24\"",
+       "spaceBetweenRows": "24\"-36\"",
+       "squareFootPlantingRecommendationsMin": 1,
+       "squareFootPlantingRecommendationsMax": 4,
+       "lifeCycle": "Perennial",
+       "seedDepth": "1/8\"",
+       "pHRange": "6.0 - 7.0",
+       "germinationSoilTemp": "60-70°F",
+       "season": "Sage can be planted outdoors in spring after the danger of frost has passed. It prefers well-drained soil and full sun."
+     },
+     "careAndMaintenance": {
+       "optimalSun": "Full Sun",
+       "growingSoilTemp": "60-70°F",
+       "growingDescription": "Sage thrives in full sun and well-drained soil with good airflow. It is drought-tolerant once established and does not require frequent watering. Allow the soil to dry out between waterings to prevent root rot. Mulching around plants can help conserve moisture and suppress weeds.",
+       "wateringNeeds": "Water newly planted sage regularly until established. Once established, water infrequently, allowing the soil to dry out between waterings.",
+       "soilFertility": "Sage is not heavy feeder and can thrive in poor soil. However, incorporating compost or well-aged manure into the soil before planting can provide some nutrients.",
+       "pruningRequirements": "Prune sage regularly to maintain its shape and encourage bushy growth. Trim back leggy or woody stems and remove any dead or diseased branches. Avoid heavy pruning, as sage does not regenerate well from old wood.",
+       "supportRequirements": "Sage generally does not require support."
+     },
+     "harvestingAndStorage": {
+       "daysToHarvest": "Varies depending on variety and growing conditions.",
+       "timeToMaturity": "Sage can be harvested for culinary use once the plant is well-established, usually within the first year after planting.",
+       "storageRecommendations": "Harvest sage leaves as needed for culinary use. Use fresh sage immediately for the best flavor. Alternatively, you can dry sage leaves by hanging them upside down in a warm, well-ventilated area until they are dry and brittle. Store dried sage leaves in an airtight container in a cool, dark place.",
+       "harvestDescription": "Harvest sage leaves by snipping them from the plant as needed. Avoid harvesting more than one-third of the plant at a time to ensure healthy growth."
+     },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Rosemary",
+                "description": "Rosemary is a good companion for sage, as it may help deter certain pests and complement its aromatic qualities."
+            },
+            {
+                "name": "Thyme",
+                "description": "Thyme can be planted near sage as it complements its fragrance and both have similar cultural requirements."
+            }
+        ],
+        "badCompanionPlants": []
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids can sometimes infest sage, feeding on the sap of the leaves and causing distortion or yellowing. Control aphids by spraying affected plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs, and applying insecticidal soap or neem oil as needed."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that can affect sage, causing a white powdery growth on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest sage leaves as needed by snipping them with scissors or shears.",
+        "Prune sage regularly to encourage bushy growth and remove dead or woody stems.",
+        "Mulch around plants to retain moisture and suppress weeds.",
+        "Consider planting sage in containers to prevent it from spreading too vigorously."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Sage: Planting Guide",
+            "url": "https://www.almanac.com/plant/sage"
+        },
+        {
+            "title": "How to Harvest and Store Sage",
+            "url": "https://www.gardeningknowhow.com/edible/herbs/sage/harvesting-sage.htm"
+        }
+    ]
+}

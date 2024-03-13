@@ -1,0 +1,85 @@
+
+{
+    "plantName": "Chia",
+    "description": "Chia (Salvia hispanica) is an annual herbaceous plant native to Central and South America, prized for its edible seeds that are rich in omega-3 fatty acids, fiber, protein, vitamins, and minerals. Chia seeds have a long history of culinary and medicinal use, dating back to ancient Aztec and Mayan civilizations. Today, chia seeds are widely recognized as a superfood and are consumed in various forms, including raw, soaked, ground, or added to foods and beverages. In addition to its nutritional benefits, chia is also valued as an ornamental plant for its attractive foliage and flowers.",
+    "thumbnailImageUrl": "Chia_thumbnail",
+    "backgroundImageUrl": "Chia_background",
+    "varieties": "Chia (Salvia hispanica) is a species of flowering plant in the mint family Lamiaceae. While there aren't distinct varieties of chia like some other crops, different cultivars may vary slightly in growth habit and seed characteristics. Common cultivars include 'Mia', 'Barbara', and 'Benexia'. These cultivars may differ in traits such as seed size, color, and yield potential.",
+     "sowingAndPlanting": {
+       "sowingIndoorsDescription": "Chia seeds can be started indoors in seed trays or pots filled with well-draining potting mix. Sow the seeds evenly on the soil surface and lightly press them into the soil. Keep the soil consistently moist and place the trays in a warm, sunny location or under grow lights. Transplant seedlings outdoors once they have developed several true leaves.",
+       "sowingOutdoorsDescription": "Chia seeds can also be directly sown outdoors after the last frost date in your area. Prepare a well-draining garden bed or container and sow the seeds evenly on the soil surface. Cover them lightly with a thin layer of soil and water gently. Keep the soil consistently moist until the seeds germinate.",
+       "spaceBetweenPlants": "12\"-18\"",
+       "spaceBetweenRows": "12\"-24\"",
+       "squareFootPlantingRecommendationsMin": 1,
+       "squareFootPlantingRecommendationsMax": 2,
+       "lifeCycle": "Annual",
+       "seedDepth": "1/4\"",
+       "pHRange": "6.0 - 7.5",
+       "germinationSoilTemp": "70-75°F",
+       "season": "Chia should be planted after the last frost date in your area when the soil has warmed up. It prefers warm temperatures and well-drained soil."
+     },
+     "careAndMaintenance": {
+       "optimalSun": "Full Sun",
+       "growingSoilTemp": "70-80°F",
+       "growingDescription": "Chia thrives in full sun and well-drained, fertile soil with a pH of 6.0-7.5. Keep the soil consistently moist but not waterlogged, especially during the germination and seedling stages. Once established, chia is drought-tolerant and requires less frequent watering.",
+       "wateringNeeds": "Regular watering to keep the soil consistently moist until seeds germinate.",
+       "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Chia is not a heavy feeder and does not typically require additional fertilization.",
+       "pruningRequirements": "Chia does not require pruning.",
+       "supportRequirements": "Chia plants typically do not require support."
+     },
+     "harvestingAndStorage": {
+       "daysToHarvest": "90-120 days from planting",
+       "timeToMaturity": "Chia typically matures and is ready for harvest 90-120 days after planting, depending on growing conditions.",
+       "storageRecommendations": "Harvest chia seeds when they are fully mature and dry. Cut the seed heads from the plants and place them in a paper bag to dry further. Once completely dry, thresh the seeds from the seed heads and store them in an airtight container in a cool, dry place.",
+       "harvestDescription": "Harvest chia seeds by cutting the seed heads from the plants once they have turned brown and dry. Allow the seed heads to dry further in a paper bag, then thresh the seeds from the seed heads and store them for later use."
+     },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Basil",
+                "description": "Basil is a beneficial companion plant for chia, as it can help repel pests like aphids, mosquitoes, and flies while also enhancing the flavor of chia leaves when grown nearby. Planting them together can create a diverse and productive herb garden."
+            },
+            {
+                "name": "Marigolds",
+                "description": "Marigolds are also good companion plants for chia, as they can help repel pests like nematodes and attract beneficial insects like ladybugs and parasitic wasps. Planting them together can improve soil health and reduce pest pressure."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Cilantro",
+                "description": "Cilantro is not recommended as a companion plant for chia, as it may compete for nutrients and space in the garden. It's best to plant them in separate areas to avoid potential problems."
+            },
+            {
+                "name": "Sunflowers",
+                "description": "Sunflowers are also not recommended as companion plants for chia, as they may overshadow chia plants and inhibit their growth. It's best to plant them in separate areas to avoid potential problems."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids are small, soft-bodied insects that feed on the sap of chia plants, causing distorted growth and yellowing of leaves. They can also transmit viral diseases. Control aphids by spraying plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs and lacewings, or applying insecticidal soap or neem oil."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that can affect chia plants, especially in warm, humid conditions. It appears as a white, powdery coating on leaves and stems and can inhibit plant growth and seed production. Control powdery mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
+        }
+    ],
+    "tipsAndTricks": [
+        "Provide consistent moisture and avoid waterlogged conditions, as chia plants are sensitive to overwatering.",
+        "Harvest chia seeds when they are fully mature and dry to prevent spoilage.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action to control them before they become a problem."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Chia",
+            "url": "https://www.gardeners.com/how-to/grow-chia-plants/8735.html"
+        },
+        {
+            "title": "Chia: Planting and Care Guide",
+            "url": "https://www.almanac.com/plant/chia"
+        }
+    ]
+}

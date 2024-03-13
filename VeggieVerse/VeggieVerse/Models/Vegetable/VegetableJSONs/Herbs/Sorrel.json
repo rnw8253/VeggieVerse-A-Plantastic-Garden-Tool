@@ -1,0 +1,76 @@
+
+{
+    "plantName": "Sorrel",
+    "description": "Sorrel is a leafy green herb with tart, lemony-flavored leaves. It is commonly used in culinary dishes, particularly in soups, salads, and sauces, prized for its tangy taste and nutritional benefits.",
+    "thumbnailImageUrl": "Sorrel_thumbnail",
+    "backgroundImageUrl": "Sorrel_background",
+    "varieties": "Sorrel (Rumex acetosa) comes in various cultivars, each with its unique characteristics and flavors. Some common varieties include 'French Sorrel' known for its lemony flavor and large, arrow-shaped leaves, 'Red Veined Sorrel' with vibrant red veins running through its green leaves, and 'Broadleaf Sorrel' with broad, lance-shaped leaves.",
+     "sowingAndPlanting": {
+       "sowingIndoorsDescription": "Sorrel seeds can be started indoors 4-6 weeks before the last frost date in your area. Plant seeds in pots or trays filled with well-draining potting mix. Sow seeds shallowly, barely covering them with soil, and keep the soil consistently moist. Place the pots in a cool location with indirect sunlight.",
+       "sowingOutdoorsDescription": "Sorrel can also be directly sown outdoors in early spring or fall. Choose a location with well-drained soil and partial shade. Plant seeds shallowly, barely covering them with soil, and keep the soil consistently moist until germination occurs.",
+       "spaceBetweenPlants": "12\"-18\"",
+       "spaceBetweenRows": "18\"-24\"",
+       "squareFootPlantingRecommendationsMin": 1,
+       "squareFootPlantingRecommendationsMax": 4,
+       "lifeCycle": "Perennial",
+       "seedDepth": "1/4\"",
+       "pHRange": "6.0 - 7.0",
+       "germinationSoilTemp": "55-70°F",
+       "season": "Sorrel can be planted outdoors in early spring or fall. It prefers cool weather and partial shade."
+     },
+     "careAndMaintenance": {
+       "optimalSun": "Partial Shade",
+       "growingSoilTemp": "55-70°F",
+       "growingDescription": "Sorrel thrives in partial shade and well-drained soil with good airflow. It prefers cool weather and may bolt in hot temperatures. Keep the soil consistently moist, especially during dry periods. Mulching around plants can help conserve moisture and suppress weeds.",
+       "wateringNeeds": "Water sorrel regularly to keep the soil consistently moist. Avoid overwatering, as soggy soil can lead to root rot.",
+       "soilFertility": "Sorrel is not heavy feeder and can thrive in poor soil. However, incorporating compost or well-aged manure into the soil before planting can provide some nutrients.",
+       "pruningRequirements": "Prune sorrel regularly to remove any damaged or yellowing leaves. Harvesting leaves regularly also helps to promote new growth and prevent the plant from becoming leggy.",
+       "supportRequirements": "Sorrel generally does not require support."
+     },
+     "harvestingAndStorage": {
+       "daysToHarvest": "30-60 days from planting",
+       "timeToMaturity": "Sorrel can be harvested once the leaves are large enough to use, usually within 30-60 days after planting.",
+       "storageRecommendations": "Harvest sorrel leaves as needed for culinary use. Use fresh sorrel immediately for the best flavor. Alternatively, you can store harvested sorrel leaves in the refrigerator for up to a week. To extend the shelf life, you can blanch and freeze sorrel leaves for longer storage.",
+       "harvestDescription": "Harvest sorrel leaves by cutting them from the plant as needed. Harvest leaves from the outer parts of the plant to encourage new growth."
+     },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Lettuce",
+                "description": "Lettuce is a good companion for sorrel, as it has similar cultural requirements and can provide shade to prevent sorrel from bolting in hot weather."
+            },
+            {
+                "name": "Chives",
+                "description": "Chives can be planted near sorrel as they have similar cultural requirements and complement each other in the garden."
+            }
+        ],
+        "badCompanionPlants": []
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids can sometimes infest sorrel, feeding on the sap of the leaves and causing distortion or yellowing. Control aphids by spraying affected plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs, and applying insecticidal soap or neem oil as needed."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that can affect sorrel, causing a white powdery growth on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest sorrel leaves as needed by snipping them with scissors or shears.",
+        "Mulch around plants to retain moisture and suppress weeds.",
+        "Consider planting sorrel in containers to prevent it from spreading too vigorously."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Sorrel: Planting Guide",
+            "url": "https://www.gardeningknowhow.com/edible/herbs/sorrel/growing-sorrel-herb.htm"
+        },
+        {
+            "title": "How to Harvest and Store Sorrel",
+            "url": "https://www.gardeningknowhow.com/edible/herbs/sorrel/how-to-harvest-sorrel.htm"
+        }
+    ]
+}

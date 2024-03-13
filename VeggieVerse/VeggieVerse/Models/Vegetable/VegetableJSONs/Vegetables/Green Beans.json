@@ -1,0 +1,81 @@
+{
+    "plantName": "Green Beans",
+    "description": "Green beans, also known as string beans or snap beans, are tender, elongated pods harvested from bean plants. They belong to the Fabaceae family and are a popular warm-season vegetable grown for their crisp texture and fresh flavor. Green beans come in various shapes and colors, including round, flat, and stringless varieties.",
+    "thumbnailImageUrl": "Green Beans_thumbnail",
+    "backgroundImageUrl": "Green Beans_background",
+    "varieties": "Green beans, also known as snap beans or string beans, come in various types, each with its unique characteristics and culinary uses. Some popular green bean varieties include 'Blue Lake', known for its tender pods and classic flavor; 'Provider', prized for its early and abundant yields; 'Kentucky Wonder', recognized for its long, flavorful pods; and 'Contender', valued for its disease resistance and productivity. These varieties, among others, offer a range of options suited for different culinary preferences and growing conditions.",
+     "sowingAndPlanting": {
+       "sowingIndoorsDescription": "Green beans are typically direct-sown outdoors, as they do not transplant well. However, you can start them indoors in biodegradable pots filled with seed-starting mix 2-3 weeks before the last frost date. Plant seeds 1 inch deep and keep the soil consistently moist and warm (65-85°F). Transplant seedlings outdoors after the danger of frost has passed and the soil has warmed up.",
+       "sowingOutdoorsDescription": "Green beans are best sown directly outdoors once the soil has warmed up and all danger of frost has passed. Choose a sunny location with well-drained soil. Plant seeds 1 inch deep and space them according to the recommended distance for the variety being grown. Keep the soil consistently moist until seedlings emerge.",
+       "spaceBetweenPlants": "3\"-6\"",
+       "spaceBetweenRows": "18\"-36\"",
+       "squareFootPlantingRecommendationsMin": 1,
+       "squareFootPlantingRecommendationsMax": 4,
+       "lifeCycle": "Annual",
+       "seedDepth": "1\"",
+       "pHRange": "6.0 - 7.0",
+       "germinationSoilTemp": "70-85°F",
+       "season": "Green beans should be planted after the danger of frost has passed and the soil has warmed up in spring. They prefer warm temperatures and do not tolerate frost."
+     },
+     "careAndMaintenance": {
+       "optimalSun": "Full Sun",
+       "growingSoilTemp": "70-80°F",
+       "growingDescription": "Green beans prefer full sun and well-drained soil rich in organic matter. Water regularly, especially during dry periods, to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+       "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+       "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress green beans with a balanced fertilizer once they start flowering.",
+       "pruningRequirements": "Green beans do not require pruning.",
+       "supportRequirements": "Some green bean varieties may benefit from support, especially pole beans. Install trellises, stakes, or cages for the vines to climb."
+     },
+     "harvestingAndStorage": {
+       "daysToHarvest": "50-70 days from planting",
+       "timeToMaturity": "Green beans typically mature and are ready for harvest 50-70 days after planting, depending on the variety and growing conditions.",
+       "storageRecommendations": "Harvest green beans when the pods are firm, crisp, and have reached the desired size. Use a sharp knife or scissors to cut the pods from the plant, being careful not to damage the vines. Store harvested green beans in the refrigerator for up to a week. Wash and dry the pods before storing to remove any dirt or debris.",
+       "harvestDescription": "Harvest green beans regularly to encourage continuous production. Pick the pods when they are young and tender, usually before the seeds inside have fully developed. Avoid letting the pods become overripe, as they can become tough and fibrous."
+     },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Carrots",
+                "description": "Carrots can be planted near green beans to help repel pests like carrot rust fly and provide natural pest control in the garden."
+            },
+            {
+                "name": "Radishes",
+                "description": "Radishes can be planted near green beans to help repel pests like aphids and provide natural pest control in the garden."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Onions",
+                "description": "Onions are not recommended to be planted near green beans as they may compete for space and nutrients."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids are small, soft-bodied insects that feed on green bean plants by sucking sap from leaves and stems. They reproduce rapidly and can cause distorted growth, yellowing, and wilting. Control aphids by spraying affected plants with water to dislodge them, introducing natural predators like ladybugs or lacewings, and using insecticidal soap or neem oil as needed."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that affects green bean plants, causing white powdery spots to appear on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, watering at the base of plants to avoid wetting foliage, and using fungicides as needed."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest green beans when they are young and tender for the best flavor and texture.",
+        "Provide support for vining green bean varieties with trellises, cages, or stakes to save space and improve air circulation.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Green Beans: Planting Guide",
+            "url": "https://www.almanac.com/plant/beans"
+        },
+        {
+            "title": "How to Harvest and Store Green Beans",
+            "url": "https://www.gardeningknowhow.com/edible/vegetables/beans/harvesting-beans.htm"
+        }
+    ]
+}
+

@@ -1,0 +1,117 @@
+{
+    "plantName": "Pineapples",
+    "description": "Pineapples are tropical fruits known for their sweet and tangy flavor, as well as their spiky, rough exterior and crown of spiky leaves. Native to South America, pineapples are now cultivated in tropical and subtropical regions around the world. They are prized for their juicy flesh, which can be eaten fresh, juiced, or used in cooking and baking. Pineapple plants are herbaceous perennials with long, sword-shaped leaves arranged in a rosette pattern. They produce a single fruit per plant, which develops from the center of the leafy rosette.",
+    "thumbnailImageUrl": "Pineapples_thumbnail",
+    "backgroundImageUrl": "Pineapples_background",
+    "varieties": "Pineapples come in various cultivars, each with its unique flavor, sweetness, and size. Some popular pineapple varieties include 'Smooth Cayenne', prized for its large size, sweet flavor, and low acidity; 'Queen Victoria', known for its compact size, golden-yellow flesh, and intense sweetness; 'Red Spanish', valued for its reddish-orange skin and juicy, tart-sweet flesh; and 'MD-2', a hybrid variety with low acidity, high sugar content, and a uniform, cylindrical shape. These varieties, among others, offer a range of options suited for different culinary uses and growing conditions.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Pineapples are typically propagated from the crowns of mature fruits. Twist or cut off the leafy crown from a ripe pineapple fruit, making sure to remove any excess flesh from the base. Allow the crown to dry for a few days to prevent rotting, then plant it in a well-draining potting mix, burying the base of the crown slightly. Keep the soil consistently moist and provide bright, indirect light until roots develop.",
+        "sowingOutdoorsDescription": "Pineapples can also be planted directly in the ground in warm climates. Prepare a planting site with well-draining soil and amend with compost if necessary. Plant pineapple crowns in the ground, burying the base slightly, and water thoroughly. Provide protection from strong winds and frost, especially for young plants.",
+        "spaceBetweenPlants": "12\"-24\"",
+        "spaceBetweenRows": "Varies based on planting scheme",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 2,
+        "lifeCycle": "Perennial",
+        "seedDepth": "Not applicable",
+        "pHRange": "4.5 - 6.5",
+        "germinationSoilTemp": "70-85°F",
+        "season": "Pineapples should be planted in spring or early summer in warm, tropical climates. They require consistently warm temperatures and are sensitive to frost."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "70-85°F",
+        "growingDescription": "Pineapples prefer full sun and well-draining soil. They require regular watering, especially during dry periods, to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+        "soilFertility": "Incorporate organic matter, such as compost or well-rotted manure, into the soil before planting to improve fertility and soil structure. Fertilize pineapple plants with a balanced fertilizer according to package instructions.",
+        "pruningRequirements": "Remove any dead or damaged leaves from pineapple plants as needed. Once fruit develops, support the growing fruit by placing a small net or mesh bag around it to prevent it from becoming too heavy for the plant.",
+        "supportRequirements": "Pineapple plants may benefit from support in windy conditions or when bearing fruit. Provide stakes or a small support structure to prevent toppling over."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "18-36 months from planting",
+        "timeToMaturity": "Pineapple plants typically begin producing fruit 18-36 months after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest pineapples when they are fully ripe, usually when the fruit develops a golden-yellow color and gives off a sweet aroma. Twist or cut the fruit from the plant with a sharp knife. Store harvested pineapples at room temperature for a few days, or refrigerate them for longer storage.",
+        "harvestDescription": "Harvest pineapples by twisting or cutting the fruit from the plant with a sharp knife when they are fully ripe. Handle the fruit carefully to avoid damaging it."
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
+            {
+              "name": "Sweet Potatoes",
+              "description": "Sweet potatoes can be intercropped with pineapples to provide ground cover, suppress weeds, and improve soil structure. They also have shallow roots that won't compete with the deeper roots of pineapple plants."
+            },
+            {
+              "name": "Marigolds",
+              "description": "Marigolds have a strong aroma that can repel pests like nematodes and aphids. Planting marigolds around pineapple plants can help protect them from these pests."
+            },
+            {
+              "name": "Basil",
+              "description": "Basil has aromatic oils that can repel pests like mosquitoes, aphids, and thrips. Interplanting basil with pineapple plants can help deter these pests and improve overall garden health."
+            },
+            {
+              "name": "Comfrey",
+              "description": "Comfrey is a dynamic accumulator, bringing up nutrients from deep in the soil and making them available to pineapple plants. Its deep roots also help improve soil structure and prevent erosion."
+            },
+            {
+              "name": "Turmeric",
+              "description": "Turmeric can be intercropped with pineapple plants, providing additional ground cover and suppressing weeds. It also has pest-repelling properties that can benefit pineapple plants."
+            }
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Grass",
+              "description": "Grass competes with pineapple plants for water, nutrients, and sunlight. Additionally, grass can harbor pests and diseases that may affect pineapple plants. Keep the area around pineapple plants free of grass and other competing vegetation."
+            },
+            {
+              "name": "Citrus",
+              "description": "Citrus trees may compete with pineapple plants for resources like sunlight, water, and nutrients, as they have similar cultural requirements. Keep citrus trees separated from pineapple plants to avoid competition."
+            },
+            {
+              "name": "Avocado",
+              "description": "Avocado trees have similar cultural requirements to pineapple plants but may compete for resources like water and nutrients. Additionally, avocado trees can be susceptible to some of the same pests and diseases as pineapple plants."
+            },
+            {
+              "name": "Walnuts",
+              "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including pineapple plants. Avoid planting pineapple plants near walnut trees."
+            },
+            {
+              "name": "Peach",
+              "description": "Peach trees may compete with pineapple plants for resources and can also be susceptible to some of the same pests and diseases. Keep peach trees separated from pineapple plants to avoid competition and potential disease transmission."
+            }
+          ]
+        },
+    "pests": [
+        {
+            "name": "Pineapple Mealybug",
+            "description": "Pineapple mealybugs are small insects that feed on the sap of pineapple plants, causing stunted growth and yellowing of leaves. They excrete honeydew, which attracts ants and promotes the growth of sooty mold. Control pineapple mealybug populations with insecticidal soaps or oils, or by introducing natural predators like ladybugs and lacewings."
+        },
+        {
+            "name": "Pineapple Red Scale",
+            "description": "Pineapple red scale is a common pest of pineapple plants, feeding on the sap of leaves and fruit. Infestations can lead to leaf discoloration, wilting, and reduced fruit production. Control pineapple red scale with insecticidal sprays or by introducing natural predators like ladybugs and lacewings."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Pineapple Wilt",
+            "description": "Pineapple wilt is a fungal disease that affects pineapple plants, causing yellowing and wilting of leaves, as well as rotting of the crown and roots. It can lead to the death of the plant. Control pineapple wilt by avoiding overwatering, improving soil drainage, and applying fungicidal sprays preventatively."
+        },
+        {
+            "name": "Pineapple Black Rot",
+            "description": "Pineapple black rot is a fungal disease that affects pineapple plants, causing black, sunken lesions on fruit and foliage. It can lead to fruit rot and reduced yields. Control pineapple black rot by removing and destroying infected plant material, improving air circulation around plants, and applying fungicidal sprays preventatively."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest pineapples when fully ripe for the best flavor and sweetness.",
+        "Monitor plants regularly for signs of pests and diseases, and take prompt action to control infestations.",
+        "Avoid overwatering pineapple plants, as it can lead to root rot and other fungal diseases."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Pineapples: Planting Guide",
+            "url": "https://www.almanac.com/plant/pineapples"
+        },
+        {
+            "title": "How to Grow Pineapples at Home",
+            "url": "https://www.thespruce.com/growing-pineapple-plants-1902455"
+        }
+    ]
+}
+

@@ -1,0 +1,110 @@
+
+{
+    "plantName": "Brussels Sprouts",
+    "description": "Brussels sprouts are cool-season biennial vegetables prized for their small, cabbage-like heads that grow along tall stalks. They have a mild, slightly nutty flavor and are often roasted, sautéed, or steamed as a side dish.",
+    "thumbnailImageUrl": "Brussels Sprouts_thumbnail",
+    "backgroundImageUrl": "Brussels Sprouts_background",
+    "varieties": "Brussels sprouts come in various varieties, each offering unique characteristics such as head size, flavor, and maturity time. Some popular Brussels sprouts varieties include 'Long Island Improved', known for its large, firm sprouts and excellent flavor; 'Jade Cross', prized for its early maturity and uniform sprouts; 'Diablo', recognized for its red-tinged leaves and sweet, nutty flavor; and 'Falstaff', valued for its disease resistance and compact plant size. These varieties, among others, provide a range of options suited for different culinary preferences and growing conditions.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Brussels sprouts are typically started indoors 12-14 weeks before the last frost date. Plant seeds in trays or pots filled with well-draining potting mix. Sow seeds 1/4 inch deep and keep the soil consistently moist and warm (65-75°F). Provide bright, indirect light or use grow lights to encourage healthy seedling growth. Transplant seedlings outdoors after the danger of frost has passed and the soil has warmed up.",
+        "sowingOutdoorsDescription": "Brussels sprouts can also be directly sown outdoors in early spring or mid-summer. Prepare a seedbed with loose, fertile soil and sow seeds 1/4 inch deep. Space seeds or thin seedlings to the desired spacing, allowing enough room for plants to grow to full size. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "18\"-24\"",
+        "spaceBetweenRows": "24\"-36\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 2,
+        "lifeCycle": "Biennial",
+        "seedDepth": "1/4\"",
+        "pHRange": "6.0 - 7.5",
+        "germinationSoilTemp": "60-70°F",
+        "season": "Brussels sprouts should be planted in early spring for a fall harvest. They require a long growing season and cool temperatures to develop properly."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun to Partial Shade",
+        "growingSoilTemp": "55-75°F",
+        "growingDescription": "Brussels sprouts prefer full sun but can tolerate partial shade, especially in warmer climates. They grow best in well-draining soil rich in organic matter. Keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+        "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Fertilize Brussels sprouts with a balanced fertilizer once they become established.",
+        "pruningRequirements": "Brussels sprouts generally do not require pruning. However, you can remove any yellowing or damaged leaves as needed to improve air circulation and aesthetics.",
+        "supportRequirements": "Brussels sprouts may benefit from support, especially as the plants grow taller and produce heavy sprouts. Stake or cage plants to prevent them from toppling over."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "90-120 days from planting",
+        "timeToMaturity": "Brussels sprouts typically mature 90-120 days after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest Brussels sprouts when the sprouts are firm, green, and about 1-2 inches in diameter. Start harvesting from the bottom of the stalk, working upward as the sprouts mature. Cut the sprouts from the stem with a sharp knife or scissors. Store harvested Brussels sprouts in the refrigerator for up to a week. Remove any yellowing or damaged outer leaves before storing.",
+        "harvestDescription": "Harvest Brussels sprouts by cutting the sprouts from the stem with a sharp knife or scissors when they reach the desired size and firmness. Avoid letting the sprouts become loose or start to flower, as this can negatively affect flavor and texture."
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
+            {
+              "name": "Beets",
+              "description": "Beets can help repel pests like aphids and cabbage worms when planted near Brussels sprouts. Their strong scent can mask the smell of the Brussels sprouts, making them less attractive to pests."
+            },
+            {
+              "name": "Nasturtiums",
+              "description": "Nasturtiums can attract beneficial insects like ladybugs and hoverflies, which prey on pests that may affect Brussels sprouts. Additionally, their flowers add color and beauty to the garden."
+            },
+            {
+              "name": "Dill",
+              "description": "Dill can attract beneficial insects like ladybugs and lacewings, which help control pests like aphids and cabbage worms. However, be mindful of planting dill near young Brussels sprout plants as it may stunt their growth."
+            },
+            {
+              "name": "Thyme",
+              "description": "Thyme can help deter pests like cabbage worms and aphids when planted near Brussels sprouts. Its aromatic foliage can also enhance the flavor of nearby plants and attract beneficial insects."
+            },
+            {
+              "name": "Marigolds",
+              "description": "Marigolds can help repel pests like nematodes and cabbage worms when planted near Brussels sprouts. Their strong scent can mask the smell of the Brussels sprouts, making them less attractive to pests."
+            }
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Strawberries",
+              "description": "Strawberries and Brussels sprouts have different soil pH and nutrient requirements. Planting them in close proximity may result in competition for resources and reduced yields for both crops."
+            },
+            {
+              "name": "Tomatoes",
+              "description": "Tomatoes and Brussels sprouts are susceptible to similar pests and diseases. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
+            },
+            {
+              "name": "Pole Beans",
+              "description": "Pole beans and other legumes can fix nitrogen in the soil, which may result in excessive leafy growth at the expense of Brussels sprout development. Avoid planting pole beans near Brussels sprouts."
+            },
+            {
+              "name": "Sunflowers",
+              "description": "Sunflowers can produce tall stalks that may shade out Brussels sprouts and compete for water and nutrients. Additionally, sunflowers may attract pests like aphids and whiteflies."
+            },
+            {
+              "name": "Sage",
+              "description": "Sage contains compounds that may inhibit the growth of nearby plants, including Brussels sprouts. Avoid planting sage near Brussels sprouts to prevent competition and reduced yields."
+            }
+          ]
+        },
+    "pests": [
+        {
+            "name": "Cabbage Worms",
+            "description": "Cabbage worms are the larvae of cabbage white butterflies and can damage Brussels sprouts by feeding on the foliage. Control cabbage worms by handpicking them off plants, applying organic insecticides like Bacillus thuringiensis (Bt), and using row covers to exclude adult butterflies."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Clubroot",
+            "description": "Clubroot is a soilborne disease that affects members of the Brassica family, including Brussels sprouts. It causes swelling and distortion of the roots, leading to stunted growth and poor yields. Prevent clubroot by practicing crop rotation, improving soil drainage, and using disease-resistant varieties."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest Brussels sprouts when the heads are firm, green, and about 1-2 inches in diameter for the best flavor and texture.",
+        "Prune lower leaves from Brussels sprouts plants as they grow to redirect energy to the development of sprouts.",
+        "Provide support for tall Brussels sprouts varieties by staking or using cages to prevent them from toppling over in windy conditions.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Brussels Sprouts: Planting Guide",
+            "url": "https://www.almanac.com/plant/brussels-sprouts"
+        },
+        {
+            "title": "How to Harvest and Store Brussels Sprouts",
+            "url": "https://www.growveg.com/guides/harvesting-and-storing-brussels-sprouts/"
+        }
+    ]
+}

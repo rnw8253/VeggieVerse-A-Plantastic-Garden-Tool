@@ -1,0 +1,82 @@
+
+{
+    "plantName": "Cilantro",
+    "description": "Cilantro, also known as coriander in some regions, is a versatile herb with bright green, finely cut leaves and a pungent flavor. Both the leaves and seeds of the cilantro plant are used in cooking, adding a distinctive aroma and taste to dishes.",
+    "thumbnailImageUrl": "Cilantro_thumbnail",
+    "varieties": "Cilantro, also known as coriander in some regions, is a herbaceous plant belonging to the Apiaceae family. While there are no distinct varieties of cilantro, different cultivars may vary slightly in flavor, leaf shape, and growth habit. Some common cultivars include 'Slow Bolt', 'Delfino', and 'Santo'. These cultivars may differ in their tolerance to bolting (going to seed) and leaf appearance.",
+     "sowingAndPlanting": {
+       "sowingIndoorsDescription": "Cilantro seeds can be started indoors 3-4 weeks before the last frost date in your area. Plant seeds in biodegradable pots or trays filled with well-draining potting mix. Sow seeds 1/4 inch deep and keep the soil consistently moist and warm (60-70°F). Provide ample light or use supplemental grow lights. Transplant seedlings outdoors once all danger of frost has passed.",
+       "sowingOutdoorsDescription": "Cilantro seeds can also be directly sown outdoors in early spring or fall. Choose a location with full sun to partial shade and well-drained soil. Sow seeds 1/4 inch deep and space them 6-8 inches apart. Keep the soil consistently moist until seedlings emerge.",
+       "spaceBetweenPlants": "6\"-8\"",
+       "spaceBetweenRows": "12\"-18\"",
+       "squareFootPlantingRecommendationsMin": 4,
+       "squareFootPlantingRecommendationsMax": 9,
+       "lifeCycle": "Annual",
+       "seedDepth": "1/4\"",
+       "pHRange": "6.0 - 7.0",
+       "germinationSoilTemp": "60-70°F",
+       "season": "Cilantro should be planted in early spring or fall, depending on your growing zone. It prefers cool weather and can tolerate light frost."
+     },
+     "careAndMaintenance": {
+       "optimalSun": "Full Sun to Partial Shade",
+       "growingSoilTemp": "60-70°F",
+       "growingDescription": "Cilantro prefers full sun to partial shade and well-drained, fertile soil with a pH of 6.0-7.0. Keep the soil consistently moist but not waterlogged. Mulch around plants to retain moisture and suppress weeds. Cilantro has shallow roots and may benefit from regular watering during dry periods.",
+       "wateringNeeds": "Regular watering to keep the soil consistently moist.",
+       "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Cilantro is not a heavy feeder and does not typically require additional fertilization.",
+       "pruningRequirements": "Regular harvesting helps prevent cilantro from bolting (going to seed) too quickly. Harvest leaves regularly to promote new growth and prevent the plant from becoming leggy.",
+       "supportRequirements": "Cilantro does not require support."
+     },
+     "harvestingAndStorage": {
+       "daysToHarvest": "45-70 days from planting",
+       "timeToMaturity": "Cilantro typically matures and is ready for harvest 45-70 days after planting, depending on growing conditions.",
+       "storageRecommendations": "Harvest cilantro leaves and stems as needed for culinary use. Use fresh cilantro immediately for best flavor. If you have excess cilantro, you can store it in the refrigerator wrapped in a damp paper towel and placed in a plastic bag for up to a week. Alternatively, you can freeze cilantro leaves for longer storage.",
+       "harvestDescription": "Harvest cilantro leaves and stems by cutting them close to the base of the plant. Avoid harvesting more than one-third of the plant at a time to allow for continued growth."
+     },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Basil",
+                "description": "Basil is a good companion for cilantro, as it can help repel pests like aphids and mosquitoes."
+            },
+            {
+                "name": "Chives",
+                "description": "Chives are beneficial when planted near cilantro, as they help deter aphids and other pests."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Fennel",
+                "description": "Avoid planting cilantro near fennel, as it may inhibit its growth."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids are small, sap-sucking insects that can infest cilantro plants, causing distorted growth and yellowing of leaves. Control aphids by spraying affected plants with water to dislodge them, introducing natural predators like ladybugs, and applying insecticidal soap or neem oil as needed."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that affects cilantro plants, causing a white powdery growth on leaves. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest cilantro regularly to encourage new growth and prevent flowering.",
+        "Water cilantro regularly to keep the soil evenly moist, especially during dry periods.",
+        "Mulch around cilantro plants to conserve moisture, suppress weeds, and regulate soil temperature.",
+        "Fertilize with a balanced fertilizer at planting and throughout the growing season to promote healthy growth.",
+        "Rotate cilantro crops annually to prevent disease buildup in the soil."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Cilantro: Planting Guide",
+            "url": "https://www.almanac.com/plant/cilantro"
+        },
+        {
+            "title": "How to Harvest and Store Cilantro",
+            "url": "https://www.gardeningknowhow.com/edible/herbs/cilantro/harvesting-cilantro.htm"
+        }
+    ]
+}

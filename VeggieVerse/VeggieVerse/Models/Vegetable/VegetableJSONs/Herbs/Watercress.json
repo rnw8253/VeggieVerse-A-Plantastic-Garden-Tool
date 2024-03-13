@@ -1,0 +1,79 @@
+
+{
+    "plantName": "Watercress",
+    "description": "Watercress (Nasturtium officinale) is a fast-growing, aquatic or semi-aquatic perennial herb native to Europe and Asia. It belongs to the Brassicaceae family, which includes other cruciferous vegetables like kale and broccoli. Watercress is prized for its peppery flavor and nutrient-rich leaves, making it a popular ingredient in salads, sandwiches, and soups. It thrives in cool, running water and is commonly found growing in streams, springs, and other freshwater sources. In addition to its culinary uses, watercress has a long history of medicinal and therapeutic applications, particularly in traditional herbal medicine.",
+    "thumbnailImageUrl": "Watercress_thumbnail",
+    "backgroundImageUrl": "Watercress_background",
+    "varieties": "Watercress (Nasturtium officinale) comes in several varieties, including standard, broadleaf, and upland watercress. Standard watercress is the most common variety, known for its peppery flavor and tender leaves. Broadleaf watercress has larger, broader leaves, while upland watercress is grown in drier conditions and has a slightly milder flavor.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Watercress is typically grown from seeds or cuttings. If starting from seeds indoors, sow them in trays or pots filled with potting mix. Scatter seeds evenly over the soil surface and lightly press them in. Keep the soil consistently moist and provide indirect sunlight until seedlings emerge.",
+        "sowingOutdoorsDescription": "Watercress can also be directly sown outdoors in a shallow stream or in containers with constantly flowing water. Choose a location with partial shade and constantly flowing, cool water. Scatter seeds over the prepared bed or container and keep the soil consistently moist until seeds germinate.",
+        "spaceBetweenPlants": "6\"-12\"",
+        "spaceBetweenRows": "12\"-18\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Perennial (often grown as an annual)",
+        "seedDepth": "Surface sow",
+        "pHRange": "6.0 - 7.5",
+        "germinationSoilTemp": "45-75°F",
+        "season": "Watercress can be planted outdoors in the early spring or fall, as it prefers cool weather."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Partial Shade",
+        "growingSoilTemp": "55-75°F",
+        "growingDescription": "Watercress prefers partial shade and constantly moist, fertile soil. It thrives in the margins of streams, ponds, or in containers with flowing water. Keep the soil consistently moist and provide shade during the hottest part of the day. Regularly harvest leaves to encourage new growth and prevent the plant from becoming leggy.",
+        "wateringNeeds": "Keep watercress consistently moist, providing ample water to keep the soil saturated but not waterlogged.",
+        "soilFertility": "Watercress benefits from fertile soil rich in organic matter. Incorporate compost or well-aged manure into the soil before planting to improve fertility.",
+        "pruningRequirements": "Regularly harvest watercress leaves to encourage bushy growth and prevent the plant from becoming leggy. Remove any yellowing or damaged leaves as needed.",
+        "supportRequirements": "Watercress generally does not require support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "30-60 days from planting",
+        "timeToMaturity": "Watercress can be harvested as soon as the leaves are large enough to use, typically within 30-60 days after planting.",
+        "storageRecommendations": "Harvest watercress leaves as needed for culinary use. Use fresh leaves immediately for the best flavor. To store, place the stems in a glass of water and refrigerate, changing the water daily. Alternatively, you can wrap the stems in damp paper towels and store them in a plastic bag in the refrigerator for up to a week.",
+        "harvestDescription": "Harvest watercress leaves by snipping them from the plant as needed. Harvest leaves when they are young and tender for the best flavor."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Mint",
+                "description": "Mint is a good companion plant for watercress, as it thrives in similar conditions and can help deter pests with its aromatic foliage. Planting mint around watercress can also enhance the overall flavor and aroma of the garden."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Horseradish",
+                "description": "Horseradish is not recommended as a companion plant for watercress, as it may compete for resources and space. Additionally, horseradish can release allelopathic compounds that inhibit the growth of nearby plants, including watercress."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids are common pests of watercress, especially when grown indoors or in hydroponic systems. They feed on the sap of the plant, causing stunted growth, yellowing leaves, and the spread of viral diseases. Control aphids by introducing natural predators like ladybugs or lacewings, spraying affected plants with insecticidal soap or neem oil, or using physical barriers like row covers."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Downy Mildew",
+            "description": "Downy mildew is a fungal disease that can affect watercress, particularly in humid conditions. It appears as yellow or brown patches on the leaves, accompanied by a fuzzy growth on the undersides. Improve air circulation around the plants, avoid overhead watering, and apply fungicidal sprays as needed to control downy mildew."
+        }
+    ],
+    "tipsAndTricks": [
+        "Plant watercress in a location with partial shade and consistently moist soil or shallow water.",
+        "Keep the soil or water evenly moist to promote healthy growth and prevent bolting.",
+        "Harvest watercress frequently to encourage bushier growth and prevent it from becoming too leggy.",
+        "Store fresh watercress in the refrigerator for up to a week, or place the stems in water to extend its shelf life.",
+        "Monitor watercress regularly for signs of pests and diseases, and take appropriate action to control infestations."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Watercress in Your Backyard",
+            "url": "https://www.almanac.com/plant/watercress"
+        },
+        {
+            "title": "Watercress Recipes and Cooking Tips",
+            "url": "https://www.bbcgoodfood.com/recipes/collection/watercress"
+        }
+    ]
+}

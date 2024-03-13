@@ -1,0 +1,77 @@
+
+{
+    "plantName": "Oregano",
+    "description": "Oregano is a pungent herb with small, aromatic leaves and a strong, savory flavor. It is commonly used in Mediterranean and Italian cuisine, prized for its culinary versatility and robust taste.",
+    "thumbnailImageUrl": "Oregano_thumbnail",
+    "backgroundImageUrl": "Oregano_background",
+    "varieties": "Oregano, scientifically known as Origanum vulgare, is a perennial herb belonging to the mint family (Lamiaceae). There are several cultivated varieties of oregano, each with its own flavor profile and growth habit. Common varieties include Greek oregano (Origanum vulgare subsp. hirtum) with a strong, spicy flavor, Italian oregano (Origanum x majoricum) with a milder taste, and Mexican oregano (Lippia graveolens) with citrusy notes.",
+     "sowingAndPlanting": {
+       "sowingIndoorsDescription": "Oregano seeds can be started indoors in pots or trays filled with well-draining potting mix. Sow seeds 1/4 inch deep and cover lightly with soil. Keep the soil consistently moist and provide bright, indirect light or supplemental grow lights. Transplant seedlings outdoors after the last frost date in your area.",
+       "sowingOutdoorsDescription": "Oregano seeds can also be directly sown outdoors in the garden after the last frost date. Choose a location with full sun and well-drained soil. Sow seeds 1/4 inch deep and space them 6-12 inches apart. Keep the soil consistently moist until seedlings emerge.",
+       "spaceBetweenPlants": "6\"-12\"",
+       "spaceBetweenRows": "12\"-18\"",
+       "squareFootPlantingRecommendationsMin": 1,
+       "squareFootPlantingRecommendationsMax": 4,
+       "lifeCycle": "Perennial",
+       "seedDepth": "1/4\"",
+       "pHRange": "6.0 - 8.0",
+       "germinationSoilTemp": "70-75°F",
+       "season": "Oregano seeds can be sown outdoors after the last frost date in your area. They prefer warm temperatures and well-drained soil."
+     },
+     "careAndMaintenance": {
+       "optimalSun": "Full Sun",
+       "growingSoilTemp": "70-85°F",
+       "growingDescription": "Oregano prefers full sun and well-drained, moderately fertile soil. It is drought-tolerant once established and does not require frequent watering. Oregano is generally low-maintenance and does not require fertilization.",
+       "wateringNeeds": "Water young oregano plants regularly until established; mature plants are drought-tolerant and generally do not require supplemental watering.",
+       "soilFertility": "Oregano does not require fertilization. However, incorporating compost or well-aged manure into the soil before planting can provide some nutrients.",
+       "pruningRequirements": "Prune oregano regularly to encourage bushy growth and prevent it from becoming leggy. Harvest leaves regularly to promote new growth and prevent flowering, which can affect flavor.",
+       "supportRequirements": "Oregano generally does not require support."
+     },
+     "harvestingAndStorage": {
+       "daysToHarvest": "Varies; leaves can be harvested once the plant is established.",
+       "timeToMaturity": "Oregano can be harvested for culinary use once the plant is well-established, usually within a few months after planting.",
+       "storageRecommendations": "Harvest oregano leaves as needed for culinary use. Use fresh leaves immediately, or dry them for longer storage. To dry oregano, bundle stems together and hang them upside down in a warm, well-ventilated area until leaves are crisp. Once dry, store leaves in an airtight container in a cool, dark place.",
+       "harvestDescription": "Harvest oregano leaves by snipping them from the plant as needed. For the best flavor, harvest leaves before the plant flowers."
+     },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Basil",
+                "description": "Basil is a good companion for oregano, as it may help deter certain pests and complement its aromatic qualities."
+            },
+            {
+                "name": "Thyme",
+                "description": "Thyme can be planted near oregano as it complements its fragrance and both have similar cultural requirements."
+            }
+        ],
+        "badCompanionPlants": []
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids can sometimes infest oregano, feeding on the sap of the leaves and causing distortion or yellowing. Control aphids by spraying affected plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs, and applying insecticidal soap or neem oil as needed."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that can affect oregano, causing a white powdery growth on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest oregano leaves as needed by snipping them with scissors or shears.",
+        "Pinch back growing tips regularly to encourage bushy growth.",
+        "Mulch around plants to retain moisture and suppress weeds.",
+        "Consider planting oregano in containers to prevent it from spreading too vigorously."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Oregano: Planting Guide",
+            "url": "https://www.almanac.com/plant/oregano"
+        },
+        {
+            "title": "How to Harvest and Store Oregano",
+            "url": "https://www.gardeningknowhow.com/edible/herbs/oregano/harvesting-oregano.htm"
+        }
+    ]
+}

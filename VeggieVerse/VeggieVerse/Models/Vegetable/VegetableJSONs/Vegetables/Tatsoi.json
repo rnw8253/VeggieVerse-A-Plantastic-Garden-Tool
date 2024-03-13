@@ -1,0 +1,85 @@
+
+{
+    "plantName": "Tatsoi",
+    "description": "Tatsoi, also known as spoon mustard or rosette bok choy, is a leafy green vegetable native to Asia. It belongs to the Brassicaceae family, which includes cabbage, kale, and broccoli. Tatsoi forms compact, rosette-shaped heads with dark green, spoon-shaped leaves. It has a mild, mustard-like flavor and is commonly used in salads, stir-fries, soups, and other Asian dishes. Tatsoi is easy to grow and can be harvested as baby greens or allowed to mature into full-size plants.",
+    "thumbnailImageUrl": "Tatsoi_thumbnail",
+    "backgroundImageUrl": "Tatsoi_background",
+    "varieties": [],
+    "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Tatsoi can be started indoors 4-6 weeks before the last frost date. Sow seeds in seed trays or pots filled with well-draining potting mix. Plant seeds 1/4 inch deep and keep the soil consistently moist until germination, which typically takes 7-14 days. Once the seedlings have developed several sets of true leaves, they can be transplanted outdoors.",
+        "sowingOutdoorsDescription": "Tatsoi is typically directly sown outdoors in the garden. Choose a sunny to partially shaded location with well-draining soil. Plant seeds 1/4 inch deep and space them 6-8 inches apart in rows spaced 12-18 inches apart. Keep the soil consistently moist until germination.",
+        "spaceBetweenPlants": "6\" - 8\"",
+        "spaceBetweenRows": "12\" - 18\"",
+        "seedDepth": "1/4\"",
+        "pHRange": "6.0 - 7.5",
+        "germinationSoilTemp": "50-75°F",
+        "season": "Tatsoi can be planted in early spring for a spring harvest or in late summer for a fall harvest. It prefers cooler temperatures and can tolerate light frost."
+    },
+    "careAndMaintenance": {
+        "optimalSun": "Full Sun to Partial Shade",
+        "growingSoilTemp": "50-70°F",
+        "growingDescription": "Tatsoi prefers full sun to partial shade, especially in warmer climates. It requires well-draining soil rich in organic matter. Keep the soil consistently moist but not waterlogged, as tatsoi does not tolerate standing water. Mulch around plants to conserve moisture, suppress weeds, and keep the soil temperature consistent.",
+        "wateringNeeds": "Regular watering, 1-2 inches per week.",
+        "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress with a balanced fertilizer once the plants are established.",
+        "pruningRequirements": "Tatsoi does not require pruning.",
+        "supportRequirements": "Tatsoi does not require support."
+    },
+    "harvestingAndStorage": {
+        "timeToMaturity": "Tatsoi can be harvested 40-50 days after planting, depending on the variety.",
+        "storageRecommendations": "Harvest tatsoi when the leaves are young and tender, typically when they are 4-6 inches tall. Cut the outer leaves with sharp scissors or pruning shears, leaving the inner leaves to continue growing. Store harvested tatsoi in the refrigerator for up to one week in a plastic bag or container lined with paper towels to absorb excess moisture.",
+        "harvestDescription": "Harvest tatsoi when the leaves are young and tender, typically when they are 4-6 inches tall. Cut the outer leaves with sharp scissors or pruning shears, leaving the inner leaves to continue growing."
+    },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Lettuce",
+                "description": "Lettuce and tatsoi can be interplanted to provide a diverse and attractive garden bed. Lettuce helps shade the soil and retain moisture, while tatsoi provides a contrasting texture and flavor."
+            },
+            {
+                "name": "Radishes",
+                "description": "Radishes are quick-growing and can be interplanted with tatsoi to maximize space in the garden. Their shallow roots help break up compacted soil and improve air circulation around tatsoi plants."
+            },
+            {
+                "name": "Carrots",
+                "description": "Carrots and tatsoi make excellent companions, as they have similar growing requirements and can be interplanted to maximize space in the garden."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Brassicas",
+                "description": "Other brassicas like cabbage, broccoli, and cauliflower can attract pests that may affect tatsoi. It's best to keep them separate in the garden."
+            },
+            {
+                "name": "Beans",
+                "description": "Beans and other legumes can compete with tatsoi for water and nutrients, so it's best to avoid planting them too close together."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Flea Beetles",
+            "description": "Flea beetles are small, jumping insects that feed on tatsoi leaves, leaving behind small holes and pits. Control flea beetles by covering young plants with floating row covers, applying neem oil or insecticidal soap, and practicing good garden hygiene."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Downy Mildew",
+            "description": "Downy mildew is a fungal disease that can affect tatsoi, causing yellowing and wilting of leaves, along with grayish-white fuzzy growth on the undersides of leaves. Control downy mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest tatsoi when the leaves are young and tender for the best flavor and texture. Avoid letting them grow too large, as they can become tough and bitter.",
+        "Rotate tatsoi to a new location in the garden each year to prevent soilborne diseases and pest buildup.",
+        "Inspect plants regularly for signs of pests and diseases, and take appropriate action as needed to prevent damage."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Tatsoi: Planting Guide",
+            "url": "https://www.almanac.com/plant/tatsoi"
+        },
+        {
+            "title": "Tatsoi: A Nutritious Green for Your Garden",
+            "url": "https://extension.umn.edu/vegetables/growing-tatsoi"
+        }
+    ]
+}

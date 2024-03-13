@@ -1,0 +1,86 @@
+
+{
+    "plantName": "Edamame",
+    "description": "Edamame, also known as green soybeans, are young soybean pods harvested at the peak of their ripeness. They are a popular snack and culinary ingredient in East Asian cuisine and are valued for their tender texture and nutty flavor. Edamame is rich in protein, fiber, and various vitamins and minerals, making it a nutritious addition to any diet.",
+    "thumbnailImageUrl": "Edamame_thumbnail",
+    "backgroundImageUrl": "Edamame_background",
+    "varieties": "Edamame, also known as immature soybeans, is a type of soybean harvested at the peak of ripening, while the beans are still green and soft. While there are no distinct varieties of edamame, different cultivars of soybeans may be used for edamame production, selected for their flavor, texture, and yield.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Edamame is typically sown directly outdoors in the garden as it does not transplant well. However, if you wish to start seeds indoors for an earlier start, sow them in biodegradable pots or trays filled with well-draining potting mix. Plant seeds 1 inch deep and keep the soil consistently moist. Transplant seedlings outdoors once they have developed several true leaves and all danger of frost has passed.",
+        "sowingOutdoorsDescription": "Edamame seeds should be sown directly outdoors in the garden after the last frost date in your area. Choose a location with full sun and well-drained soil. Plant seeds 1 inch deep and space them 2-3 inches apart in rows spaced 18-24 inches apart. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "2\"-3\"",
+        "spaceBetweenRows": "18\"-24\"",
+        "squareFootPlantingRecommendationsMin": 4,
+        "squareFootPlantingRecommendationsMax": 9,
+        "lifeCycle": "Annual",
+        "seedDepth": "1\"",
+        "pHRange": "6.0 - 7.5",
+        "germinationSoilTemp": "65-85°F",
+        "season": "Edamame should be planted outdoors after the last frost date in your area, once the soil has warmed up. It requires warm temperatures to germinate and grow."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "70-85°F",
+        "growingDescription": "Edamame prefers full sun and well-drained, fertile soil with a pH of 6.0-7.5. Keep the soil consistently moist but not waterlogged. Mulch around plants to retain moisture and suppress weeds. Edamame is a legume and can fix nitrogen in the soil, reducing the need for additional fertilization.",
+        "wateringNeeds": "Regular watering to keep the soil consistently moist, especially during dry periods.",
+        "soilFertility": "Edamame is a legume and can help improve soil fertility by fixing nitrogen. However, incorporating compost or well-aged manure into the soil before planting can provide additional nutrients for healthy growth.",
+        "pruningRequirements": "Edamame typically does not require pruning. However, you can pinch off the growing tips of plants once they reach their desired height to encourage bushier growth.",
+        "supportRequirements": "Edamame plants may benefit from support in windy areas or when heavily laden with pods. Install stakes or a trellis to provide support and prevent plants from falling over."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "70-90 days from planting",
+        "timeToMaturity": "Edamame typically matures and is ready for harvest 70-90 days after planting, depending on growing conditions.",
+        "storageRecommendations": "Harvest edamame pods when they are still green and plump. Pick pods regularly to encourage continued production. Use harvested edamame immediately for fresh consumption, or blanch them in boiling water for 2-3 minutes, then cool and freeze them for longer storage.",
+        "harvestDescription": "Harvest edamame pods when they are fully developed but still green and tender. Simply snap or cut the pods from the plants with scissors or pruners."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Corn",
+                "description": "Corn is a good companion plant for edamame, as the tall stalks provide support for climbing beans while the beans fix nitrogen in the soil, benefiting the corn plants. Planting them together in a traditional Three Sisters garden can improve overall garden productivity and health."
+            },
+            {
+                "name": "Radishes",
+                "description": "Radishes are also good companion plants for edamame, as they mature quickly and can help suppress weed growth while providing a food source for beneficial insects. Interplanting radishes between rows of edamame can create a diverse and productive garden ecosystem."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Onions",
+                "description": "Onions are not recommended as companion plants for edamame, as they may compete for space and nutrients in the soil. It's best to plant them in separate areas to avoid potential problems."
+            },
+            {
+                "name": "Garlic",
+                "description": "Garlic is also not recommended as a companion plant for edamame, as it may compete for space and nutrients and may not provide any specific benefits when grown together. It's best to plant them in separate areas to avoid potential problems."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids are common pests of edamame, feeding on the sap of leaves and stems and causing distortion and stunted growth. Control aphids by spraying plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs and lacewings, or applying insecticidal soap or neem oil."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that can affect edamame plants, causing white powdery patches to form on the leaves. It thrives in warm, humid conditions and can spread rapidly in crowded plantings. Control powdery mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest edamame pods regularly to promote continuous production and prevent overripening.",
+        "Rotate edamame crops annually to prevent soilborne diseases and nutrient depletion.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed to prevent damage.",
+        "Save seeds from mature edamame pods for replanting next season, or purchase fresh seeds from a reputable source."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Edamame: Tips and Tricks",
+            "url": "https://www.gardeningknowhow.com/edible/vegetables/edamame/growing-edamame.htm"
+        },
+        {
+            "title": "Harvesting and Using Edamame",
+            "url": "https://www.burpee.com/gardenadvicecenter/vegetables/edamame/all-about-edamame/article10355.html"
+        }
+    ]
+}

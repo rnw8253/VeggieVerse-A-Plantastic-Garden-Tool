@@ -18,8 +18,149 @@
 		94205D5B2B8BD09000D79647 /* VegetableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94205D5A2B8BD09000D79647 /* VegetableView.swift */; };
 		94205D5D2B8BD25100D79647 /* AppState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94205D5C2B8BD25100D79647 /* AppState.swift */; };
 		94205D5F2B8BD2FD00D79647 /* RealmManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94205D5E2B8BD2FD00D79647 /* RealmManager.swift */; };
+		942782F52B990DE5003713F5 /* PestsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 942782F42B990DE5003713F5 /* PestsView.swift */; };
+		942782F72B992112003713F5 /* DiseaseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 942782F62B992112003713F5 /* DiseaseView.swift */; };
+		942782F92B9A86BE003713F5 /* CompanionPlantsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 942782F82B9A86BE003713F5 /* CompanionPlantsView.swift */; };
+		942782FE2B9ADCB8003713F5 /* Basil.json in Resources */ = {isa = PBXBuildFile; fileRef = 942782FD2B9ADCB8003713F5 /* Basil.json */; };
+		942783002B9B8EE6003713F5 /* Lettuce.json in Resources */ = {isa = PBXBuildFile; fileRef = 942782FF2B9B8EE6003713F5 /* Lettuce.json */; };
+		942783022B9B8F15003713F5 /* Bell Peppers.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783012B9B8F15003713F5 /* Bell Peppers.json */; };
+		942783042B9B8F5F003713F5 /* Broccoli.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783032B9B8F5F003713F5 /* Broccoli.json */; };
+		942783062B9B8F73003713F5 /* Tomatoes.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783052B9B8F73003713F5 /* Tomatoes.json */; };
+		942783082B9B94C6003713F5 /* Bay Leaves.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783072B9B94C6003713F5 /* Bay Leaves.json */; };
+		9427830C2B9B9596003713F5 /* Chamomile.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427830B2B9B9596003713F5 /* Chamomile.json */; };
+		942783102B9B963D003713F5 /* Chives.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427830F2B9B963D003713F5 /* Chives.json */; };
+		942783122B9B96E9003713F5 /* Cilantro.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783112B9B96E9003713F5 /* Cilantro.json */; };
+		942783242B9B9F24003713F5 /* Rosemary.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783152B9B9F23003713F5 /* Rosemary.json */; };
+		942783252B9B9F24003713F5 /* Sage.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783162B9B9F23003713F5 /* Sage.json */; };
+		942783262B9B9F24003713F5 /* Thyme.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783172B9B9F23003713F5 /* Thyme.json */; };
+		942783272B9B9F24003713F5 /* Tarragon.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783182B9B9F24003713F5 /* Tarragon.json */; };
+		942783282B9B9F24003713F5 /* Stevia.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783192B9B9F24003713F5 /* Stevia.json */; };
+		942783292B9B9F24003713F5 /* Sorrel.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427831A2B9B9F24003713F5 /* Sorrel.json */; };
+		9427832A2B9B9F24003713F5 /* Lemongrass.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427831B2B9B9F24003713F5 /* Lemongrass.json */; };
+		9427832B2B9B9F24003713F5 /* Marjoram.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427831C2B9B9F24003713F5 /* Marjoram.json */; };
+		9427832C2B9B9F24003713F5 /* Dill.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427831D2B9B9F24003713F5 /* Dill.json */; };
+		9427832D2B9B9F24003713F5 /* Dandelion Greens.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427831E2B9B9F24003713F5 /* Dandelion Greens.json */; };
+		9427832E2B9B9F24003713F5 /* Parsley.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427831F2B9B9F24003713F5 /* Parsley.json */; };
+		9427832F2B9B9F24003713F5 /* Lavender.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783202B9B9F24003713F5 /* Lavender.json */; };
+		942783302B9B9F24003713F5 /* Mint.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783212B9B9F24003713F5 /* Mint.json */; };
+		942783312B9B9F24003713F5 /* Oregano.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783222B9B9F24003713F5 /* Oregano.json */; };
+		942783322B9B9F24003713F5 /* Lemon Balm.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783232B9B9F24003713F5 /* Lemon Balm.json */; };
+		9427835A2B9BA4E6003713F5 /* Celery.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783332B9BA4E4003713F5 /* Celery.json */; };
+		9427835B2B9BA4E6003713F5 /* Onions.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783342B9BA4E4003713F5 /* Onions.json */; };
+		9427835C2B9BA4E6003713F5 /* Zucchini.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783352B9BA4E4003713F5 /* Zucchini.json */; };
+		9427835D2B9BA4E6003713F5 /* Pumpkins.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783362B9BA4E4003713F5 /* Pumpkins.json */; };
+		9427835E2B9BA4E6003713F5 /* Rutabagas.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783372B9BA4E4003713F5 /* Rutabagas.json */; };
+		9427835F2B9BA4E6003713F5 /* Squash.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783382B9BA4E5003713F5 /* Squash.json */; };
+		942783602B9BA4E6003713F5 /* Eggplant.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783392B9BA4E5003713F5 /* Eggplant.json */; };
+		942783612B9BA4E6003713F5 /* Cabbage.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427833A2B9BA4E5003713F5 /* Cabbage.json */; };
+		942783622B9BA4E6003713F5 /* Cucumbers.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427833B2B9BA4E5003713F5 /* Cucumbers.json */; };
+		942783632B9BA4E6003713F5 /* Radishes.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427833C2B9BA4E5003713F5 /* Radishes.json */; };
+		942783642B9BA4E6003713F5 /* Carrots.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427833D2B9BA4E5003713F5 /* Carrots.json */; };
+		942783652B9BA4E6003713F5 /* Collard Greens.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427833E2B9BA4E5003713F5 /* Collard Greens.json */; };
+		942783662B9BA4E6003713F5 /* Cauliflower.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427833F2B9BA4E5003713F5 /* Cauliflower.json */; };
+		942783672B9BA4E6003713F5 /* Artichokes.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783402B9BA4E5003713F5 /* Artichokes.json */; };
+		942783682B9BA4E6003713F5 /* Leeks.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783412B9BA4E5003713F5 /* Leeks.json */; };
+		942783692B9BA4E6003713F5 /* Peas.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783422B9BA4E5003713F5 /* Peas.json */; };
+		9427836A2B9BA4E6003713F5 /* Corn.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783432B9BA4E5003713F5 /* Corn.json */; };
+		9427836B2B9BA4E6003713F5 /* Potatoes.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783442B9BA4E5003713F5 /* Potatoes.json */; };
+		9427836C2B9BA4E6003713F5 /* Spinach.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783452B9BA4E5003713F5 /* Spinach.json */; };
+		9427836D2B9BA4E6003713F5 /* Kale.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783462B9BA4E5003713F5 /* Kale.json */; };
+		9427836E2B9BA4E6003713F5 /* Escarole.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783472B9BA4E5003713F5 /* Escarole.json */; };
+		942783702B9BA4E6003713F5 /* Okra.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783492B9BA4E5003713F5 /* Okra.json */; };
+		942783712B9BA4E6003713F5 /* Mustard Greens.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427834A2B9BA4E5003713F5 /* Mustard Greens.json */; };
+		942783722B9BA4E6003713F5 /* Brussels Sprouts.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427834B2B9BA4E5003713F5 /* Brussels Sprouts.json */; };
+		942783732B9BA4E6003713F5 /* Beets.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427834C2B9BA4E6003713F5 /* Beets.json */; };
+		942783742B9BA4E6003713F5 /* Bok Choy.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427834D2B9BA4E6003713F5 /* Bok Choy.json */; };
+		942783752B9BA4E6003713F5 /* Radicchio.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427834E2B9BA4E6003713F5 /* Radicchio.json */; };
+		942783762B9BA4E6003713F5 /* Asparagus.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427834F2B9BA4E6003713F5 /* Asparagus.json */; };
+		942783772B9BA4E6003713F5 /* Endive.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783502B9BA4E6003713F5 /* Endive.json */; };
+		942783782B9BA4E6003713F5 /* Sweet Potatoes.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783512B9BA4E6003713F5 /* Sweet Potatoes.json */; };
+		942783792B9BA4E6003713F5 /* Swiss Chard.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783522B9BA4E6003713F5 /* Swiss Chard.json */; };
+		9427837A2B9BA4E6003713F5 /* Kohlrabi.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783532B9BA4E6003713F5 /* Kohlrabi.json */; };
+		9427837B2B9BA4E6003713F5 /* Green Beans.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783542B9BA4E6003713F5 /* Green Beans.json */; };
+		9427837C2B9BA4E6003713F5 /* Turnips.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783552B9BA4E6003713F5 /* Turnips.json */; };
+		9427837D2B9BA4E6003713F5 /* Parsnips.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783562B9BA4E6003713F5 /* Parsnips.json */; };
+		9427837E2B9BA4E6003713F5 /* Garlic.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783572B9BA4E6003713F5 /* Garlic.json */; };
+		9427837F2B9BA4E6003713F5 /* Arugula.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783582B9BA4E6003713F5 /* Arugula.json */; };
+		942783802B9BA4E6003713F5 /* Fennel.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783592B9BA4E6003713F5 /* Fennel.json */; };
+		942783CF2B9CF45B003713F5 /* Mangoes.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783B62B9CF45A003713F5 /* Mangoes.json */; };
+		942783D02B9CF45B003713F5 /* Bananas.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783B72B9CF45A003713F5 /* Bananas.json */; };
+		942783D12B9CF45B003713F5 /* Oranges.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783B82B9CF45A003713F5 /* Oranges.json */; };
+		942783D22B9CF45B003713F5 /* Blackberries.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783B92B9CF45B003713F5 /* Blackberries.json */; };
+		942783D32B9CF45B003713F5 /* Pineapples.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783BA2B9CF45B003713F5 /* Pineapples.json */; };
+		942783D42B9CF45B003713F5 /* Cantaloupes.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783BB2B9CF45B003713F5 /* Cantaloupes.json */; };
+		942783D52B9CF45B003713F5 /* Limes.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783BC2B9CF45B003713F5 /* Limes.json */; };
+		942783D62B9CF45B003713F5 /* Watermelons.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783BD2B9CF45B003713F5 /* Watermelons.json */; };
+		942783D72B9CF45B003713F5 /* Apricots.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783BE2B9CF45B003713F5 /* Apricots.json */; };
+		942783D82B9CF45B003713F5 /* Strawberries.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783BF2B9CF45B003713F5 /* Strawberries.json */; };
+		942783D92B9CF45B003713F5 /* Lemons.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783C02B9CF45B003713F5 /* Lemons.json */; };
+		942783DA2B9CF45B003713F5 /* Peaches.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783C12B9CF45B003713F5 /* Peaches.json */; };
+		942783DB2B9CF45B003713F5 /* Apples.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783C22B9CF45B003713F5 /* Apples.json */; };
+		942783DC2B9CF45B003713F5 /* Plums.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783C32B9CF45B003713F5 /* Plums.json */; };
+		942783DD2B9CF45B003713F5 /* Figs.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783C42B9CF45B003713F5 /* Figs.json */; };
+		942783DE2B9CF45B003713F5 /* Grapes.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783C52B9CF45B003713F5 /* Grapes.json */; };
+		942783DF2B9CF45B003713F5 /* Grapefruits.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783C62B9CF45B003713F5 /* Grapefruits.json */; };
+		942783E02B9CF45B003713F5 /* Avocados.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783C72B9CF45B003713F5 /* Avocados.json */; };
+		942783E12B9CF45B003713F5 /* Cherries.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783C82B9CF45B003713F5 /* Cherries.json */; };
+		942783E22B9CF45C003713F5 /* Kiwis.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783C92B9CF45B003713F5 /* Kiwis.json */; };
+		942783E32B9CF45C003713F5 /* Papayas.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783CA2B9CF45B003713F5 /* Papayas.json */; };
+		942783E42B9CF45C003713F5 /* Blueberries.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783CB2B9CF45B003713F5 /* Blueberries.json */; };
+		942783E52B9CF45C003713F5 /* Cranberries.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783CC2B9CF45B003713F5 /* Cranberries.json */; };
+		942783E62B9CF45C003713F5 /* Raspberries.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783CD2B9CF45B003713F5 /* Raspberries.json */; };
+		942783E72B9CF45C003713F5 /* Pears.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783CE2B9CF45B003713F5 /* Pears.json */; };
+		942783F52B9CF5C4003713F5 /* Feverfew.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783EA2B9CF5C3003713F5 /* Feverfew.json */; };
+		942783F62B9CF5C4003713F5 /* Hibiscus.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783EB2B9CF5C3003713F5 /* Hibiscus.json */; };
+		942783F72B9CF5C4003713F5 /* Tamarillo.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783EC2B9CF5C3003713F5 /* Tamarillo.json */; };
+		942783F82B9CF5C4003713F5 /* Honeydew.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783ED2B9CF5C3003713F5 /* Honeydew.json */; };
+		942783F92B9CF5C4003713F5 /* Wonderberry.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783EE2B9CF5C3003713F5 /* Wonderberry.json */; };
+		942783FA2B9CF5C4003713F5 /* Currant.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783EF2B9CF5C3003713F5 /* Currant.json */; };
+		942783FB2B9CF5C4003713F5 /* Elderberry.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783F02B9CF5C4003713F5 /* Elderberry.json */; };
+		942783FC2B9CF5C4003713F5 /* Ground Cherry.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783F12B9CF5C4003713F5 /* Ground Cherry.json */; };
+		9427841B2B9CF840003713F5 /* Chervil.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783FE2B9CF83E003713F5 /* Chervil.json */; };
+		9427841C2B9CF840003713F5 /* Watercress.json in Resources */ = {isa = PBXBuildFile; fileRef = 942783FF2B9CF83E003713F5 /* Watercress.json */; };
+		9427841D2B9CF840003713F5 /* Cat Grass.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784002B9CF83E003713F5 /* Cat Grass.json */; };
+		9427841E2B9CF840003713F5 /* Sweet Bay.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784012B9CF83E003713F5 /* Sweet Bay.json */; };
+		9427841F2B9CF840003713F5 /* German Chamomile.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784022B9CF83E003713F5 /* German Chamomile.json */; };
+		942784202B9CF840003713F5 /* Prickly Pear.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784032B9CF83E003713F5 /* Prickly Pear.json */; };
+		942784212B9CF840003713F5 /* Catnip.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784042B9CF83E003713F5 /* Catnip.json */; };
+		942784222B9CF840003713F5 /* Nasturtium.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784052B9CF83E003713F5 /* Nasturtium.json */; };
+		942784232B9CF840003713F5 /* Salvia.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784062B9CF83E003713F5 /* Salvia.json */; };
+		942784242B9CF840003713F5 /* Bee Balm.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784072B9CF83E003713F5 /* Bee Balm.json */; };
+		942784252B9CF840003713F5 /* Edamame.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784082B9CF83F003713F5 /* Edamame.json */; };
+		942784262B9CF840003713F5 /* Ginger.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784092B9CF83F003713F5 /* Ginger.json */; };
+		942784272B9CF840003713F5 /* Summer Savory.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427840A2B9CF83F003713F5 /* Summer Savory.json */; };
+		942784282B9CF840003713F5 /* Chia.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427840B2B9CF83F003713F5 /* Chia.json */; };
+		942784292B9CF840003713F5 /* Sunflower.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427840C2B9CF83F003713F5 /* Sunflower.json */; };
+		9427842A2B9CF840003713F5 /* Chickpea.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427840D2B9CF83F003713F5 /* Chickpea.json */; };
+		9427842B2B9CF840003713F5 /* Comfrey.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427840E2B9CF83F003713F5 /* Comfrey.json */; };
+		9427842C2B9CF840003713F5 /* Popcorn.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427840F2B9CF83F003713F5 /* Popcorn.json */; };
+		9427842D2B9CF840003713F5 /* Mullein.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784102B9CF83F003713F5 /* Mullein.json */; };
+		9427842E2B9CF840003713F5 /* Hyssop.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784112B9CF83F003713F5 /* Hyssop.json */; };
+		9427842F2B9CF840003713F5 /* Fenugreek.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784122B9CF83F003713F5 /* Fenugreek.json */; };
+		942784312B9CF840003713F5 /* Calendula.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784142B9CF83F003713F5 /* Calendula.json */; };
+		942784322B9CF840003713F5 /* Chickweed.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784152B9CF83F003713F5 /* Chickweed.json */; };
+		942784332B9CF840003713F5 /* Borage.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784162B9CF840003713F5 /* Borage.json */; };
+		942784342B9CF840003713F5 /* Orach.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784172B9CF840003713F5 /* Orach.json */; };
+		942784352B9CF840003713F5 /* Lemon Verbena.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784182B9CF840003713F5 /* Lemon Verbena.json */; };
+		942784362B9CF840003713F5 /* St. John's Wort.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784192B9CF840003713F5 /* St. John's Wort.json */; };
+		942784372B9CF840003713F5 /* Yarrow.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427841A2B9CF840003713F5 /* Yarrow.json */; };
+		9427844B2B9CF857003713F5 /* Mizuna.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784382B9CF856003713F5 /* Mizuna.json */; };
+		9427844C2B9CF857003713F5 /* Fava Beans.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784392B9CF856003713F5 /* Fava Beans.json */; };
+		9427844D2B9CF857003713F5 /* Cardoon.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427843A2B9CF856003713F5 /* Cardoon.json */; };
+		9427844E2B9CF857003713F5 /* Loofah.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427843B2B9CF856003713F5 /* Loofah.json */; };
+		9427844F2B9CF857003713F5 /* Water Spinach.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427843C2B9CF856003713F5 /* Water Spinach.json */; };
+		942784502B9CF857003713F5 /* Napa Cabbage.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427843D2B9CF856003713F5 /* Napa Cabbage.json */; };
+		942784522B9CF857003713F5 /* Pole Beans.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427843F2B9CF857003713F5 /* Pole Beans.json */; };
+		942784532B9CF857003713F5 /* Peanut.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784402B9CF857003713F5 /* Peanut.json */; };
+		942784542B9CF857003713F5 /* Jicama.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784412B9CF857003713F5 /* Jicama.json */; };
+		942784552B9CF857003713F5 /* Chayote.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784422B9CF857003713F5 /* Chayote.json */; };
+		942784572B9CF857003713F5 /* Moringa.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784442B9CF857003713F5 /* Moringa.json */; };
+		942784592B9CF857003713F5 /* Tatsoi.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784462B9CF857003713F5 /* Tatsoi.json */; };
+		9427845A2B9CF857003713F5 /* Scallions (Green Onions).json in Resources */ = {isa = PBXBuildFile; fileRef = 942784472B9CF857003713F5 /* Scallions (Green Onions).json */; };
+		9427845B2B9CF857003713F5 /* Shallot.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784482B9CF857003713F5 /* Shallot.json */; };
+		9427845C2B9CF857003713F5 /* Chinese Broccoli.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784492B9CF857003713F5 /* Chinese Broccoli.json */; };
+		9427845D2B9CF857003713F5 /* Tomatillo.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427844A2B9CF857003713F5 /* Tomatillo.json */; };
 		94BEB1382B8CE91000754E01 /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB1372B8CE91000754E01 /* LocationModel.swift */; };
-		94BEB1452B8ED4BA00754E01 /* Vegetables.json in Resources */ = {isa = PBXBuildFile; fileRef = 94BEB1442B8ED4BA00754E01 /* Vegetables.json */; };
 		94BEB1472B8ED4DD00754E01 /* VegetableModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB1462B8ED4DD00754E01 /* VegetableModel.swift */; };
 		94BEB1492B8F964500754E01 /* CurvedSideRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB1482B8F964500754E01 /* CurvedSideRectangle.swift */; };
 		94BEB14E2B8FA64500754E01 /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB14D2B8FA64500754E01 /* ColorExtension.swift */; };
@@ -33,7 +174,7 @@
 		94BEB16E2B96637200754E01 /* UserLocationData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB16D2B96637200754E01 /* UserLocationData.swift */; };
 		94BEB1702B966E7800754E01 /* AverageFrostDates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB16F2B966E7800754E01 /* AverageFrostDates.swift */; };
 		94BEB1742B97A6C800754E01 /* SowingAndPlantingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB1732B97A6C800754E01 /* SowingAndPlantingView.swift */; };
-		94BEB1762B97A6F600754E01 /* SowingAndPlantingRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB1752B97A6F600754E01 /* SowingAndPlantingRowView.swift */; };
+		94BEB1762B97A6F600754E01 /* HalfWidthTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB1752B97A6F600754E01 /* HalfWidthTextView.swift */; };
 		94BEB1792B97A72A00754E01 /* VegetableSectionHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB1782B97A72A00754E01 /* VegetableSectionHeaderView.swift */; };
 		94BEB17D2B97CC1100754E01 /* CareAndMaintenanceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB17C2B97CC1100754E01 /* CareAndMaintenanceView.swift */; };
 		94BEB17F2B97E11000754E01 /* FullWidthTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB17E2B97E11000754E01 /* FullWidthTextView.swift */; };
@@ -56,8 +197,149 @@
 		94205D5A2B8BD09000D79647 /* VegetableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VegetableView.swift; sourceTree = "<group>"; };
 		94205D5C2B8BD25100D79647 /* AppState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppState.swift; sourceTree = "<group>"; };
 		94205D5E2B8BD2FD00D79647 /* RealmManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RealmManager.swift; sourceTree = "<group>"; };
+		942782F42B990DE5003713F5 /* PestsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PestsView.swift; sourceTree = "<group>"; };
+		942782F62B992112003713F5 /* DiseaseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiseaseView.swift; sourceTree = "<group>"; };
+		942782F82B9A86BE003713F5 /* CompanionPlantsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompanionPlantsView.swift; sourceTree = "<group>"; };
+		942782FD2B9ADCB8003713F5 /* Basil.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Basil.json; sourceTree = "<group>"; };
+		942782FF2B9B8EE6003713F5 /* Lettuce.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Lettuce.json; sourceTree = "<group>"; };
+		942783012B9B8F15003713F5 /* Bell Peppers.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "Bell Peppers.json"; sourceTree = "<group>"; };
+		942783032B9B8F5F003713F5 /* Broccoli.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Broccoli.json; sourceTree = "<group>"; };
+		942783052B9B8F73003713F5 /* Tomatoes.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Tomatoes.json; sourceTree = "<group>"; };
+		942783072B9B94C6003713F5 /* Bay Leaves.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = "Bay Leaves.json"; sourceTree = "<group>"; };
+		9427830B2B9B9596003713F5 /* Chamomile.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Chamomile.json; sourceTree = "<group>"; };
+		9427830F2B9B963D003713F5 /* Chives.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Chives.json; sourceTree = "<group>"; };
+		942783112B9B96E9003713F5 /* Cilantro.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Cilantro.json; sourceTree = "<group>"; };
+		942783152B9B9F23003713F5 /* Rosemary.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Rosemary.json; sourceTree = "<group>"; };
+		942783162B9B9F23003713F5 /* Sage.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Sage.json; sourceTree = "<group>"; };
+		942783172B9B9F23003713F5 /* Thyme.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Thyme.json; sourceTree = "<group>"; };
+		942783182B9B9F24003713F5 /* Tarragon.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Tarragon.json; sourceTree = "<group>"; };
+		942783192B9B9F24003713F5 /* Stevia.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Stevia.json; sourceTree = "<group>"; };
+		9427831A2B9B9F24003713F5 /* Sorrel.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Sorrel.json; sourceTree = "<group>"; };
+		9427831B2B9B9F24003713F5 /* Lemongrass.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lemongrass.json; sourceTree = "<group>"; };
+		9427831C2B9B9F24003713F5 /* Marjoram.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Marjoram.json; sourceTree = "<group>"; };
+		9427831D2B9B9F24003713F5 /* Dill.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Dill.json; sourceTree = "<group>"; };
+		9427831E2B9B9F24003713F5 /* Dandelion Greens.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Dandelion Greens.json"; sourceTree = "<group>"; };
+		9427831F2B9B9F24003713F5 /* Parsley.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Parsley.json; sourceTree = "<group>"; };
+		942783202B9B9F24003713F5 /* Lavender.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lavender.json; sourceTree = "<group>"; };
+		942783212B9B9F24003713F5 /* Mint.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Mint.json; sourceTree = "<group>"; };
+		942783222B9B9F24003713F5 /* Oregano.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Oregano.json; sourceTree = "<group>"; };
+		942783232B9B9F24003713F5 /* Lemon Balm.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Lemon Balm.json"; sourceTree = "<group>"; };
+		942783332B9BA4E4003713F5 /* Celery.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Celery.json; sourceTree = "<group>"; };
+		942783342B9BA4E4003713F5 /* Onions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Onions.json; sourceTree = "<group>"; };
+		942783352B9BA4E4003713F5 /* Zucchini.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Zucchini.json; sourceTree = "<group>"; };
+		942783362B9BA4E4003713F5 /* Pumpkins.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Pumpkins.json; sourceTree = "<group>"; };
+		942783372B9BA4E4003713F5 /* Rutabagas.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Rutabagas.json; sourceTree = "<group>"; };
+		942783382B9BA4E5003713F5 /* Squash.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Squash.json; sourceTree = "<group>"; };
+		942783392B9BA4E5003713F5 /* Eggplant.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Eggplant.json; sourceTree = "<group>"; };
+		9427833A2B9BA4E5003713F5 /* Cabbage.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Cabbage.json; sourceTree = "<group>"; };
+		9427833B2B9BA4E5003713F5 /* Cucumbers.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Cucumbers.json; sourceTree = "<group>"; };
+		9427833C2B9BA4E5003713F5 /* Radishes.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Radishes.json; sourceTree = "<group>"; };
+		9427833D2B9BA4E5003713F5 /* Carrots.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Carrots.json; sourceTree = "<group>"; };
+		9427833E2B9BA4E5003713F5 /* Collard Greens.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Collard Greens.json"; sourceTree = "<group>"; };
+		9427833F2B9BA4E5003713F5 /* Cauliflower.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Cauliflower.json; sourceTree = "<group>"; };
+		942783402B9BA4E5003713F5 /* Artichokes.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Artichokes.json; sourceTree = "<group>"; };
+		942783412B9BA4E5003713F5 /* Leeks.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Leeks.json; sourceTree = "<group>"; };
+		942783422B9BA4E5003713F5 /* Peas.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Peas.json; sourceTree = "<group>"; };
+		942783432B9BA4E5003713F5 /* Corn.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Corn.json; sourceTree = "<group>"; };
+		942783442B9BA4E5003713F5 /* Potatoes.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Potatoes.json; sourceTree = "<group>"; };
+		942783452B9BA4E5003713F5 /* Spinach.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Spinach.json; sourceTree = "<group>"; };
+		942783462B9BA4E5003713F5 /* Kale.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Kale.json; sourceTree = "<group>"; };
+		942783472B9BA4E5003713F5 /* Escarole.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Escarole.json; sourceTree = "<group>"; };
+		942783492B9BA4E5003713F5 /* Okra.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Okra.json; sourceTree = "<group>"; };
+		9427834A2B9BA4E5003713F5 /* Mustard Greens.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Mustard Greens.json"; sourceTree = "<group>"; };
+		9427834B2B9BA4E5003713F5 /* Brussels Sprouts.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Brussels Sprouts.json"; sourceTree = "<group>"; };
+		9427834C2B9BA4E6003713F5 /* Beets.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Beets.json; sourceTree = "<group>"; };
+		9427834D2B9BA4E6003713F5 /* Bok Choy.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Bok Choy.json"; sourceTree = "<group>"; };
+		9427834E2B9BA4E6003713F5 /* Radicchio.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Radicchio.json; sourceTree = "<group>"; };
+		9427834F2B9BA4E6003713F5 /* Asparagus.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Asparagus.json; sourceTree = "<group>"; };
+		942783502B9BA4E6003713F5 /* Endive.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Endive.json; sourceTree = "<group>"; };
+		942783512B9BA4E6003713F5 /* Sweet Potatoes.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Sweet Potatoes.json"; sourceTree = "<group>"; };
+		942783522B9BA4E6003713F5 /* Swiss Chard.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Swiss Chard.json"; sourceTree = "<group>"; };
+		942783532B9BA4E6003713F5 /* Kohlrabi.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Kohlrabi.json; sourceTree = "<group>"; };
+		942783542B9BA4E6003713F5 /* Green Beans.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Green Beans.json"; sourceTree = "<group>"; };
+		942783552B9BA4E6003713F5 /* Turnips.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Turnips.json; sourceTree = "<group>"; };
+		942783562B9BA4E6003713F5 /* Parsnips.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Parsnips.json; sourceTree = "<group>"; };
+		942783572B9BA4E6003713F5 /* Garlic.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Garlic.json; sourceTree = "<group>"; };
+		942783582B9BA4E6003713F5 /* Arugula.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Arugula.json; sourceTree = "<group>"; };
+		942783592B9BA4E6003713F5 /* Fennel.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Fennel.json; sourceTree = "<group>"; };
+		942783B62B9CF45A003713F5 /* Mangoes.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Mangoes.json; sourceTree = "<group>"; };
+		942783B72B9CF45A003713F5 /* Bananas.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Bananas.json; sourceTree = "<group>"; };
+		942783B82B9CF45A003713F5 /* Oranges.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Oranges.json; sourceTree = "<group>"; };
+		942783B92B9CF45B003713F5 /* Blackberries.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Blackberries.json; sourceTree = "<group>"; };
+		942783BA2B9CF45B003713F5 /* Pineapples.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Pineapples.json; sourceTree = "<group>"; };
+		942783BB2B9CF45B003713F5 /* Cantaloupes.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Cantaloupes.json; sourceTree = "<group>"; };
+		942783BC2B9CF45B003713F5 /* Limes.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Limes.json; sourceTree = "<group>"; };
+		942783BD2B9CF45B003713F5 /* Watermelons.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Watermelons.json; sourceTree = "<group>"; };
+		942783BE2B9CF45B003713F5 /* Apricots.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Apricots.json; sourceTree = "<group>"; };
+		942783BF2B9CF45B003713F5 /* Strawberries.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Strawberries.json; sourceTree = "<group>"; };
+		942783C02B9CF45B003713F5 /* Lemons.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Lemons.json; sourceTree = "<group>"; };
+		942783C12B9CF45B003713F5 /* Peaches.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Peaches.json; sourceTree = "<group>"; };
+		942783C22B9CF45B003713F5 /* Apples.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Apples.json; sourceTree = "<group>"; };
+		942783C32B9CF45B003713F5 /* Plums.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Plums.json; sourceTree = "<group>"; };
+		942783C42B9CF45B003713F5 /* Figs.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Figs.json; sourceTree = "<group>"; };
+		942783C52B9CF45B003713F5 /* Grapes.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Grapes.json; sourceTree = "<group>"; };
+		942783C62B9CF45B003713F5 /* Grapefruits.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Grapefruits.json; sourceTree = "<group>"; };
+		942783C72B9CF45B003713F5 /* Avocados.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Avocados.json; sourceTree = "<group>"; };
+		942783C82B9CF45B003713F5 /* Cherries.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Cherries.json; sourceTree = "<group>"; };
+		942783C92B9CF45B003713F5 /* Kiwis.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Kiwis.json; sourceTree = "<group>"; };
+		942783CA2B9CF45B003713F5 /* Papayas.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Papayas.json; sourceTree = "<group>"; };
+		942783CB2B9CF45B003713F5 /* Blueberries.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Blueberries.json; sourceTree = "<group>"; };
+		942783CC2B9CF45B003713F5 /* Cranberries.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Cranberries.json; sourceTree = "<group>"; };
+		942783CD2B9CF45B003713F5 /* Raspberries.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Raspberries.json; sourceTree = "<group>"; };
+		942783CE2B9CF45B003713F5 /* Pears.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Pears.json; sourceTree = "<group>"; };
+		942783EA2B9CF5C3003713F5 /* Feverfew.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Feverfew.json; sourceTree = "<group>"; };
+		942783EB2B9CF5C3003713F5 /* Hibiscus.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Hibiscus.json; sourceTree = "<group>"; };
+		942783EC2B9CF5C3003713F5 /* Tamarillo.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Tamarillo.json; sourceTree = "<group>"; };
+		942783ED2B9CF5C3003713F5 /* Honeydew.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Honeydew.json; sourceTree = "<group>"; };
+		942783EE2B9CF5C3003713F5 /* Wonderberry.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Wonderberry.json; sourceTree = "<group>"; };
+		942783EF2B9CF5C3003713F5 /* Currant.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Currant.json; sourceTree = "<group>"; };
+		942783F02B9CF5C4003713F5 /* Elderberry.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Elderberry.json; sourceTree = "<group>"; };
+		942783F12B9CF5C4003713F5 /* Ground Cherry.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Ground Cherry.json"; sourceTree = "<group>"; };
+		942783FE2B9CF83E003713F5 /* Chervil.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Chervil.json; sourceTree = "<group>"; };
+		942783FF2B9CF83E003713F5 /* Watercress.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Watercress.json; sourceTree = "<group>"; };
+		942784002B9CF83E003713F5 /* Cat Grass.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Cat Grass.json"; sourceTree = "<group>"; };
+		942784012B9CF83E003713F5 /* Sweet Bay.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Sweet Bay.json"; sourceTree = "<group>"; };
+		942784022B9CF83E003713F5 /* German Chamomile.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "German Chamomile.json"; sourceTree = "<group>"; };
+		942784032B9CF83E003713F5 /* Prickly Pear.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Prickly Pear.json"; sourceTree = "<group>"; };
+		942784042B9CF83E003713F5 /* Catnip.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Catnip.json; sourceTree = "<group>"; };
+		942784052B9CF83E003713F5 /* Nasturtium.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Nasturtium.json; sourceTree = "<group>"; };
+		942784062B9CF83E003713F5 /* Salvia.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Salvia.json; sourceTree = "<group>"; };
+		942784072B9CF83E003713F5 /* Bee Balm.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Bee Balm.json"; sourceTree = "<group>"; };
+		942784082B9CF83F003713F5 /* Edamame.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Edamame.json; sourceTree = "<group>"; };
+		942784092B9CF83F003713F5 /* Ginger.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Ginger.json; sourceTree = "<group>"; };
+		9427840A2B9CF83F003713F5 /* Summer Savory.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Summer Savory.json"; sourceTree = "<group>"; };
+		9427840B2B9CF83F003713F5 /* Chia.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Chia.json; sourceTree = "<group>"; };
+		9427840C2B9CF83F003713F5 /* Sunflower.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Sunflower.json; sourceTree = "<group>"; };
+		9427840D2B9CF83F003713F5 /* Chickpea.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Chickpea.json; sourceTree = "<group>"; };
+		9427840E2B9CF83F003713F5 /* Comfrey.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Comfrey.json; sourceTree = "<group>"; };
+		9427840F2B9CF83F003713F5 /* Popcorn.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Popcorn.json; sourceTree = "<group>"; };
+		942784102B9CF83F003713F5 /* Mullein.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Mullein.json; sourceTree = "<group>"; };
+		942784112B9CF83F003713F5 /* Hyssop.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Hyssop.json; sourceTree = "<group>"; };
+		942784122B9CF83F003713F5 /* Fenugreek.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Fenugreek.json; sourceTree = "<group>"; };
+		942784142B9CF83F003713F5 /* Calendula.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Calendula.json; sourceTree = "<group>"; };
+		942784152B9CF83F003713F5 /* Chickweed.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Chickweed.json; sourceTree = "<group>"; };
+		942784162B9CF840003713F5 /* Borage.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Borage.json; sourceTree = "<group>"; };
+		942784172B9CF840003713F5 /* Orach.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Orach.json; sourceTree = "<group>"; };
+		942784182B9CF840003713F5 /* Lemon Verbena.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Lemon Verbena.json"; sourceTree = "<group>"; };
+		942784192B9CF840003713F5 /* St. John's Wort.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "St. John's Wort.json"; sourceTree = "<group>"; };
+		9427841A2B9CF840003713F5 /* Yarrow.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Yarrow.json; sourceTree = "<group>"; };
+		942784382B9CF856003713F5 /* Mizuna.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Mizuna.json; sourceTree = "<group>"; };
+		942784392B9CF856003713F5 /* Fava Beans.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Fava Beans.json"; sourceTree = "<group>"; };
+		9427843A2B9CF856003713F5 /* Cardoon.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Cardoon.json; sourceTree = "<group>"; };
+		9427843B2B9CF856003713F5 /* Loofah.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Loofah.json; sourceTree = "<group>"; };
+		9427843C2B9CF856003713F5 /* Water Spinach.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Water Spinach.json"; sourceTree = "<group>"; };
+		9427843D2B9CF856003713F5 /* Napa Cabbage.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Napa Cabbage.json"; sourceTree = "<group>"; };
+		9427843F2B9CF857003713F5 /* Pole Beans.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Pole Beans.json"; sourceTree = "<group>"; };
+		942784402B9CF857003713F5 /* Peanut.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Peanut.json; sourceTree = "<group>"; };
+		942784412B9CF857003713F5 /* Jicama.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Jicama.json; sourceTree = "<group>"; };
+		942784422B9CF857003713F5 /* Chayote.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Chayote.json; sourceTree = "<group>"; };
+		942784442B9CF857003713F5 /* Moringa.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Moringa.json; sourceTree = "<group>"; };
+		942784462B9CF857003713F5 /* Tatsoi.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Tatsoi.json; sourceTree = "<group>"; };
+		942784472B9CF857003713F5 /* Scallions (Green Onions).json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Scallions (Green Onions).json"; sourceTree = "<group>"; };
+		942784482B9CF857003713F5 /* Shallot.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Shallot.json; sourceTree = "<group>"; };
+		942784492B9CF857003713F5 /* Chinese Broccoli.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Chinese Broccoli.json"; sourceTree = "<group>"; };
+		9427844A2B9CF857003713F5 /* Tomatillo.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Tomatillo.json; sourceTree = "<group>"; };
 		94BEB1372B8CE91000754E01 /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
-		94BEB1442B8ED4BA00754E01 /* Vegetables.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Vegetables.json; sourceTree = "<group>"; };
 		94BEB1462B8ED4DD00754E01 /* VegetableModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VegetableModel.swift; sourceTree = "<group>"; };
 		94BEB1482B8F964500754E01 /* CurvedSideRectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurvedSideRectangle.swift; sourceTree = "<group>"; };
 		94BEB14D2B8FA64500754E01 /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
@@ -71,7 +353,7 @@
 		94BEB16D2B96637200754E01 /* UserLocationData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserLocationData.swift; sourceTree = "<group>"; };
 		94BEB16F2B966E7800754E01 /* AverageFrostDates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AverageFrostDates.swift; sourceTree = "<group>"; };
 		94BEB1732B97A6C800754E01 /* SowingAndPlantingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SowingAndPlantingView.swift; sourceTree = "<group>"; };
-		94BEB1752B97A6F600754E01 /* SowingAndPlantingRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SowingAndPlantingRowView.swift; sourceTree = "<group>"; };
+		94BEB1752B97A6F600754E01 /* HalfWidthTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HalfWidthTextView.swift; sourceTree = "<group>"; };
 		94BEB1782B97A72A00754E01 /* VegetableSectionHeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VegetableSectionHeaderView.swift; sourceTree = "<group>"; };
 		94BEB17C2B97CC1100754E01 /* CareAndMaintenanceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CareAndMaintenanceView.swift; sourceTree = "<group>"; };
 		94BEB17E2B97E11000754E01 /* FullWidthTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FullWidthTextView.swift; sourceTree = "<group>"; };
@@ -174,6 +456,176 @@
 			path = VegetableViews;
 			sourceTree = "<group>";
 		};
+		942782FA2B9ADC47003713F5 /* VegetableJSONs */ = {
+			isa = PBXGroup;
+			children = (
+				942783832B9BA546003713F5 /* Fruits */,
+				942783812B9BA501003713F5 /* Vegetables */,
+				942783822B9BA53A003713F5 /* Herbs */,
+			);
+			path = VegetableJSONs;
+			sourceTree = "<group>";
+		};
+		942783812B9BA501003713F5 /* Vegetables */ = {
+			isa = PBXGroup;
+			children = (
+				942783402B9BA4E5003713F5 /* Artichokes.json */,
+				942783582B9BA4E6003713F5 /* Arugula.json */,
+				9427834F2B9BA4E6003713F5 /* Asparagus.json */,
+				9427834C2B9BA4E6003713F5 /* Beets.json */,
+				942783012B9B8F15003713F5 /* Bell Peppers.json */,
+				9427834D2B9BA4E6003713F5 /* Bok Choy.json */,
+				942783032B9B8F5F003713F5 /* Broccoli.json */,
+				9427834B2B9BA4E5003713F5 /* Brussels Sprouts.json */,
+				9427833A2B9BA4E5003713F5 /* Cabbage.json */,
+				9427843A2B9CF856003713F5 /* Cardoon.json */,
+				9427833D2B9BA4E5003713F5 /* Carrots.json */,
+				9427833F2B9BA4E5003713F5 /* Cauliflower.json */,
+				942783332B9BA4E4003713F5 /* Celery.json */,
+				942784422B9CF857003713F5 /* Chayote.json */,
+				942784492B9CF857003713F5 /* Chinese Broccoli.json */,
+				9427833E2B9BA4E5003713F5 /* Collard Greens.json */,
+				942783432B9BA4E5003713F5 /* Corn.json */,
+				9427833B2B9BA4E5003713F5 /* Cucumbers.json */,
+				942783392B9BA4E5003713F5 /* Eggplant.json */,
+				942783502B9BA4E6003713F5 /* Endive.json */,
+				942783472B9BA4E5003713F5 /* Escarole.json */,
+				942784392B9CF856003713F5 /* Fava Beans.json */,
+				942783592B9BA4E6003713F5 /* Fennel.json */,
+				942783572B9BA4E6003713F5 /* Garlic.json */,
+				942783542B9BA4E6003713F5 /* Green Beans.json */,
+				942784412B9CF857003713F5 /* Jicama.json */,
+				942783462B9BA4E5003713F5 /* Kale.json */,
+				942783532B9BA4E6003713F5 /* Kohlrabi.json */,
+				942783412B9BA4E5003713F5 /* Leeks.json */,
+				942782FF2B9B8EE6003713F5 /* Lettuce.json */,
+				9427843B2B9CF856003713F5 /* Loofah.json */,
+				942784382B9CF856003713F5 /* Mizuna.json */,
+				942784442B9CF857003713F5 /* Moringa.json */,
+				9427834A2B9BA4E5003713F5 /* Mustard Greens.json */,
+				9427843D2B9CF856003713F5 /* Napa Cabbage.json */,
+				942783492B9BA4E5003713F5 /* Okra.json */,
+				942783342B9BA4E4003713F5 /* Onions.json */,
+				942783562B9BA4E6003713F5 /* Parsnips.json */,
+				942784402B9CF857003713F5 /* Peanut.json */,
+				942783422B9BA4E5003713F5 /* Peas.json */,
+				9427843F2B9CF857003713F5 /* Pole Beans.json */,
+				942783442B9BA4E5003713F5 /* Potatoes.json */,
+				942783362B9BA4E4003713F5 /* Pumpkins.json */,
+				9427834E2B9BA4E6003713F5 /* Radicchio.json */,
+				9427833C2B9BA4E5003713F5 /* Radishes.json */,
+				942783372B9BA4E4003713F5 /* Rutabagas.json */,
+				942784472B9CF857003713F5 /* Scallions (Green Onions).json */,
+				942784482B9CF857003713F5 /* Shallot.json */,
+				942783452B9BA4E5003713F5 /* Spinach.json */,
+				942783382B9BA4E5003713F5 /* Squash.json */,
+				942783512B9BA4E6003713F5 /* Sweet Potatoes.json */,
+				942783522B9BA4E6003713F5 /* Swiss Chard.json */,
+				942784462B9CF857003713F5 /* Tatsoi.json */,
+				9427844A2B9CF857003713F5 /* Tomatillo.json */,
+				942783052B9B8F73003713F5 /* Tomatoes.json */,
+				942783552B9BA4E6003713F5 /* Turnips.json */,
+				9427843C2B9CF856003713F5 /* Water Spinach.json */,
+				942783352B9BA4E4003713F5 /* Zucchini.json */,
+			);
+			path = Vegetables;
+			sourceTree = "<group>";
+		};
+		942783822B9BA53A003713F5 /* Herbs */ = {
+			isa = PBXGroup;
+			children = (
+				942782FD2B9ADCB8003713F5 /* Basil.json */,
+				942783072B9B94C6003713F5 /* Bay Leaves.json */,
+				942784072B9CF83E003713F5 /* Bee Balm.json */,
+				942784162B9CF840003713F5 /* Borage.json */,
+				942784142B9CF83F003713F5 /* Calendula.json */,
+				942784002B9CF83E003713F5 /* Cat Grass.json */,
+				942784042B9CF83E003713F5 /* Catnip.json */,
+				9427830B2B9B9596003713F5 /* Chamomile.json */,
+				942783FE2B9CF83E003713F5 /* Chervil.json */,
+				9427840B2B9CF83F003713F5 /* Chia.json */,
+				9427840D2B9CF83F003713F5 /* Chickpea.json */,
+				942784152B9CF83F003713F5 /* Chickweed.json */,
+				9427830F2B9B963D003713F5 /* Chives.json */,
+				942783112B9B96E9003713F5 /* Cilantro.json */,
+				9427840E2B9CF83F003713F5 /* Comfrey.json */,
+				9427831E2B9B9F24003713F5 /* Dandelion Greens.json */,
+				9427831D2B9B9F24003713F5 /* Dill.json */,
+				942784082B9CF83F003713F5 /* Edamame.json */,
+				942784122B9CF83F003713F5 /* Fenugreek.json */,
+				942784022B9CF83E003713F5 /* German Chamomile.json */,
+				942784092B9CF83F003713F5 /* Ginger.json */,
+				942784112B9CF83F003713F5 /* Hyssop.json */,
+				942783202B9B9F24003713F5 /* Lavender.json */,
+				942783232B9B9F24003713F5 /* Lemon Balm.json */,
+				942784182B9CF840003713F5 /* Lemon Verbena.json */,
+				9427831B2B9B9F24003713F5 /* Lemongrass.json */,
+				9427831C2B9B9F24003713F5 /* Marjoram.json */,
+				942783212B9B9F24003713F5 /* Mint.json */,
+				942784102B9CF83F003713F5 /* Mullein.json */,
+				942784052B9CF83E003713F5 /* Nasturtium.json */,
+				942784172B9CF840003713F5 /* Orach.json */,
+				942783222B9B9F24003713F5 /* Oregano.json */,
+				9427831F2B9B9F24003713F5 /* Parsley.json */,
+				9427840F2B9CF83F003713F5 /* Popcorn.json */,
+				942784032B9CF83E003713F5 /* Prickly Pear.json */,
+				942783152B9B9F23003713F5 /* Rosemary.json */,
+				942783162B9B9F23003713F5 /* Sage.json */,
+				942784062B9CF83E003713F5 /* Salvia.json */,
+				9427831A2B9B9F24003713F5 /* Sorrel.json */,
+				942784192B9CF840003713F5 /* St. John's Wort.json */,
+				942783192B9B9F24003713F5 /* Stevia.json */,
+				9427840A2B9CF83F003713F5 /* Summer Savory.json */,
+				9427840C2B9CF83F003713F5 /* Sunflower.json */,
+				942784012B9CF83E003713F5 /* Sweet Bay.json */,
+				942783182B9B9F24003713F5 /* Tarragon.json */,
+				942783172B9B9F23003713F5 /* Thyme.json */,
+				942783FF2B9CF83E003713F5 /* Watercress.json */,
+				9427841A2B9CF840003713F5 /* Yarrow.json */,
+			);
+			path = Herbs;
+			sourceTree = "<group>";
+		};
+		942783832B9BA546003713F5 /* Fruits */ = {
+			isa = PBXGroup;
+			children = (
+				942783C22B9CF45B003713F5 /* Apples.json */,
+				942783BE2B9CF45B003713F5 /* Apricots.json */,
+				942783C72B9CF45B003713F5 /* Avocados.json */,
+				942783B72B9CF45A003713F5 /* Bananas.json */,
+				942783B92B9CF45B003713F5 /* Blackberries.json */,
+				942783CB2B9CF45B003713F5 /* Blueberries.json */,
+				942783BB2B9CF45B003713F5 /* Cantaloupes.json */,
+				942783C82B9CF45B003713F5 /* Cherries.json */,
+				942783CC2B9CF45B003713F5 /* Cranberries.json */,
+				942783EF2B9CF5C3003713F5 /* Currant.json */,
+				942783F02B9CF5C4003713F5 /* Elderberry.json */,
+				942783EA2B9CF5C3003713F5 /* Feverfew.json */,
+				942783C42B9CF45B003713F5 /* Figs.json */,
+				942783C62B9CF45B003713F5 /* Grapefruits.json */,
+				942783C52B9CF45B003713F5 /* Grapes.json */,
+				942783F12B9CF5C4003713F5 /* Ground Cherry.json */,
+				942783EB2B9CF5C3003713F5 /* Hibiscus.json */,
+				942783ED2B9CF5C3003713F5 /* Honeydew.json */,
+				942783C92B9CF45B003713F5 /* Kiwis.json */,
+				942783C02B9CF45B003713F5 /* Lemons.json */,
+				942783BC2B9CF45B003713F5 /* Limes.json */,
+				942783B62B9CF45A003713F5 /* Mangoes.json */,
+				942783B82B9CF45A003713F5 /* Oranges.json */,
+				942783CA2B9CF45B003713F5 /* Papayas.json */,
+				942783C12B9CF45B003713F5 /* Peaches.json */,
+				942783CE2B9CF45B003713F5 /* Pears.json */,
+				942783BA2B9CF45B003713F5 /* Pineapples.json */,
+				942783C32B9CF45B003713F5 /* Plums.json */,
+				942783CD2B9CF45B003713F5 /* Raspberries.json */,
+				942783BF2B9CF45B003713F5 /* Strawberries.json */,
+				942783EC2B9CF5C3003713F5 /* Tamarillo.json */,
+				942783BD2B9CF45B003713F5 /* Watermelons.json */,
+				942783EE2B9CF5C3003713F5 /* Wonderberry.json */,
+			);
+			path = Fruits;
+			sourceTree = "<group>";
+		};
 		94BEB1342B8CE8E300754E01 /* CurrentLocation */ = {
 			isa = PBXGroup;
 			children = (
@@ -185,7 +637,7 @@
 		94BEB1432B8ED49600754E01 /* Vegetable */ = {
 			isa = PBXGroup;
 			children = (
-				94BEB1442B8ED4BA00754E01 /* Vegetables.json */,
+				942782FA2B9ADC47003713F5 /* VegetableJSONs */,
 				94BEB1462B8ED4DD00754E01 /* VegetableModel.swift */,
 			);
 			path = Vegetable;
@@ -219,37 +671,16 @@
 			children = (
 				94205D5A2B8BD09000D79647 /* VegetableView.swift */,
 				94BEB1782B97A72A00754E01 /* VegetableSectionHeaderView.swift */,
-				94BEB17A2B97CB1000754E01 /* SowingAndPlanting */,
-				94BEB17B2B97CBF500754E01 /* CareAndMaintenance */,
-				94BEB1802B98218A00754E01 /* HarvestingAndStorage */,
+				94BEB17E2B97E11000754E01 /* FullWidthTextView.swift */,
+				94BEB1752B97A6F600754E01 /* HalfWidthTextView.swift */,
+				94BEB1732B97A6C800754E01 /* SowingAndPlantingView.swift */,
+				94BEB17C2B97CC1100754E01 /* CareAndMaintenanceView.swift */,
+				94BEB1812B98274900754E01 /* HarvestingAndStorageView.swift */,
+				942782F42B990DE5003713F5 /* PestsView.swift */,
+				942782F62B992112003713F5 /* DiseaseView.swift */,
+				942782F82B9A86BE003713F5 /* CompanionPlantsView.swift */,
 			);
 			path = VegetbaleView;
-			sourceTree = "<group>";
-		};
-		94BEB17A2B97CB1000754E01 /* SowingAndPlanting */ = {
-			isa = PBXGroup;
-			children = (
-				94BEB1732B97A6C800754E01 /* SowingAndPlantingView.swift */,
-				94BEB1752B97A6F600754E01 /* SowingAndPlantingRowView.swift */,
-			);
-			path = SowingAndPlanting;
-			sourceTree = "<group>";
-		};
-		94BEB17B2B97CBF500754E01 /* CareAndMaintenance */ = {
-			isa = PBXGroup;
-			children = (
-				94BEB17C2B97CC1100754E01 /* CareAndMaintenanceView.swift */,
-				94BEB17E2B97E11000754E01 /* FullWidthTextView.swift */,
-			);
-			path = CareAndMaintenance;
-			sourceTree = "<group>";
-		};
-		94BEB1802B98218A00754E01 /* HarvestingAndStorage */ = {
-			isa = PBXGroup;
-			children = (
-				94BEB1812B98274900754E01 /* HarvestingAndStorageView.swift */,
-			);
-			path = HarvestingAndStorage;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -312,11 +743,149 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9427832B2B9B9F24003713F5 /* Marjoram.json in Resources */,
+				942783DA2B9CF45B003713F5 /* Peaches.json in Resources */,
+				942784212B9CF840003713F5 /* Catnip.json in Resources */,
 				94BEB1662B9585AC00754E01 /* hardiness_zones.csv in Resources */,
+				942783DC2B9CF45B003713F5 /* Plums.json in Resources */,
+				9427835E2B9BA4E6003713F5 /* Rutabagas.json in Resources */,
+				9427832F2B9B9F24003713F5 /* Lavender.json in Resources */,
+				942783D12B9CF45B003713F5 /* Oranges.json in Resources */,
+				9427836B2B9BA4E6003713F5 /* Potatoes.json in Resources */,
+				942784332B9CF840003713F5 /* Borage.json in Resources */,
+				9427837D2B9BA4E6003713F5 /* Parsnips.json in Resources */,
+				942784282B9CF840003713F5 /* Chia.json in Resources */,
+				9427845D2B9CF857003713F5 /* Tomatillo.json in Resources */,
+				9427836C2B9BA4E6003713F5 /* Spinach.json in Resources */,
+				942783DD2B9CF45B003713F5 /* Figs.json in Resources */,
+				942783302B9B9F24003713F5 /* Mint.json in Resources */,
+				942784242B9CF840003713F5 /* Bee Balm.json in Resources */,
+				942784592B9CF857003713F5 /* Tatsoi.json in Resources */,
+				942784352B9CF840003713F5 /* Lemon Verbena.json in Resources */,
+				9427844D2B9CF857003713F5 /* Cardoon.json in Resources */,
+				942783D02B9CF45B003713F5 /* Bananas.json in Resources */,
+				942784542B9CF857003713F5 /* Jicama.json in Resources */,
+				942783F62B9CF5C4003713F5 /* Hibiscus.json in Resources */,
+				942783102B9B963D003713F5 /* Chives.json in Resources */,
+				9427836E2B9BA4E6003713F5 /* Escarole.json in Resources */,
+				9427842A2B9CF840003713F5 /* Chickpea.json in Resources */,
+				942783762B9BA4E6003713F5 /* Asparagus.json in Resources */,
+				9427842C2B9CF840003713F5 /* Popcorn.json in Resources */,
+				9427832A2B9B9F24003713F5 /* Lemongrass.json in Resources */,
+				942784372B9CF840003713F5 /* Yarrow.json in Resources */,
+				942784232B9CF840003713F5 /* Salvia.json in Resources */,
+				942783E72B9CF45C003713F5 /* Pears.json in Resources */,
+				9427841D2B9CF840003713F5 /* Cat Grass.json in Resources */,
+				9427832E2B9B9F24003713F5 /* Parsley.json in Resources */,
+				942783292B9B9F24003713F5 /* Sorrel.json in Resources */,
+				942783062B9B8F73003713F5 /* Tomatoes.json in Resources */,
+				942783E32B9CF45C003713F5 /* Papayas.json in Resources */,
+				9427835F2B9BA4E6003713F5 /* Squash.json in Resources */,
+				942784362B9CF840003713F5 /* St. John's Wort.json in Resources */,
+				942783FC2B9CF5C4003713F5 /* Ground Cherry.json in Resources */,
+				942783DE2B9CF45B003713F5 /* Grapes.json in Resources */,
+				942783642B9BA4E6003713F5 /* Carrots.json in Resources */,
+				942784222B9CF840003713F5 /* Nasturtium.json in Resources */,
+				9427836D2B9BA4E6003713F5 /* Kale.json in Resources */,
+				9427844E2B9CF857003713F5 /* Loofah.json in Resources */,
+				942783742B9BA4E6003713F5 /* Bok Choy.json in Resources */,
+				942784532B9CF857003713F5 /* Peanut.json in Resources */,
+				9427835C2B9BA4E6003713F5 /* Zucchini.json in Resources */,
+				942783D32B9CF45B003713F5 /* Pineapples.json in Resources */,
+				9427837C2B9BA4E6003713F5 /* Turnips.json in Resources */,
+				9427837F2B9BA4E6003713F5 /* Arugula.json in Resources */,
+				9427841E2B9CF840003713F5 /* Sweet Bay.json in Resources */,
+				942783E62B9CF45C003713F5 /* Raspberries.json in Resources */,
+				942783252B9B9F24003713F5 /* Sage.json in Resources */,
+				942783672B9BA4E6003713F5 /* Artichokes.json in Resources */,
+				942783FB2B9CF5C4003713F5 /* Elderberry.json in Resources */,
+				942783E22B9CF45C003713F5 /* Kiwis.json in Resources */,
+				942783D52B9CF45B003713F5 /* Limes.json in Resources */,
+				942784272B9CF840003713F5 /* Summer Savory.json in Resources */,
+				942784262B9CF840003713F5 /* Ginger.json in Resources */,
+				9427837A2B9BA4E6003713F5 /* Kohlrabi.json in Resources */,
+				942784312B9CF840003713F5 /* Calendula.json in Resources */,
+				942783612B9BA4E6003713F5 /* Cabbage.json in Resources */,
+				942783312B9B9F24003713F5 /* Oregano.json in Resources */,
+				9427835D2B9BA4E6003713F5 /* Pumpkins.json in Resources */,
+				9427832D2B9B9F24003713F5 /* Dandelion Greens.json in Resources */,
+				942783DB2B9CF45B003713F5 /* Apples.json in Resources */,
+				942783E52B9CF45C003713F5 /* Cranberries.json in Resources */,
+				942783722B9BA4E6003713F5 /* Brussels Sprouts.json in Resources */,
+				9427845B2B9CF857003713F5 /* Shallot.json in Resources */,
 				94205D442B8BC01600D79647 /* data.realm in Resources */,
-				94BEB1452B8ED4BA00754E01 /* Vegetables.json in Resources */,
+				942783122B9B96E9003713F5 /* Cilantro.json in Resources */,
+				9427842E2B9CF840003713F5 /* Hyssop.json in Resources */,
+				942783042B9B8F5F003713F5 /* Broccoli.json in Resources */,
+				9427837B2B9BA4E6003713F5 /* Green Beans.json in Resources */,
+				942783272B9B9F24003713F5 /* Tarragon.json in Resources */,
+				942783E12B9CF45B003713F5 /* Cherries.json in Resources */,
+				942783712B9BA4E6003713F5 /* Mustard Greens.json in Resources */,
+				942783792B9BA4E6003713F5 /* Swiss Chard.json in Resources */,
+				942784522B9CF857003713F5 /* Pole Beans.json in Resources */,
+				942784572B9CF857003713F5 /* Moringa.json in Resources */,
+				942784202B9CF840003713F5 /* Prickly Pear.json in Resources */,
+				942783D72B9CF45B003713F5 /* Apricots.json in Resources */,
+				942782FE2B9ADCB8003713F5 /* Basil.json in Resources */,
+				942783D22B9CF45B003713F5 /* Blackberries.json in Resources */,
+				9427835B2B9BA4E6003713F5 /* Onions.json in Resources */,
+				9427845A2B9CF857003713F5 /* Scallions (Green Onions).json in Resources */,
+				942784292B9CF840003713F5 /* Sunflower.json in Resources */,
+				942783782B9BA4E6003713F5 /* Sweet Potatoes.json in Resources */,
+				942784252B9CF840003713F5 /* Edamame.json in Resources */,
+				942783F72B9CF5C4003713F5 /* Tamarillo.json in Resources */,
+				942783622B9BA4E6003713F5 /* Cucumbers.json in Resources */,
+				942784322B9CF840003713F5 /* Chickweed.json in Resources */,
+				942783F82B9CF5C4003713F5 /* Honeydew.json in Resources */,
+				942783242B9B9F24003713F5 /* Rosemary.json in Resources */,
+				942783262B9B9F24003713F5 /* Thyme.json in Resources */,
+				9427842F2B9CF840003713F5 /* Fenugreek.json in Resources */,
+				942783D42B9CF45B003713F5 /* Cantaloupes.json in Resources */,
+				9427844B2B9CF857003713F5 /* Mizuna.json in Resources */,
+				942783CF2B9CF45B003713F5 /* Mangoes.json in Resources */,
+				942783702B9BA4E6003713F5 /* Okra.json in Resources */,
+				9427830C2B9B9596003713F5 /* Chamomile.json in Resources */,
 				9411F37C2B8AFA6D005DC3A1 /* Preview Assets.xcassets in Resources */,
+				9427844F2B9CF857003713F5 /* Water Spinach.json in Resources */,
+				942783D82B9CF45B003713F5 /* Strawberries.json in Resources */,
+				9427841B2B9CF840003713F5 /* Chervil.json in Resources */,
+				942784342B9CF840003713F5 /* Orach.json in Resources */,
+				942783D62B9CF45B003713F5 /* Watermelons.json in Resources */,
+				942783E02B9CF45B003713F5 /* Avocados.json in Resources */,
 				9411F3792B8AFA6D005DC3A1 /* Assets.xcassets in Resources */,
+				942783322B9B9F24003713F5 /* Lemon Balm.json in Resources */,
+				942783002B9B8EE6003713F5 /* Lettuce.json in Resources */,
+				942783652B9BA4E6003713F5 /* Collard Greens.json in Resources */,
+				942784552B9CF857003713F5 /* Chayote.json in Resources */,
+				9427837E2B9BA4E6003713F5 /* Garlic.json in Resources */,
+				942784502B9CF857003713F5 /* Napa Cabbage.json in Resources */,
+				9427841C2B9CF840003713F5 /* Watercress.json in Resources */,
+				942783022B9B8F15003713F5 /* Bell Peppers.json in Resources */,
+				942783682B9BA4E6003713F5 /* Leeks.json in Resources */,
+				942783F52B9CF5C4003713F5 /* Feverfew.json in Resources */,
+				9427841F2B9CF840003713F5 /* German Chamomile.json in Resources */,
+				942783752B9BA4E6003713F5 /* Radicchio.json in Resources */,
+				9427835A2B9BA4E6003713F5 /* Celery.json in Resources */,
+				942783082B9B94C6003713F5 /* Bay Leaves.json in Resources */,
+				942783692B9BA4E6003713F5 /* Peas.json in Resources */,
+				942783E42B9CF45C003713F5 /* Blueberries.json in Resources */,
+				942783802B9BA4E6003713F5 /* Fennel.json in Resources */,
+				9427832C2B9B9F24003713F5 /* Dill.json in Resources */,
+				9427842D2B9CF840003713F5 /* Mullein.json in Resources */,
+				942783282B9B9F24003713F5 /* Stevia.json in Resources */,
+				942783662B9BA4E6003713F5 /* Cauliflower.json in Resources */,
+				9427842B2B9CF840003713F5 /* Comfrey.json in Resources */,
+				942783632B9BA4E6003713F5 /* Radishes.json in Resources */,
+				942783F92B9CF5C4003713F5 /* Wonderberry.json in Resources */,
+				9427845C2B9CF857003713F5 /* Chinese Broccoli.json in Resources */,
+				942783D92B9CF45B003713F5 /* Lemons.json in Resources */,
+				9427836A2B9BA4E6003713F5 /* Corn.json in Resources */,
+				942783602B9BA4E6003713F5 /* Eggplant.json in Resources */,
+				942783FA2B9CF5C4003713F5 /* Currant.json in Resources */,
+				942783772B9BA4E6003713F5 /* Endive.json in Resources */,
+				942783732B9BA4E6003713F5 /* Beets.json in Resources */,
+				942783DF2B9CF45B003713F5 /* Grapefruits.json in Resources */,
+				9427844C2B9CF857003713F5 /* Fava Beans.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -372,6 +941,7 @@
 				94BEB1492B8F964500754E01 /* CurvedSideRectangle.swift in Sources */,
 				94BEB1522B9013D500754E01 /* CustomNavBarView.swift in Sources */,
 				94BEB1742B97A6C800754E01 /* SowingAndPlantingView.swift in Sources */,
+				942782F52B990DE5003713F5 /* PestsView.swift in Sources */,
 				9411F3772B8AFA69005DC3A1 /* ContentView.swift in Sources */,
 				94205D572B8BD06200D79647 /* VegetableListView.swift in Sources */,
 				94BEB1792B97A72A00754E01 /* VegetableSectionHeaderView.swift in Sources */,
@@ -382,6 +952,7 @@
 				94205D5F2B8BD2FD00D79647 /* RealmManager.swift in Sources */,
 				94BEB1702B966E7800754E01 /* AverageFrostDates.swift in Sources */,
 				94BEB17F2B97E11000754E01 /* FullWidthTextView.swift in Sources */,
+				942782F72B992112003713F5 /* DiseaseView.swift in Sources */,
 				94BEB1622B957BF300754E01 /* PlantHardinessZone.swift in Sources */,
 				94BEB15A2B91658F00754E01 /* VegetableNavBarView.swift in Sources */,
 				94BEB1822B98274900754E01 /* HarvestingAndStorageView.swift in Sources */,
@@ -392,9 +963,10 @@
 				94205D542B8BD02500D79647 /* Route.swift in Sources */,
 				94BEB17D2B97CC1100754E01 /* CareAndMaintenanceView.swift in Sources */,
 				94BEB15E2B92589E00754E01 /* VarietyPickerView.swift in Sources */,
+				942782F92B9A86BE003713F5 /* CompanionPlantsView.swift in Sources */,
 				94BEB1382B8CE91000754E01 /* LocationModel.swift in Sources */,
 				9411F3752B8AFA69005DC3A1 /* VeggieVerseApp.swift in Sources */,
-				94BEB1762B97A6F600754E01 /* SowingAndPlantingRowView.swift in Sources */,
+				94BEB1762B97A6F600754E01 /* HalfWidthTextView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,77 @@
+
+{
+    "plantName": "Squash",
+    "description": "Squash is a warm-season vegetable that belongs to the cucurbit family, which also includes pumpkins, cucumbers, and melons. There are various types of squash, including summer squash, winter squash, and ornamental squash, each with its unique characteristics and culinary uses. Squash plants produce large, sprawling vines with edible fruits that vary in size, shape, and color. Squash is rich in vitamins, minerals, and antioxidants, making it a nutritious addition to any diet.",
+    "thumbnailImageUrl": "Squash_thumbnail",
+    "backgroundImageUrl": "Squash_background",
+    "varieties": [],
+    "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Squash seeds can be started indoors 3-4 weeks before the last frost date in your area. Use biodegradable pots or seed starting trays filled with seed starting mix. Plant seeds 1 inch deep and keep the soil consistently moist and warm (around 70°F). Transplant seedlings outdoors after the danger of frost has passed and the soil has warmed up.",
+        "sowingOutdoorsDescription": "Directly sow squash seeds outdoors after the danger of frost has passed and the soil has warmed up. Choose a sunny location with well-draining soil. Plant seeds 1 inch deep and space them according to the recommended spacing for the specific variety. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "24\" - 36\"",
+        "spaceBetweenRows": "3' - 6'",
+        "seedDepth": "1\"",
+        "pHRange": "6.0 - 7.5",
+        "germinationSoilTemp": "70 - 95°F",
+        "season": "Warm-season crop, planted after the danger of frost has passed and the soil has warmed up."
+    },
+    "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "70-95°F",
+        "growingDescription": "Squash plants prefer full sun and well-draining soil rich in organic matter. Keep the soil consistently moist but not waterlogged, especially during flowering and fruiting. Mulch around plants to suppress weeds, retain moisture, and regulate soil temperature. Fertilize squash plants with a balanced fertilizer at planting and again every 4-6 weeks during the growing season.",
+        "wateringNeeds": "Regular watering, keeping the soil consistently moist.",
+        "soilFertility": "Squash plants prefer fertile soil with good drainage. Amend soil with compost before planting if necessary.",
+        "pruningRequirements": "Prune squash plants to remove diseased or damaged foliage, improve airflow, and promote better fruit development. Remove any suckers or lateral branches that are crowding the main stem.",
+        "supportRequirements": "Some vining squash varieties may benefit from trellising or support to keep fruits off the ground and save space in the garden."
+    },
+    "harvestingAndStorage": {
+        "timeToMaturity": "50-100 days from sowing, depending on the variety and desired maturity.",
+        "storageRecommendations": "Harvest summer squash when they are young and tender, typically 6-8 inches in length. Harvest winter squash when the rinds are hard and cannot be pierced with a fingernail. Use a sharp knife or pruning shears to cut squash from the vine, leaving a short stem attached. Store harvested squash in a cool, dry place with good air circulation for several weeks to several months, depending on the variety.",
+        "harvestDescription": "Harvest summer squash when they are young and tender, typically 6-8 inches in length. Harvest winter squash when the rinds are hard and cannot be pierced with a fingernail. Use a sharp knife or pruning shears to cut squash from the vine, leaving a short stem attached."
+    },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Beans",
+                "description": "Beans can be planted near squash to help improve soil fertility by fixing nitrogen and providing natural pest control in the garden."
+            },
+            {
+                "name": "Nasturtiums",
+                "description": "Nasturtiums can be interplanted with squash to help repel pests like aphids and squash bugs."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Potatoes",
+                "description": "Potatoes are not recommended to be planted near squash as they may compete for space and nutrients."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Squash Bugs",
+            "description": "Squash bugs are common pests of squash plants, feeding on the sap and causing wilting, yellowing, and stunting. Handpick adult bugs and their egg masses and destroy them. Use row covers to exclude adult bugs from plants, and apply insecticidal sprays or dusts as needed."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that affects squash plants, causing a white, powdery growth on leaves, stems, and fruits. It thrives in warm, humid conditions and can lead to reduced plant vigor and yield. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest summer squash when they are young and tender for the best flavor and texture.",
+        "Harvest winter squash when the rinds are hard and cannot be pierced with a fingernail for optimal storage.",
+        "Prune squash plants to remove diseased or damaged foliage and promote better airflow."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Squash: Planting Guide",
+            "url": "https://www.almanac.com/plant/squash"
+        },
+        {
+            "title": "How to Harvest and Store Squash",
+            "url": "https://www.gardeningknowhow.com/edible/vegetables/squash/harvesting-squash.htm"
+        }
+    ]
+}

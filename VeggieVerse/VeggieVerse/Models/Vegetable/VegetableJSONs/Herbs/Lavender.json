@@ -1,0 +1,86 @@
+
+{
+    "plantName": "Lavender",
+    "description": "Lavender is a fragrant herb with narrow, aromatic leaves and spikes of purple flowers. It is prized for its soothing scent and versatile uses in cooking, aromatherapy, and crafts.",
+    "thumbnailImageUrl": "Lavender_thumbnail",
+    "backgroundImageUrl": "Lavender_background",
+    "varieties": "Lavender, scientifically known as Lavandula, encompasses several species and cultivars, each with its unique characteristics. Common species include Lavandula angustifolia (English Lavender), Lavandula stoechas (Spanish Lavender), Lavandula x intermedia (Lavandin), and Lavandula dentata (French Lavender). Within each species, there are numerous cultivars offering variations in flower color, fragrance, and growth habit. Some popular cultivars include 'Hidcote', 'Munstead', 'Provence', 'Grosso', and 'Goodwin Creek Grey'.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Lavender seeds can be started indoors in pots or trays filled with well-draining potting mix. Sow seeds on the soil surface and lightly press them into the soil. Keep the soil consistently moist and provide bright, indirect light or supplemental grow lights. Transplant seedlings outdoors after the last frost date in your area.",
+        "sowingOutdoorsDescription": "Lavender seeds can also be directly sown outdoors in the garden after the last frost date. Choose a location with full sun and well-drained soil. Scatter seeds over the soil surface and lightly rake them in. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "12\"-24\"",
+        "spaceBetweenRows": "24\"-36\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Perennial",
+        "seedDepth": "Surface sow",
+        "pHRange": "6.5 - 7.5",
+        "germinationSoilTemp": "70-80°F",
+        "season": "Lavender should be planted outdoors after the last frost date in your area. It prefers warm temperatures and well-drained soil."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "70-80°F",
+        "growingDescription": "Lavender thrives in full sun and well-drained, slightly alkaline soil. Once established, it is drought-tolerant and requires minimal water. Water young plants regularly until they are established, then water only during extended periods of drought. Avoid overwatering to prevent root rot. Lavender is a low-maintenance plant and does not require frequent fertilization.",
+        "wateringNeeds": "Regular watering until established; then water only during extended periods of drought.",
+        "soilFertility": "Lavender prefers lean soil and does not require fertilization. However, incorporating some compost or well-aged manure into the soil before planting can provide some nutrients.",
+        "pruningRequirements": "Prune lavender lightly after flowering to promote bushier growth and maintain its shape. Remove spent flower spikes to encourage continuous blooming. In late winter or early spring, prune back about one-third of the plant to stimulate new growth and prevent legginess.",
+        "supportRequirements": "Established lavender plants generally do not require support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "60-90 days from planting",
+        "timeToMaturity": "Lavender typically matures and is ready for harvest 60-90 days after planting, depending on growing conditions.",
+        "storageRecommendations": "Harvest lavender flowers when they are fully open and at their peak fragrance. Cut flower spikes just above the foliage using sharp scissors or pruning shears. Use fresh flowers immediately, or dry them for later use. To dry lavender, hang the stems upside down in small bunches in a warm, well-ventilated area out of direct sunlight. Once fully dried, store the flowers in an airtight container in a cool, dark place.",
+        "harvestDescription": "Harvest lavender flowers in the morning when the oils are most concentrated. Snip flower spikes just above the foliage, taking care not to remove too much of the plant's growth."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Rosemary",
+                "description": "Rosemary is a good companion plant for lavender, as it has similar growing requirements and may help repel certain pests."
+            },
+            {
+                "name": "Thyme",
+                "description": "Thyme can be planted near lavender as it complements its fragrance and both have similar cultural requirements."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Basil",
+                "description": "Basil is not a suitable companion for lavender, as it requires different growing conditions and may compete for resources."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Lavender Aphid",
+            "description": "Lavender aphids are small, soft-bodied insects that feed on lavender leaves and stems, causing distortion and yellowing. They can also transmit plant diseases. Control lavender aphids by spraying affected plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs, and applying insecticidal soap or neem oil as needed."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Root Rot",
+            "description": "Root rot is a fungal disease that affects lavender plants grown in poorly draining soil or overwatered conditions. Symptoms include wilting, yellowing, and eventual death of the plant. Improve soil drainage and avoid overwatering to prevent root rot."
+        },
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that affects lavender plants, causing a white powdery growth on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
+        }
+    ],
+    "tipsAndTricks": [
+        "Prune lavender plants regularly to promote bushy growth and prevent woody stems.",
+        "Harvest lavender flowers when they are fully open but before they begin to fade for the best fragrance.",
+        "Dry lavender flowers by hanging them upside down in a dark, well-ventilated area.",
+        "Avoid overwatering lavender plants to prevent root rot and fungal diseases."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Lavender: Planting Guide",
+            "url": "https://www.almanac.com/plant/lavender"
+        },
+        {
+            "title": "How to Harvest and Dry Lavender",
+            "url": "https://www.growveg.com/guides/how-to-harvest-and-dry-lavender/"
+        }
+    ]
+}

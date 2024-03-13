@@ -1,0 +1,82 @@
+{
+    "plantName": "Corn",
+    "description": "Corn, also known as maize, is a warm-season annual cereal grain that is widely cultivated for its edible kernels. It belongs to the grass family and is one of the most important cereal crops in the world. Corn is used for food, animal feed, and industrial products.",
+    "thumbnailImageUrl": "Corn_thumbnail",
+    "backgroundImageUrl": "Corn_background",
+    "varieties": "Corn, also known as maize, comes in various colors, sizes, and flavors, with each variety offering unique characteristics and culinary uses. Some popular corn varieties include 'Golden Bantam', known for its sweet flavor and golden yellow kernels; 'Silver Queen', prized for its tender, white kernels and excellent eating quality; 'Ambrosia', valued for its bi-color kernels and sweet, creamy texture; and 'Honey & Cream', recognized for its exceptional sweetness and tender kernels. These varieties, among others, offer a range of options suited for different culinary preferences and growing conditions.",
+     "sowingAndPlanting": {
+       "sowingIndoorsDescription": "Corn is typically sown directly outdoors as it does not transplant well. Plant seeds in well-drained soil in a sunny location. Sow seeds 1-2 inches deep and space them according to the recommended distance for the variety being grown. Keep the soil consistently moist until seedlings emerge.",
+       "sowingOutdoorsDescription": "Corn should be planted outdoors once the soil has warmed up in late spring or early summer. Choose a sunny location with well-drained soil. Sow seeds 1-2 inches deep and space them according to the recommended distance for the variety being grown. Keep the soil consistently moist until seedlings emerge.",
+       "spaceBetweenPlants": "9\"-12\"",
+       "spaceBetweenRows": "24\"-36\"",
+       "squareFootPlantingRecommendationsMin": 1,
+       "squareFootPlantingRecommendationsMax": 4,
+       "lifeCycle": "Annual",
+       "seedDepth": "1\"-2\"",
+       "pHRange": "5.8 - 7.0",
+       "germinationSoilTemp": "60-95°F",
+       "season": "Corn should be planted in late spring or early summer after the last frost date when the soil has warmed up. It requires warm temperatures and a long growing season."
+     },
+     "careAndMaintenance": {
+       "optimalSun": "Full Sun",
+       "growingSoilTemp": "65-85°F",
+       "growingDescription": "Corn prefers full sun and well-drained, fertile soil. It requires regular watering, especially during dry periods, to keep the soil consistently moist. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+       "wateringNeeds": "Regular watering, aiming for 1-1.5 inches per week.",
+       "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Fertilize corn plants with a balanced fertilizer once they become established and again when they begin to tassel.",
+       "pruningRequirements": "Corn does not require pruning.",
+       "supportRequirements": "Corn plants do not typically require support unless grown in windy areas or with large, heavy ears. In such cases, you can provide support by planting in blocks rather than rows to allow plants to support each other."
+     },
+     "harvestingAndStorage": {
+       "daysToHarvest": "60-100 days from planting",
+       "timeToMaturity": "Corn typically matures and is ready for harvest 60-100 days after planting, depending on the variety and growing conditions.",
+       "storageRecommendations": "Harvest corn when the kernels are plump and milky, typically 20 days after the silks appear. Peel back the husks and press a kernel with your fingernail to check for milkiness. Harvest immediately before cooking for the best flavor. Store harvested corn in the refrigerator for up to a few days or blanch and freeze for longer storage.",
+       "harvestDescription": "Harvest corn by pulling back the husks and twisting the ears downward to snap them off the stalk. Remove the silks and husks before cooking."
+     },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Beans",
+                "description": "Beans can be planted near corn to help fix nitrogen in the soil and provide support for climbing corn plants."
+            },
+            {
+                "name": "Squash",
+                "description": "Squash can be planted near corn to help suppress weeds, conserve soil moisture, and provide ground cover."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Tomatoes",
+                "description": "Tomatoes are not recommended to be planted near corn as they may compete for space and nutrients."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Corn Earworm",
+            "description": "Corn earworms are the larvae of a moth species that feed on corn kernels, causing damage and reducing yields. Control corn earworms by handpicking them off plants, applying organic insecticides like Bacillus thuringiensis (Bt), and using pheromone traps to monitor and reduce populations."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Corn Smut",
+            "description": "Corn smut is a fungal disease that affects corn plants, causing swollen, gray-black galls on ears, stalks, and tassels. Prevent corn smut by practicing crop rotation, removing and destroying infected plant material, and planting disease-resistant varieties."
+        }
+    ],
+    "tipsAndTricks": [
+        "Plant corn seeds in blocks rather than single rows to ensure good pollination.",
+        "Hill soil around the base of corn plants when they are 8-12 inches tall to provide additional support and promote root development.",
+        "Harvest corn when the kernels are plump and fully formed for the best flavor and texture.",
+        "Store harvested corn in the refrigerator for up to one week. For longer storage, blanch and freeze corn kernels."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Corn: Planting Guide",
+            "url": "https://www.almanac.com/plant/corn"
+        },
+        {
+            "title": "How to Harvest and Store Corn",
+            "url": "https://www.gardeningknowhow.com/edible/vegetables/corn/how-to-harvest-corn.htm"
+        }
+    ]
+}
+

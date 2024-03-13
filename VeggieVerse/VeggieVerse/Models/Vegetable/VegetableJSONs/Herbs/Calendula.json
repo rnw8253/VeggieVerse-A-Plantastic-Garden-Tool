@@ -1,0 +1,85 @@
+
+{
+    "plantName": "Calendula",
+    "description": "Calendula (Calendula officinalis), also known as pot marigold, is an annual flowering plant prized for its vibrant, daisy-like flowers and medicinal properties. Native to southern Europe, calendula is cultivated for both ornamental and practical purposes. It is commonly grown in gardens, containers, and herbal medicine beds for its beauty, culinary uses, and therapeutic benefits. Calendula flowers are edible and can be used fresh or dried in salads, teas, and as a natural dye.",
+    "thumbnailImageUrl": "Calendula_thumbnail",
+    "backgroundImageUrl": "Calendula_background",
+    "varieties": "Calendula, also known as pot marigold, comes in various varieties, each with its unique flower color and size. Common calendula varieties include 'Orange King', known for its vibrant orange flowers; 'Pacific Beauty Mix', which offers a range of colors from yellow to orange to apricot; and 'Zeolights', prized for its double flowers in shades of yellow and orange. These varieties provide options for different garden aesthetics and culinary or medicinal uses.",
+     "sowingAndPlanting": {
+       "sowingIndoorsDescription": "Calendula seeds can be started indoors 6-8 weeks before the last frost date in your area. Plant seeds in biodegradable pots or trays filled with seed-starting mix. Sow seeds 1/4 inch deep and keep the soil consistently moist and cool (60-70°F). Provide ample light or use supplemental grow lights. Transplant seedlings outdoors after the danger of frost has passed.",
+       "sowingOutdoorsDescription": "Calendula seeds can also be directly sown outdoors in the garden after the danger of frost has passed. Choose a location with full sun to partial shade and well-drained soil. Sow seeds 1/4 inch deep and space them 6-12 inches apart. Keep the soil consistently moist until seedlings emerge.",
+       "spaceBetweenPlants": "6\"-12\"",
+       "spaceBetweenRows": "12\"-18\"",
+       "squareFootPlantingRecommendationsMin": 1,
+       "squareFootPlantingRecommendationsMax": 4,
+       "lifeCycle": "Annual",
+       "seedDepth": "1/4\"",
+       "pHRange": "6.0 - 7.0",
+       "germinationSoilTemp": "60-70°F",
+       "season": "Calendula should be planted in the spring after the danger of frost has passed. It prefers cool weather and can tolerate light frosts, making it suitable for early spring or fall planting in some regions."
+     },
+     "careAndMaintenance": {
+       "optimalSun": "Full Sun to Partial Shade",
+       "growingSoilTemp": "60-70°F",
+       "growingDescription": "Calendula thrives in full sun to partial shade and well-drained soil with a pH of 6.0-7.0. It requires regular watering to keep the soil consistently moist, especially during dry periods. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+       "wateringNeeds": "Regular watering, aiming for 1 inch per week.",
+       "soilFertility": "Calendula is not particularly demanding in terms of soil fertility but benefits from incorporating compost or well-aged manure into the soil before planting to improve soil structure and fertility.",
+       "pruningRequirements": "Deadhead spent flowers regularly to encourage continuous blooming. Pinch back leggy growth to promote bushiness.",
+       "supportRequirements": "Calendula generally does not require support."
+     },
+     "harvestingAndStorage": {
+       "daysToHarvest": "60-70 days from planting",
+       "timeToMaturity": "Calendula typically matures and begins blooming 60-70 days after planting, depending on the variety and growing conditions.",
+       "storageRecommendations": "Harvest calendula flowers when they are fully open but before they start to fade. Cut flowers in the morning after the dew has dried but before the sun is too hot. Calendula flowers can be used fresh immediately or dried for later use. To dry calendula, hang the flowers upside down in a well-ventilated area out of direct sunlight. Once completely dry, store the flowers in an airtight container in a cool, dark place.",
+       "harvestDescription": "Harvest calendula flowers by cutting the stems just above a set of leaves. Use scissors or pruning shears to avoid damaging the plant. Rinse harvested flowers under cool water to remove any dirt or debris before using them in recipes or drying them for storage."
+     },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Lavender",
+                "description": "Lavender is a beneficial companion plant for calendula, as it attracts pollinators like bees and butterflies while also repelling pests like aphids and whiteflies. Planting them together can create a diverse and harmonious garden ecosystem."
+            },
+            {
+                "name": "Nasturtium",
+                "description": "Nasturtium is also a good companion plant for calendula, as it helps repel pests like aphids, whiteflies, and cucumber beetles while also attracting beneficial insects like predatory insects and pollinators. Planting them together can enhance garden health and productivity."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Tomatoes",
+                "description": "Calendula is not recommended as a companion plant for tomatoes, as it can attract pests like aphids and whiteflies while also competing for resources like water and nutrients in the garden. It's best to plant them in separate areas to avoid potential problems."
+            },
+            {
+                "name": "Potatoes",
+                "description": "Calendula is also not recommended as a companion plant for potatoes, as it can attract pests like aphids and potato beetles while also inhibiting the growth of potatoes through allelopathy. It's best to plant them in separate areas to avoid potential problems."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids are small, soft-bodied insects that feed on the sap of calendula plants, causing distorted growth and yellowing of leaves. They can also transmit viral diseases. Control aphids by spraying plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs and lacewings, or applying insecticidal soap or neem oil."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that can affect calendula plants, especially in warm, humid conditions. It appears as a white, powdery coating on leaves and stems and can inhibit plant growth and flower production. Control powdery mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
+        }
+    ],
+    "tipsAndTricks": [
+        "Provide consistent moisture and avoid letting the soil dry out completely, especially during hot, dry weather.",
+        "Deadhead spent flowers regularly to encourage continuous blooming and prevent self-seeding.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action to control them before they become a problem."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Calendula",
+            "url": "https://www.rhs.org.uk/advice/grow-your-own/flowers/calendula"
+        },
+        {
+            "title": "Calendula: Planting and Care Guide",
+            "url": "https://www.almanac.com/plant/calendula"
+        }
+    ]
+}

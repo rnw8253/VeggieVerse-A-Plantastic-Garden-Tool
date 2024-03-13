@@ -1,0 +1,116 @@
+{
+    "plantName": "Feverfew",
+    "description": "Feverfew (Tanacetum parthenium) is a perennial herbaceous plant belonging to the Asteraceae family. Native to Europe, it is now cultivated worldwide for its medicinal and ornamental value. Feverfew is known for its daisy-like flowers with white petals and yellow centers, as well as its aromatic foliage. Traditionally, feverfew has been used to alleviate headaches, migraines, arthritis, and digestive issues. It is also valued as an attractive addition to herb gardens and flower beds.",
+    "thumbnailImageUrl": "Feverfew_thumbnail",
+    "backgroundImageUrl": "Feverfew_background",
+    "varieties": "Feverfew, a member of the daisy family, is known for its dainty white flowers with yellow centers and its medicinal properties. Varieties of feverfew include 'Aureum', prized for its golden foliage that contrasts beautifully with the white flowers; 'Bristol Fairy', known for its larger flowers and compact growth habit; 'Golden Moss', valued for its fern-like golden foliage; and 'Golden Ball', which features bright yellow, ball-shaped flower heads. These varieties offer a range of ornamental features and can be grown for both their beauty and herbal uses.",
+    "sowingAndPlanting": {
+      "sowingIndoorsDescription": "Feverfew seeds can be started indoors in late winter or early spring. Sow seeds in trays or pots filled with well-draining potting mix, lightly covering them with soil. Keep the soil consistently moist and provide bright, indirect light until seedlings emerge, which usually takes 2-3 weeks.",
+      "sowingOutdoorsDescription": "Feverfew can also be directly sown outdoors after the last frost date. Choose a location with full sun to partial shade and well-drained soil. Sow seeds thinly and cover lightly with soil. Keep the soil moist until germination, which typically occurs within 2-3 weeks.",
+      "spaceBetweenPlants": "12\"-18\"",
+      "spaceBetweenRows": "18\"-24\"",
+      "squareFootPlantingRecommendationsMin": 1,
+      "squareFootPlantingRecommendationsMax": 1,
+      "lifeCycle": "Perennial",
+      "seedDepth": "1/8\"-1/4\"",
+      "pHRange": "6.0 - 7.0",
+      "germinationSoilTemp": "65-70°F",
+      "season": "Feverfew should be planted in spring after the last frost date. It thrives in temperate climates and can tolerate light frosts."
+    },
+    "careAndMaintenance": {
+      "optimalSun": "Full Sun to Partial Shade",
+      "growingSoilTemp": "60-70°F",
+      "growingDescription": "Feverfew prefers full sun but can tolerate partial shade, especially in hot climates. It grows best in well-drained, loamy soil with a neutral to slightly alkaline pH. Water regularly to keep the soil consistently moist but not waterlogged. Apply a balanced fertilizer once a month during the growing season to promote healthy growth and flowering.",
+      "wateringNeeds": "Regular watering, allowing the soil to dry slightly between waterings.",
+      "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Top-dress with compost annually to replenish nutrients.",
+      "pruningRequirements": "Prune feverfew regularly to deadhead faded flowers and promote continuous blooming. Cut back leggy or overcrowded growth to maintain a compact, bushy habit.",
+      "supportRequirements": "Feverfew typically doesn't require support, but taller varieties may benefit from staking to prevent bending or lodging."
+    },
+    "harvestingAndStorage": {
+      "daysToHarvest": "85-95 days from planting",
+      "timeToMaturity": "Feverfew plants typically reach maturity within 3-4 months from planting.",
+      "storageRecommendations": "Harvest feverfew flowers and leaves as needed for fresh use or drying. Cut stems with sharp scissors or pruning shears, leaving some foliage on the plant to encourage regrowth. Store harvested feverfew in a cool, dry place away from direct sunlight.",
+      "harvestDescription": "Harvest feverfew flowers when they are fully open but before they start to fade. Leaves can be harvested throughout the growing season and are best when young and tender."
+    },
+    "companionPlants": {
+        "goodCompanionPlants": [
+          {
+            "name": "Chamomile",
+            "description": "Chamomile can attract beneficial insects like hoverflies, which prey on aphids and other pests that may affect feverfew plants. It also has similar cultural requirements and can enhance the aesthetics of the garden."
+          },
+          {
+            "name": "Dill",
+            "description": "Dill attracts beneficial insects like ladybugs and lacewings, which feed on aphids and other pests that may infest feverfew plants. It also adds diversity to the garden and can be harvested for culinary use."
+          },
+          {
+            "name": "Yarrow",
+            "description": "Yarrow attracts beneficial insects like parasitic wasps, which help control aphid populations that may affect feverfew plants. It also has medicinal properties and can act as a dynamic accumulator, bringing up nutrients from deep in the soil."
+          },
+          {
+            "name": "Borage",
+            "description": "Borage attracts pollinators like bees and beneficial insects like hoverflies, which prey on aphids. It can help improve pollination rates and reduce pest infestations in the feverfew garden."
+          },
+          {
+            "name": "Lavender",
+            "description": "Lavender has aromatic foliage that can help repel pests like aphids and whiteflies. It also attracts pollinators like bees and butterflies, enhancing the biodiversity of the garden."
+          }
+        ],
+        "badCompanionPlants": [
+          {
+            "name": "Basil",
+            "description": "Basil can inhibit the growth of feverfew plants due to its allelopathic effects. Avoid planting basil near feverfew as it may negatively impact their growth and vigor."
+          },
+          {
+            "name": "Potatoes",
+            "description": "Potatoes are susceptible to diseases like potato blight and can attract pests like Colorado potato beetles, which may also affect feverfew plants. Keep potatoes away from feverfew to prevent potential pest and disease issues."
+          },
+          {
+            "name": "Tomatoes",
+            "description": "Tomatoes have different soil and water requirements than feverfew plants and may compete for resources. Additionally, tomatoes may attract pests like aphids and whiteflies that can also infest feverfew."
+          },
+          {
+            "name": "Rhubarb",
+            "description": "Rhubarb is not recommended to be planted near feverfew plants, as it may compete for nutrients and water. Additionally, rhubarb leaves contain oxalic acid, which can be harmful to feverfew."
+          },
+          {
+            "name": "Sunflowers",
+            "description": "Sunflowers can compete with feverfew plants for sunlight, water, and nutrients, potentially reducing their growth and vigor. Additionally, sunflowers may attract birds that can damage feverfew crops."
+          }
+        ]
+      },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids are common pests that may infest feverfew plants, sucking sap from the leaves and causing distortion, yellowing, and stunted growth. Control aphids by spraying plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs and lacewings, or applying insecticidal soap or neem oil."
+        },
+        {
+            "name": "Spider Mites",
+            "description": "Spider mites are tiny pests that may infest feverfew plants, especially in hot, dry conditions. They feed on plant sap, causing stippling, webbing, and leaf drop. Control spider mites by spraying plants with water to increase humidity, releasing predatory mites, or applying insecticidal soap or neem oil."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that may affect feverfew plants, especially in warm, humid conditions. It appears as a white, powdery coating on leaves and stems and can inhibit plant growth and flowering. Control powdery mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
+        },
+        {
+            "name": "Leaf Spot",
+            "description": "Leaf spot is a fungal disease that may affect feverfew plants, causing dark lesions or spots on the leaves. In severe cases, the leaves may become yellowed, distorted, or drop prematurely. Control leaf spot by removing and destroying infected plant debris, improving air circulation, and applying fungicidal sprays preventatively."
+        }
+    ],
+    "tipsAndTricks": [
+        "Deadhead spent flowers regularly to prolong the blooming period and prevent self-seeding.",
+        "Harvest feverfew leaves and flowers for fresh use or drying as needed throughout the growing season.",
+        "Prune feverfew plants regularly to maintain a compact, bushy habit and encourage continuous flowering."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Feverfew: A Guide to Cultivation and Care",
+            "url": "https://www.rhs.org.uk/advice/profile?PID=546"
+        },
+        {
+            "title": "Feverfew: Uses, Benefits, and Side Effects",
+            "url": "https://www.webmd.com/vitamins/ai/ingredientmono-933/feverfew"
+        }
+    ]
+}

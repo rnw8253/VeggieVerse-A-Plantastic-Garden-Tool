@@ -1,0 +1,82 @@
+
+{
+    "plantName": "Collard Greens",
+    "description": "Collard greens are cool-season leafy vegetables prized for their nutritious, dark green leaves. They belong to the Brassica family and are closely related to kale, cabbage, and broccoli. Collard greens have a slightly bitter flavor and are commonly used in Southern cuisine.",
+    "thumbnailImageUrl": "Collard Greens_thumbnail",
+    "backgroundImageUrl": "Collard Greens_background",
+    "varieties": "Collard greens come in several varieties, each with its unique characteristics and culinary uses. Some popular collard greens varieties include 'Georgia Southern', known for its large, smooth leaves and mild flavor; 'Champion', valued for its disease resistance and vigorous growth; 'Flash', recognized for its tender leaves and quick maturity; and 'Vates', prized for its dark green, crinkled leaves and cold tolerance. These varieties offer a range of options suited for different culinary preferences and growing conditions.",
+     "sowingAndPlanting": {
+       "sowingIndoorsDescription": "Collard greens are typically directly sown outdoors as they do not transplant well. Plant seeds in well-prepared, fertile soil that is free from weeds and debris. Sow seeds 1/4 to 1/2 inch deep and space them according to the recommended distance for the variety being grown. Keep the soil consistently moist until seedlings emerge.",
+       "sowingOutdoorsDescription": "Collard greens can be sown outdoors as soon as the soil can be worked in early spring. Choose a sunny location with well-drained soil. Plant seeds 1/4 to 1/2 inch deep and space them according to the recommended distance for the variety being grown. Keep the soil consistently moist until seedlings emerge.",
+       "spaceBetweenPlants": "12\"-18\"",
+       "spaceBetweenRows": "24\"-36\"",
+       "squareFootPlantingRecommendationsMin": 1,
+       "squareFootPlantingRecommendationsMax": 2,
+       "lifeCycle": "Annual",
+       "seedDepth": "1/4 to 1/2 inch",
+       "pHRange": "6.0 - 7.5",
+       "germinationSoilTemp": "45-85°F",
+       "season": "Collard greens should be planted as soon as the soil can be worked in early spring. They can also be planted in late summer for a fall harvest."
+     },
+     "careAndMaintenance": {
+       "optimalSun": "Full Sun to Partial Shade",
+       "growingSoilTemp": "60-75°F",
+       "growingDescription": "Collard greens prefer full sun to partial shade and well-draining soil rich in organic matter. They require regular watering, especially during dry periods, to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+       "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+       "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Fertilize collard greens with a balanced fertilizer once they become established.",
+       "pruningRequirements": "Collard greens generally do not require pruning. However, you can remove any yellowing or damaged leaves as needed to improve air circulation and aesthetics.",
+       "supportRequirements": "Collard greens do not require support."
+     },
+     "harvestingAndStorage": {
+       "daysToHarvest": "60-85 days from planting",
+       "timeToMaturity": "Collard greens typically mature and are ready for harvest 60-85 days after planting, depending on the variety and growing conditions.",
+       "storageRecommendations": "Harvest collard greens when the leaves are large and tender, typically 8-10 inches long. Cut the leaves from the outer edges of the plant, leaving the inner leaves to continue growing. Store harvested collard greens in the refrigerator for up to a week. Wash and dry the leaves before storing to remove any dirt or debris.",
+       "harvestDescription": "Harvest collard greens by cutting the outer leaves from the plant as needed. Leave the inner leaves to continue growing, and harvest them as they reach the desired size."
+     },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Radishes",
+                "description": "Radishes can be planted near collard greens to help repel pests and provide natural pest control in the garden."
+            },
+            {
+                "name": "Lettuce",
+                "description": "Lettuce can be planted near collard greens as a living mulch to help retain soil moisture and shade the roots."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Tomatoes",
+                "description": "Tomatoes are not recommended to be planted near collard greens as they may compete for space and nutrients."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Cabbage Worms",
+            "description": "Cabbage worms are the larvae of cabbage white butterflies and can damage collard green plants by feeding on the foliage. Control cabbage worms by handpicking them off plants, applying organic insecticides like Bacillus thuringiensis (Bt), and using row covers to exclude adult butterflies."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Clubroot",
+            "description": "Clubroot is a soilborne disease that affects members of the Brassica family, including collard greens. It causes swelling and distortion of the roots, leading to stunted growth and poor yields. Prevent clubroot by practicing crop rotation, improving soil drainage, and using disease-resistant varieties."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest collard green leaves when they reach the desired size and texture for the best flavor and tenderness.",
+        "Remove any yellowing or damaged leaves from collard green plants throughout the growing season to promote air circulation and reduce the risk of disease.",
+        "Provide consistent moisture and fertility to collard green plants for optimal growth and development.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Collard Greens: Planting Guide",
+            "url": "https://www.almanac.com/plant/collard-greens"
+        },
+        {
+            "title": "How to Harvest and Store Collard Greens",
+            "url": "https://www.gardeningknowhow.com/edible/vegetables/collard/harvesting-collard-greens.htm"
+        }
+    ]
+}

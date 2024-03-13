@@ -1,0 +1,81 @@
+
+{
+    "plantName": "Rutabagas",
+    "description": "Rutabagas, also known as Swedes or yellow turnips, are root vegetables that are a cross between turnips and cabbage. They have a sweet, nutty flavor and a dense, creamy texture when cooked. Rutabagas are rich in vitamins, minerals, and fiber, making them a nutritious addition to soups, stews, roasts, and other dishes. They are typically harvested in the fall after the first frost, which enhances their flavor and sweetness.",
+    "thumbnailImageUrl": "Rutabagas_thumbnail",
+    "backgroundImageUrl": "Rutabagas_background",
+    "varieties": "Rutabagas, also known as swedes or Swedish turnips, come in various shapes and sizes, typically with a round or elongated bulbous root. Common varieties of rutabagas include 'American Purple Top', known for its purple top and yellow flesh; ' Laurentian', prized for its smooth skin and sweet flavor; and ' Marian', which offers a high yield and resistance to disease. These varieties provide options suited for different culinary preferences and growing conditions.",
+     "sowingAndPlanting": {
+       "sowingIndoorsDescription": "Rutabagas are best sown directly outdoors rather than started indoors. However, if you want to get a head start on the growing season, you can start seeds indoors in biodegradable pots or trays filled with seed-starting mix. Plant seeds 1/4 to 1/2 inch deep and keep the soil consistently moist and cool (50-65°F). Transplant seedlings outdoors once they have developed true leaves and the weather has cooled down.",
+       "sowingOutdoorsDescription": "Rutabaga seeds should be sown directly outdoors in early to mid-spring or late summer for a fall harvest. Choose a sunny location with well-drained soil. Plant seeds 1/4 to 1/2 inch deep and space them 6-12 inches apart in rows spaced 18-24 inches apart. Keep the soil consistently moist until seedlings emerge.",
+       "spaceBetweenPlants": "6\"-12\"",
+       "spaceBetweenRows": "18\"-24\"",
+       "squareFootPlantingRecommendationsMin": 1,
+       "squareFootPlantingRecommendationsMax": 4,
+       "lifeCycle": "Biennial (usually grown as an annual)",
+       "seedDepth": "1/4 to 1/2 inch",
+       "pHRange": "5.5 - 6.8",
+       "germinationSoilTemp": "50-65°F",
+       "season": "Rutabagas prefer cooler weather and should be planted in early spring or late summer for a fall harvest. They can tolerate light frosts and may even improve in flavor after exposure to cool temperatures."
+     },
+     "careAndMaintenance": {
+       "optimalSun": "Full Sun to Partial Shade",
+       "growingSoilTemp": "50-65°F",
+       "growingDescription": "Rutabagas prefer full sun but can tolerate partial shade, especially in warmer climates. They thrive in well-drained, fertile soil with a pH of 5.5-6.8. Rutabagas require regular watering to keep the soil consistently moist, especially during dry periods. Mulch around plants to conserve moisture and suppress weeds.",
+       "wateringNeeds": "Regular watering, aiming for 1 inch per week.",
+       "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress rutabagas with a balanced fertilizer once they start forming bulbs.",
+       "pruningRequirements": "Rutabagas do not require pruning.",
+       "supportRequirements": "Rutabagas do not require support."
+     },
+     "harvestingAndStorage": {
+       "daysToHarvest": "90-110 days from planting",
+       "timeToMaturity": "Rutabagas typically mature and are ready for harvest 90-110 days after planting, depending on the variety and growing conditions.",
+       "storageRecommendations": "Harvest rutabagas when they reach the desired size and have developed a firm, smooth skin. Use a garden fork or shovel to loosen the soil around the roots and lift them gently from the ground. Remove any excess soil and trim off the tops. Store harvested rutabagas in a cool, dark place with good ventilation, such as a root cellar or refrigerator, for up to several months.",
+       "harvestDescription": "Harvest rutabagas when they reach the desired size, usually 3-5 inches in diameter for most varieties. Pull them from the ground gently, taking care not to damage the roots. Rinse the rutabagas thoroughly to remove any soil before storing or using them."
+     },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Beets",
+                "description": "Beets can be planted near rutabagas to help improve soil structure and provide natural pest control in the garden."
+            },
+            {
+                "name": "Lettuce",
+                "description": "Lettuce can be interplanted with rutabagas to help suppress weeds and provide natural ground cover."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Brassicas",
+                "description": "Brassicas, such as cabbage, broccoli, and cauliflower, are not recommended to be planted near rutabagas as they may compete for space and nutrients."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Root Maggots",
+            "description": "Root maggots are common pests of rutabagas, feeding on the roots and causing damage to the plants. To control root maggots, use row covers to prevent adult flies from laying eggs on the plants, and apply insecticidal sprays or dusts as needed."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Clubroot",
+            "description": "Clubroot is a soilborne disease that affects rutabagas and other brassica crops, causing swollen, deformed roots and stunted growth. It thrives in acidic soil conditions and can persist in the soil for many years. Prevent clubroot by maintaining proper soil pH, practicing crop rotation, and using resistant varieties when available."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest rutabagas when they have reached the desired size for optimal flavor and tenderness.",
+        "Store harvested rutabagas in a cool, dark place with high humidity to prolong their storage life.",
+        "Rotate rutabaga crops annually to prevent the buildup of soilborne pests and diseases."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Rutabagas: Planting Guide",
+            "url": "https://www.almanac.com/plant/rutabagas"
+        },
+        {
+            "title": "How to Harvest and Store Rutabagas",
+            "url": "https://www.gardeningknowhow.com/edible/vegetables/rutabaga/harvesting-rutabagas.htm"
+        }
+    ]
+}

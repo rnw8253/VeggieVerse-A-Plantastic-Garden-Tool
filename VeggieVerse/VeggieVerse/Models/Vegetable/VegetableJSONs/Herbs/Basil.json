@@ -1,0 +1,91 @@
+
+{
+    "plantName": "Basil",
+    "description": "Basil is a popular herb known for its aromatic leaves and distinctive flavor, commonly used in culinary dishes.",
+    "thumbnailImageUrl": "Basil_thumbnail",
+    "backgroundImageUrl": "Basil_background",
+    "varieties": "Basil comes in various varieties, each with its unique flavor, aroma, and culinary uses. Common basil varieties include 'Genovese', known for its classic sweet flavor and large leaves, ideal for making pesto; 'Thai', prized for its spicy, licorice-like flavor and small, narrow leaves, commonly used in Thai cuisine; and 'Lemon', which offers a refreshing citrusy flavor, perfect for adding a zing to dishes. These varieties provide options suited for different culinary preferences and growing conditions.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Basil is best started from seeds indoors 6-8 weeks before the last frost date in your area. Plant seeds in biodegradable pots or trays filled with seed-starting mix. Sow seeds 1/4 inch deep and keep the soil consistently moist and warm (70-75°F). Provide ample light or use supplemental grow lights. Transplant seedlings outdoors once all danger of frost has passed and the soil has warmed up.",
+        "sowingOutdoorsDescription": "Basil can also be directly seeded outdoors once the soil has warmed up and all danger of frost has passed. Choose a location with full sun and well-drained soil. Plant seeds 1/4 inch deep and space them 6-12 inches apart in rows spaced 12-18 inches apart. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "6\"-12\"",
+        "spaceBetweenRows": "12\"-18\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Annual",
+        "seedDepth": "1/4\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "70-75°F",
+        "season": "Basil prefers warm weather and should be planted after the last frost date in your area when the soil has warmed up. It requires a long growing season and thrives in hot, sunny conditions."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "70-85°F",
+        "growingDescription": "Basil thrives in full sun and well-drained soil with a pH of 6.0-7.0. It requires regular watering to keep the soil consistently moist, especially during hot, dry periods. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+        "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress basil with a balanced fertilizer once it starts growing vigorously.",
+        "pruningRequirements": "Regular pruning helps promote bushy growth and prevents basil from flowering too soon. Pinch off the tips of stems regularly to encourage branching and remove flower buds as soon as they appear to prolong the harvest.",
+        "supportRequirements": "Basil does not require support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "60-90 days from planting",
+        "timeToMaturity": "Basil typically matures and is ready for harvest 60-90 days after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest basil regularly by pinching off individual leaves or cutting entire stems. Use fresh basil immediately or store it in the refrigerator wrapped in a damp paper towel and placed in a plastic bag for up to a week. Alternatively, you can freeze basil leaves by chopping them and placing them in ice cube trays filled with water or olive oil.",
+        "harvestDescription": "Harvest basil by pinching off individual leaves or cutting entire stems just above a set of leaves. Regular harvesting encourages bushy growth and prolongs the harvest period. Rinse harvested basil leaves under cool water before using them in recipes."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Tomatoes",
+                "description": "Basil is a beneficial companion plant for tomatoes, as it repels pests like aphids, spider mites, and hornworms. It also enhances the flavor of tomatoes when grown nearby."
+            },
+            {
+                "name": "Peppers",
+                "description": "Basil is a good companion for peppers, helping to repel pests such as aphids and spider mites. It also improves the flavor of peppers when planted nearby."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Sage",
+                "description": "Basil and sage are not recommended to be planted together as they may compete for space and nutrients."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids are small, soft-bodied insects that feed on basil plants by sucking sap from leaves and stems. They can cause distorted growth and transmit plant diseases. Control aphids by spraying affected plants with a strong jet of water, introducing natural predators like ladybugs or lacewings, or using insecticidal soap or neem oil."
+        },
+        {
+            "name": "Whiteflies",
+            "description": "Whiteflies are tiny, flying insects that feed on the underside of basil leaves, sucking sap and causing yellowing, wilting, and stunted growth. They also excrete honeydew, leading to the growth of sooty mold. Control whiteflies using insecticidal soap, neem oil, or introducing natural predators like ladybugs or parasitic wasps."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Downy Mildew",
+            "description": "Downy mildew is a fungal disease that affects basil plants, causing yellowing of leaves and a fuzzy gray or white growth on the underside of leaves. It thrives in cool, humid conditions. Prevent downy mildew by providing good air circulation around plants, avoiding overhead watering, and removing and destroying infected plant material."
+        },
+        {
+            "name": "Fusarium Wilt",
+            "description": "Fusarium wilt is a soilborne fungal disease that affects basil plants, causing wilting, yellowing, and stunting of growth. It can lead to the death of the plant. Fusarium wilt is difficult to control once established in the soil. Prevent it by planting basil in well-drained soil, rotating crops, and avoiding overhead watering."
+        }
+    ],
+    "tipsAndTricks": [
+        "Pinch off flower buds to encourage bushy growth and prolong leaf production.",
+        "Harvest basil leaves regularly to encourage continued growth and prevent the plant from bolting.",
+        "Water basil plants consistently to keep the soil evenly moist, especially during hot weather.",
+        "Mulch around basil plants to retain moisture, suppress weeds, and regulate soil temperature.",
+        "Regularly inspect basil plants for signs of pests, diseases, or nutrient deficiencies, and take prompt action to address any issues."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Basil: Planting Guide",
+            "url": "https://www.almanac.com/plant/basil"
+        },
+        {
+            "title": "Harvesting and Preserving Basil",
+            "url": "https://extension.illinois.edu/herbs/harvesting-and-preserving-basil"
+        }
+    ]
+}

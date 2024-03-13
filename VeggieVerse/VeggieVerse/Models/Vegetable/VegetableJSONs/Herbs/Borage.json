@@ -1,0 +1,85 @@
+
+{
+    "plantName": "Borage",
+    "description": "Borage (Borago officinalis) is an annual herbaceous plant known for its bright blue, star-shaped flowers and cucumber-like flavor. Native to the Mediterranean region, borage is cultivated for both its culinary and medicinal uses. It's also valued as a companion plant in the garden for its ability to attract pollinators and repel pests. Borage is easy to grow and is often found in herb gardens, vegetable patches, and wildflower meadows.",
+    "thumbnailImageUrl": "Borage_thumbnail",
+    "backgroundImageUrl": "Borage_background",
+    "varieties": "Borage, also known as starflower, comes in various varieties, each with its unique flavor and appearance. Common borage varieties include 'Blue Borage', known for its vibrant blue flowers and cucumber-like flavor; 'White Borage', which offers delicate white flowers with a similar flavor profile to blue borage; and 'Variegated Borage', prized for its variegated foliage and edible flowers. These varieties provide options suited for different culinary preferences and ornamental purposes.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Borage is best sown directly outdoors as it does not transplant well. However, if you want to start seeds indoors to get a head start on the growing season, you can plant them in biodegradable pots or trays filled with seed-starting mix. Sow seeds 1/4 inch deep and keep the soil consistently moist and warm (60-70°F). Transplant seedlings outdoors once they have developed several true leaves and the weather has warmed up.",
+        "sowingOutdoorsDescription": "Borage seeds should be sown directly outdoors after the last frost date in your area. Choose a location with full sun to partial shade and well-drained soil. Sow seeds 1/4 inch deep and space them 12-18 inches apart. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "12\"-18\"",
+        "spaceBetweenRows": "18\"-24\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Annual",
+        "seedDepth": "1/4\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "60-70°F",
+        "season": "Borage prefers cool weather and should be planted in the early spring after the last frost date in your area. It can also be planted in the fall for a late-season harvest."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun to Partial Shade",
+        "growingSoilTemp": "60-70°F",
+        "growingDescription": "Borage thrives in full sun to partial shade and well-drained soil with a pH of 6.0-7.0. It requires regular watering to keep the soil consistently moist, especially during dry periods. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+        "soilFertility": "Borage is not picky about soil fertility but benefits from the addition of compost or well-aged manure before planting. Side-dress with a balanced fertilizer once plants are established.",
+        "pruningRequirements": "Borage does not require pruning for culinary purposes, but you may want to deadhead spent flowers to prolong blooming.",
+        "supportRequirements": "Borage does not require support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "40-60 days from planting",
+        "timeToMaturity": "Borage typically matures and is ready for harvest 40-60 days after planting, depending on growing conditions.",
+        "storageRecommendations": "Harvest borage leaves and flowers as needed for culinary use. Use them fresh or dry them for later use. To dry borage, tie small bunches of stems together and hang them upside down in a warm, well-ventilated area. Once dry, store the leaves and flowers in an airtight container away from light and moisture.",
+        "harvestDescription": "Harvest borage leaves and flowers when they are young and tender. Use scissors or pruners to snip off individual leaves or cut entire stems as needed. Rinse harvested borage under cool water before using it in recipes."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Tomatoes",
+                "description": "Borage is a beneficial companion plant for tomatoes, as it helps repel pests like tomato hornworms and enhances the flavor of tomatoes when grown nearby. Planting them together can improve overall garden health and productivity."
+            },
+            {
+                "name": "Strawberries",
+                "description": "Borage is also a good companion plant for strawberries, as it attracts pollinators like bees and butterflies while also repelling pests like slugs and snails. Planting them together can create a harmonious and productive garden environment."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Cucumbers",
+                "description": "Borage is not recommended as a companion plant for cucumbers, as it can become invasive and compete with cucumbers for space, water, and nutrients in the garden. It's best to plant them in separate areas to avoid overcrowding and competition."
+            },
+            {
+                "name": "Beans",
+                "description": "Borage is also not recommended as a companion plant for beans, as it can attract pests like aphids and bean beetles while also inhibiting the growth of beans through allelopathy. It's best to plant them in separate areas to avoid potential problems."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids are small, soft-bodied insects that feed on the sap of borage plants, causing distorted growth and yellowing of leaves. They can also transmit viral diseases. Control aphids by spraying plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs and lacewings, or applying insecticidal soap or neem oil."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that can affect borage plants, especially in warm, humid conditions. It appears as a white, powdery coating on leaves and stems and can inhibit plant growth and flower production. Control powdery mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
+        }
+    ],
+    "tipsAndTricks": [
+        "Provide consistent moisture and avoid letting the soil dry out completely, especially during hot, dry weather.",
+        "Deadhead spent flowers regularly to encourage continuous blooming and prevent self-seeding.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action to control them before they become a problem."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Borage",
+            "url": "https://www.rhs.org.uk/advice/grow-your-own/flowers/borage"
+        },
+        {
+            "title": "Borage: Planting and Care Guide",
+            "url": "https://www.almanac.com/plant/borage"
+        }
+    ]
+}

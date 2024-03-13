@@ -1,0 +1,81 @@
+
+{
+    "plantName": "Peas",
+    "description": "Peas are cool-season vegetables that belong to the legume family. They are prized for their sweet flavor and tender texture, and they are commonly eaten fresh or cooked. Peas come in various types, including shelling peas, snap peas, and snow peas, each with its unique characteristics and culinary uses. They are rich in vitamins, minerals, fiber, and protein, making them a nutritious addition to any diet.",
+    "thumbnailImageUrl": "Peas_thumbnail",
+    "backgroundImageUrl": "Peas_background",
+    "varieties": "Peas come in various types, including shelling peas (also known as garden peas), snow peas, and sugar snap peas. Common varieties of shelling peas include 'Green Arrow', known for its high yields and sweet flavor; 'Little Marvel', prized for its compact growth habit and early maturity; and 'Wando', which offers good heat tolerance and continuous production. Snow peas are typically harvested for their flat, edible pods, with popular varieties including 'Oregon Sugar Pod' and 'Snowbird'. Sugar snap peas, which have edible pods with sweet peas inside, include varieties like 'Sugar Ann' and 'Super Sugar Snap'. These varieties provide a range of options suited for different culinary preferences and growing conditions.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Peas are typically direct-sown outdoors rather than started indoors. However, you can start seeds indoors in biodegradable pots or trays filled with seed-starting mix if you want to get a head start on the growing season. Plant seeds 1-2 inches deep and keep the soil consistently moist and cool (55-65°F). Transplant seedlings outdoors once they have developed strong roots and the weather has warmed up.",
+        "sowingOutdoorsDescription": "Peas should be sown directly outdoors as soon as the soil can be worked in early spring. Choose a sunny location with well-drained soil. Plant seeds 1-2 inches deep and space them 2-4 inches apart in rows spaced 18-24 inches apart. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "2\"-4\"",
+        "spaceBetweenRows": "18\"-24\"",
+        "squareFootPlantingRecommendationsMin": 4,
+        "squareFootPlantingRecommendationsMax": 9,
+        "lifeCycle": "Annual",
+        "seedDepth": "1\"-2\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "45-75°F",
+        "season": "Peas prefer cool weather and should be planted as soon as the soil can be worked in early spring. They can also be planted in late summer for a fall harvest in regions with mild winters."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun to Partial Shade",
+        "growingSoilTemp": "55-70°F",
+        "growingDescription": "Peas prefer full sun but can tolerate some shade, especially in hot climates. They require well-drained soil rich in organic matter. Peas have shallow roots, so regular watering is essential to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture and suppress weeds.",
+        "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+        "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Peas are nitrogen-fixing plants, so they have relatively low fertilizer requirements. Avoid high-nitrogen fertilizers, as they can promote excessive foliage growth at the expense of pod development.",
+        "pruningRequirements": "Peas generally do not require pruning. However, you can pinch off the growing tips once the plants reach their desired height to encourage bushier growth and more lateral branching.",
+        "supportRequirements": "Peas are climbing plants and require support to grow vertically. Install trellises, stakes, or pea netting at the time of planting to provide support for the vines as they grow."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "55-70 days from planting",
+        "timeToMaturity": "Peas typically mature and are ready for harvest 55-70 days after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest peas when the pods are plump and well-filled but still tender. Use a sharp knife or scissors to cut the pods from the vines, being careful not to damage the plants. Store harvested peas in the refrigerator for up to a week.",
+        "harvestDescription": "Harvest peas when the pods are plump and well-filled but still tender. Gently pull the pods from the vines, taking care not to damage the plants. Check plants regularly for ripe pods and harvest them promptly to encourage continued production."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Carrots",
+                "description": "Carrots can be planted near peas to help improve soil structure and provide natural pest control in the garden."
+            },
+            {
+                "name": "Lettuce",
+                "description": "Lettuce can be interplanted with peas to help suppress weeds and provide natural ground cover."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Onions",
+                "description": "Onions are not recommended to be planted near peas as they may compete for space and nutrients."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Pea Aphids",
+            "description": "Pea aphids are small, soft-bodied insects that feed on pea plants by sucking sap from leaves, stems, and pods. They reproduce rapidly and can cause distorted growth, yellowing, and wilting. To control pea aphids, spray affected plants with water to dislodge them, introduce natural predators like ladybugs or lacewings, and use insecticidal soap or neem oil as needed."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that affects pea plants, causing a white, powdery growth on leaves, stems, and pods. It thrives in warm, humid conditions and can lead to reduced plant vigor and yield. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicidal sprays as needed."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest peas when they are young and tender for the best flavor and texture.",
+        "Provide support for pea vines to climb by using trellises, stakes, or other supports.",
+        "Rotate pea crops annually to prevent the buildup of soilborne pests and diseases."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Peas: Planting Guide",
+            "url": "https://www.almanac.com/plant/peas"
+        },
+        {
+            "title": "How to Harvest and Store Peas",
+            "url": "https://www.gardeningknowhow.com/edible/vegetables/peas/harvesting-peas.htm"
+        }
+    ]
+}

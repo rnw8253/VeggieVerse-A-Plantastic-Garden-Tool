@@ -1,0 +1,109 @@
+
+{
+    "plantName": "Wonderberry",
+    "description": "Wonderberry (Solanum retroflexum), also known as sunberry or garden huckleberry, is a small fruiting plant belonging to the nightshade family (Solanaceae). It produces clusters of small, round berries that resemble blueberries but have a unique flavor profile. Wonderberries are often grown as annuals in home gardens for their ornamental value and edible fruits. The plants are relatively low-maintenance and can be grown in containers or garden beds.",
+    "thumbnailImageUrl": "Wonderberry_thumbnail",
+    "backgroundImageUrl": "Wonderberry_background",
+    "varieties": "Wonderberries, also known as Sunberries or Solanum retroflexum, are small, dark purple berries similar in appearance to blueberries. Popular varieties include 'Viking', which is known for its high productivity and rich flavor; 'Galaxy', prized for its sweetness and early ripening; and 'Purple Wonder', favored for its intense color and versatile culinary uses. These varieties, among others, offer a range of flavors and characteristics suited for different preferences and growing conditions.",
+     "sowingAndPlanting": {
+       "sowingIndoorsDescription": "Wonderberry seeds can be started indoors 6-8 weeks before the last frost date. Sow seeds in trays or pots filled with seed starting mix, covering them lightly. Keep the soil consistently moist and provide warmth and bright light for optimal germination.",
+       "sowingOutdoorsDescription": "Wonderberry seeds can also be sown directly into the garden after the danger of frost has passed and the soil has warmed to at least 60°F. Plant seeds 1/4 inch deep in well-drained soil amended with compost. Space plants 2-3 feet apart in rows spaced 3-4 feet apart.",
+       "spaceBetweenPlants": "2\'-3\'",
+       "spaceBetweenRows": "3\'-4\'",
+       "squareFootPlantingRecommendationsMin": 0,
+       "squareFootPlantingRecommendationsMax": 0,
+       "lifeCycle": "Annual",
+       "seedDepth": "1/4\"",
+       "pHRange": "6.0 - 7.0",
+       "germinationSoilTemp": "60-70°F",
+       "season": "Wonderberries should be planted in spring after the danger of frost has passed. They prefer warm weather and thrive in full sun."
+     },
+     "careAndMaintenance": {
+       "optimalSun": "Full Sun",
+       "growingSoilTemp": "70-80°F",
+       "growingDescription": "Wonderberries prefer full sun and well-drained soil rich in organic matter. Water newly planted wonderberries regularly to keep the soil consistently moist but not waterlogged. Mulch around plants to retain moisture and suppress weeds.",
+       "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+       "soilFertility": "Incorporate compost into the soil before planting to improve fertility and soil structure. Apply a balanced fertilizer during the growing season according to package instructions.",
+       "pruningRequirements": "Minimal pruning is required for wonderberries. Pinch off any suckers that emerge from the base of the plant to promote upright growth.",
+       "supportRequirements": "Wonderberry plants may benefit from support as they grow. Install stakes or cages to support the plants and prevent them from bending or breaking."
+     },
+     "harvestingAndStorage": {
+       "daysToHarvest": "70-90 days from planting",
+       "timeToMaturity": "Wonderberry plants typically start producing fruit 2-3 months after planting, with peak production continuing throughout the growing season.",
+       "storageRecommendations": "Harvest wonderberries when they are fully ripe, indicated by a deep purple color and slightly soft texture. Pick the berries by hand, taking care not to crush them. Store harvested wonderberries in the refrigerator for up to a week or freeze them for longer storage.",
+       "harvestDescription": "Harvest wonderberries by gently twisting them from the plant when they are fully ripe. Avoid pulling, as this can damage the plant."
+     },
+     "companionPlants": {
+        "goodCompanionPlants": [
+          {
+            "name": "Marigolds",
+            "description": "Marigolds can help repel pests like aphids, whiteflies, and nematodes when planted near wonderberry plants. Their strong aroma can mask the scent of the wonderberry, making it harder for pests to locate."
+          },
+          {
+            "name": "Nasturtiums",
+            "description": "Nasturtiums can repel pests like aphids, whiteflies, and spider mites when planted near wonderberry plants. Their flowers also attract beneficial insects like ladybugs and lacewings."
+          },
+          {
+            "name": "Basil",
+            "description": "Basil contains compounds that can repel pests like aphids, spider mites, and tomato hornworms. Planting basil near wonderberry plants can help protect them from these pests."
+          },
+          {
+            "name": "Chives",
+            "description": "Chives can help deter pests like aphids and spider mites when planted near wonderberry plants. Their strong aroma can mask the scent of the wonderberry, making it harder for pests to locate."
+          },
+          {
+            "name": "Lavender",
+            "description": "Lavender has insect-repelling properties and can attract pollinators like bees and butterflies. Planting lavender near wonderberry plants can help deter pests and encourage pollination."
+          }
+        ],
+        "badCompanionPlants": [
+          {
+            "name": "Potatoes",
+            "description": "Potatoes and wonderberries are susceptible to similar pests and diseases. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
+          },
+          {
+            "name": "Tomatoes",
+            "description": "Tomatoes and wonderberries are susceptible to similar pests and diseases, such as tomato hornworms and whiteflies. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
+          },
+          {
+            "name": "Peppers",
+            "description": "Peppers and wonderberries are susceptible to similar pests and diseases. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
+          },
+          {
+            "name": "Eggplant",
+            "description": "Eggplant and wonderberry plants are susceptible to similar pests and diseases. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
+          },
+          {
+            "name": "Walnuts",
+            "description": "Walnut trees produce juglone, a chemical compound that can inhibit the growth of many plants, including wonderberries. Avoid planting wonderberries near walnut trees."
+          }
+        ]
+      },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids are small, soft-bodied insects that feed on the sap of wonderberry plants, causing distorted growth and yellowing of leaves. They can also transmit viral diseases. Control aphids by spraying plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs and lacewings, or applying insecticidal soap or neem oil."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that can affect wonderberry plants, especially in warm, humid conditions. It appears as a white, powdery coating on leaves and stems and can inhibit plant growth and fruit production. Control powdery mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
+        }
+    ],
+    "tipsAndTricks": [
+        "Provide support for wonderberry plants by using stakes or cages to support the stems, especially as they start to produce fruits.",
+        "Harvest wonderberries when they are fully ripe and have a deep, glossy color for the best flavor and sweetness.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action to control them before they become a problem."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Wonderberries",
+            "url": "https://www.rhs.org.uk/advice/grow-your-own/fruit/tamarillos"
+        },
+        {
+            "title": "Wonderberry: Planting and Care Guide",
+            "url": "https://www.almanac.com/plant/wonderberry"
+        }
+    ]
+}

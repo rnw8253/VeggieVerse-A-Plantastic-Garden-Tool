@@ -1,0 +1,117 @@
+
+{
+    "plantName": "Strawberries",
+    "description": "Strawberries are delicious and versatile fruits known for their sweet flavor and juicy texture. They belong to the Fragaria genus and are closely related to roses. Strawberries are native to temperate regions around the world and have been cultivated for centuries for their culinary and medicinal uses. They are rich in vitamins, minerals, and antioxidants, making them a popular choice for fresh eating, cooking, baking, and preserving. Strawberry plants are perennial herbs with trifoliate leaves and white or pink flowers. They produce small, red, heart-shaped berries in spring and summer, often on trailing runners or compact bushes.",
+    "thumbnailImageUrl": "Strawberries_thumbnail",
+    "backgroundImageUrl": "Strawberries_background",
+    "varieties": "Strawberries come in various cultivars, each with its unique flavor, size, and fruiting characteristics. Some popular strawberry varieties include 'Albion', prized for its large, sweet berries and long fruiting season; 'Seascape', known for its high yields, excellent flavor, and resistance to diseases; 'Chandler', valued for its large, juicy berries and vigorous growth habit; and 'Eversweet', a day-neutral variety that produces sweet, flavorful berries throughout the growing season. These varieties, among others, offer a range of options suited for different climates and growing conditions.",
+     "sowingAndPlanting": {
+       "sowingIndoorsDescription": "Strawberries can be started indoors from seeds or propagated from runners. To start from seeds, plant seeds in pots filled with well-draining potting mix and keep them moist. Germination may take several weeks. Alternatively, purchase bare-root strawberry plants or runners from nurseries for faster fruit production.",
+       "sowingOutdoorsDescription": "Strawberry plants should be planted in well-draining soil in a sunny location. Prepare a planting site by amending the soil with compost and loosening it to a depth of 6-8 inches. Plant strawberry plants or runners in rows, spacing them according to their mature size, typically 12-24 inches apart.",
+       "spaceBetweenPlants": "12\"-24\"",
+       "spaceBetweenRows": "Varies based on planting scheme",
+       "squareFootPlantingRecommendationsMin": 1,
+       "squareFootPlantingRecommendationsMax": 2,
+       "lifeCycle": "Perennial",
+       "seedDepth": "1/4\"",
+       "pHRange": "5.5 - 7.0",
+       "germinationSoilTemp": "60-75°F",
+       "season": "Strawberries should be planted in early spring, as soon as the soil can be worked. They prefer cool, moist conditions and are hardy to USDA zones 3-9."
+     },
+     "careAndMaintenance": {
+       "optimalSun": "Full Sun",
+       "growingSoilTemp": "60-75°F",
+       "growingDescription": "Strawberries prefer full sun and well-draining soil. They require regular watering, especially during dry periods, to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and protect fruit from rotting.",
+       "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+       "soilFertility": "Incorporate organic matter, such as compost or well-rotted manure, into the soil before planting to improve fertility and soil structure. Fertilize strawberry plants with a balanced fertilizer according to package instructions.",
+       "pruningRequirements": "Prune strawberry plants regularly to remove old, diseased, or damaged leaves and to thin out runners. Pinch off flowers in the first year to encourage stronger root and runner development. Remove runners as needed to prevent overcrowding.",
+       "supportRequirements": "Strawberry plants may benefit from support to keep fruit off the ground and prevent rotting. Use straw, mulch, or strawberry supports to lift fruit off the soil."
+     },
+     "harvestingAndStorage": {
+       "daysToHarvest": "60-90 days from planting",
+       "timeToMaturity": "Strawberry plants typically begin producing fruit 60-90 days after planting, depending on the variety and growing conditions.",
+       "storageRecommendations": "Harvest strawberries when they are fully ripe, usually when they have developed a deep red color and are slightly soft to the touch. Twist or cut the fruit from the plant with a sharp knife. Store harvested strawberries in the refrigerator for up to a week, or freeze them for longer storage.",
+       "harvestDescription": "Harvest strawberries by twisting or cutting the fruit from the plant with a sharp knife when they are fully ripe. Handle the fruit carefully to avoid bruising."
+     },
+     "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Borage",
+             "description": "Borage attracts beneficial insects like bees and parasitic wasps, which help pollinate strawberry flowers and prey on pests like aphids and caterpillars."
+           },
+           {
+             "name": "Thyme",
+             "description": "Thyme releases oils that can repel pests like spider mites and aphids. Planting thyme near strawberry plants can help protect them from these pests."
+           },
+           {
+             "name": "Lettuce",
+             "description": "Lettuce can act as a living mulch around strawberry plants, helping to suppress weeds, retain soil moisture, and regulate soil temperature."
+           },
+           {
+             "name": "Spinach",
+             "description": "Spinach can provide shade for strawberry plants during hot weather and help conserve soil moisture. Its shallow root system also complements the deeper roots of strawberries."
+           },
+           {
+             "name": "Nasturtiums",
+             "description": "Nasturtiums can repel pests like aphids, spider mites, and whiteflies when planted near strawberry plants. Their flowers also attract pollinators."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Brassicas",
+             "description": "Brassicas like cabbage, broccoli, and cauliflower can attract pests like cabbage loopers and cabbage root maggots, which may also attack strawberry plants. Keep them separated to prevent pest infestations."
+           },
+           {
+             "name": "Fennel",
+             "description": "Fennel produces chemicals that can inhibit the growth of nearby plants, including strawberries. Keep fennel away from strawberry beds to prevent stunted growth and poor fruit production."
+           },
+           {
+             "name": "Potatoes",
+             "description": "Potatoes and strawberries are susceptible to similar pests and diseases. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
+           },
+           {
+             "name": "Onions",
+             "description": "Onions release compounds that can inhibit the growth of nearby plants, including strawberries. Keep onions away from strawberry beds to prevent stunted growth and poor fruit production."
+           },
+           {
+             "name": "Rhubarb",
+             "description": "Rhubarb and strawberries are susceptible to similar diseases, such as crown rot. Planting them in close proximity may increase the risk of disease transmission."
+           }
+         ]
+       },
+    "pests": [
+        {
+            "name": "Strawberry Root Weevil",
+            "description": "Strawberry root weevil is a common pest of strawberry plants, feeding on the roots and causing wilting and stunting. Adult weevils also feed on leaves, causing notching and damage. Control strawberry root weevil populations with insecticidal sprays or by introducing natural predators like parasitic nematodes."
+        },
+        {
+            "name": "Strawberry Sap Beetle",
+            "description": "Strawberry sap beetle is a common pest of strawberry plants, feeding on ripe fruit and causing damage like small holes and tunneling. Control strawberry sap beetle populations by harvesting fruit promptly and removing overripe or damaged berries."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Botrytis Fruit Rot",
+            "description": "Botrytis fruit rot is a fungal disease that affects strawberry plants, causing gray mold on fruit and foliage. It can lead to fruit rot and reduced yields. Control botrytis fruit rot by removing and destroying infected plant material, improving air circulation around plants, and applying fungicidal sprays preventatively."
+        },
+        {
+            "name": "Verticillium Wilt",
+            "description": "Verticillium wilt is a fungal disease that affects strawberry plants, causing wilting, yellowing, and stunting. It can lead to reduced fruit production and overall plant vigor. Control verticillium wilt by planting resistant varieties, practicing crop rotation, and improving soil drainage."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest strawberries when fully ripe for the best flavor and sweetness.",
+        "Prune strawberry plants annually to remove old or diseased leaves, improve airflow, and promote fruit production.",
+        "Monitor plants regularly for signs of pests and diseases, and take prompt action to control infestations."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Strawberries: Planting Guide",
+            "url": "https://www.almanac.com/plant/strawberries"
+        },
+        {
+            "title": "Strawberry Growing Tips",
+            "url": "https://www.gardeningknowhow.com/edible/fruits/strawberry/strawberry-growing-tips.htm"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+
+{
+    "plantName": "Chives",
+    "description": "Chives are a versatile herb with slender, hollow leaves and a mild onion flavor. They are commonly used to add a subtle onion taste to a variety of dishes.",
+    "thumbnailImageUrl": "Chives_thumbnail",
+    "backgroundImageUrl": "Chives_background",
+    "varieties": "Chives, scientifically known as Allium schoenoprasum, are a species of flowering plant in the family Amaryllidaceae, native to Europe, Asia, and North America. There are several varieties of chives, including common chives (Allium schoenoprasum), garlic chives (Allium tuberosum), and Siberian chives (Allium nutans). Common chives are the most widely cultivated for culinary use, known for their mild onion flavor and slender, hollow leaves.",
+     "sowingAndPlanting": {
+       "sowingIndoorsDescription": "Chives can be started indoors 6-8 weeks before the last frost date in your area. Plant seeds in small pots or trays filled with well-draining potting mix. Sow seeds thinly and cover them lightly with soil. Keep the soil consistently moist and place the pots in a warm, sunny location or under grow lights.",
+       "sowingOutdoorsDescription": "Chives can also be directly sown outdoors in early spring or fall. Choose a location with full sun to partial shade and well-drained soil. Sow seeds thinly and cover them lightly with soil. Keep the soil consistently moist until the seeds germinate.",
+       "spaceBetweenPlants": "6\"-8\"",
+       "spaceBetweenRows": "12\"-18\"",
+       "squareFootPlantingRecommendationsMin": 4,
+       "squareFootPlantingRecommendationsMax": 9,
+       "lifeCycle": "Perennial",
+       "seedDepth": "1/4\"",
+       "pHRange": "6.0 - 7.0",
+       "germinationSoilTemp": "60-70°F",
+       "season": "Chives can be planted in early spring or fall, depending on your growing zone. They prefer cool weather and can tolerate partial shade."
+     },
+     "careAndMaintenance": {
+       "optimalSun": "Full Sun to Partial Shade",
+       "growingSoilTemp": "60-70°F",
+       "growingDescription": "Chives prefer full sun to partial shade and well-drained soil with a pH of 6.0-7.0. Keep the soil consistently moist but not waterlogged. Water chives regularly, especially during dry periods, to promote healthy growth.",
+       "wateringNeeds": "Regular watering, aiming to keep the soil consistently moist.",
+       "soilFertility": "Chives are not heavy feeders and do not require fertilization. However, incorporating compost into the soil before planting can provide some nutrients.",
+       "pruningRequirements": "Harvest chives regularly to promote new growth and prevent them from becoming too leggy. Cut the leaves from the base of the plant with scissors or shears, leaving about 2 inches of growth to encourage regrowth.",
+       "supportRequirements": "Chives do not require support."
+     },
+     "harvestingAndStorage": {
+       "daysToHarvest": "60-90 days from planting",
+       "timeToMaturity": "Chives typically mature and are ready for harvest 60-90 days after planting, depending on growing conditions.",
+       "storageRecommendations": "Harvest chives as needed for culinary use. Use fresh chives immediately for the best flavor. Store any unused portions in the refrigerator wrapped in a damp paper towel and placed in a plastic bag for up to a week.",
+       "harvestDescription": "Harvest chives by cutting the leaves from the base of the plant with scissors or shears. Avoid cutting more than one-third of the plant at a time to ensure continued growth."
+     },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Carrots",
+                "description": "Chives are beneficial when planted near carrots, as they help deter carrot flies and other pests."
+            },
+            {
+                "name": "Tomatoes",
+                "description": "Chives are a good companion for tomatoes, as they repel aphids and other pests."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Beans",
+                "description": "Avoid planting chives near beans, as they may inhibit their growth."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Onion Thrips",
+            "description": "Onion thrips are small, slender insects that feed on chive leaves, causing stippling, wilting, and reduced growth. They may also transmit plant diseases. Control thrips by spraying affected plants with insecticidal soap or neem oil, and introducing natural predators like ladybugs or lacewings."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Downy Mildew",
+            "description": "Downy mildew is a fungal disease that affects chive plants, causing yellowing, wilting, and a fuzzy growth on leaves. It thrives in cool, humid conditions. Prevent downy mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest chives regularly to encourage new growth and prevent flowering.",
+        "Trim back chive foliage to the base of the plant as needed.",
+        "Water chives regularly to keep the soil evenly moist, especially during dry periods.",
+        "Mulch around chive plants to conserve moisture, suppress weeds, and regulate soil temperature.",
+        "Fertilize lightly with a balanced fertilizer in early spring to promote healthy growth."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Chives: Planting Guide",
+            "url": "https://www.almanac.com/plant/chives"
+        },
+        {
+            "title": "How to Harvest and Store Chives",
+            "url": "https://www.gardeningknowhow.com/edible/herbs/chives/harvesting-chives.htm"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+
+{
+    "plantName": "Yarrow",
+    "description": "Yarrow (Achillea millefolium) is a hardy, perennial herb native to temperate regions of the Northern Hemisphere. It belongs to the Asteraceae family and is characterized by its finely divided, fern-like leaves and clusters of small, daisy-like flowers that bloom in various shades of white, pink, or yellow. Yarrow has a long history of medicinal and culinary use, with traditional herbalists valuing it for its purported healing properties and ability to treat various ailments. In addition to its medicinal uses, yarrow is also prized for its ornamental value and is commonly grown in gardens and landscapes for its attractive foliage and flowers.",
+    "thumbnailImageUrl": "Yarrow_thumbnail",
+    "backgroundImageUrl": "Yarrow_background",
+    "varieties": "Yarrow (Achillea millefolium) comes in several varieties, each with unique flower colors and characteristics. Common varieties include 'Cerise Queen' with pink flowers, 'Paprika' with red flowers, and 'Moonshine' with yellow flowers. There are also wild varieties with white or pink flowers.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Yarrow can be started from seeds indoors 6-8 weeks before the last frost date in your area. Sow seeds in trays or pots filled with well-draining potting mix. Scatter seeds evenly over the soil surface and lightly press them in. Keep the soil consistently moist and provide indirect sunlight until seedlings emerge.",
+        "sowingOutdoorsDescription": "Yarrow can also be directly sown outdoors after the danger of frost has passed. Choose a location with full sun and well-draining soil. Scatter seeds over the prepared soil and lightly cover them with a thin layer of soil. Keep the soil consistently moist until seeds germinate.",
+        "spaceBetweenPlants": "12\"-24\"",
+        "spaceBetweenRows": "18\"-36\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Perennial",
+        "seedDepth": "1/8\"",
+        "pHRange": "6.0 - 7.5",
+        "germinationSoilTemp": "60-70°F",
+        "season": "Yarrow can be planted outdoors in the spring after the danger of frost has passed."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun to Partial Shade",
+        "growingSoilTemp": "60-70°F",
+        "growingDescription": "Yarrow prefers full sun and well-draining soil. Once established, it is relatively low-maintenance. Water regularly, especially during dry periods, but avoid overwatering as yarrow is drought-tolerant once established. Deadhead spent flowers to encourage continuous blooming and prevent self-seeding.",
+        "wateringNeeds": "Water yarrow regularly, providing 1-2 inches of water per week, especially during dry periods.",
+        "soilFertility": "Yarrow is not a heavy feeder and can thrive in poor to moderately fertile soil. However, incorporating compost or well-aged manure into the soil before planting can provide some nutrients.",
+        "pruningRequirements": "Prune yarrow regularly to remove spent flowers and encourage continuous blooming. Cut back the entire plant by one-third in late summer to promote a compact growth habit.",
+        "supportRequirements": "Yarrow generally does not require support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "60-90 days from planting",
+        "timeToMaturity": "Yarrow can be harvested for floral arrangements once the plants are well-established, usually within 60-90 days after planting.",
+        "storageRecommendations": "Harvest yarrow flowers for use in floral arrangements as needed. Cut stems with sharp, clean scissors or pruners and place them in a vase filled with water. Change the water every few days to prolong the life of the flowers.",
+        "harvestDescription": "Harvest yarrow flowers when they are fully open and colorful. Cut stems early in the morning when the flowers are hydrated for the best results."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Lavender",
+                "description": "Lavender is a good companion plant for yarrow, as they share similar cultural requirements and complement each other aesthetically. Planting lavender near yarrow can attract beneficial insects and enhance the overall beauty of the garden."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Potatoes",
+                "description": "Potatoes are not recommended as companion plants for yarrow, as they may compete for resources and space in the garden. Additionally, potatoes can attract pests and diseases that may also affect yarrow."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids are common pests of yarrow, feeding on the sap of the plant and causing distorted growth and yellowing leaves. Control aphids by spraying affected plants with water to dislodge them, introducing natural predators like ladybugs, or applying insecticidal soap or neem oil."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that can affect yarrow, particularly in humid conditions. It appears as a white, powdery growth on the leaves and stems, eventually leading to leaf distortion and premature leaf drop. Improve air circulation around the plants, avoid overhead watering, and apply fungicidal sprays as needed to control powdery mildew."
+        }
+    ],
+    "tipsAndTricks": [
+        "Plant yarrow in a location with full sun and well-drained soil for best results.",
+        "Water newly planted yarrow regularly until established, then water sparingly as needed.",
+        "Deadhead spent flowers to prolong blooming and prevent self-seeding.",
+        "Divide mature yarrow plants every 2-3 years to rejuvenate growth and maintain vigor.",
+        "Harvest yarrow flowers for fresh or dried use by cutting the flower stems just above a leaf node."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Yarrow in the Garden",
+            "url": "https://www.gardeningknowhow.com/edible/herbs/yarrow/growing-yarrow.htm"
+        },
+        {
+            "title": "Yarrow: Uses, Benefits, and Side Effects",
+            "url": "https://www.verywellhealth.com/the-benefits-of-yarrow-88796"
+        }
+    ]
+}

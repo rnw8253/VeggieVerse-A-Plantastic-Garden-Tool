@@ -1,0 +1,83 @@
+{
+    "plantName": "St. John's Wort",
+    "description": "St. John's Wort (Hypericum perforatum) is a perennial herbaceous plant native to Europe, Asia, and parts of Africa and the Americas. It is renowned for its bright yellow flowers and has a long history of medicinal use, particularly for its potential mood-lifting and anti-inflammatory properties. St. John's Wort is commonly found in meadows, pastures, and along roadsides, where it thrives in sunny locations with well-drained soil.",
+    "thumbnailImageUrl": "St. John's Wort_thumbnail",
+    "backgroundImageUrl": "St. John's Wort_background",
+    "varieties": "St. John's Wort (Hypericum perforatum) is the most common variety used for medicinal purposes. It is a hardy perennial herb with bright yellow flowers and characteristic perforated leaves.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "St. John's Wort seeds can be started indoors 6-8 weeks before the last frost date. Plant seeds in pots or trays filled with well-draining potting mix. Sow seeds shallowly, barely covering them with soil, and keep the soil consistently moist. Place the pots in a warm location with indirect sunlight.",
+        "sowingOutdoorsDescription": "St. John's Wort can also be directly sown outdoors after the danger of frost has passed. Choose a location with well-draining soil and full sun to partial shade. Scatter seeds over the prepared soil and lightly cover them with a thin layer of soil. Keep the soil consistently moist until seeds germinate.",
+        "spaceBetweenPlants": "12\"-18\"",
+        "spaceBetweenRows": "24\"-36\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Perennial",
+        "seedDepth": "1/8\"",
+        "pHRange": "6.0 - 7.5",
+        "germinationSoilTemp": "65-75°F",
+        "season": "St. John's Wort can be planted outdoors in spring after the danger of frost has passed."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun to Partial Shade",
+        "growingSoilTemp": "60-70°F",
+        "growingDescription": "St. John's Wort prefers well-draining soil and can tolerate a wide range of soil types. It thrives in full sun to partial shade. Once established, it is drought-tolerant and requires minimal maintenance. Water young plants regularly until established, then water during dry periods.",
+        "wateringNeeds": "Water newly planted St. John's Wort regularly until established. Once established, water infrequently, allowing the soil to dry out between waterings.",
+        "soilFertility": "St. John's Wort is not a heavy feeder and can thrive in poor soil. However, incorporating compost or well-aged manure into the soil before planting can provide some nutrients.",
+        "pruningRequirements": "Prune St. John's Wort plants in early spring to remove dead or damaged branches and encourage new growth. Deadhead spent flowers to promote continuous blooming.",
+        "supportRequirements": "St. John's Wort generally does not require support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "Varies depending on growing conditions.",
+        "timeToMaturity": "St. John's Wort can be harvested for medicinal use once the plants are well-established, usually within the first year after planting.",
+        "storageRecommendations": "Harvest St. John's Wort flowers and leaves as needed for medicinal use. Dry the harvested parts by hanging them upside down in a warm, well-ventilated area until they are completely dry. Store dried St. John's Wort in an airtight container in a cool, dark place.",
+        "harvestDescription": "Harvest St. John's Wort flowers and leaves by snipping them from the plant as needed. Harvest flowers when they are in full bloom, and leaves when they are young and tender."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Lavender",
+                "description": "Lavender and St. John's Wort make excellent companion plants, as they both prefer similar growing conditions and complement each other's aromatic qualities. Interplanting lavender with St. John's Wort can create a visually appealing garden display and attract beneficial pollinators."
+            },
+            {
+                "name": "Chamomile",
+                "description": "Chamomile is another suitable companion plant for St. John's Wort, as both herbs have calming properties and can be used in herbal teas and remedies. Planting chamomile near St. John's Wort can enhance the overall health and vitality of the garden."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Black Walnut",
+                "description": "St. John's Wort may not thrive when planted near black walnut trees, as black walnut roots release juglone, a natural chemical that can inhibit the growth of certain plants. Avoid planting St. John's Wort near black walnut trees to prevent potential issues with reduced vigor and growth."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids are common pests of St. John's Wort, feeding on the tender young growth and sucking sap from the leaves and stems. They reproduce rapidly and can cause distortion, yellowing, and stunting of the plant. Control aphids by spraying affected plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs or lacewings, or using insecticidal soap or neem oil."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that can affect St. John's Wort, particularly in humid or crowded conditions. It appears as a white, powdery coating on the leaves and can inhibit plant growth and flowering. Improve air circulation around plants, avoid overhead watering, and apply fungicidal sprays as needed to control powdery mildew."
+        }
+    ],
+    "tipsAndTricks": [
+        "Plant St. John's Wort in well-drained soil and full sun to partial shade for best growth and flowering.",
+        "Water newly planted seedlings regularly to help establish a strong root system, then reduce watering as the plants mature.",
+        "Deadhead spent flowers to encourage continuous blooming throughout the growing season.",
+        "Harvest St. John's Wort flowers in the morning when the dew has dried and the essential oils are most concentrated.",
+        "Monitor plants regularly for signs of pests and diseases, and take prompt action to prevent damage."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing St. John's Wort: Tips and Techniques",
+            "url": "https://www.gardeningknowhow.com/edible/herbs/st-johns-wort/growing-st-johns-wort.htm"
+        },
+        {
+            "title": "St. John's Wort: Benefits and Uses",
+            "url": "https://www.healthline.com/nutrition/st-johns-wort"
+        }
+    ]
+}
+

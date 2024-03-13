@@ -1,0 +1,83 @@
+
+{
+    "plantName": "Summer Savory",
+    "description": "Summer savory (Satureja hortensis) is an annual herb native to the Mediterranean region but widely cultivated in gardens around the world. It is prized for its aromatic leaves, which have a peppery, slightly spicy flavor reminiscent of thyme and marjoram. Summer savory is commonly used as a culinary herb to flavor a variety of dishes, including soups, stews, salads, and meats. Additionally, it has a long history of use in traditional medicine for its potential digestive and antiseptic properties.",
+    "thumbnailImageUrl": "Summer Savory_thumbnail",
+    "backgroundImageUrl": "Summer Savory_background",
+    "varieties": "Summer savory (Satureja hortensis) is the most common variety cultivated for culinary use. There are also other varieties, such as winter savory (Satureja montana), which is more perennial and has a stronger flavor.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Summer savory seeds can be started indoors 6-8 weeks before the last frost date in your area. Plant seeds in pots or trays filled with well-draining potting mix. Sow seeds shallowly, barely covering them with soil, and keep the soil consistently moist. Place the pots in a warm location with indirect sunlight.",
+        "sowingOutdoorsDescription": "Summer savory can also be directly sown outdoors after the danger of frost has passed. Choose a location with well-draining soil and full sun. Scatter seeds over the prepared soil and lightly cover them with a thin layer of soil. Keep the soil consistently moist until seeds germinate.",
+        "spaceBetweenPlants": "6\"-12\"",
+        "spaceBetweenRows": "12\"-18\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Annual",
+        "seedDepth": "1/8\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "65-75°F",
+        "season": "Summer savory can be planted outdoors after the danger of frost has passed and the soil has warmed up."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "70-80°F",
+        "growingDescription": "Summer savory prefers well-draining soil and full sun. It is drought-tolerant once established and requires minimal maintenance. Water young plants regularly until established, then water during dry periods.",
+        "wateringNeeds": "Water newly planted summer savory regularly until established. Once established, water infrequently, allowing the soil to dry out between waterings.",
+        "soilFertility": "Summer savory is not a heavy feeder and can thrive in poor soil. However, incorporating compost or well-aged manure into the soil before planting can provide some nutrients.",
+        "pruningRequirements": "Prune summer savory plants regularly to encourage bushy growth and prevent legginess. Pinch off the growing tips to encourage branching.",
+        "supportRequirements": "Summer savory generally does not require support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "Varies depending on growing conditions.",
+        "timeToMaturity": "Summer savory can be harvested for culinary use once the plants are well-established, usually within 60-80 days after planting.",
+        "storageRecommendations": "Harvest summer savory leaves as needed for culinary use. Use fresh leaves immediately for the best flavor. Alternatively, you can dry summer savory leaves by hanging them upside down in a warm, well-ventilated area until they are completely dry. Store dried summer savory leaves in an airtight container in a cool, dark place.",
+        "harvestDescription": "Harvest summer savory leaves by snipping them from the plant as needed. Harvest leaves when they are young and tender for the best flavor."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Beans",
+                "description": "Summer savory is a beneficial companion plant for beans, as it is believed to improve the growth and flavor of bean crops while deterring pests. Interplanting summer savory with beans can enhance overall garden health and productivity."
+            },
+            {
+                "name": "Tomatoes",
+                "description": "Tomatoes and summer savory make compatible companions, as they have similar cultural requirements and can benefit from each other's presence in the garden. Interplanting summer savory with tomatoes may help improve tomato flavor and deter pests."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Kohlrabi",
+                "description": "Summer savory may not thrive when planted near kohlrabi, as they have different cultural requirements and may compete for space and resources. Avoid planting summer savory near kohlrabi to prevent potential issues with reduced growth and vigor."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids are common pests of summer savory, feeding on the tender young growth and sucking sap from the leaves and stems. They reproduce rapidly and can cause distortion, yellowing, and stunting of the plant. Control aphids by spraying affected plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs or lacewings, or using insecticidal soap or neem oil."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that can affect summer savory, particularly in humid or crowded conditions. It appears as a white, powdery coating on the leaves and can inhibit plant growth and flowering. Improve air circulation around plants, avoid overhead watering, and apply fungicidal sprays as needed to control powdery mildew."
+        }
+    ],
+    "tipsAndTricks": [
+        "Plant summer savory in well-drained soil and full sun for best growth and flavor.",
+        "Water newly planted seedlings regularly to help establish a strong root system, then reduce watering as the plants mature.",
+        "Harvest summer savory leaves as needed for fresh use or drying.",
+        "Prune summer savory plants regularly to encourage bushy growth and prevent them from becoming leggy.",
+        "Interplant summer savory with compatible companion plants to enhance garden health and productivity."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Summer Savory: Tips and Techniques",
+            "url": "https://www.almanac.com/plant/summer-savory"
+        },
+        {
+            "title": "Summer Savory: Culinary Uses and Benefits",
+            "url": "https://www.thespruceeats.com/all-about-summer-savory-1807876"
+        }
+    ]
+}

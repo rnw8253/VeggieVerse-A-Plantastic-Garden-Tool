@@ -1,0 +1,87 @@
+
+{
+    "plantName": "Fenugreek",
+    "description": "Fenugreek (Trigonella foenum-graecum) is an annual herb native to the Mediterranean region, cultivated for its edible seeds and leaves. It has a long history of culinary and medicinal use, prized for its distinctive flavor and various health benefits. Fenugreek seeds are commonly used as a spice in Indian cuisine, while the leaves, known as methi, are used as a vegetable or herb. Fenugreek is also valued for its medicinal properties, including its ability to support digestion, regulate blood sugar levels, and promote lactation.",
+    "thumbnailImageUrl": "Fenugreek_thumbnail",
+    "backgroundImageUrl": "Fenugreek_background",
+    "varieties": "Fenugreek, scientifically known as Trigonella foenum-graecum, is an annual herb belonging to the legume family Fabaceae. While there are no distinct varieties of fenugreek like some other crops, different strains may vary slightly in flavor, leaf size, and growth habit.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Fenugreek seeds can be started indoors in pots or trays filled with well-draining potting mix. Sow seeds 1/4 inch deep and keep the soil consistently moist. Provide bright, indirect light or supplemental grow lights. Transplant seedlings outdoors once they have developed several true leaves and all danger of frost has passed.",
+        "sowingOutdoorsDescription": "Fenugreek seeds can also be directly sown outdoors in the garden after the last frost date in your area. Choose a location with full sun and well-drained soil. Sow seeds 1/4 inch deep and space them 2-3 inches apart in rows spaced 6-12 inches apart. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "2\"-3\"",
+        "spaceBetweenRows": "6\"-12\"",
+        "squareFootPlantingRecommendationsMin": 4,
+        "squareFootPlantingRecommendationsMax": 9,
+        "lifeCycle": "Annual",
+        "seedDepth": "1/4\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "60-70°F",
+        "season": "Fenugreek should be planted outdoors after the last frost date in your area, once the soil has warmed up. It requires warm temperatures to germinate and grow."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "60-70°F",
+        "growingDescription": "Fenugreek prefers full sun and well-drained, fertile soil with a pH of 6.0-7.0. Keep the soil consistently moist but not waterlogged. Mulch around plants to retain moisture and suppress weeds. Fenugreek is a low-maintenance herb and does not require frequent watering once established.",
+        "wateringNeeds": "Regular watering to keep the soil consistently moist, especially during dry periods.",
+        "soilFertility": "Fenugreek is not a heavy feeder and does not require fertilization. However, incorporating compost or well-aged manure into the soil before planting can provide additional nutrients for healthy growth.",
+        "pruningRequirements": "Fenugreek typically does not require pruning. However, you can harvest leaves regularly to encourage bushier growth and prolong the harvest period.",
+        "supportRequirements": "Fenugreek plants generally do not require support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "20-30 days from planting",
+        "timeToMaturity": "Fenugreek typically matures and is ready for harvest 20-30 days after planting, depending on growing conditions.",
+        "storageRecommendations": "Harvest fenugreek leaves as needed for fresh use. Use fresh leaves immediately for culinary purposes, or dry them for later use. To dry fenugreek leaves, hang them upside down in a well-ventilated area out of direct sunlight until fully dried. Store dried leaves in an airtight container in a cool, dark place.",
+        "harvestDescription": "Harvest fenugreek leaves by snipping them off the plants as needed. Avoid harvesting more than one-third of the plant's leaves at a time to allow for continued growth."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Tomatoes",
+                "description": "Tomatoes are good companion plants for fenugreek, as they have similar soil and water requirements and can help shade the fenugreek plants during hot weather. Interplanting fenugreek with tomatoes can also help deter pests and improve overall garden health."
+            },
+            {
+                "name": "Lettuce",
+                "description": "Lettuce is also a good companion plant for fenugreek, as it has shallow roots and can benefit from the shade provided by the fenugreek plants. Interplanting fenugreek with lettuce can help conserve moisture and extend the harvest period for both crops."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Garlic",
+                "description": "Garlic is not recommended as a companion plant for fenugreek, as it may compete for space and nutrients in the soil. It's best to plant them in separate areas to avoid potential problems."
+            },
+            {
+                "name": "Onions",
+                "description": "Onions are also not recommended as companion plants for fenugreek, as they may compete for space and nutrients and may not provide any specific benefits when grown together. It's best to plant them in separate areas to avoid potential problems."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids are common pests of fenugreek, feeding on the sap of leaves and stems and causing distortion and stunted growth. Control aphids by spraying plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs and lacewings, or applying insecticidal soap or neem oil."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that can affect fenugreek plants, causing white powdery patches to form on the leaves. It thrives in warm, humid conditions and can spread rapidly in crowded plantings. Control powdery mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest fenugreek leaves regularly to promote continuous growth and prevent plants from becoming too leggy.",
+        "Use fresh fenugreek leaves as a flavorful addition to salads, soups, stews, and curries, or dry them for later use in spice blends and herbal teas.",
+        "Harvest fenugreek seeds once the pods turn yellow and begin to dry out. Remove the seeds from the pods and store them in an airtight container in a cool, dry place for later use.",
+        "Rotate fenugreek crops annually to prevent soilborne diseases and nutrient depletion.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed to prevent damage."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Fenugreek: A Complete Guide",
+            "url": "https://www.gardeningknowhow.com/edible/herbs/fenugreek/growing-fenugreek-plants.htm"
+        },
+        {
+            "title": "Fenugreek: Uses, Benefits, and Side Effects",
+            "url": "https://www.healthline.com/nutrition/fenugreek"
+        }
+    ]
+}

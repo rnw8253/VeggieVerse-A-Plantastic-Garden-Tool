@@ -1,0 +1,117 @@
+{
+    "plantName": "Raspberries",
+    "description": "Raspberries are delicious and nutritious berries known for their sweet-tart flavor and vibrant color. They belong to the Rubus genus and are closely related to blackberries. Raspberries are native to Europe, Asia, and North America and have been cultivated for centuries for their culinary and medicinal uses. Raspberries are rich in vitamins, minerals, and antioxidants, making them a popular choice for fresh eating, cooking, baking, and preserving. Raspberry plants are deciduous shrubs with thorny stems and compound leaves. They produce clusters of small white flowers in spring, followed by juicy, red, black, purple, or golden berries in summer and fall.",
+    "thumbnailImageUrl": "Raspberries_thumbnail",
+    "backgroundImageUrl": "Raspberries_background",
+    "varieties": "Raspberries come in various cultivars, each with its unique flavor, color, and growth habit. Some popular raspberry varieties include 'Heritage', known for its high yields, excellent flavor, and vigorous growth; 'Autumn Bliss', prized for its late-season harvest, firm berries, and sweet-tart flavor; 'Cascade Delight', valued for its large, flavorful berries and disease resistance; and 'Nova', a cold-hardy variety with a sweet, tangy flavor and firm texture. These varieties, among others, offer a range of options suited for different culinary uses and growing conditions.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Raspberries are typically propagated from dormant root cuttings or crown divisions. Prepare root cuttings or divisions in late winter or early spring when the plants are dormant. Plant them in pots filled with well-draining potting mix and keep them moist. Roots should develop within a few weeks, at which point they can be transplanted to their permanent location.",
+        "sowingOutdoorsDescription": "Raspberries can also be planted directly in the ground. Choose a sunny location with well-draining soil. Prepare the planting area by loosening the soil and incorporating organic matter. Plant root cuttings or divisions at the same depth they were growing previously, and water thoroughly.",
+        "spaceBetweenPlants": "2\'-3\'",
+        "spaceBetweenRows": "6\'-8\'",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Perennial",
+        "seedDepth": "Not applicable",
+        "pHRange": "5.5 - 6.5",
+        "germinationSoilTemp": "60-70°F",
+        "season": "Raspberries should be planted in early spring or late fall, while they are dormant. They prefer cool, moist climates and are hardy to USDA zones 3-9."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun to Partial Shade",
+        "growingSoilTemp": "60-75°F",
+        "growingDescription": "Raspberries prefer full sun to partial shade and well-draining soil rich in organic matter. They require regular watering, especially during dry periods, to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+        "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress with a balanced fertilizer once the plants are established.",
+        "pruningRequirements": "Prune raspberries in late winter or early spring to remove dead, damaged, or weak canes. Thin out the canes to improve air circulation and light penetration. Raspberries produce fruit on second-year canes, so remove spent canes after harvest to make room for new growth.",
+        "supportRequirements": "Raspberry canes may benefit from support, especially when laden with fruit. Install trellises, stakes, or a support system to keep the canes upright and prevent them from bending or breaking."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "1-2 years from planting",
+        "timeToMaturity": "Raspberries typically begin producing fruit 1-2 years after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest raspberries when they are fully ripe, usually when they pull away easily from the plant with a gentle tug. Pick berries frequently, as they tend to become overripe quickly. Store harvested raspberries in the refrigerator for up to a few days, or freeze them for longer storage.",
+        "harvestDescription": "Harvest raspberries by gently pulling them from the plant when they are fully ripe. Avoid squeezing or crushing the berries, as they are delicate and prone to bruising."
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
+            {
+              "name": "Garlic",
+              "description": "Garlic can help repel pests like aphids, Japanese beetles, and raspberry cane borers when planted near raspberry bushes. Its strong scent can mask the scent of the raspberries, making it harder for pests to locate."
+            },
+            {
+              "name": "Tansy",
+              "description": "Tansy contains compounds that repel many insect pests, including Japanese beetles and raspberry fruitworms. Planting tansy near raspberry bushes can help protect them from these pests."
+            },
+            {
+              "name": "Comfrey",
+              "description": "Comfrey is a dynamic accumulator, bringing up nutrients from deep in the soil and making them available to raspberry plants. Its deep roots also help improve soil structure and prevent erosion."
+            },
+            {
+              "name": "Lemon Balm",
+              "description": "Lemon balm attracts pollinators like bees and butterflies, which can improve fruit set in raspberry bushes. Its strong aroma can also deter some pests like aphids."
+            },
+            {
+              "name": "Chamomile",
+              "description": "Chamomile attracts beneficial insects like hoverflies and parasitic wasps, which prey on pests like aphids and raspberry fruitworms. Interplanting chamomile with raspberry bushes can help manage pest populations."
+            }
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Blackberries",
+              "description": "Blackberries and raspberries are susceptible to similar pests and diseases. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
+            },
+            {
+              "name": "Potatoes",
+              "description": "Potatoes and other members of the nightshade family can host pests and diseases that may affect raspberry bushes. Additionally, they may compete with raspberry bushes for water and nutrients."
+            },
+            {
+              "name": "Tomatoes",
+              "description": "Tomatoes and raspberries are susceptible to similar diseases, such as verticillium wilt. Planting them in close proximity may increase the risk of disease transmission."
+            },
+            {
+              "name": "Corn",
+              "description": "Corn produces tall stalks that can shade out raspberry bushes and compete for water and nutrients. Additionally, corn rootworms may attack raspberry roots."
+            },
+            {
+              "name": "Walnuts",
+              "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including raspberry bushes. Avoid planting raspberry bushes near walnut trees."
+            }
+          ]
+        },
+    "pests": [
+        {
+            "name": "Raspberry Fruitworm",
+            "description": "Raspberry fruitworm is a common pest of raspberry plants, feeding on the fruit and causing damage like small holes and tunneling. Control raspberry fruitworm populations with insecticidal sprays or by introducing natural predators like parasitic wasps."
+        },
+        {
+            "name": "Raspberry Cane Borer",
+            "description": "Raspberry cane borer is a common pest of raspberry plants, burrowing into the canes and causing wilting and dieback. Infested canes may have swollen, discolored areas or holes where the larvae have exited. Control raspberry cane borer populations by pruning and destroying infested canes, and applying insecticidal sprays preventatively."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Anthracnose",
+            "description": "Anthracnose is a fungal disease that affects raspberry plants, causing dark, sunken lesions on fruit and foliage. It can lead to fruit rot and reduced yields. Control anthracnose by removing and destroying infected plant material, improving air circulation around plants, and applying fungicidal sprays preventatively."
+        },
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that affects raspberry plants, causing a white, powdery growth on leaves and fruit. It can lead to reduced fruit production and overall plant vigor. Control powdery mildew by improving air circulation around plants, watering at the base of the plant to avoid wetting foliage, and applying fungicidal sprays preventatively."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest raspberries when fully ripe for the best flavor and sweetness.",
+        "Prune raspberry plants annually to remove old or diseased canes, improve airflow, and promote fruit production.",
+        "Monitor plants regularly for signs of pests and diseases, and take prompt action to control infestations."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Raspberries: Planting Guide",
+            "url": "https://www.almanac.com/plant/raspberries"
+        },
+        {
+            "title": "Raspberry Growing Tips",
+            "url": "https://www.gardeningknowhow.com/edible/fruits/raspberry/tips-for-raspberry-growing.htm"
+        }
+    ]
+}
+

@@ -1,0 +1,83 @@
+
+{
+    "plantName": "Salvia",
+    "description": "Salvia, commonly known as sage, is a genus of aromatic plants in the mint family (Lamiaceae) that includes a wide variety of species and cultivars. These perennial herbs are prized for their fragrant foliage, colorful flowers, and culinary or medicinal uses. Salvia species are native to various regions around the world and are valued for their ornamental beauty as well as their cultural significance.",
+    "thumbnailImageUrl": "Salvia_thumbnail",
+    "backgroundImageUrl": "Salvia_background",
+    "varieties": "Salvia, commonly known as sage, encompasses a vast genus of plants with numerous species and varieties. Some popular varieties include Salvia officinalis (Common Sage), Salvia divinorum (Diviner's Sage), Salvia sclarea (Clary Sage), Salvia nemorosa (Woodland Sage), and Salvia splendens (Scarlet Sage). Each variety has its unique characteristics, growth habits, and uses.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Salvia seeds can be started indoors 6-8 weeks before the last frost date in your area. Plant seeds in pots or trays filled with well-draining potting mix. Sow seeds shallowly, barely covering them with soil, and keep the soil consistently moist. Place the pots in a warm location with indirect sunlight.",
+        "sowingOutdoorsDescription": "Salvia can also be propagated from stem cuttings or divided from established plants. Take 4-6 inch stem cuttings from healthy sage plants, remove the lower leaves, and dip the cut end in rooting hormone. Plant the cuttings in well-draining soil or a mix of perlite and vermiculite. Keep the soil consistently moist until roots develop.",
+        "spaceBetweenPlants": "Varies depending on the species and variety.",
+        "spaceBetweenRows": "Varies depending on the species and variety.",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Perennial or annual, depending on the species and variety.",
+        "seedDepth": "1/8\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "60-70°F",
+        "season": "Salvia can be planted outdoors in spring after the danger of frost has passed. It prefers well-drained soil and full sun."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "60-70°F",
+        "growingDescription": "Salvia thrives in full sun and well-drained soil with good airflow. It is drought-tolerant once established and does not require frequent watering. Allow the soil to dry out between waterings to prevent root rot. Mulching around plants can help conserve moisture and suppress weeds.",
+        "wateringNeeds": "Water newly planted salvia regularly until established. Once established, water infrequently, allowing the soil to dry out between waterings.",
+        "soilFertility": "Salvia is not heavy feeder and can thrive in poor soil. However, incorporating compost or well-aged manure into the soil before planting can provide some nutrients.",
+        "pruningRequirements": "Prune salvia regularly to maintain its shape and encourage bushy growth. Trim back leggy or woody stems and remove any dead or diseased branches. Deadhead spent flowers to encourage continuous blooming.",
+        "supportRequirements": "Most salvia varieties do not require support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "Varies depending on species and variety.",
+        "timeToMaturity": "Salvia can be harvested for ornamental or medicinal use once the plant is well-established, usually within the first year after planting.",
+        "storageRecommendations": "Harvest salvia flowers or leaves as needed for ornamental or medicinal use. Use fresh salvia immediately for the best results. Alternatively, you can dry salvia flowers or leaves by hanging them upside down in a warm, well-ventilated area until they are dry and brittle. Store dried salvia in an airtight container in a cool, dark place.",
+        "harvestDescription": "Harvest salvia flowers or leaves by snipping them from the plant as needed. Avoid harvesting more than one-third of the plant at a time to ensure healthy growth."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Lavender",
+                "description": "Lavender and salvia make excellent companion plants, as they share similar growing conditions and complement each other's fragrant foliage and flowers. Interplanting lavender with salvia can create a visually appealing garden display and attract beneficial pollinators."
+            },
+            {
+                "name": "Rosemary",
+                "description": "Rosemary is another suitable companion plant for salvia, as both herbs prefer full sun and well-drained soil. Planting rosemary near salvia can enhance the aromatic qualities of the garden and provide additional culinary herbs for cooking."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Basil",
+                "description": "Basil is not an ideal companion plant for salvia, as it has different water and nutrient requirements and may compete with salvia for resources. Avoid planting basil near salvia to prevent overcrowding and potential issues with moisture retention."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids are common pests of salvia, feeding on the tender young growth and sucking sap from the leaves. They reproduce rapidly and can cause distortion, yellowing, and stunting of the plant. Control aphids by spraying affected plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs or lacewings, or using insecticidal soap or neem oil."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that can affect salvia, particularly in humid or crowded conditions. It appears as a white, powdery coating on the leaves and can inhibit plant growth and flowering. Improve air circulation around plants, avoid overhead watering, and apply fungicidal sprays as needed to control powdery mildew."
+        }
+    ],
+    "tipsAndTricks": [
+        "Plant salvia in well-drained soil and full sun for best growth and flowering.",
+        "Water salvia regularly to keep the soil evenly moist, especially during hot, dry weather.",
+        "Prune salvia regularly to maintain shape and encourage new growth.",
+        "Harvest salvia leaves and flowers as needed for culinary or medicinal use.",
+        "Monitor plants regularly for signs of pests and diseases, and take prompt action to prevent damage."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Salvia: Tips and Techniques",
+            "url": "https://www.gardeningknowhow.com/ornamental/flowers/salvia/growing-salvia-plants.htm"
+        },
+        {
+            "title": "Salvia in the Garden: Design Ideas",
+            "url": "https://www.gardendesign.com/plants/salvia.html"
+        }
+    ]
+}

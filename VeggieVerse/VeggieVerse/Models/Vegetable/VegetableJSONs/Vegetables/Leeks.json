@@ -1,0 +1,82 @@
+{
+    "plantName": "Leeks",
+    "description": "Leeks are flavorful and versatile vegetables belonging to the Allium family, which also includes onions, garlic, and shallots. They have a mild onion-like taste with a slightly sweet flavor and are commonly used in soups, stews, casseroles, and as a flavorful addition to various dishes. Leeks are known for their long, cylindrical stalks composed of bundled leaf sheaths and are prized for their tender texture and unique flavor.",
+    "thumbnailImageUrl": "Leeks_thumbnail",
+    "backgroundImageUrl": "Leeks_background",
+    "varieties": "Leeks come in various varieties, each with its unique characteristics such as flavor, size, and cold tolerance. Common varieties include 'American Flag', 'Giant Musselburgh', 'King Richard', and 'Lancelot'. These varieties offer different sizes, textures, and growth habits suitable for various culinary uses and growing conditions.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Leeks can be started indoors 10-12 weeks before the last frost date in your area. Sow seeds in trays or pots filled with seed-starting mix. Plant seeds 1/4 inch deep and keep the soil consistently moist and warm (60-70°F). Provide bright, indirect light or use grow lights to encourage healthy seedling growth. Transplant seedlings outdoors after the danger of frost has passed and the soil has warmed up.",
+        "sowingOutdoorsDescription": "Leeks can also be directly sown outdoors once the soil is workable and the danger of frost has passed. Choose a sunny location with well-drained, fertile soil. Sow seeds 1/4 inch deep and space them 6 inches apart in rows spaced 12-18 inches apart. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "6\"",
+        "spaceBetweenRows": "12\"-18\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Biennial",
+        "seedDepth": "1/4\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "55-75°F",
+        "season": "Leeks are typically planted in early spring for a summer or fall harvest. They can also be planted in late summer or early fall for a winter or spring harvest."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun to Partial Shade",
+        "growingSoilTemp": "55-75°F",
+        "growingDescription": "Leeks prefer full sun to partial shade and well-drained, fertile soil rich in organic matter. They require regular watering to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+        "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress leeks with a balanced fertilizer once they are established.",
+        "pruningRequirements": "Leeks generally do not require pruning. However, you can remove any yellowing or damaged leaves as needed to improve air circulation and aesthetics.",
+        "supportRequirements": "Leeks do not require support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "90-120 days from planting",
+        "timeToMaturity": "Leeks typically mature and are ready for harvest 90-120 days after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest leeks when they reach the desired size, usually when the stems are about 1 inch in diameter. Use a fork to loosen the soil around the base of the leeks, then gently lift them from the ground. Trim the roots and any damaged foliage. Leeks can be stored in the refrigerator for up to several weeks. For longer storage, leeks can be blanched and frozen.",
+        "harvestDescription": "Harvest leeks by gently pulling them from the ground or using a garden fork to loosen the soil around the base of the plants. Cut off any remaining roots and trim the tops to the desired length."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Carrots",
+                "description": "Carrots can be planted near leeks to help repel pests like carrot rust fly and provide natural pest control in the garden."
+            },
+            {
+                "name": "Lettuce",
+                "description": "Lettuce can be planted near leeks to help repel pests like aphids and provide natural pest control in the garden."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Beans",
+                "description": "Beans are not recommended to be planted near leeks as they may compete for space and nutrients."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Leek Moth",
+            "description": "Leek moth larvae feed on leek foliage, causing damage to leaves and reducing plant vigor. Control leek moths by handpicking larvae off plants, using floating row covers to exclude moths, and applying organic insecticides like Bacillus thuringiensis (Bt) as needed."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Leek Rust",
+            "description": "Leek rust is a fungal disease that affects leek plants, causing orange pustules on leaves and reducing plant vigor. It thrives in humid conditions. Prevent leek rust by providing good air circulation around plants, avoiding overhead watering, and removing infected plant debris."
+        }
+    ],
+    "tipsAndTricks": [
+        "Hill soil around leek stems as they grow to encourage longer, blanched stems.",
+        "Harvest leeks when they are young and tender for the best flavor and texture.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed.",
+        "Rotate leek crops annually to prevent the buildup of soilborne pests and diseases."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Leeks: Planting Guide",
+            "url": "https://www.almanac.com/plant/leeks"
+        },
+        {
+            "title": "How to Harvest and Store Leeks",
+            "url": "https://www.gardeningknowhow.com/edible/vegetables/leeks/how-to-harvest-leeks.htm"
+        }
+    ]
+}
+

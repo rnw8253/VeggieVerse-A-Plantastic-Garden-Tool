@@ -1,0 +1,110 @@
+
+{
+    "plantName": "Arugula",
+    "description": "Arugula, also known as rocket or rucola, is a leafy green with a distinctive peppery flavor. It is commonly used in salads, sandwiches, and as a garnish for various dishes. Arugula is prized for its nutritional value and its ability to add a zesty kick to culinary creations.",
+    "thumbnailImageUrl": "Arugula_thumbnail",
+    "backgroundImageUrl": "Arugula_background",
+    "varieties": "Arugula, also known as rocket or roquette, comes in various cultivars, each with its unique flavor intensity and leaf shape. Some popular arugula varieties include 'Astro', prized for its quick growth and peppery flavor; 'Sylvetta', known for its deeply lobed leaves and strong, spicy flavor; 'Apollo', valued for its bolt resistance and milder taste; and 'Wild Arugula', a variety with smaller leaves and a more intense, pungent flavor. These varieties, among others, offer a range of options suited for different culinary preferences and growing conditions.",
+     "sowingAndPlanting": {
+       "sowingIndoorsDescription": "Arugula can be directly sown outdoors or started indoors for transplanting. To start indoors, sow seeds in trays or pots filled with well-draining potting mix. Plant seeds shallowly, barely covering them with soil. Keep the soil consistently moist and provide bright, indirect light. Transplant seedlings outdoors once they have developed a few true leaves.",
+       "sowingOutdoorsDescription": "Arugula can be directly sown outdoors in early spring or late summer. Prepare a seedbed with well-draining soil and amend with compost if necessary. Plant seeds shallowly, barely covering them with soil. Keep the soil consistently moist until seedlings emerge.",
+       "spaceBetweenPlants": "6\"-8\"",
+       "spaceBetweenRows": "12\"-18\"",
+       "squareFootPlantingRecommendationsMin": 4,
+       "squareFootPlantingRecommendationsMax": 9,
+       "lifeCycle": "Annual",
+       "seedDepth": "1/4\"",
+       "pHRange": "6.0 - 7.0",
+       "germinationSoilTemp": "50-65°F",
+       "season": "Arugula can be planted in early spring for a spring harvest or in late summer for a fall harvest. It prefers cooler temperatures and may bolt in hot weather."
+     },
+     "careAndMaintenance": {
+       "optimalSun": "Full Sun to Partial Shade",
+       "growingSoilTemp": "55-70°F",
+       "growingDescription": "Arugula prefers cool temperatures and well-draining soil rich in organic matter. It can tolerate partial shade but prefers full sun in cooler climates. Keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+       "wateringNeeds": "Regular watering, aiming for 1 inch per week.",
+       "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress with a balanced fertilizer once the plants are established.",
+       "pruningRequirements": "Harvest arugula regularly to prevent it from bolting. Pinch off outer leaves as needed, leaving the center of the plant to continue producing new growth.",
+       "supportRequirements": "Arugula generally doesn't require support."
+     },
+     "harvestingAndStorage": {
+       "daysToHarvest": "30-40 days from planting",
+       "timeToMaturity": "Arugula can be harvested as soon as 30 days after planting, depending on the variety and growing conditions.",
+       "storageRecommendations": "Harvest arugula when the leaves are young and tender, typically 6-8 inches long. Cut leaves from the plant as needed, leaving some leaves to continue growing. Store harvested arugula in the refrigerator for up to a week.",
+       "harvestDescription": "Harvest arugula by cutting leaves from the plant with scissors or a sharp knife. Start with outer leaves, allowing the center leaves to continue growing."
+     },
+     "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Lettuce",
+             "description": "Lettuce and arugula have similar growing requirements and can be interplanted to maximize space in the garden. Their shallow root systems also make them compatible companions."
+           },
+           {
+             "name": "Spinach",
+             "description": "Spinach and arugula can be planted together as they have similar growth habits and nutritional needs. Interplanting them can help optimize space in the garden while providing a diverse harvest."
+           },
+           {
+             "name": "Nasturtiums",
+             "description": "Nasturtiums can attract beneficial insects like predatory beetles and parasitic wasps, which help control pests that may affect arugula. Their flowers also add color and beauty to the garden."
+           },
+           {
+             "name": "Basil",
+             "description": "Basil can improve the flavor of arugula when planted nearby due to its aromatic foliage. It can also help repel pests like aphids and flea beetles, enhancing the overall health of the arugula plants."
+           },
+           {
+             "name": "Dill",
+             "description": "Dill can attract beneficial insects like ladybugs and lacewings, which prey on pests that may affect arugula. Its flowers also provide nectar for pollinators like bees and butterflies."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Mustard Greens",
+             "description": "Mustard greens can release compounds that inhibit the growth of arugula and other brassicas. Avoid planting mustard greens near arugula to prevent competition and reduced yields."
+           },
+           {
+             "name": "Broccoli",
+             "description": "Broccoli and other brassicas can compete with arugula for nutrients, water, and space in the garden. Additionally, they may attract pests and diseases that can affect arugula."
+           },
+           {
+             "name": "Cabbage",
+             "description": "Cabbage and other brassicas can compete with arugula for resources and may attract pests like cabbage worms and aphids. Avoid planting cabbage near arugula to prevent competition and pest issues."
+           },
+           {
+             "name": "Kohlrabi",
+             "description": "Kohlrabi and other brassicas can compete with arugula for resources and may attract pests like cabbage root maggots. Avoid planting kohlrabi near arugula to prevent competition and pest issues."
+           },
+           {
+             "name": "Radishes",
+             "description": "Radishes are known to release chemicals that can inhibit the growth of arugula and other brassicas. Avoid planting radishes near arugula to prevent competition and reduced yields."
+           }
+         ]
+       },
+    "pests": [
+        {
+            "name": "Flea Beetles",
+            "description": "Flea beetles are common pests of arugula, feeding on the leaves and causing small holes or pits. Control flea beetles by using row covers to protect plants, applying neem oil or insecticidal soap, and using natural predators like ladybugs."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Downy Mildew",
+            "description": "Downy mildew is a fungal disease that can affect arugula, causing yellowing of leaves and a downy white growth on the undersides. Provide good air circulation around plants, avoid overhead watering, and apply fungicides as needed to control downy mildew."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest arugula leaves regularly to encourage continuous growth and prevent bolting.",
+        "Water arugula plants regularly to keep the soil consistently moist.",
+        "Mulch around plants to retain moisture and suppress weeds.",
+        "Plant arugula in succession for a continuous harvest throughout the growing season."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Arugula: Planting Guide",
+            "url": "https://www.almanac.com/plant/arugula"
+        },
+        {
+            "title": "How to Harvest and Store Arugula",
+            "url": "https://www.gardeningknowhow.com/edible/herbs/arugula/harvesting-arugula.htm"
+        }
+    ]
+}

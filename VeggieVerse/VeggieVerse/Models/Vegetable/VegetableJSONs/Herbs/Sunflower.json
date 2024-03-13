@@ -1,0 +1,83 @@
+
+{
+    "plantName": "Sunflower",
+    "description": "Sunflower (Helianthus annuus) is an iconic annual flowering plant known for its large, daisy-like flowers and towering stalks. Native to North America, sunflowers have been cultivated for thousands of years for their ornamental beauty, nutritious seeds, and versatile oil. Sunflowers come in a variety of sizes, colors, and forms, making them popular choices for gardens, landscapes, and cut flower arrangements. In addition to their aesthetic appeal, sunflowers also provide valuable resources for pollinators and wildlife.",
+    "thumbnailImageUrl": "Sunflower_thumbnail",
+    "backgroundImageUrl": "Sunflower_background",
+    "varieties": "Sunflowers (Helianthus annuus) come in a wide range of varieties, including tall varieties that can reach heights of 6-12 feet or more, as well as dwarf or branching varieties that are more compact. Some popular varieties include 'Giant Russian', 'Mammoth', 'Lemon Queen', 'Autumn Beauty', and 'Teddy Bear'. Each variety may have unique characteristics such as flower color, size, and growth habit.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Sunflowers are best sown directly outdoors as they do not transplant well. However, if you choose to start them indoors, use biodegradable pots to minimize root disturbance. Plant seeds 1 inch deep in rich, well-draining soil. Keep the soil consistently moist and provide plenty of sunlight.",
+        "sowingOutdoorsDescription": "Sow sunflower seeds directly into the garden after the danger of frost has passed and the soil has warmed to at least 55°F. Choose a location with full sun and well-drained soil. Plant seeds 1 inch deep and 6 inches apart. Water the seeds thoroughly after planting.",
+        "spaceBetweenPlants": "6\"-18\"",
+        "spaceBetweenRows": "24\"-36\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Annual",
+        "seedDepth": "1\"",
+        "pHRange": "6.0 - 7.5",
+        "germinationSoilTemp": "70-85°F",
+        "season": "Sunflowers should be planted in the spring after the danger of frost has passed and the soil has warmed."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "70-85°F",
+        "growingDescription": "Sunflowers thrive in full sun and well-draining soil. Once established, they are relatively low-maintenance plants. Water regularly, especially during dry periods, but avoid overwatering as this can cause root rot. Mulch around the base of the plants to retain moisture and suppress weeds.",
+        "wateringNeeds": "Water sunflowers regularly, providing 1-2 inches of water per week.",
+        "soilFertility": "Sunflowers are not heavy feeders, but they benefit from well-amended soil. Incorporate compost or well-rotted manure into the soil before planting to improve fertility.",
+        "pruningRequirements": "Sunflowers do not require pruning, but you can remove spent flowers to encourage continuous blooming and prevent self-seeding if desired.",
+        "supportRequirements": "Tall varieties of sunflowers may require staking or support to prevent them from toppling over in strong winds. You can also grow them near a fence or trellis for support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "60-100 days from planting",
+        "timeToMaturity": "Sunflowers typically bloom within 70-100 days after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest sunflower heads when the back of the flower head turns yellow and the seeds are plump and developed. Cut the flower heads with a few inches of stem attached. Hang them upside down in a warm, dry location with good air circulation to dry. Once the seeds are fully dry, remove them from the flower head and store them in an airtight container in a cool, dry place.",
+        "harvestDescription": "To harvest sunflower seeds, cut the flower heads when the back of the flower head turns yellow and the seeds are plump and developed. Rub the seeds out of the flower head with your hands or a stiff brush."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Beans",
+                "description": "Beans and sunflowers make excellent companion plants, as sunflowers provide support for climbing bean vines while beans fix nitrogen in the soil, benefiting the sunflowers."
+            },
+            {
+                "name": "Corn",
+                "description": "Sunflowers and corn are compatible companions in the garden. Sunflowers provide shade and support for young corn plants, while corn can help shade sunflower roots and conserve soil moisture."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Potatoes",
+                "description": "Sunflowers should not be planted near potatoes, as they can attract pests like Colorado potato beetles, which may also feed on sunflower leaves. Keep sunflowers and potatoes separated to avoid potential pest problems."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Sunflower Moth",
+            "description": "Sunflower moths are common pests of sunflowers, particularly during the flowering and seed-setting stages. Adult moths lay eggs on developing flower heads, and the larvae feed on developing seeds, causing damage and reducing seed yield. Control sunflower moths by monitoring plants regularly for signs of infestation and removing affected flower heads. Use row covers to protect plants from adult moths during the flowering period."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Downy Mildew",
+            "description": "Downy mildew is a fungal disease that can affect sunflowers, particularly in cool, humid conditions. It appears as fuzzy, grayish growth on the undersides of leaves and can cause leaf yellowing, wilting, and stunting. Improve air circulation around plants, avoid overhead watering, and apply fungicidal sprays as needed to control downy mildew."
+        }
+    ],
+    "tipsAndTricks": [
+        "Plant sunflower seeds directly outdoors after the last frost date in your area for best results.",
+        "Water sunflower seedlings regularly to keep the soil evenly moist, but avoid overwatering to prevent root rot.",
+        "Deadhead spent flowers regularly to promote continuous blooming and prevent self-seeding.",
+        "Harvest sunflower heads for seeds once the back of the flower begins to turn yellow and the seeds are plump and developed.",
+        "Use sunflower seeds for roasting, baking, or as a nutritious addition to salads, granola, and other dishes."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Sunflowers: Tips and Techniques",
+            "url": "https://www.almanac.com/plant/sunflowers"
+        },
+        {
+            "title": "Sunflower Cultivation Guide",
+            "url": "https://www.extension.iastate.edu/news/yard-and-garden-cultivating-sunflowers"
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "plantName": "Bananas",
+    "description": "Bananas are elongated, yellow fruits with a sweet flavor and creamy texture. They belong to the Musaceae family and are native to tropical regions of Southeast Asia. Bananas are one of the most widely consumed fruits worldwide and are valued for their high nutritional content, including potassium, vitamin C, and vitamin B6. They are typically eaten fresh but can also be used in smoothies, baked goods, and desserts.",
+    "thumbnailImageUrl": "Bananas_thumbnail",
+    "backgroundImageUrl": "Bananas_background",
+    "varieties": "Bananas, one of the most widely consumed fruits worldwide, come in various cultivars, each with its unique flavor, texture, and intended use. Some popular banana varieties include 'Cavendish', known for its sweet flavor and creamy texture, making it ideal for fresh consumption and cooking; 'Lady Finger' or 'Baby Banana', prized for its small size, sweet flavor, and thin peel; 'Red Banana', which has a reddish-purple skin and a slightly sweeter taste than the Cavendish; and 'Plantain', a starchy variety often used for cooking when green and sweetening as it ripens. These varieties, among others, provide a range of options suited for different culinary uses and preferences.",
+     "sowingAndPlanting": {
+       "sowingIndoorsDescription": "Banana plants are typically propagated from suckers, which are small offshoots that grow around the base of mature banana plants. Suckers can be carefully removed from the parent plant and replanted in well-draining soil. Keep the soil consistently moist and provide warm temperatures and bright, indirect light for optimal growth.",
+       "sowingOutdoorsDescription": "Banana plants can also be propagated outdoors by planting suckers directly into the ground. Choose a sunny location with well-drained soil. Dig a hole large enough to accommodate the sucker's root ball and backfill with soil. Water the newly planted sucker thoroughly and continue to keep the soil moist.",
+       "spaceBetweenPlants": "10\'-12\'",
+       "spaceBetweenRows": "Varies based on planting scheme",
+       "squareFootPlantingRecommendationsMin": 0,
+       "squareFootPlantingRecommendationsMax": 0,
+       "lifeCycle": "Perennial",
+       "seedDepth": "N/A",
+       "pHRange": "6.0 - 7.0",
+       "germinationSoilTemp": "N/A",
+       "season": "Banana suckers can be planted year-round in tropical and subtropical regions. In temperate climates, planting is best done in spring or summer."
+     },
+     "careAndMaintenance": {
+       "optimalSun": "Full Sun",
+       "growingSoilTemp": "75-85°F",
+       "growingDescription": "Banana plants thrive in full sun and well-drained, fertile soil. They require regular watering to keep the soil consistently moist but not waterlogged. Mulch around plants to retain moisture, suppress weeds, and maintain even soil temperature. In regions with cooler temperatures, banana plants can be grown in containers and brought indoors during the winter.",
+       "wateringNeeds": "Regular watering, aiming for 1-2 inches per week, depending on weather conditions.",
+       "soilFertility": "Incorporate organic matter, such as compost or well-rotted manure, into the soil before planting to improve fertility and soil structure. Fertilize banana plants regularly with a balanced fertilizer according to package instructions.",
+       "pruningRequirements": "Prune banana plants to remove dead or damaged leaves and to maintain a tidy appearance. Remove spent flower stalks after fruiting to encourage new growth. In cold climates, prune banana plants before winter to remove damaged foliage and reduce wind resistance.",
+       "supportRequirements": "Banana plants may require support as they grow to prevent toppling. Install sturdy stakes or tie plants to a trellis or support structure to keep them upright."
+     },
+     "harvestingAndStorage": {
+       "daysToHarvest": "9-15 months from planting",
+       "timeToMaturity": "Banana plants typically begin producing fruit 9-15 months after planting, depending on the variety and growing conditions.",
+       "storageRecommendations": "Bananas are typically harvested when the fruit is fully formed but still green. Once harvested, bananas can be ripened at room temperature. To extend the shelf life of ripe bananas, store them in the refrigerator, which slows down the ripening process. Alternatively, ripe bananas can be peeled, sliced, and frozen for later use in smoothies, baked goods, or as a natural sweetener.",
+       "harvestDescription": "To harvest bananas, wait until the fruit reaches its full size and begins to develop a slight curve. Cut the entire bunch from the plant with a sharp knife or machete, taking care not to damage the remaining fruit or plant. Handle bananas carefully to avoid bruising."
+     },
+     "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Pineapple",
+             "description": "Pineapple plants can be good companions for bananas as they have similar soil and water requirements. Additionally, pineapple plants can help suppress weeds and conserve soil moisture around banana plants."
+           },
+           {
+             "name": "Sweet Potato",
+             "description": "Sweet potatoes can act as a living mulch around banana plants, suppressing weeds and conserving soil moisture. They also provide ground cover and can improve soil fertility when grown together with bananas."
+           },
+           {
+             "name": "Legumes (e.g., Beans, Peas)",
+             "description": "Leguminous plants like beans and peas can fix nitrogen in the soil, which benefits banana plants. Interplanting legumes with bananas can improve soil fertility and provide additional nutrients for healthy growth."
+           },
+           {
+             "name": "Taro",
+             "description": "Taro plants can help shade the soil around banana plants, conserving moisture and suppressing weed growth. They also have similar water requirements and can thrive in the same growing conditions as bananas."
+           },
+           {
+             "name": "Ginger",
+             "description": "Ginger plants can be grown alongside bananas, as they have similar cultural requirements and can help suppress weeds. Additionally, ginger plants have aromatic properties that may repel pests from banana plants."
+           },
+           {
+             "name": "Lemongrass",
+             "description": "Lemongrass can be planted near banana plants to deter pests like aphids, nematodes, and mealybugs. It also adds fragrance to the garden and can be harvested for culinary use."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Grass",
+             "description": "Grass and other ground covers that compete with banana plants for nutrients and water should be avoided. They can also provide habitat for pests and diseases that affect bananas."
+           },
+           {
+             "name": "Citrus Trees",
+             "description": "Citrus trees can be poor companions for bananas as they may compete for nutrients and water. Additionally, some citrus trees are susceptible to pests and diseases that can also affect bananas."
+           },
+           {
+             "name": "Papaya",
+             "description": "Papaya plants are not recommended to be grown near banana plants, as they can share common pests and diseases. Additionally, papaya plants may compete with bananas for nutrients and water."
+           },
+           {
+             "name": "Brassicas",
+             "description": "Brassicas can be poor companions for bananas as they may attract pests like aphids, cabbage worms, and nematodes. Additionally, brassicas have different soil and water requirements than bananas."
+           },
+           {
+             "name": "Rosemary",
+             "description": "Rosemary plants are not recommended to be planted near bananas, as they may inhibit the growth of neighboring plants. Rosemary produces allelopathic compounds that can affect the growth of bananas."
+           },
+           {
+             "name": "Tomatoes",
+             "description": "Tomatoes are not recommended to be grown near bananas, as they have different soil and water requirements. Additionally, tomatoes may attract pests and diseases that can affect banana plants."
+           }
+         ]
+       },
+    "pests": [
+        {
+            "name": "Banana Aphid",
+            "description": "The banana aphid is a common pest of banana plants, feeding on sap and excreting honeydew, which attracts ants and promotes the growth of sooty mold. Monitor banana plants regularly for signs of aphid infestation, such as curled leaves and sticky honeydew. Control aphids by spraying affected plants with water to dislodge them, introducing natural predators like ladybugs or lacewings, and using insecticidal soap or neem oil as needed."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Panama Disease",
+            "description": "Panama disease, also known as Fusarium wilt, is a fungal disease that affects banana plants, causing wilting, yellowing, and eventual death. It is caused by the soilborne fungus Fusarium oxysporum and is highly destructive to banana plantations. Prevent Panama disease by planting disease-resistant banana varieties, practicing good sanitation, and rotating crops."
+        }
+    ],
+    "tipsAndTricks": [
+        "Provide regular care and maintenance to banana plants, including watering, fertilizing, and pruning.",
+        "Protect banana plants from strong winds and provide support for heavy fruit bunches.",
+        "Monitor banana plants regularly for signs of pests and diseases, and take appropriate action as needed."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Bananas: Planting Guide",
+            "url": "https://www.almanac.com/plant/bananas"
+        },
+        {
+            "title": "How to Harvest and Store Bananas",
+            "url": "https://www.gardeningknowhow.com/edible/fruits/banana/harvesting-and-storing-bananas.htm"
+        }
+    ]
+}
+

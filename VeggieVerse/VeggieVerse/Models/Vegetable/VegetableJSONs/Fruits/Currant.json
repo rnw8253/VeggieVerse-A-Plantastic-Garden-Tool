@@ -1,0 +1,108 @@
+{
+    "plantName": "Currant",
+    "description": "Currants are small deciduous shrubs belonging to the genus Ribes in the family Grossulariaceae. They are native to Europe, Asia, and North America and are known for their tart, flavorful berries. Currant plants produce clusters of berries that range in color from red, black, to white, depending on the species and variety. The berries are often used fresh in desserts, jams, jellies, and sauces, and can also be dried for later use.",
+    "thumbnailImageUrl": "Currant_thumbnail",
+    "backgroundImageUrl": "Currant_background",
+    "varieties": "Black currants, known for their deep purple to black hue and bold, tart flavor, are popular for jams, juices, and baked goods. Varieties like Titania, Ben Lomond, and Consort offer robust yields and rich flavor profiles. Red currants, with their bright red color and slightly tart taste, are prized for fresh consumption and culinary applications. Red Lake, Rovada, and Junifer are notable varieties renowned for their vibrant appearance and versatility in dishes. White currants, less common but esteemed for their delicate, sweet flavor with subtle tartness, shine in desserts and preserves. Varieties such as White Versailles and Blanka offer translucent white berries perfect for culinary creativity.",
+    "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Currant shrubs are typically propagated from cuttings rather than grown from seeds. Take cuttings from healthy, disease-free currant plants in late winter or early spring, when the plants are dormant. Select mature stems that are 1/4 to 1/2 inch thick and 6-8 inches long, and make a clean cut just below a leaf node. Dip the cut end in rooting hormone and plant it in a pot filled with well-draining potting mix. Keep the soil consistently moist and provide bright, indirect light until roots develop.",
+        "sowingOutdoorsDescription": "Currant shrubs can also be propagated by layering. Select a healthy, flexible stem close to the ground and gently bend it downward. Make a small wound in the underside of the stem and dust it with rooting hormone. Cover the wounded area with soil and secure it in place with a U-shaped pin or stone. Keep the soil consistently moist, and roots should form within a few months. Once roots have developed, cut the stem from the parent plant and transplant it to its permanent location in the garden.",
+        "spaceBetweenPlants": "3' - 4'",
+        "spaceBetweenRows": "5' - 6'",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Perennial",
+        "seedDepth": "1/4\"-1/2\"",
+        "pHRange": "6.0 - 6.5",
+        "germinationSoilTemp": "60-70°F",
+        "season": "Currant shrubs should be planted in late winter or early spring while they are still dormant. They prefer cool, moist climates and are hardy to USDA zones 3-8."
+    },
+    "careAndMaintenance": {
+        "optimalSun": "Full Sun to Partial Shade",
+        "growingSoilTemp": "60-70°F",
+        "growingDescription": "Currant shrubs prefer full sun to partial shade and well-draining soil rich in organic matter. They require regular watering, especially during dry periods, to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, 1-2 inches per week.",
+        "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress with a balanced fertilizer once the plants are established.",
+        "pruningRequirements": "Prune currant shrubs in late winter or early spring to remove dead, damaged, or overcrowded branches. Thin out the center of the plant to improve air circulation and light penetration. Currant plants produce fruit on old wood, so avoid pruning heavily to ensure a good harvest.",
+        "supportRequirements": "Currant shrubs may benefit from support in windy areas or when heavily laden with fruit. Install stakes or a trellis to provide support and prevent branches from breaking."
+    },
+    "harvestingAndStorage": {
+        "daysToHarvest": "85-95 days from planting",
+        "timeToMaturity": "Currant shrubs typically begin producing fruit 2-3 years after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest currants when they are fully ripe, usually in mid to late summer. Pick the berries by hand, taking care not to crush them, and place them in shallow containers to prevent crushing. Store harvested currants in the refrigerator for up to one week, or freeze them for longer storage.",
+        "harvestDescription": "Harvest currants when they are fully ripe and easily detach from the stems. Gently pull the berries from the clusters by hand, taking care not to crush them."
+    },
+    "companionPlants": {
+        "goodCompanionPlants": [
+          {
+            "name": "Garlic",
+            "description": "Garlic can help deter pests like aphids, spider mites, and whiteflies when planted near currant bushes. It also has antifungal properties that may help protect against diseases."
+          },
+          {
+            "name": "Chives",
+            "description": "Chives can deter pests like aphids and Japanese beetles with their strong scent when planted near currant bushes. They are also edible and can be harvested for culinary use."
+          },
+          {
+            "name": "Nasturtiums",
+            "description": "Nasturtiums can be interplanted with currant bushes to help repel pests like aphids and whiteflies. They also attract beneficial insects like ladybugs and lacewings."
+          },
+          {
+            "name": "Comfrey",
+            "description": "Comfrey planted near currant bushes can improve soil fertility with its deep roots and nutrient-rich leaves. It also acts as a dynamic accumulator, bringing up minerals from deep in the soil."
+          },
+          {
+            "name": "Marigolds",
+            "description": "Marigolds planted around currant bushes can deter pests like nematodes and attract beneficial insects like ladybugs and lacewings. They also add color and beauty to the garden."
+          }
+        ],
+        "badCompanionPlants": [
+          {
+            "name": "Potatoes",
+            "description": "Potatoes are susceptible to diseases like potato blight and can attract pests like Colorado potato beetles, making them poor companions for currant bushes."
+          },
+          {
+            "name": "Rhubarb",
+            "description": "Rhubarb is not recommended to be planted near currant bushes, as it may compete for nutrients and water. Additionally, rhubarb leaves contain oxalic acid, which can be harmful to currants."
+          },
+          {
+            "name": "Sunflowers",
+            "description": "Sunflowers can compete with currant bushes for sunlight, water, and nutrients, potentially reducing fruit production. Additionally, sunflowers may attract birds that can damage currant crops."
+          },
+          {
+            "name": "Tomatoes",
+            "description": "Tomatoes are not recommended to be grown near currant bushes, as they have different soil and water requirements. Additionally, tomatoes may attract pests and diseases that can affect currants."
+          },
+          {
+            "name": "Walnuts",
+            "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including currants. Avoid planting currant bushes near walnut trees."
+          }
+        ]
+      },
+    "pests": [
+        {
+            "name": "Currant Aphid",
+            "description": "Currant aphids are small, soft-bodied insects that feed on the sap of currant leaves and stems. They can cause curling, yellowing, and distortion of leaves, as well as reduced plant vigor. Control aphids by spraying plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs and lacewings, or applying insecticidal soap or neem oil."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that can affect currant plants, especially in warm, humid conditions. It appears as a white, powdery coating on leaves and stems and can inhibit plant growth and fruit production. Control powdery mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
+        }
+    ],
+    "tipsAndTricks": [
+        "Prune currant shrubs regularly to maintain an open, airy canopy and promote fruit production.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed to prevent damage.",
+        "Provide adequate support for heavily laden branches to prevent breakage and ensure a good harvest."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Currants: Planting Guide",
+            "url": "https://extension.umn.edu/fruit/growing-currants"
+        },
+        {
+            "title": "Currant Cultivation and Uses",
+            "url": "https://www.canr.msu.edu/news/currant_cultivation_and_uses"
+        }
+    ]
+}

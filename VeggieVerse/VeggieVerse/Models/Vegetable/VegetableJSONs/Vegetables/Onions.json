@@ -1,0 +1,81 @@
+
+{
+    "plantName": "Onions",
+    "description": "Onions are versatile bulb vegetables that are widely used in cooking around the world. They belong to the Allium genus, which also includes garlic, shallots, and chives. Onions come in various colors, sizes, and flavors, ranging from sweet to pungent. They can be eaten raw, cooked, or used as flavoring agents in dishes such as soups, stews, and salads.",
+    "thumbnailImageUrl": "Onions_thumbnail",
+    "backgroundImageUrl": "Onions_background",
+    "varieties": "Onions come in various types, including bulb onions, green onions (scallions), and shallots. Bulb onions are further categorized into short-day, long-day, and intermediate-day varieties. Common bulb onion varieties include 'Yellow Sweet Spanish', known for its large size and mild flavor; 'Red Burgundy', prized for its deep red color and sweet taste; and 'White Lisbon', a popular variety of green onions with mild flavor and long, slender stalks.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Onions can be started indoors from seeds or sets (small bulbs). Plant seeds or sets in pots or trays filled with seed-starting mix. Plant seeds 1/4 inch deep and space them 1 inch apart. Keep the soil consistently moist and warm (65-75°F). Transplant seedlings outdoors once they have developed strong roots and the weather has warmed up.",
+        "sowingOutdoorsDescription": "Onions can also be directly sown outdoors in well-drained soil once the soil can be worked. Choose a sunny location with fertile soil. Plant seeds or sets 1/4 inch deep and space them 4-6 inches apart in rows spaced 12-18 inches apart. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "4\"-6\"",
+        "spaceBetweenRows": "12\"-18\"",
+        "squareFootPlantingRecommendationsMin": 4,
+        "squareFootPlantingRecommendationsMax": 9,
+        "lifeCycle": "Biennial",
+        "seedDepth": "1/4\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "60-75°F",
+        "season": "Onions are typically planted in the spring for summer harvest or in the fall for overwintering and spring harvest."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "55-75°F",
+        "growingDescription": "Onions prefer full sun and well-drained, fertile soil. They require regular watering to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+        "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress onions with nitrogen fertilizer every few weeks during the growing season.",
+        "pruningRequirements": "Onions do not require pruning, but you can remove any yellowing or damaged leaves as needed to improve air circulation and bulb development.",
+        "supportRequirements": "Onions typically do not require support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "90-120 days from planting",
+        "timeToMaturity": "Onions typically mature and are ready for harvest 90-120 days after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest onions when the tops have fallen over and started to dry. Carefully dig up the bulbs with a garden fork, being careful not to bruise or damage them. Cure harvested onions by laying them in a warm, dry place with good air circulation for 2-3 weeks. Once cured, trim the tops and roots and store onions in a cool, dry place with good ventilation.",
+        "harvestDescription": "Harvest onions when the tops have fallen over and started to dry. Gently lift the bulbs from the soil and allow them to cure before storing. Use a garden fork or shovel to loosen the soil around the bulbs and lift them carefully to avoid bruising."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Carrots",
+                "description": "Carrots can be planted near onions to help repel pests like onion flies and provide natural pest control in the garden."
+            },
+            {
+                "name": "Lettuce",
+                "description": "Lettuce can be planted near onions to help suppress weeds and provide natural ground cover."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Beans",
+                "description": "Beans are not recommended to be planted near onions as they may compete for space and nutrients."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Onion Thrips",
+            "description": "Onion thrips are tiny, slender insects that feed on onion leaves, causing silvering, stippling, and distortion of foliage. Heavy infestations can lead to reduced plant vigor and yield. Control onion thrips by using row covers to exclude them, applying insecticidal soap or neem oil, and practicing good garden hygiene."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Onion White Rot",
+            "description": "Onion white rot is a fungal disease that affects onion plants, causing yellowing and wilting of foliage and rotting of bulbs. It thrives in cool, moist conditions and can persist in the soil for several years. Prevent onion white rot by selecting disease-resistant varieties, practicing crop rotation, and improving soil drainage."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest onions when the tops have fallen over and started to dry for optimal storage and flavor.",
+        "Cure harvested onions in a warm, dry location with good air circulation for 1-2 weeks before storing.",
+        "Store cured onions in a cool, dry, well-ventilated location with low humidity to prevent spoilage."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Onions: Planting Guide",
+            "url": "https://www.almanac.com/plant/onions"
+        },
+        {
+            "title": "How to Harvest and Store Onions",
+            "url": "https://www.gardeningknowhow.com/edible/vegetables/onion/storing-onions.htm"
+        }
+    ]
+}

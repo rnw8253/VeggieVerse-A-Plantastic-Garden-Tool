@@ -1,0 +1,81 @@
+
+{
+    "plantName": "Kohlrabi",
+    "description": "Kohlrabi is a unique vegetable that belongs to the Brassica family, which also includes cabbage, broccoli, and kale. It is prized for its bulbous stem, which has a crisp texture and a mild, sweet flavor reminiscent of cabbage and turnip. Kohlrabi can be eaten raw or cooked and is commonly used in salads, stir-fries, soups, and slaws.",
+    "thumbnailImageUrl": "Kohlrabi_thumbnail",
+    "backgroundImageUrl": "Kohlrabi_background",
+    "varieties": "Kohlrabi, a member of the cabbage family, comes in several varieties, each with its unique characteristics and culinary uses. Common varieties of kohlrabi include 'Early White Vienna', known for its pale green skin and tender flesh; 'Purple Vienna', recognized for its vibrant purple skin and slightly sweeter flavor; and 'Kolibri', prized for its purple-and-white bi-colored skin. These varieties offer a range of options suited for different culinary preferences and growing conditions.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Kohlrabi seeds can be started indoors 4-6 weeks before the last frost date. Plant seeds in pots or trays filled with seed-starting mix. Sow seeds 1/4 to 1/2 inch deep and keep the soil consistently moist and cool (60-70°F). Provide bright, indirect light or use grow lights to encourage healthy seedling growth. Transplant seedlings outdoors after the danger of frost has passed and the soil has warmed up.",
+        "sowingOutdoorsDescription": "Kohlrabi seeds can also be directly sown outdoors once the soil has warmed up and all danger of frost has passed. Choose a sunny location with well-drained soil. Plant seeds 1/4 to 1/2 inch deep and space them 4-6 inches apart in rows spaced 12-18 inches apart. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "4\"-6\"",
+        "spaceBetweenRows": "12\"-18\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 2,
+        "lifeCycle": "Annual",
+        "seedDepth": "1/4 to 1/2 inch",
+        "pHRange": "6.0 - 7.5",
+        "germinationSoilTemp": "45-85°F",
+        "season": "Kohlrabi can be planted in both spring and fall. For spring planting, sow seeds as soon as the soil can be worked. For fall planting, sow seeds 6-8 weeks before the first expected frost date."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun to Partial Shade",
+        "growingSoilTemp": "60-70°F",
+        "growingDescription": "Kohlrabi prefers full sun to partial shade and well-drained soil rich in organic matter. It requires regular watering to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+        "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress kohlrabi with a balanced fertilizer once it starts growing.",
+        "pruningRequirements": "Kohlrabi generally does not require pruning. However, you can remove any yellowing or damaged leaves as needed to improve air circulation and aesthetics.",
+        "supportRequirements": "Kohlrabi typically does not require support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "45-60 days from planting",
+        "timeToMaturity": "Kohlrabi typically matures and is ready for harvest 45-60 days after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest kohlrabi when the bulb reaches the desired size, usually 2-3 inches in diameter. Use a sharp knife to cut the bulb just above the soil surface. Wash harvested kohlrabi thoroughly to remove any dirt or debris. Store kohlrabi in the refrigerator for up to a week, loosely wrapped in a damp paper towel or plastic bag to maintain moisture.",
+        "harvestDescription": "Harvest kohlrabi by cutting the bulb just above the soil surface with a sharp knife. Leave the leaves attached to the bulb, as they can be eaten as well."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Beets",
+                "description": "Beets can be planted near kohlrabi to help repel pests like leafminers and provide natural pest control in the garden."
+            },
+            {
+                "name": "Nasturtiums",
+                "description": "Nasturtiums can be planted near kohlrabi to help repel pests like aphids and provide natural pest control in the garden."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Strawberries",
+                "description": "Strawberries are not recommended to be planted near kohlrabi as they may compete for space and nutrients."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Cabbage Worms",
+            "description": "Cabbage worms are green caterpillars that feed on kohlrabi leaves, causing damage to foliage. They can quickly defoliate plants if left unchecked. Control cabbage worms by handpicking them off plants, using floating row covers to exclude butterflies, and applying organic insecticides like Bacillus thuringiensis (Bt) as needed."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Clubroot",
+            "description": "Clubroot is a fungal disease that affects kohlrabi plants, causing swelling and distortion of roots. It thrives in acidic soil with poor drainage. Prevent clubroot by maintaining soil pH between 6.0 and 7.5, improving soil drainage, and practicing crop rotation."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest kohlrabi bulbs when they are young and tender for the best flavor and texture.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed.",
+        "Rotate kohlrabi crops annually to prevent the buildup of soilborne pests and diseases."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Kohlrabi: Planting Guide",
+            "url": "https://www.almanac.com/plant/kohlrabi"
+        },
+        {
+            "title": "How to Harvest and Store Kohlrabi",
+            "url": "https://www.gardeningknowhow.com/edible/vegetables/kohlrabi/harvesting-kohlrabi.htm"
+        }
+    ]
+}

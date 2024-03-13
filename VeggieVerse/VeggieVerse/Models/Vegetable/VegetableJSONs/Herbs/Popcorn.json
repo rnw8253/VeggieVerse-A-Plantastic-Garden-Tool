@@ -1,0 +1,83 @@
+
+{
+    "plantName": "Popcorn",
+    "description": "Popcorn (Zea mays everta) is a type of maize or corn with a hard, moisture-sealed hull that, when heated, builds pressure and eventually pops to form a puffy, edible snack. It is a popular and nutritious snack enjoyed worldwide and can also be used in various culinary dishes.",
+    "thumbnailImageUrl": "Popcorn_thumbnail",
+    "backgroundImageUrl": "Popcorn_background",
+    "varieties": "Popcorn, scientifically known as Zea mays everta, comes in various varieties, each with its own unique kernel size, shape, and color. Common popcorn varieties include yellow, white, and multicolored kernels. Some popular varieties include 'Butterfly' for its large, fluffy kernels, 'Mushroom' for its round, compact kernels, and 'Baby Rice' for its small, tender kernels.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Popcorn is typically sown directly outdoors as it requires ample space to grow. However, if you choose to start seeds indoors, plant them in biodegradable pots to avoid disturbing the roots during transplanting. Fill the pots with seed starting mix and plant seeds 1-2 inches deep. Keep the soil consistently moist and provide ample sunlight or grow lights.",
+        "sowingOutdoorsDescription": "Popcorn should be planted directly outdoors after the last frost date in your area. Choose a sunny location with well-drained soil. Plant seeds 1-2 inches deep and space them 8-12 inches apart in rows spaced 2-3 feet apart. Ensure adequate soil moisture during the growing season.",
+        "spaceBetweenPlants": "8\"-12\"",
+        "spaceBetweenRows": "2\'-3\'",
+        "squareFootPlantingRecommendationsMin": 0,
+        "squareFootPlantingRecommendationsMax": 0,
+        "lifeCycle": "Annual",
+        "seedDepth": "1\"-2\"",
+        "pHRange": "6.0 - 7.5",
+        "germinationSoilTemp": "65-95°F",
+        "season": "Popcorn should be planted outdoors after the last frost date in your area when soil temperatures have warmed."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "65-95°F",
+        "growingDescription": "Popcorn plants thrive in full sun and require well-drained soil with good fertility. Ensure consistent soil moisture throughout the growing season, especially during the critical stages of pollination and kernel development. Mulching around plants can help retain soil moisture and suppress weed growth.",
+        "wateringNeeds": "Popcorn plants require regular watering, providing approximately 1-1.5 inches of water per week. Ensure even soil moisture, especially during pollination and kernel development.",
+        "soilFertility": "Incorporate organic matter such as compost or aged manure into the soil before planting to improve soil fertility. Side-dress with a balanced fertilizer when plants reach 6-8 inches in height, following package instructions.",
+        "pruningRequirements": "Popcorn plants do not require pruning.",
+        "supportRequirements": "In windy areas or if planting a large popcorn variety, provide support such as stakes or cages to prevent lodging."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "75-100 days from planting",
+        "timeToMaturity": "Popcorn typically matures in 75-100 days after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest popcorn when kernels are fully mature and dry. Allow the ears to dry on the stalk until kernels are hard and moisture content is around 13-14%. Once harvested, remove kernels from the cob and store them in a cool, dry place in breathable containers. Properly dried popcorn can be stored for several months.",
+        "harvestDescription": "Harvest popcorn when the kernels are fully mature and dry. Test a few kernels by pressing your fingernail into them; if they dent rather than break, they are not yet fully dry. Once ready, pull the ears gently from the stalk and allow them to air dry further in a warm, well-ventilated area before shelling."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Beans",
+                "description": "Beans are good companion plants for popcorn, as they can help fix nitrogen in the soil, which benefits the corn crop. Planting beans near popcorn can also help suppress weeds and provide support for tall corn stalks."
+            },
+            {
+                "name": "Squash",
+                "description": "Squash plants are another suitable companion for popcorn, as they have similar growing requirements and can help shade the soil, conserve moisture, and suppress weeds. Interplanting squash with popcorn can also help deter pests and provide a diverse planting environment."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Tomatoes",
+                "description": "Tomatoes are not recommended as companion plants for popcorn, as they have different growing requirements and may compete for nutrients and space. Avoid planting tomatoes near popcorn to prevent potential issues with reduced yields and overall plant health."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Corn Earworm",
+            "description": "Corn earworms are common pests of popcorn and other corn crops, especially during the ear formation stage. The larvae of these insects feed on the kernels, causing damage and reducing yields. Control corn earworms by applying biological insecticides containing Bacillus thuringiensis (Bt) or spinosad, monitoring plants regularly for signs of infestation, and removing and destroying affected ears."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Corn Smut",
+            "description": "Corn smut is a fungal disease that affects popcorn and other corn crops, causing swollen, distorted growths on the ears, stalks, and tassels. While some cultures consider corn smut a delicacy, it can reduce yields and affect crop quality. Control corn smut by planting resistant varieties, removing and destroying infected plant parts, and practicing good crop rotation."
+        }
+    ],
+    "tipsAndTricks": [
+        "Choose popcorn varieties suited to your growing region and climate for best results.",
+        "Plant popcorn in blocks rather than single rows to improve pollination and kernel development.",
+        "Protect young seedlings from birds and other pests by covering them with floating row covers until they become established.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed to prevent damage and reduce losses.",
+        "Harvest popcorn when the kernels are fully mature and dry to avoid mold and storage issues."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Popcorn: Tips and Techniques",
+            "url": "https://www.almanac.com/plant/corn"
+        },
+        {
+            "title": "Popcorn Recipes and Uses",
+            "url": "https://www.popcorn.org/Recipes"
+        }
+    ]
+}

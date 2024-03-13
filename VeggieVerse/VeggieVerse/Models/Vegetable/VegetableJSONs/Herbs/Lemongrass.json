@@ -1,0 +1,77 @@
+
+{
+    "plantName": "Lemongrass",
+    "description": "Lemongrass is a tropical herb with long, thin leaves and a lemony fragrance. It is commonly used in culinary dishes, teas, and herbal remedies for its refreshing flavor and aromatic qualities.",
+    "thumbnailImageUrl": "Lemongrass_thumbnail",
+    "backgroundImageUrl": "Lemongrass_background",
+    "varieties": "Lemongrass, scientifically known as Cymbopogon citratus, is a perennial herb prized for its lemony flavor and fragrance. While there are no distinct varieties of lemongrass, different strains may vary slightly in growth habit, leaf size, and intensity of lemon fragrance.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Lemongrass can be propagated indoors from stalks purchased at the grocery store or from nursery-bought divisions. Place the stalks in a container filled with water and allow them to develop roots. Once roots have formed, transplant the stalks into pots filled with well-draining potting mix. Provide bright, indirect light and keep the soil consistently moist until the plant establishes.",
+        "sowingOutdoorsDescription": "Lemongrass can also be directly planted outdoors in the garden once the threat of frost has passed. Choose a sunny location with well-drained soil. Plant divisions or rooted stalks in the ground, spacing them 2-3 feet apart. Keep the soil consistently moist until the plant establishes.",
+        "spaceBetweenPlants": "2\'-3\'",
+        "spaceBetweenRows": "3\'-4\'",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Perennial",
+        "seedDepth": "Surface sow",
+        "pHRange": "6.0 - 7.5",
+        "germinationSoilTemp": "70-80°F",
+        "season": "Lemongrass should be planted outdoors after the last frost date in your area. It prefers warm temperatures and well-drained soil."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "70-80°F",
+        "growingDescription": "Lemongrass prefers full sun and well-drained, fertile soil. Keep the soil consistently moist, especially during dry periods. Mulch around plants to retain moisture and suppress weeds. Lemongrass is a low-maintenance herb and does not require frequent fertilization.",
+        "wateringNeeds": "Regular watering to keep the soil consistently moist, especially during dry periods.",
+        "soilFertility": "Lemongrass is not a heavy feeder and does not require fertilization. However, incorporating compost or well-aged manure into the soil before planting can provide some nutrients.",
+        "pruningRequirements": "Lemongrass does not require extensive pruning. However, you can trim back the outer leaves and stalks as needed for culinary use. Divide mature clumps every few years to rejuvenate the plant.",
+        "supportRequirements": "Lemongrass generally does not require support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "90-120 days from planting",
+        "timeToMaturity": "Lemongrass typically matures and is ready for harvest 90-120 days after planting, depending on growing conditions.",
+        "storageRecommendations": "Harvest lemongrass leaves and stalks as needed for culinary use. Use fresh leaves and stalks immediately, or freeze them for longer storage. To freeze lemongrass, chop the stalks into smaller pieces and store them in an airtight container or freezer bag.",
+        "harvestDescription": "Harvest lemongrass leaves and stalks by cutting them close to the base of the plant. Use a sharp knife or scissors to avoid damaging the plant. Remove any damaged or discolored leaves before use."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Basil",
+                "description": "Basil is a good companion for lemongrass, as it may help deter certain pests and complement its aromatic qualities."
+            },
+            {
+                "name": "Mint",
+                "description": "Mint can be planted near lemongrass as it complements its fragrance and both have similar cultural requirements."
+            }
+        ],
+        "badCompanionPlants": []
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids can sometimes infest lemongrass, feeding on the sap of the leaves and causing distortion or yellowing. Control aphids by spraying affected plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs, and applying insecticidal soap or neem oil as needed."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Rust",
+            "description": "Rust is a fungal disease that can affect lemongrass, causing orange or yellow pustules on leaves. It thrives in humid conditions. Remove and destroy infected plant parts and ensure good air circulation to prevent rust."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest lemongrass stalks as needed by cutting them close to the base of the plant.",
+        "Mulch around plants to retain moisture and suppress weeds.",
+        "Consider planting lemongrass in containers to prevent it from becoming invasive.",
+        "Freeze lemongrass stalks for longer storage by chopping them finely and freezing in ice cube trays."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Lemongrass: Planting Guide",
+            "url": "https://www.almanac.com/plant/lemongrass"
+        },
+        {
+            "title": "How to Harvest and Store Lemongrass",
+            "url": "https://www.thespruceeats.com/how-to-harvest-and-store-lemongrass-4691242"
+        }
+    ]
+}

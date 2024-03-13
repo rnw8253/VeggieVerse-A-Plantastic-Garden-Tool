@@ -1,0 +1,90 @@
+
+{
+    "plantName": "Chamomile",
+    "description": "Chamomile is a daisy-like herb known for its calming properties and pleasant, apple-like fragrance. It is commonly used in herbal teas, aromatherapy, and natural remedies.",
+    "thumbnailImageUrl": "Chamomile_thumbnail",
+    "backgroundImageUrl": "Chamomile_background",
+    "varieties": "Chamomile refers to two main types: German chamomile (Matricaria chamomilla) and Roman chamomile (Chamaemelum nobile). German chamomile is an annual plant with feathery leaves and daisy-like flowers, while Roman chamomile is a perennial with finely divided leaves and small, daisy-like flowers. Both types are commonly used for their medicinal properties and aromatic qualities.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Chamomile seeds can be started indoors 6-8 weeks before the last frost date in your area. Plant seeds in biodegradable pots or trays filled with seed-starting mix. Sow seeds on the soil surface and press them lightly into the soil. Keep the soil consistently moist and warm (60-70°F). Transplant seedlings outdoors once all danger of frost has passed and the soil has warmed up.",
+        "sowingOutdoorsDescription": "Chamomile seeds can also be directly seeded outdoors after the last frost date in your area. Choose a location with full sun and well-drained soil. Scatter seeds on the soil surface and cover them lightly with a thin layer of soil. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "6\"-12\"",
+        "spaceBetweenRows": "12\"-18\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Annual (German chamomile) or Perennial (Roman chamomile)",
+        "seedDepth": "Surface sow",
+        "pHRange": "5.6 - 7.5",
+        "germinationSoilTemp": "60-70°F",
+        "season": "Chamomile should be planted after the last frost date in your area. German chamomile prefers cool weather and can be grown as an annual, while Roman chamomile is more tolerant of heat and can be grown as a perennial in suitable climates."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun to Partial Shade",
+        "growingSoilTemp": "60-70°F",
+        "growingDescription": "Chamomile prefers full sun to partial shade and well-drained soil with a pH of 5.6-7.5. Water young plants regularly to keep the soil consistently moist but not waterlogged. Once established, chamomile is drought-tolerant and only requires occasional watering during dry periods.",
+        "wateringNeeds": "Regular watering when young, then occasional watering once established.",
+        "soilFertility": "Chamomile is not a heavy feeder and does not require fertilization. However, incorporating compost into the soil before planting can provide some nutrients.",
+        "pruningRequirements": "Prune chamomile plants regularly to promote bushy growth and prevent them from becoming too leggy. Deadhead spent flowers to encourage continuous blooming.",
+        "supportRequirements": "Chamomile does not typically require support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "60-90 days from planting",
+        "timeToMaturity": "Chamomile typically matures and is ready for harvest 60-90 days after planting, depending on growing conditions.",
+        "storageRecommendations": "Harvest chamomile flowers when they are fully open and at their peak flavor and aroma. Cut the flower heads with clean scissors or pruners and dry them immediately to preserve their potency. Hang the harvested flowers upside down in a well-ventilated area out of direct sunlight to dry. Once dry, store the flowers in an airtight container in a cool, dark place.",
+        "harvestDescription": "Harvest chamomile flowers by cutting the flower heads just above the foliage. Use fresh chamomile flowers immediately for teas or other culinary purposes, or dry them for later use."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Bee Balm",
+                "description": "Bee balm attracts beneficial insects like bees and butterflies to the garden, which can help pollinate chamomile flowers."
+            },
+            {
+                "name": "Dill",
+                "description": "Dill is a good companion plant for chamomile, as it attracts beneficial insects and provides some shade to the soil."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Mint",
+                "description": "Mint can be invasive and may compete with chamomile for space and nutrients. Keep mint planted in containers to prevent it from spreading."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids are small, sap-sucking insects that can infest chamomile plants, causing distorted growth and yellowing of leaves. Control aphids by spraying affected plants with a strong jet of water, introducing natural predators like ladybugs or lacewings, or using insecticidal soap or neem oil."
+        },
+        {
+            "name": "Leafhoppers",
+            "description": "Leafhoppers are small, flying insects that feed on the sap of chamomile leaves, causing stippling and yellowing. They can transmit plant diseases. Control leafhoppers by removing weeds and debris that may harbor them, spraying affected plants with insecticidal soap or neem oil, or introducing natural predators like lacewings or ladybugs."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that affects chamomile plants, causing a white, powdery growth on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
+        },
+        {
+            "name": "Damping Off",
+            "description": "Damping off is a fungal disease that affects chamomile seedlings, causing them to wilt and collapse at the soil line. It is often caused by overwatering or poor soil drainage. Prevent damping off by using sterile seed starting mix, providing good air circulation, and avoiding overwatering."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest chamomile flowers in the morning when the essential oil content is highest.",
+        "Dry chamomile flowers by spreading them out in a single layer in a well-ventilated area away from direct sunlight.",
+        "Store dried chamomile flowers in an airtight container in a cool, dark place to preserve their flavor and aroma.",
+        "Deadhead spent flowers regularly to promote continuous blooming and prevent self-seeding."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Chamomile: Planting Guide",
+            "url": "https://www.almanac.com/plant/chamomile"
+        },
+        {
+            "title": "Harvesting and Using Chamomile",
+            "url": "https://www.thespruceeats.com/harvesting-and-using-chamomile-1762096"
+        }
+    ]
+}

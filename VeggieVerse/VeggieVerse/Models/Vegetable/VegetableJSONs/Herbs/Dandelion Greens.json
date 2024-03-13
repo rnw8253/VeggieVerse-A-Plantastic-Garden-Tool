@@ -1,0 +1,84 @@
+
+{
+    "plantName": "Dandelion Greens",
+    "description": "Dandelion greens are leafy greens that come from the common dandelion plant. They have a slightly bitter flavor and are packed with nutrients, making them a popular addition to salads and cooked dishes.",
+    "thumbnailImageUrl": "Dandelion_Greens_thumbnail",
+    "backgroundImageUrl": "Dandelion_Greens_background",
+    "varieties": "Dandelion, scientifically known as Taraxacum officinale, is a common perennial herbaceous plant with deeply toothed leaves and bright yellow flowers. While there are no distinct varieties of dandelion, different ecotypes may vary slightly in leaf shape, size, and flavor.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Dandelions are typically not started indoors from seeds due to their ability to self-sow prolifically in outdoor conditions. However, if you wish to start dandelions indoors, you can collect seeds from mature plants and sow them in pots or trays filled with well-draining potting mix. Keep the soil consistently moist and place the containers in a sunny location.",
+        "sowingOutdoorsDescription": "Dandelion seeds can be directly sown outdoors in early spring or fall. Choose a location with full sun to partial shade and well-drained soil. Scatter the seeds evenly over the soil surface and lightly press them into the soil. Keep the soil consistently moist until the seeds germinate.",
+        "spaceBetweenPlants": "6\"-12\"",
+        "spaceBetweenRows": "12\"-18\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Perennial",
+        "seedDepth": "1/4\"",
+        "pHRange": "6.0 - 7.5",
+        "germinationSoilTemp": "50-70°F",
+        "season": "Dandelion seeds can be sown outdoors in early spring or fall, depending on your growing zone. They prefer cool weather and well-drained soil."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun to Partial Shade",
+        "growingSoilTemp": "50-70°F",
+        "growingDescription": "Dandelions prefer full sun to partial shade and well-drained soil with a pH of 6.0-7.5. Keep the soil consistently moist but not waterlogged. Mulch around plants to retain moisture and suppress weeds.",
+        "wateringNeeds": "Regular watering to keep the soil consistently moist.",
+        "soilFertility": "Dandelions are not heavy feeders and can grow in poor soil conditions. However, incorporating compost or well-aged manure into the soil before planting can provide some nutrients.",
+        "pruningRequirements": "Regular pruning may be necessary to prevent dandelions from spreading and overcrowding other plants in the garden. You can also trim back dandelion growth to keep it in check.",
+        "supportRequirements": "Dandelions do not require support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "30-45 days from germination",
+        "timeToMaturity": "Dandelions typically mature and are ready for harvest 30-45 days after germination, depending on growing conditions.",
+        "storageRecommendations": "Harvest dandelion leaves as needed for culinary use. Use fresh leaves immediately for salads, sautés, or teas. Store any unused portions in the refrigerator wrapped in a damp paper towel and placed in a plastic bag for up to a few days.",
+        "harvestDescription": "Harvest dandelion leaves by cutting them close to the base of the plant. Avoid harvesting from areas that may have been treated with herbicides or other chemicals."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Lettuce",
+                "description": "Lettuce is a good companion plant for dandelion greens as it helps to shade the soil, retain moisture, and suppress weeds."
+            },
+            {
+                "name": "Radishes",
+                "description": "Radishes can be planted near dandelion greens as they repel certain pests that may affect the greens."
+            }
+        ],
+        "badCompanionPlants": []
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids can sometimes infest dandelion greens, sucking sap from the leaves and causing distortion or yellowing. Use insecticidal soap or neem oil to control aphids."
+        },
+        {
+            "name": "Slugs and Snails",
+            "description": "Slugs and snails may feed on dandelion greens, leaving behind ragged edges on the leaves. Use physical barriers or slug pellets to protect plants from these pests."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew can affect dandelion greens, causing a white powdery growth on the leaves. Ensure good air circulation around plants and avoid overhead watering to prevent powdery mildew."
+        },
+        {
+            "name": "Leaf Spot",
+            "description": "Leaf spot diseases can cause dark spots or lesions on dandelion greens leaves. Remove and destroy infected leaves and ensure plants have adequate spacing for air circulation."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest dandelion greens regularly to encourage new growth and prevent the plant from flowering, which can make the leaves bitter.",
+        "Mulch around plants to retain moisture and suppress weeds.",
+        "Inspect plants regularly for signs of pests and diseases, and take appropriate action if detected."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Dandelion Greens: Planting Guide",
+            "url": "https://www.almanac.com/plant/dandelion"
+        },
+        {
+            "title": "How to Harvest and Store Dandelion Greens",
+            "url": "https://www.gardeningknowhow.com/edible/herbs/dandelion/harvesting-dandelion-greens.htm"
+        }
+    ]
+}

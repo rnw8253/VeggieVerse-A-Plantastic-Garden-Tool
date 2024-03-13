@@ -1,0 +1,125 @@
+{
+    "plantName": "Cherries",
+    "description": "Cherries are small, round fruits belonging to the genus Prunus in the Rosaceae family. They come in two main types: sweet cherries (Prunus avium) and tart cherries (Prunus cerasus). Cherries are known for their sweet or tangy flavor and are commonly consumed fresh, dried, or processed into various products such as jams, pies, and juices. Cherry trees are deciduous and produce clusters of white or pink flowers in spring, followed by fruit in summer. They are popular in home gardens and commercial orchards for their delicious fruit and ornamental value.",
+    "thumbnailImageUrl": "Cherries_thumbnail",
+    "backgroundImageUrl": "Cherries_background",
+    "varieties": "Cherries, beloved for their sweet-tart flavor and juicy texture, come in various cultivars, each with its unique taste, color, and size. Some popular cherry varieties include 'Bing', prized for its deep red color, rich flavor, and firm texture; 'Rainier', known for its yellow skin with a red blush, sweet flavor, and low acidity; 'Stella', favored for its self-fertility, early ripening, and excellent flavor; and 'Montmorency', valued for its tartness and versatility in cooking and baking. These varieties, among others, offer a range of options suited for different climates and taste preferences.",
+    "sowingAndPlanting": {
+      "sowingIndoorsDescription": "Cherry trees are typically propagated from rootstock rather than seeds. Obtain bare-root or container-grown cherry trees from a nursery or garden center. Plant trees in late winter or early spring while they are still dormant. Choose a sunny location with well-draining soil.",
+      "sowingOutdoorsDescription": "Cherry trees can also be propagated by grafting. Select a healthy scion (a young shoot or bud) from a desired cherry variety and graft it onto a compatible rootstock. Plant grafted trees in late winter or early spring in a sunny location with well-draining soil.",
+      "spaceBetweenPlants": "20\'-25\'",
+      "spaceBetweenRows": "Varies based on planting scheme",
+      "squareFootPlantingRecommendationsMin": 0,
+      "squareFootPlantingRecommendationsMax": 0,
+      "lifeCycle": "Perennial",
+      "seedDepth": "N/A",
+      "pHRange": "6.0 - 7.5",
+      "germinationSoilTemp": "N/A",
+      "season": "Cherry trees should be planted in late winter or early spring while they are still dormant. They prefer well-drained soil and are hardy to USDA zones 5-9."
+    },
+    "careAndMaintenance": {
+      "optimalSun": "Full Sun",
+      "growingSoilTemp": "45-75°F",
+      "growingDescription": "Cherry trees prefer full sun and well-draining soil. They require regular watering, especially during dry periods, to establish a strong root system. Mulch around trees to conserve moisture, suppress weeds, and maintain even soil temperature.",
+      "wateringNeeds": "Regular watering, aiming for 1-2 inches per week, particularly during the growing season.",
+      "soilFertility": "Incorporate organic matter, such as compost or aged manure, into the soil before planting to improve fertility and soil structure. Fertilize cherry trees annually with a balanced fertilizer according to package instructions.",
+      "pruningRequirements": "Prune cherry trees in late winter or early spring to remove dead, diseased, or crossing branches. Thin out the center of the tree to improve air circulation and light penetration. Prune mature trees to maintain shape and encourage fruit production.",
+      "supportRequirements": "Young cherry trees may benefit from staking to provide support and prevent leaning. Use sturdy stakes and ties to secure the tree in place."
+    },
+    "harvestingAndStorage": {
+      "daysToHarvest": "3-7 years from planting",
+      "timeToMaturity": "Cherry trees typically begin producing fruit 3-7 years after planting, depending on the variety and growing conditions.",
+      "storageRecommendations": "Harvest cherries when they are fully ripe, usually in late spring or early summer. Pick the cherries by hand, gently twisting the stem to detach the fruit from the tree. Store harvested cherries in the refrigerator for up to one week.",
+      "harvestDescription": "Harvest cherries when they have reached their full color and size. Taste-test a few cherries to determine sweetness before harvesting the entire crop."
+    },
+    "companionPlants": {
+        "goodCompanionPlants": [
+          {
+            "name": "Garlic",
+            "description": "Garlic can deter pests like aphids, Japanese beetles, and cherry fruit flies when planted near cherry trees. Its strong scent can mask the aroma of cherry trees, making them less attractive to pests."
+          },
+          {
+            "name": "Chives",
+            "description": "Chives can repel pests like aphids and Japanese beetles with their strong scent. Planting chives near cherry trees can help protect them from pest infestations and improve overall tree health."
+          },
+          {
+            "name": "Nasturtiums",
+            "description": "Nasturtiums can attract beneficial insects like predatory insects and pollinators, which can help control pest populations and improve pollination in cherry orchards."
+          },
+          {
+            "name": "Marigolds",
+            "description": "Marigolds can deter pests like nematodes and attract beneficial insects like ladybugs and lacewings. Planting marigolds around cherry trees can help protect them from soil-borne pests and enhance biodiversity in the orchard."
+          },
+          {
+            "name": "Daffodils",
+            "description": "Daffodils can deter pests like aphids and spider mites with their toxic compounds. Planting daffodils near cherry trees can help reduce pest pressure and add aesthetic value to the orchard."
+          },
+          {
+            "name": "Comfrey",
+            "description": "Comfrey can improve soil fertility and provide nutrients to cherry trees with its deep taproot and nutrient-rich leaves. Its dynamic accumulation of minerals can benefit cherry tree growth and productivity."
+          }
+        ],
+        "badCompanionPlants": [
+          {
+            "name": "Walnuts",
+            "description": "Walnut trees produce juglone, a chemical compound that can inhibit the growth of many plants, including cherry trees. Avoid planting cherry trees near walnut trees to prevent adverse effects on cherry tree health and productivity."
+          },
+          {
+            "name": "Grass",
+            "description": "Grass and other ground covers can compete with cherry trees for nutrients, water, and sunlight. Ensure that the area around cherry trees is free from competing vegetation to promote healthy tree growth and fruit production."
+          },
+          {
+            "name": "Peaches",
+            "description": "Peach trees are susceptible to similar pests and diseases as cherry trees, increasing the risk of cross-contamination and infestations. Avoid planting peaches near cherry trees to prevent the spread of pests and diseases."
+          },
+          {
+            "name": "Apples",
+            "description": "Apples are susceptible to similar pests and diseases as cherry trees, such as cherry fruit flies and fungal diseases. Planting apples near cherry trees can increase the risk of pest infestations and disease outbreaks."
+          },
+          {
+            "name": "Brassicas",
+            "description": "Brassicas can attract pests like aphids, caterpillars, and cabbage worms, which may also infest cherry trees. Additionally, brassicas have different soil and water requirements than cherry trees, making them poor companions."
+          },
+          {
+            "name": "Potatoes",
+            "description": "Potatoes are susceptible to diseases like potato blight, which can spread to cherry trees. Additionally, potatoes may attract pests like Colorado potato beetles, increasing the risk of infestations in the orchard."
+          }
+        ]
+      },
+    "pests": [
+        {
+            "name": "Birds",
+            "description": "Birds are common pests of cherry trees, especially as the fruit begins to ripen. Protect ripening fruit from birds with netting or other physical barriers, or use scare devices to deter birds."
+        },
+        {
+            "name": "Cherry Fruit Fly",
+            "description": "The cherry fruit fly is a common pest of cherry trees, laying its eggs in developing fruit. The larvae hatch and feed on the cherries, causing damage and making them unmarketable. Prevent cherry fruit fly damage by monitoring for adult flies with traps, harvesting fruit promptly, and applying insecticidal sprays or natural predators to control populations."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Brown Rot",
+            "description": "Brown rot is a fungal disease that affects cherry trees, causing brown, rotting spots on fruit and flowers. It thrives in warm, humid conditions and can lead to significant fruit loss if left untreated. Prevent brown rot by practicing good sanitation, removing and disposing of infected fruit and branches promptly, and applying fungicidal sprays preventatively."
+        },
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that affects cherry trees, causing white, powdery growth on leaves and shoots. It thrives in warm, humid conditions and can lead to reduced yields and fruit quality. Prevent powdery mildew by providing good air circulation around trees, avoiding overhead watering, and applying fungicidal sprays preventatively."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest cherries when fully ripe for the best flavor and sweetness.",
+        "Protect ripening fruit from birds and other pests with netting or other physical barriers.",
+        "Monitor trees regularly for signs of pests and diseases, and take prompt action to control infestations."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Cherries: Planting Guide",
+            "url": "https://www.almanac.com/plant/cherries"
+        },
+        {
+            "title": "How to Harvest and Store Cherries",
+            "url": "https://www.gardeningknowhow.com/edible/fruits/cherry/cherry-tree-harvesting.htm"
+        }
+    ]
+}
+

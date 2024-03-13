@@ -1,0 +1,89 @@
+
+{
+    "plantName": "Peanut",
+    "description": "Peanut, also known as groundnut, is a legume crop grown for its edible seeds. Peanuts are rich in protein, healthy fats, vitamins, and minerals, making them a nutritious addition to the diet. They are commonly consumed roasted, boiled, or used in the production of peanut butter and oil. Peanuts are well-suited to warm climates and sandy soils, and they require a relatively long growing season to reach maturity.",
+    "thumbnailImageUrl": "Peanut_thumbnail",
+    "backgroundImageUrl": "Peanut_background",
+    "varieties": "Peanuts come in several varieties, each with its unique flavor and characteristics. Common peanut varieties include 'Virginia', known for its large pods and delicious flavor; 'Runner', prized for its high yield and uniform pods; and 'Spanish', which offers smaller pods and a bold flavor. These varieties provide a range of options suited for different culinary preferences and growing conditions.",
+     "sowingAndPlanting": {
+       "sowingIndoorsDescription": "Peanuts are typically grown from seeds directly sown outdoors rather than started indoors. However, you can start seeds indoors in biodegradable pots or trays filled with seed-starting mix if you want to get a head start on the growing season. Plant seeds 1-2 inches deep and keep the soil consistently moist and warm (70-80°F). Transplant seedlings outdoors once the soil has warmed up and all danger of frost has passed.",
+       "sowingOutdoorsDescription": "Peanut seeds should be sown directly outdoors once the soil has warmed up and all danger of frost has passed. Choose a sunny location with well-drained soil. Plant seeds 1-2 inches deep and space them 6-8 inches apart in rows spaced 18-24 inches apart. Keep the soil consistently moist until seedlings emerge.",
+       "spaceBetweenPlants": "6\"-8\"",
+       "spaceBetweenRows": "18\"-24\"",
+       "squareFootPlantingRecommendationsMin": 1,
+       "squareFootPlantingRecommendationsMax": 4,
+       "lifeCycle": "Annual",
+       "seedDepth": "1\"-2\"",
+       "pHRange": "5.8 - 6.2",
+       "germinationSoilTemp": "70-80°F",
+       "season": "Peanuts require a long, warm growing season, so they should be planted in the spring after the danger of frost has passed. They need at least 4-5 months of frost-free weather to mature."
+     },
+     "careAndMaintenance": {
+       "optimalSun": "Full Sun",
+       "growingSoilTemp": "70-90°F",
+       "growingDescription": "Peanuts prefer full sun and well-drained, sandy loam soil with good aeration. They require regular watering to keep the soil consistently moist but not waterlogged. Avoid overhead watering, as peanuts are susceptible to fungal diseases. Mulch around plants to conserve moisture and suppress weeds.",
+       "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+       "soilFertility": "Incorporate organic matter such as compost or well-aged manure into the soil before planting to improve fertility and soil structure. Avoid high-nitrogen fertilizers, as they can encourage excessive foliage growth at the expense of pod development.",
+       "pruningRequirements": "Peanuts do not require pruning, but you can remove any yellowing or diseased foliage as needed to improve air circulation and reduce disease pressure.",
+       "supportRequirements": "Peanut plants do not require support."
+     },
+     "harvestingAndStorage": {
+       "daysToHarvest": "120-150 days from planting",
+       "timeToMaturity": "Peanuts typically mature and are ready for harvest 120-150 days after planting, depending on the variety and growing conditions.",
+       "storageRecommendations": "Harvest peanuts when the plants begin to yellow and the pods mature. Carefully dig up the plants with a garden fork or shovel, being careful not to damage the pods. Shake off excess soil and allow the pods to dry in a warm, well-ventilated area for 1-2 weeks. Once dry, remove the pods from the plants and store them in a cool, dry place.",
+       "harvestDescription": "Harvest peanuts when the plants begin to yellow and the pods mature. Carefully lift the plants from the soil and shake off excess soil. Lay the plants in a warm, dry place with good air circulation to dry the pods."
+     },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Corn",
+                "description": "Corn provides structural support for peanut plants and helps improve soil fertility by fixing nitrogen. Planting peanuts between rows of corn can maximize space in the garden and promote healthy growth."
+            },
+            {
+                "name": "Beans",
+                "description": "Beans are nitrogen-fixing plants that can help improve soil fertility and provide additional support for peanut plants. Interplanting peanuts with beans can create a mutually beneficial growing environment."
+            },
+            {
+                "name": "Marigolds",
+                "description": "Marigolds are believed to repel pests that may affect peanut plants, making them a good companion plant. Plant marigolds around the perimeter of the peanut patch to deter pests."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Grasses",
+                "description": "Grasses can compete with peanut plants for water, nutrients, and sunlight, so it's best to avoid planting them too close together."
+            },
+            {
+                "name": "Heavy Feeders",
+                "description": "Plants that are heavy feeders, like tomatoes and peppers, may compete with peanut plants for nutrients and should be planted elsewhere in the garden."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids can infest peanut plants, sucking sap from leaves and causing them to curl and distort. Control aphids by spraying affected plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs or lacewings, and using insecticidal soap or neem oil as needed."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Leaf Spot",
+            "description": "Leaf spot is a fungal disease that can affect peanut plants, causing small, dark spots to form on leaves. Control leaf spot by removing and destroying infected leaves, improving air circulation around plants, and applying fungicidal sprays preventatively."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest peanuts when the pods have turned yellow and the shells are fully mature. Dig up the entire plant and shake off excess soil before drying.",
+        "Rotate peanut crops annually to prevent soilborne diseases and pest buildup.",
+        "Inspect plants regularly for signs of pests and diseases, and take appropriate action as needed to prevent damage."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Peanuts: Planting Guide",
+            "url": "https://www.almanac.com/plant/peanuts"
+        },
+        {
+            "title": "Peanuts: A Nutritious Crop for Home Gardens",
+            "url": "https://extension.umn.edu/vegetables/growing-peanuts"
+        }
+    ]
+}

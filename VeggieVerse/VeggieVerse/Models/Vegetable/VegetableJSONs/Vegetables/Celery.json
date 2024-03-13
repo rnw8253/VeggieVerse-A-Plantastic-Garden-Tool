@@ -1,0 +1,114 @@
+
+{
+    "plantName": "Celery",
+    "description": "Celery is a biennial vegetable prized for its crunchy stalks and distinctive flavor. It belongs to the Apiaceae family and is closely related to carrots, parsley, and fennel. Celery is a versatile ingredient in culinary dishes, commonly used raw in salads, soups, and snacks, or cooked in stews, stir-fries, and casseroles.",
+    "thumbnailImageUrl": "Celery_thumbnail",
+    "backgroundImageUrl": "Celery_background",
+    "varieties": "Celery comes in different varieties, each offering unique flavors and characteristics. Some popular celery varieties include 'Giant Pascal', known for its large, crisp stalks and strong celery flavor; 'Golden Self-Blanching', prized for its pale green stalks and mild taste; 'Redventure', valued for its red stalks and robust flavor; and 'Tango', recognized for its uniform growth and excellent flavor. These varieties, among others, provide options suited for different culinary preferences and growing conditions.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Celery is typically started indoors 10-12 weeks before the last frost date. Sow seeds in trays or pots filled with a seed starting mix, pressing them lightly into the surface. Keep the soil consistently moist and maintain a temperature of around 70°F for optimal germination. Provide bright, indirect light or use grow lights to encourage healthy seedling growth.",
+        "sowingOutdoorsDescription": "Celery can also be directly sown outdoors in early spring after the danger of frost has passed. Prepare a seedbed with loose, fertile soil and sow seeds 1/8 to 1/4 inch deep. Keep the soil consistently moist until seedlings emerge. Thin seedlings to the desired spacing once they have developed their first true leaves.",
+        "spaceBetweenPlants": "6\"-10\"",
+        "spaceBetweenRows": "18\"-24\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 2,
+        "lifeCycle": "Biennial",
+        "seedDepth": "1/8 to 1/4 inch",
+        "pHRange": "6.0 - 6.8",
+        "germinationSoilTemp": "70-75°F",
+        "season": "Celery should be planted in early spring for a summer harvest or in late summer for a fall harvest. It prefers cooler temperatures and is sensitive to heat."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun to Partial Shade",
+        "growingSoilTemp": "60-70°F",
+        "growingDescription": "Celery prefers full sun to partial shade and well-draining soil rich in organic matter. It requires regular watering to keep the soil consistently moist, especially during dry periods. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular, consistent watering, aiming to keep the soil evenly moist. Avoid overwatering, as it can lead to root rot.",
+        "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress with a balanced fertilizer once the plants are established.",
+        "pruningRequirements": "Celery does not require pruning, but you can remove any yellowing or damaged leaves as needed.",
+        "supportRequirements": "Celery may benefit from support, especially in windy areas. Use stakes or a trellis to provide support and prevent stalks from bending or breaking."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "85-120 days from planting",
+        "timeToMaturity": "Celery typically matures and is ready for harvest 85-120 days after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest celery when the stalks are crisp and well-developed. Cut stalks at ground level or remove individual stalks as needed. Store harvested celery in the refrigerator, either wrapped in plastic or placed in a container with water to keep it fresh for up to several weeks.",
+        "harvestDescription": "Harvest celery by cutting stalks at ground level with a sharp knife when they are mature. Remove any outer leaves and rinse the stalks thoroughly before use."
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
+            {
+              "name": "Cabbage",
+              "description": "Cabbage and celery have similar growing requirements and can benefit from each other's presence. Celery can help deter pests like cabbage worms and aphids when planted near cabbage plants."
+            },
+            {
+              "name": "Tomatoes",
+              "description": "Celery can help repel pests like whiteflies and aphids when planted near tomato plants. Additionally, the strong scent of celery can mask the smell of tomatoes, making them less attractive to pests."
+            },
+            {
+              "name": "Nasturtiums",
+              "description": "Nasturtiums are known to repel pests like aphids and whiteflies when planted near celery. Their vibrant flowers can also attract beneficial insects to the garden, which prey on pests."
+            },
+            {
+              "name": "Onions",
+              "description": "Onions can help deter pests like carrot flies and aphids when planted near celery. Additionally, the strong scent of onions can mask the smell of celery, making them less attractive to pests."
+            },
+            {
+              "name": "Cauliflower",
+              "description": "Celery and cauliflower are compatible companions in the garden. Celery's strong scent can help repel pests like cabbage worms and aphids from cauliflower plants."
+            },
+            {
+              "name": "Lettuce",
+              "description": "Celery provides shade and helps retain soil moisture for lettuce when interplanted. Lettuce also acts as a living mulch, suppressing weeds and improving soil fertility for celery."
+            }
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Beans",
+              "description": "Beans and other legumes can fix nitrogen in the soil, which may result in excessive leafy growth at the expense of celery stalk development. Avoid planting beans near celery."
+            },
+            {
+              "name": "Parsnips",
+              "description": "Celery and parsnips are closely related and susceptible to similar pests and diseases. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
+            },
+            {
+              "name": "Potatoes",
+              "description": "Potatoes and celery have different soil pH and nutrient requirements. Planting them in close proximity may result in competition for resources and reduced yields for both crops."
+            },
+            {
+              "name": "Carrots",
+              "description": "Carrots and celery are prone to similar pests such as carrot flies. Planting them together may attract pests to the garden, increasing the risk of damage to both crops."
+            },
+            {
+              "name": "Broccoli",
+              "description": "Broccoli and celery are susceptible to similar pests and diseases, including cabbage worms and aphids. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
+            }
+          ]
+        },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids are small, soft-bodied insects that feed on celery plants by sucking sap from leaves and stems. They reproduce rapidly and can cause distorted growth, yellowing, and wilting. Control aphids by spraying affected plants with water to dislodge them, introducing natural predators like ladybugs, lacewings, or parasitic wasps, and using insecticidal soap or neem oil as needed."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Fusarium Wilt",
+            "description": "Fusarium wilt is a fungal disease that affects celery plants, causing wilting, yellowing, and stunted growth. It is soilborne and can persist in the soil for several years. Prevent fusarium wilt by practicing crop rotation, improving soil drainage, and using disease-resistant varieties."
+        }
+    ],
+    "tipsAndTricks": [
+        "Provide consistent moisture and fertility to celery plants for optimal growth and development.",
+        "Blanch celery stalks to produce tender, pale stalks. This can be achieved by wrapping the stalks with paper or cardboard or by planting in trenches and gradually filling them with soil.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed.",
+        "Harvest celery stalks when they reach the desired size and flavor for the best taste and texture."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Celery: Planting Guide",
+            "url": "https://www.almanac.com/plant/celery"
+        },
+        {
+            "title": "How to Harvest and Store Celery",
+            "url": "https://www.gardeningknowhow.com/edible/vegetables/celery/harvesting-celery.htm"
+        }
+    ]
+}

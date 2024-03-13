@@ -1,0 +1,81 @@
+
+{
+    "plantName": "Parsnips",
+    "description": "Parsnips are root vegetables closely related to carrots and parsley. They have a sweet, nutty flavor and are commonly used in soups, stews, roasts, and purees. Parsnips are rich in nutrients, including vitamins C and K, fiber, and antioxidants. They are typically harvested in the fall after the first frost, which enhances their flavor and sweetness.",
+    "thumbnailImageUrl": "Parsnips_thumbnail",
+    "backgroundImageUrl": "Parsnips_background",
+    "varieties": "Parsnips come in several varieties, each with its unique flavor and shape. Common varieties of parsnips include 'Hollow Crown', known for its long, tapered roots and sweet flavor; 'All American', prized for its high yields and resistance to disease; and 'Gladiator', which offers smooth, uniform roots with excellent flavor. These varieties provide a range of options suited for different culinary preferences and growing conditions.",
+     "sowingAndPlanting": {
+       "sowingIndoorsDescription": "Parsnips are typically sown directly outdoors as they do not transplant well. However, if you want to get a head start on the growing season, you can start seeds indoors in biodegradable pots or trays filled with seed-starting mix. Plant seeds 1/2 inch deep and keep the soil consistently moist and cool (45-50°F). Transplant seedlings outdoors once they are well-established and the weather has warmed up.",
+       "sowingOutdoorsDescription": "Parsnips should be sown directly outdoors in early spring or late summer, depending on the desired harvest time. Choose a sunny location with well-drained soil. Plant seeds 1/2 inch deep and space them 2-3 inches apart in rows spaced 12-18 inches apart. Keep the soil consistently moist until seedlings emerge.",
+       "spaceBetweenPlants": "2\"-3\"",
+       "spaceBetweenRows": "12\"-18\"",
+       "squareFootPlantingRecommendationsMin": 1,
+       "squareFootPlantingRecommendationsMax": 4,
+       "lifeCycle": "Biennial",
+       "seedDepth": "1/2\"",
+       "pHRange": "6.0 - 7.5",
+       "germinationSoilTemp": "45-85°F",
+       "season": "Parsnips are typically planted in early spring for summer harvest or in late summer for fall and winter harvest."
+     },
+     "careAndMaintenance": {
+       "optimalSun": "Full Sun to Partial Shade",
+       "growingSoilTemp": "55-70°F",
+       "growingDescription": "Parsnips prefer full sun to partial shade and well-drained soil rich in organic matter. They require regular watering to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+       "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+       "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Avoid high-nitrogen fertilizers, as they can cause forked or branched roots.",
+       "pruningRequirements": "Parsnips do not require pruning, but you can thin seedlings to allow proper spacing and promote healthy root development.",
+       "supportRequirements": "Parsnips do not require support."
+     },
+     "harvestingAndStorage": {
+       "daysToHarvest": "90-120 days from planting",
+       "timeToMaturity": "Parsnips typically mature and are ready for harvest 90-120 days after planting, depending on the variety and growing conditions.",
+       "storageRecommendations": "Harvest parsnips when they reach the desired size, usually 1-2 inches in diameter. Carefully loosen the soil around the roots with a garden fork and lift the roots from the ground. Trim the tops and brush off any excess soil. Store harvested parsnips in a cool, dark place with high humidity, such as a root cellar or refrigerator.",
+       "harvestDescription": "Harvest parsnips when they reach the desired size, usually 1-2 inches in diameter. Use a garden fork to gently loosen the soil around the roots and lift them from the ground. Trim the tops and brush off any soil before storing."
+     },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Lettuce",
+                "description": "Lettuce can be planted near parsnips to help suppress weeds and provide natural ground cover."
+            },
+            {
+                "name": "Radishes",
+                "description": "Radishes can be interplanted with parsnips to help break up soil and improve aeration for better root development."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Carrots",
+                "description": "Carrots are not recommended to be planted near parsnips as they may compete for space and nutrients."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Carrot Rust Fly",
+            "description": "Carrot rust fly is a common pest of parsnips and other root vegetables. The larvae of this fly tunnel into the roots, causing damage and reducing the quality of the harvest. Control carrot rust fly by covering crops with floating row covers to prevent adult flies from laying eggs, rotating crops annually to disrupt the life cycle, and using insecticidal sprays or traps as needed."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Parsnip Canker",
+            "description": "Parsnip canker is a fungal disease that affects parsnip plants, causing brown lesions on the roots and stems. It thrives in cool, wet conditions and can lead to rotting of the roots. Prevent parsnip canker by selecting disease-resistant varieties, practicing crop rotation, and improving soil drainage."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest parsnips when they have reached the desired size for optimal flavor and tenderness.",
+        "Store harvested parsnips in a cool, dark place with high humidity to prolong their storage life.",
+        "Rotate parsnip crops annually to prevent the buildup of soilborne pests and diseases."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Parsnips: Planting Guide",
+            "url": "https://www.almanac.com/plant/parsnips"
+        },
+        {
+            "title": "How to Harvest and Store Parsnips",
+            "url": "https://www.gardeningknowhow.com/edible/vegetables/parsnip/parsnip-harvesting.htm"
+        }
+    ]
+}

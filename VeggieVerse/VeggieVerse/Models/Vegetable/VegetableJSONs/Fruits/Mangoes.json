@@ -1,0 +1,117 @@
+
+{
+    "plantName": "Mangoes",
+    "description": "Mangoes are tropical fruits prized for their sweet, juicy flesh and distinctive flavor. They are believed to be native to South Asia and are now cultivated in many tropical and subtropical regions around the world. Mango trees are large evergreen trees with dense foliage and small, fragrant flowers. The fruits vary in size, shape, and color depending on the variety, but they are typically oval or round with a smooth, colorful skin ranging from green to yellow, orange, or red when ripe. The flesh is juicy, fibrous, and varies in color from yellow to orange. Mangoes are rich in vitamins, minerals, and antioxidants, making them a nutritious addition to a balanced diet.",
+    "thumbnailImageUrl": "Mangoes_thumbnail",
+    "backgroundImageUrl": "Mangoes_background",
+    "varieties": "Mangoes come in various cultivars, each with its unique flavor, aroma, and texture. Some popular mango varieties include 'Alphonso', prized for its rich, sweet flavor, smooth texture, and vibrant yellow-orange flesh; 'Tommy Atkins', known for its mild, sweet flavor, firm flesh, and bright red and green skin; 'Kent', valued for its sweet, tropical flavor, juicy flesh, and minimal fiber content; and 'Haden', recognized for its classic mango flavor, firm flesh, and yellow-orange skin with red blush. These varieties, among others, offer a range of options suited for different culinary uses and growing conditions.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Mangoes are typically propagated from seeds. To grow from seeds, remove the seed from a ripe mango fruit and rinse it to remove any fruit flesh. Plant the seed in a pot filled with well-draining potting mix, with the rounded side down and the pointed end facing up. Keep the soil consistently moist and provide warm temperatures for germination, which may take several weeks.",
+        "sowingOutdoorsDescription": "Mango seeds can also be planted directly in the ground. Choose a sunny, well-drained location with fertile soil. Plant the seeds 1-2 inches deep and keep the soil consistently moist until germination occurs.",
+        "spaceBetweenPlants": "25\'-30\'",
+        "spaceBetweenRows": "Varies based on planting scheme",
+        "squareFootPlantingRecommendationsMin": 0,
+        "squareFootPlantingRecommendationsMax": 0,
+        "lifeCycle": "Perennial",
+        "seedDepth": "1\"-2\"",
+        "pHRange": "5.5 - 7.5",
+        "germinationSoilTemp": "70-90°F",
+        "season": "Mangoes should be planted in spring or summer in a location with full sun and well-drained soil. They require warm temperatures and are sensitive to frost."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "70-90°F",
+        "growingDescription": "Mangoes prefer full sun and well-drained, sandy soil with good fertility. They require regular watering, especially during dry periods, to establish and maintain healthy growth. Mulch around trees to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for deep irrigation to encourage deep root growth.",
+        "soilFertility": "Incorporate organic matter, such as compost or well-rotted manure, into the soil before planting to improve fertility and soil structure. Fertilize mango trees regularly with a balanced fertilizer according to package instructions.",
+        "pruningRequirements": "Prune mango trees in late winter or early spring to remove dead, diseased, or crossing branches. Thin out the canopy to improve air circulation and light penetration. Prune mature trees to maintain shape and size and encourage fruit production.",
+        "supportRequirements": "Young mango trees may benefit from staking to provide support and encourage upright growth. Use sturdy stakes and ties to secure the tree in place until it establishes a strong root system."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "3-6 years from planting",
+        "timeToMaturity": "Mango trees typically begin producing fruit 3-6 years after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest mangoes when they are fully ripe, usually when they have developed their characteristic color and yield slightly to gentle pressure. Cut the fruit from the tree with pruning shears, leaving a short stem attached. Store harvested mangoes at room temperature for ripening. Once ripe, refrigerate them for longer storage or freeze them for future use.",
+        "harvestDescription": "Harvest mangoes by hand when they are fully ripe. Avoid pulling or twisting the fruit, as this can damage the tree. Cut the fruit from the tree with pruning shears, leaving a short stem attached."
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
+            {
+              "name": "Pineapple",
+              "description": "Pineapple plants can provide ground cover around mango trees, reducing weed growth and soil erosion. They also add a tropical aesthetic to the garden."
+            },
+            {
+              "name": "Papaya",
+              "description": "Papaya plants can help suppress weeds and improve soil health around mango trees. Their shallow root systems are compatible with mango roots, and they provide shade for the soil."
+            },
+            {
+              "name": "Turmeric",
+              "description": "Turmeric can be intercropped with mango trees, providing additional ground cover and suppressing weeds. It also has pest-repelling properties that can benefit mango trees."
+            },
+            {
+              "name": "Banana",
+              "description": "Banana plants can provide shade and wind protection for young mango trees. Their large leaves also help maintain soil moisture and suppress weeds."
+            },
+            {
+              "name": "Comfrey",
+              "description": "Comfrey is a dynamic accumulator, bringing up nutrients from deep in the soil and making them available to mango trees. Its deep roots also help improve soil structure and prevent erosion."
+            }
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Citrus",
+              "description": "Citrus trees may compete with mango trees for resources like sunlight, water, and nutrients, as they have similar cultural requirements. Keep citrus trees separated from mango trees to avoid competition."
+            },
+            {
+              "name": "Avocado",
+              "description": "Avocado trees have similar cultural requirements to mango trees but may compete for resources like water and nutrients. Additionally, avocado trees can be susceptible to some of the same pests and diseases as mango trees."
+            },
+            {
+              "name": "Walnuts",
+              "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including mango trees. Avoid planting mango trees near walnut trees."
+            },
+            {
+              "name": "Peach",
+              "description": "Peach trees may compete with mango trees for resources and can also be susceptible to some of the same pests and diseases. Keep peach trees separated from mango trees to avoid competition and potential disease transmission."
+            },
+            {
+              "name": "Cabbage",
+              "description": "Cabbage and other brassicas may attract pests that also affect mango trees. Additionally, they may compete with mango trees for nutrients and water. Keep cabbage and mango trees separated to avoid these issues."
+            }
+          ]
+        },
+    "pests": [
+        {
+            "name": "Mango Fruit Fly",
+            "description": "Mango fruit flies are common pests of mango trees, laying their eggs in developing fruit and causing damage. Control fruit fly populations with traps, baits, or insecticidal sprays."
+        },
+        {
+            "name": "Anthracnose",
+            "description": "Anthracnose is a fungal disease that affects mango trees, causing black lesions on leaves, flowers, and fruit. It can lead to defoliation, fruit drop, and reduced yields. Prevent anthracnose by providing good air circulation around trees, avoiding overhead watering, and applying fungicidal sprays preventatively."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that affects mango trees, causing a white powdery growth on leaves, flowers, and fruit. It can lead to reduced yields and fruit quality. Prevent powdery mildew by providing good air circulation around trees, avoiding overhead watering, and applying fungicidal sprays preventatively."
+        },
+        {
+            "name": "Root Rot",
+            "description": "Root rot is a common problem in mango trees, caused by fungal pathogens in poorly-drained soil. It can lead to root damage, stunted growth, and eventual death of the tree. Prevent root rot by planting mango trees in well-draining soil and avoiding overwatering."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest mangoes when fully ripe for the best flavor and sweetness.",
+        "Monitor trees regularly for signs of pests and diseases, and take prompt action to control infestations.",
+        "Prune mango trees annually to remove dead or diseased wood, improve airflow, and shape the tree."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Mangoes: Planting Guide",
+            "url": "https://www.almanac.com/plant/mangoes"
+        },
+        {
+            "title": "How to Harvest and Store Mangoes",
+            "url": "https://www.gardeningknowhow.com/edible/fruits/mango/harvesting-mangoes.htm"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+
+{
+    "plantName": "Sweet Potatoes",
+    "description": "Sweet potatoes are warm-season vegetables known for their sweet flavor and nutritious orange flesh. They belong to the morning glory family and are often grown for their edible tuberous roots. Sweet potatoes come in various colors, including orange, purple, and white, and they can be prepared in a variety of ways, such as roasting, baking, boiling, or mashing. They are rich in vitamins, minerals, fiber, and antioxidants, making them a healthy addition to any diet.",
+    "thumbnailImageUrl": "Sweet Potatoes_thumbnail",
+    "backgroundImageUrl": "Sweet Potatoes_background",
+    "varieties": "Squash encompasses various species and cultivars, including summer squash and winter squash, each with its unique shape, color, and flavor. Common varieties of summer squash include 'Zucchini', known for its cylindrical shape and mild flavor; 'Yellow Crookneck', prized for its curved neck and buttery taste; and 'Pattypan', which offers a unique scalloped shape and tender texture. Winter squash varieties include 'Butternut', known for its sweet, nutty flavor and pear-like shape; 'Acorn', prized for its small size and sweet, nutty taste; and 'Spaghetti', which produces long, stringy flesh resembling spaghetti when cooked. These varieties provide options suited for different culinary preferences and growing conditions.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Squash seeds can be started indoors in biodegradable pots or trays filled with seed-starting mix. Plant seeds 1 inch deep and keep the soil consistently moist and warm (70-85°F). Transplant seedlings outdoors once they have developed several true leaves and the weather has warmed up.",
+        "sowingOutdoorsDescription": "Squash seeds should be sown directly outdoors once the soil has warmed up in the spring. Choose a sunny location with well-drained soil. Plant seeds 1 inch deep and space them 12-48 inches apart, depending on the variety. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "12\"-48\"",
+        "spaceBetweenRows": "36\"-72\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Annual",
+        "seedDepth": "1\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "70-85°F",
+        "season": "Squash prefers warm weather and should be planted after the danger of frost has passed in the spring. Summer squash can be harvested throughout the summer, while winter squash is typically harvested in the fall."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "70-85°F",
+        "growingDescription": "Squash plants thrive in full sun and well-drained, fertile soil with a pH of 6.0-7.0. They require regular watering to keep the soil consistently moist, especially during dry periods. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+        "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress squash plants with a balanced fertilizer once they start producing fruits.",
+        "pruningRequirements": "Prune squash plants to remove any dead or diseased foliage and improve air circulation. Pinch off the growing tips of vines to encourage branching and increase fruit production.",
+        "supportRequirements": "Some vining varieties of squash may benefit from support to keep the fruits off the ground and prevent rot. Use trellises or cages to support the vines."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "40-60 days for summer squash, 80-120 days for winter squash",
+        "timeToMaturity": "Summer squash typically matures and is ready for harvest 40-60 days after planting, while winter squash may take 80-120 days, depending on the variety.",
+        "storageRecommendations": "Harvest summer squash when the fruits are young and tender, usually 6-8 inches long for most varieties. Use a sharp knife to cut the fruits from the vines. Winter squash should be harvested when the fruits reach full maturity and the rinds are hard and cannot be punctured with a fingernail. Leave a few inches of stem attached to the fruits. Store harvested squash in a cool, dry place with good ventilation. Summer squash can be stored in the refrigerator for up to a week, while winter squash can be stored for several months.",
+        "harvestDescription": "Harvest summer squash regularly to encourage continuous production. Cut the fruits from the vines using a sharp knife, taking care not to damage the plants. Winter squash should be harvested before the first frost. Use a sharp knife to cut the fruits from the vines, leaving a few inches of stem attached."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Beans",
+                "description": "Beans can be planted near sweet potatoes to help improve soil fertility by fixing nitrogen and providing natural pest control in the garden."
+            },
+            {
+                "name": "Lettuce",
+                "description": "Lettuce can be interplanted with sweet potatoes to provide natural ground cover and help suppress weeds."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Irish Potatoes",
+                "description": "Irish potatoes are not recommended to be planted near sweet potatoes as they may compete for space and nutrients."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Sweet Potato Weevil",
+            "description": "The sweet potato weevil is a common pest of sweet potatoes, feeding on the tubers and causing damage and decay. Prevent sweet potato weevils by planting certified disease-free slips, inspecting plants regularly for signs of infestation, and promptly removing and destroying affected tubers."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Fusarium Root Rot",
+            "description": "Fusarium root rot is a fungal disease that affects sweet potatoes, causing yellowing, wilting, and decay of roots and tubers. It thrives in warm, moist conditions and can lead to reduced plant vigor and yield. Prevent fusarium root rot by planting disease-resistant sweet potato varieties, practicing crop rotation, and maintaining good soil drainage."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest sweet potatoes when the vines have started to die back for optimal flavor and storage.",
+        "Cure harvested sweet potatoes in a warm, humid location to toughen the skins and heal wounds before storage.",
+        "Store cured sweet potatoes in a cool, dark, well-ventilated location with low humidity to prevent sprouting and spoilage."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Sweet Potatoes: Planting Guide",
+            "url": "https://www.almanac.com/plant/sweet-potatoes"
+        },
+        {
+            "title": "How to Harvest and Store Sweet Potatoes",
+            "url": "https://www.gardeningknowhow.com/edible/vegetables/sweet-potato/harvesting-sweet-potatoes.htm"
+        }
+    ]
+}

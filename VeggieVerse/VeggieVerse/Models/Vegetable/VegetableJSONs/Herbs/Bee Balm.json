@@ -1,0 +1,85 @@
+
+{
+    "plantName": "Bee Balm",
+    "description": "Bee balm (Monarda spp.), also known as bergamot or Oswego tea, is a perennial flowering herbaceous plant native to North America. It belongs to the mint family (Lamiaceae) and is prized for its showy, aromatic flowers that attract pollinators like bees, butterflies, and hummingbirds. Bee balm is commonly grown in herb gardens, flower borders, and wildflower meadows for its ornamental value and culinary and medicinal uses.",
+    "thumbnailImageUrl": "Bee Balm_thumbnail",
+    "backgroundImageUrl": "Bee Balm_background",
+    "varieties": "Bee balm, also known as Monarda, comes in various varieties, each with its unique flower color, height, and fragrance. Common bee balm varieties include 'Jacob Cline', known for its vibrant red flowers and mildew resistance; 'Purple Rooster', which offers deep purple blooms and compact growth habit; and 'Lambada', prized for its lavender-pink flowers and long blooming period. These varieties provide options suited for different garden styles and growing conditions.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Bee balm seeds can be started indoors 6-8 weeks before the last frost date in your area. Plant seeds in biodegradable pots or trays filled with seed-starting mix. Sow seeds 1/8 inch deep and keep the soil consistently moist and warm (65-75°F). Provide ample light or use supplemental grow lights. Transplant seedlings outdoors once all danger of frost has passed.",
+        "sowingOutdoorsDescription": "Bee balm seeds can also be directly sown outdoors in the spring or fall. Choose a location with full sun to partial shade and well-drained soil. Sow seeds 1/8 inch deep and space them 12-18 inches apart. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "12\"-18\"",
+        "spaceBetweenRows": "18\"-24\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Perennial",
+        "seedDepth": "1/8\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "65-75°F",
+        "season": "Bee balm should be planted in the spring after the last frost date or in the fall, allowing the plants to establish before winter. They prefer cooler temperatures and can tolerate light frosts."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun to Partial Shade",
+        "growingSoilTemp": "65-75°F",
+        "growingDescription": "Bee balm thrives in full sun to partial shade and well-drained soil with a pH of 6.0-7.0. They require regular watering, especially during dry periods, to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1 inch per week.",
+        "soilFertility": "Incorporate compost into the soil before planting to improve fertility and soil structure. Side-dress bee balm with a balanced fertilizer once a month during the growing season.",
+        "pruningRequirements": "Deadhead spent flowers regularly to promote continuous blooming and prevent self-seeding. Cut back stems to the base in late fall or early spring to encourage new growth and prevent the plant from becoming leggy.",
+        "supportRequirements": "Bee balm may benefit from staking or support in windy areas or when grown in rich soil that promotes lush growth."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "Not applicable",
+        "timeToMaturity": "Bee balm typically blooms in its second year after planting and will continue to bloom for many years with proper care.",
+        "storageRecommendations": "Fresh bee balm flowers can be harvested as needed for culinary or medicinal use. To preserve bee balm flowers, you can dry them by hanging them upside down in a cool, dark place with good air circulation. Store dried bee balm flowers in an airtight container away from light and moisture.",
+        "harvestDescription": "Harvest bee balm flowers when they are fully open and at their peak of fragrance and color. Cut stems with sharp pruners or scissors, leaving a few inches of stem attached. Rinse harvested flowers under cool water to remove any debris before using them."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Lavender",
+                "description": "Lavender is a beneficial companion plant for bee balm, as it attracts pollinators like bees and butterflies while also repelling pests like aphids and whiteflies. Planting them together can create a diverse and harmonious garden ecosystem."
+            },
+            {
+                "name": "Catnip",
+                "description": "Catnip is another beneficial companion plant for bee balm, as it helps repel pests like flea beetles and mosquitoes while also attracting beneficial insects like ladybugs and lacewings."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Tomatoes",
+                "description": "Tomatoes are not recommended as companion plants for bee balm, as they have different cultural requirements and may compete for resources in the garden. It's best to plant them in separate areas to avoid overcrowding and competition."
+            },
+            {
+                "name": "Potatoes",
+                "description": "Potatoes are also not recommended as companion plants for bee balm, as they are both vining crops that require space to spread out. Planting them together can lead to overcrowding and competition for sunlight, water, and nutrients."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids are small, soft-bodied insects that feed on the sap of bee balm plants, causing distorted growth and yellowing of leaves. They can also transmit viral diseases. Control aphids by spraying plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs and lacewings, or applying insecticidal soap or neem oil."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that can affect bee balm plants, especially in warm, humid conditions. It appears as a white, powdery coating on leaves and stems and can inhibit plant growth and flower production. Control powdery mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
+        }
+    ],
+    "tipsAndTricks": [
+        "Provide consistent moisture and avoid letting the soil dry out completely, especially during hot, dry weather.",
+        "Deadhead spent flowers regularly to encourage continuous blooming and prevent self-seeding.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action to control them before they become a problem."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Bee Balm",
+            "url": "https://www.rhs.org.uk/advice/grow-your-own/flowers/monarda"
+        },
+        {
+            "title": "Bee Balm: Planting and Care Guide",
+            "url": "https://www.almanac.com/plant/bee-balm"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+
+{
+    "plantName": "Mustard Greens",
+    "description": "Mustard greens are leafy green vegetables that belong to the Brassica family, which also includes cabbage, broccoli, and kale. They are known for their peppery flavor and are commonly used in salads, stir-fries, soups, and braised dishes. Mustard greens are rich in vitamins, minerals, and antioxidants, making them a nutritious addition to any diet.",
+    "thumbnailImageUrl": "Mustard Greens_thumbnail",
+    "backgroundImageUrl": "Mustard Greens_background",
+    "varieties": "Mustard greens come in several varieties, each with its unique leaf shape, color, and flavor. Common varieties of mustard greens include 'Southern Giant Curled', known for its large, frilly leaves and peppery flavor; 'Red Giant', prized for its vibrant red-purple leaves and spicy taste; and 'Tendergreen', which offers tender, mild-flavored leaves. These varieties provide a range of options suited for different culinary preferences and growing conditions.",
+     "sowingAndPlanting": {
+       "sowingIndoorsDescription": "Mustard greens are typically grown from seeds directly sown outdoors rather than started indoors. However, if you want to get a head start on the growing season, you can start seeds indoors in biodegradable pots or trays filled with potting mix. Plant seeds 1/4 inch deep and keep the soil consistently moist and cool (60-70°F). Transplant seedlings outdoors once they are well-established and the weather has warmed up.",
+       "sowingOutdoorsDescription": "Mustard greens seeds should be sown directly outdoors once the soil has warmed up and all danger of frost has passed. Choose a sunny location with well-drained soil. Plant seeds 1/4 inch deep and space them 6-12 inches apart in rows spaced 12-18 inches apart. Keep the soil consistently moist until seedlings emerge.",
+       "spaceBetweenPlants": "6\"-12\"",
+       "spaceBetweenRows": "12\"-18\"",
+       "squareFootPlantingRecommendationsMin": 4,
+       "squareFootPlantingRecommendationsMax": 9,
+       "lifeCycle": "Annual",
+       "seedDepth": "1/4\"",
+       "pHRange": "6.0 - 7.5",
+       "germinationSoilTemp": "45-85°F",
+       "season": "Mustard greens can be planted in both spring and fall. For spring planting, sow seeds as soon as the soil can be worked. For fall planting, sow seeds 6-8 weeks before the first expected frost date."
+     },
+     "careAndMaintenance": {
+       "optimalSun": "Full Sun to Partial Shade",
+       "growingSoilTemp": "60-75°F",
+       "growingDescription": "Mustard greens prefer full sun to partial shade and well-drained soil rich in organic matter. They require regular watering to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+       "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+       "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress mustard greens with a balanced fertilizer once they start growing.",
+       "pruningRequirements": "Mustard greens generally do not require pruning. However, you can harvest outer leaves as needed to encourage new growth and prolong the harvest period.",
+       "supportRequirements": "Mustard greens typically do not require support."
+     },
+     "harvestingAndStorage": {
+       "daysToHarvest": "40-60 days from planting",
+       "timeToMaturity": "Mustard greens typically mature and are ready for harvest 40-60 days after planting, depending on the variety and growing conditions.",
+       "storageRecommendations": "Harvest mustard greens by cutting outer leaves from the plant as needed, allowing the inner leaves to continue growing. Wash harvested leaves thoroughly to remove any dirt or debris. Store mustard greens in the refrigerator for up to a week, loosely wrapped in a damp paper towel or plastic bag to maintain moisture.",
+       "harvestDescription": "Harvest mustard greens by cutting outer leaves from the plant with a sharp knife or scissors. Leave the inner leaves to continue growing for future harvests."
+     },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Beets",
+                "description": "Beets can be planted near mustard greens to help repel pests like leafminers and provide natural pest control in the garden."
+            },
+            {
+                "name": "Nasturtiums",
+                "description": "Nasturtiums can be planted near mustard greens to help repel pests like aphids and provide natural pest control in the garden."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Strawberries",
+                "description": "Strawberries are not recommended to be planted near mustard greens as they may compete for space and nutrients."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Flea Beetles",
+            "description": "Flea beetles are small, jumping insects that feed on mustard green leaves, causing tiny holes and damage to foliage. They can be particularly problematic in the early stages of growth. Control flea beetles by using floating row covers to exclude them, applying organic insecticides like neem oil or pyrethrin, and maintaining good garden hygiene."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Downy Mildew",
+            "description": "Downy mildew is a fungal disease that affects mustard green plants, causing yellow spots on leaves and a fuzzy gray growth on the undersides. It thrives in cool, moist conditions. Prevent downy mildew by providing good air circulation around plants, watering at the base of plants to avoid wetting foliage, and using fungicides as needed."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest mustard green leaves when they are young and tender for the best flavor and texture.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed.",
+        "Rotate mustard green crops annually to prevent the buildup of soilborne pests and diseases."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Mustard Greens: Planting Guide",
+            "url": "https://www.almanac.com/plant/mustard-greens"
+        },
+        {
+            "title": "How to Harvest and Store Mustard Greens",
+            "url": "https://www.gardeningknowhow.com/edible/vegetables/greens/harvesting-mustard-greens.htm"
+        }
+    ]
+}

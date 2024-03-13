@@ -1,0 +1,81 @@
+
+{
+    "plantName": "Fennel",
+    "description": "Fennel is a bulbous vegetable with feathery foliage and a mild, licorice-like flavor. It belongs to the Apiaceae family and is closely related to carrots, parsley, and celery. Fennel bulbs, stalks, and fronds are all edible and can be used in a variety of culinary dishes, both raw and cooked.",
+    "thumbnailImageUrl": "Fennel_thumbnail",
+    "backgroundImageUrl": "Fennel_background",
+    "varieties": "Fennel comes in several varieties, each with its unique characteristics and culinary uses. Some popular fennel varieties include 'Florence', known for its large, bulbous base and mild, licorice-like flavor; 'Bronze', prized for its bronze-colored foliage and sweet, aromatic taste; 'Zefa Fino', recognized for its small, tender bulbs and excellent flavor; and 'Orion', valued for its uniform, round bulbs and resistance to bolting. These varieties offer a range of options suited for different culinary preferences and growing conditions.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Fennel can be started indoors 6-8 weeks before the last frost date. Plant seeds in pots or trays filled with seed-starting mix. Sow seeds 1/4 inch deep and keep the soil consistently moist and warm (65-75°F). Provide bright, indirect light or use grow lights to encourage healthy seedling growth. Transplant seedlings outdoors after the danger of frost has passed and the soil has warmed up.",
+        "sowingOutdoorsDescription": "Fennel can also be directly sown outdoors once the soil has warmed up and all danger of frost has passed. Choose a sunny location with well-drained soil. Plant seeds 1/4 inch deep and space them according to the recommended distance for the variety being grown. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "12\"-18\"",
+        "spaceBetweenRows": "18\"-24\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 2,
+        "lifeCycle": "Annual",
+        "seedDepth": "1/4\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "60-75°F",
+        "season": "Fennel should be planted in early spring for a summer harvest or in late summer for a fall harvest. It prefers cool weather and can tolerate light frosts."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "60-75°F",
+        "growingDescription": "Fennel prefers full sun and well-drained soil rich in organic matter. It requires regular watering, especially during dry periods, to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+        "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Fertilize fennel with a balanced fertilizer once it becomes established.",
+        "pruningRequirements": "Fennel generally does not require pruning. However, you can remove any yellowing or damaged leaves as needed to improve air circulation and aesthetics.",
+        "supportRequirements": "Fennel typically does not require support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "80-100 days from planting",
+        "timeToMaturity": "Fennel typically matures and is ready for harvest 80-100 days after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest fennel when the bulbs are firm, and the foliage is still green and healthy. Use a sharp knife to cut the bulbs from the base of the plant, leaving a short stem attached. Store harvested fennel in the refrigerator for up to a week. Wash and dry the bulbs before storing to remove any dirt or debris.",
+        "harvestDescription": "Harvest fennel by cutting the bulbs from the base of the plant when they are mature and have reached the desired size. Remove any damaged or discolored foliage before storage."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Dill",
+                "description": "Dill is a good companion plant for fennel as it attracts beneficial insects like ladybugs and lacewings, which help control pests like aphids and caterpillars."
+            },
+            {
+                "name": "Chamomile",
+                "description": "Chamomile can be planted near fennel to improve its flavor and attract beneficial insects to the garden."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Sage",
+                "description": "Sage is not recommended to be planted near fennel as it may inhibit its growth and flavor."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids are small, soft-bodied insects that feed on fennel plants by sucking sap from leaves and stems. They reproduce rapidly and can cause distorted growth, yellowing, and wilting. Control aphids by spraying affected plants with water to dislodge them, introducing natural predators like ladybugs or lacewings, and using insecticidal soap or neem oil as needed."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that affects fennel plants, causing white powdery spots to appear on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, watering at the base of plants to avoid wetting foliage, and using fungicides as needed."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest fennel bulbs when they reach the desired size and texture for the best flavor and tenderness.",
+        "Provide consistent moisture and fertility to fennel plants for optimal growth and development.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Fennel: Planting Guide",
+            "url": "https://www.almanac.com/plant/fennel"
+        },
+        {
+            "title": "How to Harvest and Store Fennel",
+            "url": "https://www.gardeningknowhow.com/edible/herbs/fennel/harvesting-fennel.htm"
+        }
+    ]
+}

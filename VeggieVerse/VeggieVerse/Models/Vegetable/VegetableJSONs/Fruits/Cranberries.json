@@ -1,0 +1,125 @@
+{
+    "plantName": "Cranberries",
+    "description": "Cranberries are small, tart fruits native to North America, commonly grown in acidic bogs or marshes. They belong to the genus Vaccinium in the Ericaceae family, which also includes blueberries and bilberries. Cranberries are known for their vibrant red color and are often consumed fresh, dried, or processed into juice, sauce, or preserves. They are rich in antioxidants and are believed to have various health benefits. Cultivating cranberries requires specific growing conditions, including acidic soil, adequate moisture, and frost protection, making them a unique and rewarding crop for growers.",
+    "thumbnailImageUrl": "Cranberries_thumbnail",
+    "backgroundImageUrl": "Cranberries_background",
+    "varieties": "Cranberries, known for their tart flavor and vibrant color, come in various cultivars, each with its unique characteristics. Some popular cranberry varieties include 'Stevens', prized for its high yields and disease resistance; 'Ben Lear', known for its excellent flavor and adaptability to different growing conditions; 'Pilgrim', favored for its large, firm berries and early harvest; and 'Early Black', valued for its early ripening and rich flavor. These varieties, among others, offer a range of options suited for different climates and growing conditions.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Cranberries are typically propagated from cuttings rather than seeds. Obtain cranberry cuttings from a nursery or garden center, or from an established cranberry grower. Plant cuttings in pots filled with acidic potting mix. Keep the soil consistently moist and provide bright, indirect light until roots develop.",
+        "sowingOutdoorsDescription": "Cranberries can also be propagated by layering. Select a healthy, flexible cranberry stem and gently bend it to the ground. Make small incisions in the stem and bury it in the soil, leaving the tip exposed. Keep the soil consistently moist, and roots should form within a few months. Once roots have developed, cut the stem from the parent plant and transplant it to its permanent location.",
+        "spaceBetweenPlants": "1\'-2\'",
+        "spaceBetweenRows": "3\'-4\'",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Perennial",
+        "seedDepth": "N/A",
+        "pHRange": "4.0 - 5.5",
+        "germinationSoilTemp": "N/A",
+        "season": "Cranberries should be planted in late spring or early summer. They prefer acidic, sandy soil and are hardy to USDA zones 2-7."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "45-65°F",
+        "growingDescription": "Cranberries prefer full sun and acidic, well-draining soil. They require regular watering, especially during dry periods, to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for consistently moist soil.",
+        "soilFertility": "Incorporate organic matter, such as peat moss or compost, into the soil before planting to improve fertility and soil structure. Fertilize cranberries sparingly, as they are sensitive to excess nutrients.",
+        "pruningRequirements": "Prune cranberry vines in late winter or early spring to remove dead, damaged, or overcrowded stems. Thin out the vines to improve air circulation and light penetration. Prune mature vines to encourage new growth and fruit production.",
+        "supportRequirements": "Cranberry vines may require support to keep them off the ground and prevent rot. Use trellises or wire supports to train the vines and keep the fruit elevated."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "2-3 years from planting",
+        "timeToMaturity": "Cranberry vines typically begin producing fruit 2-3 years after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest cranberries when they are fully ripe, usually in late summer or early fall. Use a rake or mechanical picker to harvest the berries from the vines. Store harvested cranberries in the refrigerator for up to one month, or freeze them for longer storage.",
+        "harvestDescription": "Harvest cranberries when they have developed their characteristic deep red color and are firm to the touch. Use a rake or mechanical picker to comb through the vines and collect the berries."
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
+            {
+              "name": "Blueberries",
+              "description": "Blueberries can be good companions for cranberries as they have similar soil acidity preferences and cultural requirements. Additionally, blueberries can help suppress weeds and provide additional fruit diversity in the garden."
+            },
+            {
+              "name": "Horseradish",
+              "description": "Horseradish can be planted near cranberries to deter pests like aphids, Japanese beetles, and whiteflies. Its strong scent and spicy flavor can help repel pests and protect cranberry plants."
+            },
+            {
+              "name": "Wintergreen",
+              "description": "Wintergreen plants can act as a ground cover around cranberries, helping to suppress weeds and conserve soil moisture. They also have similar acidic soil preferences and can thrive in the same growing conditions."
+            },
+            {
+              "name": "Marsh Marigold",
+              "description": "Marsh marigold plants can thrive in the same wet conditions as cranberries and provide ornamental value to the garden. They can help stabilize soil around cranberry bogs and provide habitat for beneficial insects."
+            },
+            {
+              "name": "Lingonberries",
+              "description": "Lingonberries are related to cranberries and have similar cultural requirements. Interplanting lingonberries with cranberries can enhance fruit diversity and provide additional harvest opportunities."
+            },
+            {
+              "name": "Bee Balm",
+              "description": "Bee balm can attract pollinators like bees and butterflies to the garden, enhancing cranberry flower pollination and fruit set. Its aromatic leaves may also help deter pests like mosquitoes."
+            }
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Grass",
+              "description": "Grass and other ground covers that compete with cranberries for nutrients and water should be avoided. They can also provide habitat for pests and diseases that affect cranberries."
+            },
+            {
+              "name": "Brassicas (e.g., Cabbage, Broccoli)",
+              "description": "Brassicas can be poor companions for cranberries as they may attract pests like cabbage worms and aphids. Additionally, brassicas have different soil and water requirements than cranberries."
+            },
+            {
+              "name": "Peat Moss",
+              "description": "While peat moss is often used to amend soil acidity for cranberries, excessive use can lead to soil compaction and poor drainage. Use peat moss sparingly and monitor soil moisture levels carefully."
+            },
+            {
+              "name": "Rhubarb",
+              "description": "Rhubarb is not recommended to be planted near cranberries, as it may compete for nutrients and water. Additionally, rhubarb leaves contain oxalic acid, which can be harmful to cranberry plants."
+            },
+            {
+              "name": "Tomatoes",
+              "description": "Tomatoes are not recommended to be grown near cranberries, as they have different soil and water requirements. Additionally, tomatoes may attract pests and diseases that can affect cranberries."
+            },
+            {
+              "name": "Sunflowers",
+              "description": "Sunflowers can compete with cranberries for sunlight, water, and nutrients, potentially reducing fruit production. Additionally, sunflowers may attract birds that can damage cranberry crops."
+            }
+          ]
+        },
+    "pests": [
+        {
+            "name": "Cranberry Fruitworm",
+            "description": "The cranberry fruitworm is a common pest of cranberry plants, feeding on flower buds and developing fruit. Monitor plants regularly for signs of damage and apply insecticidal sprays or natural predators to control populations."
+        },
+        {
+            "name": "Cranberry Weevil",
+            "description": "The cranberry weevil is a pest that feeds on cranberry buds, shoots, and developing fruit. Monitor plants regularly for signs of damage and apply insecticidal sprays or natural predators to control populations."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Cranberry Fruit Rot",
+            "description": "Cranberry fruit rot is a fungal disease that affects cranberry plants, causing brown, mushy spots on fruit. It thrives in warm, humid conditions and can lead to significant fruit loss if left untreated. Prevent cranberry fruit rot by providing good air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
+        },
+        {
+            "name": "Cranberry Vine Decline",
+            "description": "Cranberry vine decline is a condition that affects cranberry plants, causing gradual decline in vigor and productivity. It may be caused by various factors, including poor drainage, nutrient imbalances, and root diseases. Prevent cranberry vine decline by maintaining optimal growing conditions, monitoring soil moisture and fertility, and practicing good sanitation."
+        }
+    ],
+    "tipsAndTricks": [
+        "Maintain acidic soil conditions and adequate moisture for healthy cranberry plants.",
+        "Harvest cranberries when fully ripe for the best flavor and color.",
+        "Monitor plants regularly for signs of pests and diseases, and take prompt action to control infestations."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Cranberries: Planting Guide",
+            "url": "https://www.almanac.com/plant/cranberries"
+        },
+        {
+            "title": "How to Harvest and Store Cranberries",
+            "url": "https://www.gardeningknowhow.com/edible/fruits/cranberry/how-to-harvest-cranberries.htm"
+        }
+    ]
+}
+

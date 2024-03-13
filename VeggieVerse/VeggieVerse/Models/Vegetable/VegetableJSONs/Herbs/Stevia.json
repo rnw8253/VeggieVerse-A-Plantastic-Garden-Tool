@@ -1,0 +1,77 @@
+
+{
+    "plantName": "Stevia",
+    "description": "Stevia is a perennial herb with sweet-tasting leaves that are used as a natural sugar substitute. It is prized for its intense sweetness and low-calorie content, making it a popular alternative to refined sugar in beverages, desserts, and other culinary applications.",
+    "thumbnailImageUrl": "Stevia_thumbnail",
+    "backgroundImageUrl": "Stevia_background",
+    "varieties": "St. John's Wort (Hypericum perforatum) is the most common variety used for medicinal purposes. It is a hardy perennial herb with bright yellow flowers and characteristic perforated leaves.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "St. John's Wort seeds can be started indoors 6-8 weeks before the last frost date. Plant seeds in pots or trays filled with well-draining potting mix. Sow seeds shallowly, barely covering them with soil, and keep the soil consistently moist. Place the pots in a warm location with indirect sunlight.",
+        "sowingOutdoorsDescription": "St. John's Wort can also be directly sown outdoors after the danger of frost has passed. Choose a location with well-draining soil and full sun to partial shade. Scatter seeds over the prepared soil and lightly cover them with a thin layer of soil. Keep the soil consistently moist until seeds germinate.",
+        "spaceBetweenPlants": "12\"-18\"",
+        "spaceBetweenRows": "24\"-36\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Perennial",
+        "seedDepth": "1/8\"",
+        "pHRange": "6.0 - 7.5",
+        "germinationSoilTemp": "65-75°F",
+        "season": "St. John's Wort can be planted outdoors in spring after the danger of frost has passed."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun to Partial Shade",
+        "growingSoilTemp": "60-70°F",
+        "growingDescription": "St. John's Wort prefers well-draining soil and can tolerate a wide range of soil types. It thrives in full sun to partial shade. Once established, it is drought-tolerant and requires minimal maintenance. Water young plants regularly until established, then water during dry periods.",
+        "wateringNeeds": "Water newly planted St. John's Wort regularly until established. Once established, water infrequently, allowing the soil to dry out between waterings.",
+        "soilFertility": "St. John's Wort is not a heavy feeder and can thrive in poor soil. However, incorporating compost or well-aged manure into the soil before planting can provide some nutrients.",
+        "pruningRequirements": "Prune St. John's Wort plants in early spring to remove dead or damaged branches and encourage new growth. Deadhead spent flowers to promote continuous blooming.",
+        "supportRequirements": "St. John's Wort generally does not require support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "Varies depending on growing conditions.",
+        "timeToMaturity": "St. John's Wort can be harvested for medicinal use once the plants are well-established, usually within the first year after planting.",
+        "storageRecommendations": "Harvest St. John's Wort flowers and leaves as needed for medicinal use. Dry the harvested parts by hanging them upside down in a warm, well-ventilated area until they are completely dry. Store dried St. John's Wort in an airtight container in a cool, dark place.",
+        "harvestDescription": "Harvest St. John's Wort flowers and leaves by snipping them from the plant as needed. Harvest flowers when they are in full bloom, and leaves when they are young and tender."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Basil",
+                "description": "Basil is a good companion for stevia, as it may help deter certain pests and complement its aromatic qualities."
+            },
+            {
+                "name": "Mint",
+                "description": "Mint can be planted near stevia as it complements its fragrance and both have similar cultural requirements."
+            }
+        ],
+        "badCompanionPlants": []
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids can sometimes infest stevia, feeding on the sap of the leaves and causing distortion or yellowing. Control aphids by spraying affected plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs, and applying insecticidal soap or neem oil as needed."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that can affect stevia, causing a white powdery growth on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest stevia leaves as needed by snipping them with scissors or shears.",
+        "Pinch back flower stalks regularly to encourage leaf production and prevent flowering.",
+        "Mulch around plants to retain moisture and suppress weeds.",
+        "Consider planting stevia in containers to prevent it from spreading too vigorously."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Stevia: Planting Guide",
+            "url": "https://www.almanac.com/plant/stevia"
+        },
+        {
+            "title": "How to Harvest and Store Stevia",
+            "url": "https://www.motherearthnews.com/real-food/harvesting-stevia-zmaz09onzraw"
+        }
+    ]
+}

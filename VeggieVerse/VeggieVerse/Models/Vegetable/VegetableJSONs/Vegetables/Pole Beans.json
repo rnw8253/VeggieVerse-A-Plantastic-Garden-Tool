@@ -1,0 +1,95 @@
+
+{
+    "plantName": "Pole Beans",
+    "description": "Pole beans, also known as climbing beans or runner beans, are a type of bean plant characterized by their long, trailing vines that require support structures such as poles or trellises to grow upright. They belong to the Phaseolus genus and are cultivated for their edible pods and seeds. Pole beans are popular in home gardens and are valued for their productivity, flavor, and nutritional content. They come in various colors and sizes, with common varieties including green, yellow, and purple pods.",
+    "thumbnailImageUrl": "Pole Beans_thumbnail",
+    "backgroundImageUrl": "Pole Beans_background",
+    "varieties": "Pole beans, also known as climbing beans or runner beans, come in various types, each with its unique flavor, pod color, and growth habit. Common varieties of pole beans include 'Kentucky Wonder', known for its long, straight pods and excellent flavor; 'Blue Lake', prized for its tender pods and high yield; and 'Scarlet Runner', which offers ornamental red flowers and flavorful beans. These varieties provide a range of options suited for different culinary preferences and growing conditions.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Pole beans are best sown directly outdoors rather than started indoors. However, if you want to get a head start on the growing season, you can start seeds indoors in biodegradable pots or trays filled with seed-starting mix. Plant seeds 1 inch deep and keep the soil consistently moist and warm (70-80°F). Transplant seedlings outdoors once they are well-established and the weather has warmed up.",
+        "sowingOutdoorsDescription": "Pole beans should be sown directly outdoors once the soil has warmed up and all danger of frost has passed. Choose a sunny location with well-drained soil. Plant seeds 1 inch deep and space them 4-6 inches apart along a trellis or support structure. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "4\"-6\"",
+        "spaceBetweenRows": "18\"-24\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Annual",
+        "seedDepth": "1\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "70-80°F",
+        "season": "Pole beans should be planted in the spring after the danger of frost has passed and the soil has warmed up. They require warm soil and temperatures to germinate and grow well."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "70-80°F",
+        "growingDescription": "Pole beans prefer full sun and well-drained, fertile soil. They require regular watering to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+        "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress pole beans with a balanced fertilizer once they start flowering.",
+        "pruningRequirements": "Pole beans do not require pruning, but you can pinch off the growing tips once plants reach the desired height to encourage branching and increase yield.",
+        "supportRequirements": "Pole beans require support to climb. Provide a trellis, fence, or other support structure for the vines to climb. Make sure the support is sturdy enough to handle the weight of the plants and pods."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "60-90 days from planting",
+        "timeToMaturity": "Pole beans typically mature and are ready for harvest 60-90 days after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest pole beans when they are young and tender, usually 4-6 inches long. Use a sharp knife or scissors to cut the pods from the plant. Store harvested pole beans in the refrigerator for up to a week.",
+        "harvestDescription": "Harvest pole beans regularly to encourage continued production. Pick the pods when they are firm and bright green, before the seeds inside have fully developed."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Carrots",
+                "description": "Carrots are beneficial companion plants for pole beans, as they help loosen the soil and provide support for the bean vines to climb."
+            },
+            {
+                "name": "Lettuce",
+                "description": "Lettuce can be interplanted with pole beans to provide shade and moisture retention for the soil, as well as to maximize space in the garden."
+            },
+            {
+                "name": "Radishes",
+                "description": "Radishes are good companion plants for pole beans, as they deter pests like cucumber beetles and aphids with their strong scent."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Onions",
+                "description": "Onions are not recommended as companion plants for pole beans, as they can inhibit the growth of beans and other legumes."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Bean Beetles",
+            "description": "Bean beetles are common pests of pole beans, feeding on foliage and causing damage to plants. Control bean beetle populations by handpicking them from plants, applying insecticidal soap or neem oil, and using floating row covers to exclude them."
+        },
+        {
+            "name": "Aphids",
+            "description": "Aphids can infest pole bean plants, feeding on sap and causing distorted growth and yellowing of leaves. Control aphids by spraying affected plants with water to dislodge them, introducing natural predators like ladybugs or lacewings, and using insecticidal soap or neem oil."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that affects pole bean plants, causing a white, powdery growth on leaves and stems. It thrives in humid conditions and can lead to reduced plant vigor and yield. Control powdery mildew by improving air circulation around plants, watering at the base of plants to avoid wetting foliage, and applying fungicidal sprays as needed."
+        },
+        {
+            "name": "Anthracnose",
+            "description": "Anthracnose is a fungal disease that affects pole bean plants, causing dark, sunken lesions on leaves, stems, and pods. It can lead to premature defoliation and reduced yields. Control anthracnose by removing and destroying infected plant material, improving air circulation around plants, and applying fungicidal sprays preventatively."
+        }
+    ],
+    "tipsAndTricks": [
+        "Provide sturdy support structures such as poles, trellises, or A-frames for pole beans to climb.",
+        "Harvest pole beans regularly to encourage continued production throughout the growing season.",
+        "Rotate pole bean crops annually to prevent soilborne diseases and nutrient depletion.",
+        "Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Beans: Planting Guide",
+            "url": "https://www.almanac.com/plant/beans"
+        },
+        {
+            "title": "Controlling Bean Pests and Diseases",
+            "url": "https://extension.umn.edu/vegetables/growing-beans"
+        }
+    ]
+}

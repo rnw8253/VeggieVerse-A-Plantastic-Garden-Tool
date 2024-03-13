@@ -1,0 +1,81 @@
+
+{
+    "plantName": "Pumpkins",
+    "description": "Pumpkins are a type of winter squash that are known for their large size, round shape, and vibrant orange color. They belong to the Cucurbitaceae family, which also includes cucumbers, melons, and gourds. Pumpkins are widely cultivated for their culinary uses, decorative purposes, and as symbols of the fall season. They can be roasted, pureed, baked into pies, or carved into jack-o'-lanterns for Halloween.",
+    "thumbnailImageUrl": "Pumpkins_thumbnail",
+    "backgroundImageUrl": "Pumpkins_background",
+    "varieties": "Pumpkins come in various shapes, sizes, and colors, each with its unique flavor and characteristics. Common pumpkin varieties include 'Jack O'Lantern', known for its classic round shape and carving suitability; 'Sugar Pie', prized for its sweet, fine-textured flesh ideal for baking; and 'Cinderella', which offers flattened, deeply ribbed fruits with excellent flavor and decorative appeal. These varieties provide a range of options suited for different culinary preferences and decorative purposes.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Pumpkin seeds can be started indoors in biodegradable pots or trays filled with seed-starting mix if you want to get a head start on the growing season. Plant seeds 1 inch deep and keep the soil consistently moist and warm (70-85°F). Transplant seedlings outdoors once they have developed strong roots and the weather has warmed up.",
+        "sowingOutdoorsDescription": "Pumpkin seeds should be sown directly outdoors once the soil has warmed up and all danger of frost has passed. Choose a sunny location with well-drained soil. Plant seeds 1 inch deep and space them 2-3 feet apart in rows spaced 4-8 feet apart, depending on the variety's spread. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "2\'-3\'",
+        "spaceBetweenRows": "4\'-8\'",
+        "squareFootPlantingRecommendationsMin": 4,
+        "squareFootPlantingRecommendationsMax": 9,
+        "lifeCycle": "Annual",
+        "seedDepth": "1\"",
+        "pHRange": "6.0 - 6.8",
+        "germinationSoilTemp": "70-95°F",
+        "season": "Pumpkins require warm soil and temperatures to germinate and grow well. They should be planted in the spring after the danger of frost has passed and the soil has warmed up."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "70-95°F",
+        "growingDescription": "Pumpkins prefer full sun and well-drained, fertile soil rich in organic matter. They require regular watering to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+        "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress pumpkins with a balanced fertilizer once the vines start to run.",
+        "pruningRequirements": "Pumpkin vines can be trained to grow in a specific direction by gently redirecting them as they grow. Prune away any diseased or damaged leaves or vines as needed to improve air circulation and reduce disease pressure.",
+        "supportRequirements": "Pumpkin vines do not typically require support unless growing vertically on a trellis or other support structure."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "90-120 days from planting",
+        "timeToMaturity": "Pumpkins typically mature and are ready for harvest 90-120 days after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest pumpkins when they have reached their mature size and the rind has hardened. Use a sharp knife or pruners to cut the stem, leaving a few inches attached to the pumpkin. Cure harvested pumpkins in a warm, dry place with good air circulation for 1-2 weeks to harden the skin and prolong storage life. Store cured pumpkins in a cool, dry place with good ventilation.",
+        "harvestDescription": "Harvest pumpkins when they have reached their mature size and the rind has hardened. Use a sharp knife or pruners to cut the stem, leaving a few inches attached to the pumpkin. Handle pumpkins carefully to avoid bruising or damaging the skin."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Corn",
+                "description": "Corn can be planted near pumpkins to provide natural support for sprawling vines and shade for developing fruits."
+            },
+            {
+                "name": "Beans",
+                "description": "Beans can be interplanted with pumpkins to help improve soil fertility by fixing nitrogen and provide natural pest control in the garden."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Potatoes",
+                "description": "Potatoes are not recommended to be planted near pumpkins as they may compete for space and nutrients."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Squash Bugs",
+            "description": "Squash bugs are common pests of pumpkins and other cucurbit crops, feeding on leaves, stems, and fruits. Handpick adult bugs and destroy them, and crush egg clusters found on the undersides of leaves. Use row covers to exclude squash bugs from plants, and apply insecticidal sprays or dusts as needed."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease that affects pumpkins, causing white, powdery growth on leaves, stems, and fruits. It thrives in warm, humid conditions and can lead to reduced plant vigor and yield. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest pumpkins when the rind is hard and fully colored for best flavor and storage.",
+        "Store harvested pumpkins in a cool, dry place with good air circulation to prolong their storage life.",
+        "Rotate pumpkin crops annually to prevent the buildup of soilborne pests and diseases."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Pumpkins: Planting Guide",
+            "url": "https://www.almanac.com/plant/pumpkins"
+        },
+        {
+            "title": "How to Harvest and Store Pumpkins",
+            "url": "https://www.gardeningknowhow.com/edible/vegetables/pumpkin/harvesting-and-storing-pumpkins.htm"
+        }
+    ]
+}

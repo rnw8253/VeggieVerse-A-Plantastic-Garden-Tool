@@ -1,0 +1,117 @@
+{
+    "plantName": "Figs",
+    "description": "Figs are sweet and nutritious fruits that grow on the Ficus carica tree, belonging to the Moraceae family. They are characterized by their unique shape, soft flesh, and sweet flavor. Figs can be consumed fresh or dried and are often used in cooking, baking, and preserving. Fig trees are deciduous and produce large, lobed leaves and small, pear-shaped fruits that develop from the tree's unique inverted flowers. They are native to the Mediterranean region but are now cultivated in many parts of the world for their delicious fruit and ornamental value.",
+    "thumbnailImageUrl": "Figs_thumbnail",
+    "backgroundImageUrl": "Figs_background",
+    "varieties": "Figs, known for their sweet, honey-like flavor and unique texture, come in various cultivars, each with its unique characteristics. Some popular fig varieties include 'Brown Turkey', prized for its reliable fruit production and rich flavor; 'Celeste', known for its cold hardiness and sweet, purple-skinned fruit; 'Black Mission', favored for its dark purple skin and sweet, juicy flesh; and 'Kadota', valued for its greenish-yellow skin and honey-like flavor. These varieties, among others, offer a range of options suited for different climates and growing conditions.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Figs are typically propagated from cuttings rather than seeds. Take 6-8 inch cuttings from healthy fig trees in late winter or early spring, and remove any leaves from the bottom half of the cutting. Dip the cut end in rooting hormone and plant it in a pot filled with well-draining potting mix. Keep the soil consistently moist and provide warmth and bright, indirect light until roots develop.",
+        "sowingOutdoorsDescription": "Figs can also be propagated by layering. Select a healthy, flexible fig branch and gently bend it to the ground. Make a small incision in the branch and bury it in the soil, leaving the tip exposed. Keep the soil consistently moist, and roots should form within a few months. Once roots have developed, cut the branch from the parent plant and transplant it to its permanent location.",
+        "spaceBetweenPlants": "10\'-20\'",
+        "spaceBetweenRows": "10\'-20\'",
+        "squareFootPlantingRecommendationsMin": 0,
+        "squareFootPlantingRecommendationsMax": 0,
+        "lifeCycle": "Perennial",
+        "seedDepth": "N/A",
+        "pHRange": "6.0 - 6.5",
+        "germinationSoilTemp": "N/A",
+        "season": "Figs should be planted in late winter or early spring while they are still dormant. They prefer well-drained soil and are hardy to USDA zones 8-11."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "60-70°F",
+        "growingDescription": "Figs prefer full sun and well-draining soil. They require regular watering, especially during dry periods, to establish a strong root system. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1-2 inches per week, particularly during the growing season.",
+        "soilFertility": "Incorporate compost or aged manure into the soil before planting to improve fertility and soil structure. Fertilize fig trees annually with a balanced fertilizer according to package instructions.",
+        "pruningRequirements": "Prune fig trees in late winter or early spring to remove dead, diseased, or crossing branches. Thin out the canopy to improve air circulation and light penetration. Prune mature trees to maintain shape and encourage fruit production.",
+        "supportRequirements": "Young fig trees may benefit from staking to provide support and encourage upright growth. Use sturdy stakes and ties to secure the tree in place."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "1-3 years from planting",
+        "timeToMaturity": "Fig trees typically begin producing fruit 1-3 years after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest figs when they are fully ripe, usually when they have a slight softness and a rich color. Twist or cut the figs from the tree with a sharp pair of pruning shears. Store harvested figs at room temperature for up to a few days, or refrigerate them for longer storage.",
+        "harvestDescription": "Harvest figs when they have reached their full size and have a rich color and aroma. Gently twist or cut the figs from the tree, taking care not to damage the fruit or the branch."
+      },
+      "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Lavender",
+             "description": "Lavender can attract beneficial insects like bees and parasitic wasps to the fig garden, enhancing pollination and controlling pests like aphids and whiteflies."
+           },
+           {
+             "name": "Rosemary",
+             "description": "Rosemary has aromatic foliage that can help repel pests like mosquitoes and flies from the fig garden. It also attracts beneficial insects like bees and butterflies."
+           },
+           {
+             "name": "Nasturtiums",
+             "description": "Nasturtiums can be interplanted with fig trees to help repel pests like aphids and attract beneficial insects like ladybugs and lacewings. They also add color and beauty to the garden."
+           },
+           {
+             "name": "Comfrey",
+             "description": "Comfrey is a dynamic accumulator, bringing up nutrients from deep in the soil and making them available to fig trees. Its deep roots also help improve soil structure."
+           },
+           {
+             "name": "Chives",
+             "description": "Chives can deter pests like aphids and Japanese beetles with their strong scent when planted near fig trees. They are also edible and can be harvested for culinary use."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Grass",
+             "description": "Grass and other ground covers that compete with fig trees for nutrients, water, and sunlight should be avoided. They can also provide habitat for pests and diseases that affect fig trees."
+           },
+           {
+             "name": "Potatoes",
+             "description": "Potatoes are susceptible to diseases like potato blight and can attract pests like Colorado potato beetles, making them poor companions for fig trees."
+           },
+           {
+             "name": "Walnuts",
+             "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including fig trees. Avoid planting fig trees near walnut trees."
+           },
+           {
+             "name": "Sunflowers",
+             "description": "Sunflowers can compete with fig trees for sunlight, water, and nutrients, potentially reducing fruit production. Additionally, sunflowers may attract birds that can damage fig crops."
+           },
+           {
+             "name": "Tomatoes",
+             "description": "Tomatoes have different soil and water requirements than fig trees and may compete for resources. Additionally, tomatoes may attract pests and diseases that can affect fig trees."
+           }
+         ]
+       },
+    "pests": [
+        {
+            "name": "Fig Beetle",
+            "description": "Fig beetles are common pests of fig trees, feeding on ripe fruit and causing damage. Control fig beetle populations by harvesting fruit promptly and using physical barriers like netting or bags to protect fruit from infestation."
+        },
+        {
+            "name": "Fig Midge",
+            "description": "Fig midges are small flies that lay their eggs inside developing figs, causing them to become infested with larvae. Prevent fig midge damage by harvesting fruit promptly and using physical barriers like netting or bags to protect fruit from infestation."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Fig Rust",
+            "description": "Fig rust is a fungal disease that affects fig trees, causing orange or yellow spots on leaves and premature defoliation. Prevent fig rust by providing good air circulation around trees, avoiding overhead watering, and applying fungicidal sprays preventatively."
+        },
+        {
+            "name": "Fig Mosaic Virus",
+            "description": "Fig mosaic virus is a viral disease that affects fig trees, causing mottling and distortion of leaves, stunting of growth, and reduced fruit quality. Prevent fig mosaic virus by planting disease-free stock, controlling aphid vectors, and promptly removing and destroying infected plants."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest figs when fully ripe for the best flavor and sweetness.",
+        "Prune fig trees annually to remove dead, diseased, or damaged wood, improve airflow, and shape the tree.",
+        "Protect ripe figs from birds and other pests with physical barriers like netting or bags."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Figs: Planting Guide",
+            "url": "https://www.almanac.com/plant/figs"
+        },
+        {
+            "title": "How to Harvest and Store Figs",
+            "url": "https://www.gardeningknowhow.com/edible/fruits/figs/fig-harvesting.htm"
+        }
+    ]
+}
+

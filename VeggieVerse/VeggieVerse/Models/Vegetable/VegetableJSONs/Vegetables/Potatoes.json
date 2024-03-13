@@ -1,0 +1,81 @@
+
+{
+    "plantName": "Potatoes",
+    "description": "Potatoes are versatile, starchy tuber vegetables that are a staple food in many cuisines around the world. They come in various colors, sizes, and shapes, including white, yellow, red, and purple, with flesh ranging from creamy to firm. Potatoes can be boiled, baked, mashed, fried, or roasted and are used in a wide range of dishes, from soups and salads to main courses and side dishes.",
+    "thumbnailImageUrl": "Potatoes_thumbnail",
+    "backgroundImageUrl": "Potatoes_background",
+    "varieties": "Potatoes come in a wide range of varieties, each with its unique characteristics, including size, shape, skin color, and flesh color. Common potato varieties include 'Russet Burbank', known for its large size, high starch content, and excellent baking qualities; 'Yukon Gold', prized for its buttery flavor and creamy texture; and 'Red Pontiac', which offers vibrant red skin and waxy flesh. These varieties provide options suited for different culinary purposes, from baking and boiling to frying and mashing.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Potatoes are typically grown from seed potatoes rather than seeds. Seed potatoes are small tubers that have been saved from the previous year's crop. About 2-3 weeks before the last expected frost date, place seed potatoes in a warm, well-lit area to encourage sprouting. Once sprouts have developed, cut the seed potatoes into pieces, making sure each piece has at least one eye (sprout). Allow the cut pieces to dry for a day or two before planting.",
+        "sowingOutdoorsDescription": "Potatoes should be planted outdoors in early spring after the danger of frost has passed. Choose a sunny location with well-drained soil. Dig trenches or furrows about 4-6 inches deep and space seed potatoes 12-15 inches apart within the rows. Rows should be spaced 2-3 feet apart. Plant the seed potatoes with the eyes facing upward and cover them with soil. As the plants grow, gradually mound soil around the stems to encourage tuber development.",
+        "spaceBetweenPlants": "12\"-15\"",
+        "spaceBetweenRows": "2\'-3\'",
+        "squareFootPlantingRecommendationsMin": 0,
+        "squareFootPlantingRecommendationsMax": 0,
+        "lifeCycle": "Annual",
+        "seedDepth": "4\"-6\"",
+        "pHRange": "5.0 - 6.5",
+        "germinationSoilTemp": "45-55°F",
+        "season": "Potatoes should be planted in early spring after the danger of frost has passed. They prefer cool weather and can tolerate light frost, but they do not grow well in hot weather."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "60-70°F",
+        "growingDescription": "Potatoes prefer full sun and well-drained, loose soil rich in organic matter. They require regular watering to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+        "soilFertility": "Incorporate compost or well-rotted manure into the soil before planting to improve fertility and soil structure. Side-dress potatoes with a balanced fertilizer once they start flowering.",
+        "pruningRequirements": "Potatoes do not require pruning, but you can remove any yellowing or diseased foliage as needed to improve air circulation and reduce disease pressure.",
+        "supportRequirements": "Potato plants do not require support."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "70-120 days from planting",
+        "timeToMaturity": "Potatoes typically mature and are ready for harvest 70-120 days after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest potatoes when the tops of the plants have died back and the skins are set. Use a garden fork or shovel to carefully dig up the potatoes, being careful not to damage them. Brush off excess soil and allow the potatoes to dry in a cool, dark place for a few days before storing. Store harvested potatoes in a cool, dark, and well-ventilated place, such as a cellar or pantry, where they can last for several months.",
+        "harvestDescription": "Harvest potatoes when the tops of the plants have died back and the skins are set. Gently dig around the plants with a garden fork or shovel to loosen the soil, then carefully lift the potatoes from the ground."
+      },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Beans",
+                "description": "Beans can be planted near potatoes to help improve soil fertility by fixing nitrogen and providing natural pest control in the garden."
+            },
+            {
+                "name": "Corn",
+                "description": "Corn can be interplanted with potatoes to provide natural support for potato vines and shade for tubers."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Tomatoes",
+                "description": "Tomatoes are not recommended to be planted near potatoes as they are both susceptible to similar diseases, such as late blight."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Colorado Potato Beetle",
+            "description": "The Colorado potato beetle is a common pest of potatoes, feeding on the foliage and causing defoliation if left unchecked. Handpick adult beetles and larvae and destroy them. Use row covers to exclude adult beetles from plants, and apply insecticidal sprays or dusts as needed."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Late Blight",
+            "description": "Late blight is a fungal disease that affects potatoes, causing dark, water-soaked lesions on leaves, stems, and tubers. It thrives in cool, wet conditions and can lead to widespread crop loss if not controlled. Prevent late blight by planting disease-resistant potato varieties, practicing crop rotation, and applying fungicidal sprays preventatively."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest potatoes when the tops have died back for optimal storage and flavor.",
+        "Cure harvested potatoes in a cool, dark place with good air circulation for 1-2 weeks before storing.",
+        "Store cured potatoes in a cool, dark, well-ventilated location with low humidity to prevent sprouting and spoilage."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Potatoes: Planting Guide",
+            "url": "https://www.almanac.com/plant/potatoes"
+        },
+        {
+            "title": "How to Harvest and Store Potatoes",
+            "url": "https://www.gardeningknowhow.com/edible/vegetables/potato/harvesting-potatoes.htm"
+        }
+    ]
+}

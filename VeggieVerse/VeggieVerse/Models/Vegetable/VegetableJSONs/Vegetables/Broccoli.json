@@ -1,0 +1,201 @@
+
+
+{
+    "plantName": "Broccoli",
+    "description": "Broccoli is a nutritious cool-season vegetable prized for its edible flowering heads. It belongs to the Brassicaceae family and is rich in vitamins, minerals, and antioxidants.",
+    "thumbnailImageUrl": "broccoli_thumbnail",
+    "backgroundImageUrl": "broccoli_background",
+    "varieties": "Broccoli comes in several varieties, each with its unique characteristics, including head size, color, and flavor. Some popular broccoli varieties include 'Calabrese', known for its large, domed heads and traditional broccoli flavor; 'Belstar', prized for its early maturity and tight, dark green heads; 'De Cicco', valued for its smaller heads and extended harvest period; and 'Purple Sprouting', recognized for its purple heads and tender shoots. These varieties, among others, offer a range of options suited for different culinary preferences and growing conditions.",
+     "sowingAndPlanting": {
+       "sowingIndoorsDescription": "Broccoli is typically started indoors 6-8 weeks before the last frost date. Plant seeds in trays or pots filled with well-draining potting mix. Sow seeds 1/4 inch deep and keep the soil consistently moist and warm (65-75°F). Provide bright, indirect light or use grow lights to encourage healthy seedling growth. Transplant seedlings outdoors after the danger of frost has passed and the soil has warmed up.",
+       "sowingOutdoorsDescription": "Broccoli can also be directly sown outdoors in early spring or late summer. Prepare a seedbed with loose, fertile soil and sow seeds 1/4 inch deep. Space seeds or thin seedlings to the desired spacing, allowing enough room for plants to grow to full size. Keep the soil consistently moist until seedlings emerge.",
+       "spaceBetweenPlants": "18\"-24\"",
+       "spaceBetweenRows": "24\"-36\"",
+       "squareFootPlantingRecommendationsMin": 1,
+       "squareFootPlantingRecommendationsMax": 2,
+       "lifeCycle": "Annual",
+       "seedDepth": "1/4\"",
+       "pHRange": "6.0 - 7.0",
+       "germinationSoilTemp": "45-85°F",
+       "season": "Broccoli should be planted in early spring for a spring harvest or in late summer for a fall harvest. It prefers cooler temperatures and is sensitive to heat."
+     },
+     "careAndMaintenance": {
+       "optimalSun": "Full Sun",
+       "growingSoilTemp": "60-75°F",
+       "growingDescription": "Broccoli prefers full sun and well-draining soil rich in organic matter. It requires regular watering, especially during dry periods, to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+       "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+       "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Fertilize broccoli plants with a balanced fertilizer once they become established.",
+       "pruningRequirements": "Broccoli generally does not require pruning. However, you can remove any yellowing or damaged leaves as needed to improve air circulation and aesthetics.",
+       "supportRequirements": "Broccoli plants may benefit from support, especially if they are heavily laden with large heads. Stake or cage plants to prevent them from toppling over."
+     },
+     "harvestingAndStorage": {
+       "daysToHarvest": "60-90 days from planting",
+       "timeToMaturity": "Broccoli typically starts producing heads 60-90 days after planting, depending on the variety and growing conditions.",
+       "storageRecommendations": "Harvest broccoli when the heads are tight and firm, typically 4-8 inches in diameter. Cut the main head with a sharp knife, leaving a few inches of stem attached to the plant. Side shoots will continue to develop after the main head is harvested, providing additional harvests. Store harvested broccoli in the refrigerator for up to a week. Wash and dry the heads before storing to remove any dirt or debris.",
+       "harvestDescription": "Harvest broccoli by cutting the main head when it is tight and firm, using a sharp knife to make a clean cut. Avoid letting the heads become loose or start to flower, as this can negatively affect flavor and texture."
+     },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Lettuce",
+                "description": "Lettuce is a good companion plant for broccoli as it provides shade to the soil, conserves moisture, and helps suppress weeds. Planting lettuce around broccoli also makes efficient use of garden space."
+            },
+            {
+                "name": "Radishes",
+                "description": "Radishes repel pests like flea beetles and cabbage moths, which can damage broccoli plants. Interplanting radishes with broccoli can help deter pests and improve overall garden health."
+            },
+            {
+                "name": "Spinach",
+                "description": "Spinach is a cool-season crop that complements broccoli well. It can be planted alongside broccoli to maximize garden space and provide additional leafy greens for harvesting."
+            },
+            {
+                "name": "Nasturtiums",
+                "description": "Nasturtiums deter aphids, whiteflies, and cabbage moths, common pests of broccoli. Their vibrant flowers also attract beneficial insects like ladybugs and hoverflies, which prey on garden pests."
+            },
+            {
+                "name": "Basil",
+                "description": "Basil emits a strong aroma that repels pests like aphids, whiteflies, and spider mites. Planting basil near broccoli can help protect the plants from insect infestations and improve flavor."
+            },
+            {
+                "name": "Dill",
+                "description": "Dill attracts beneficial insects like ladybugs and lacewings, which prey on aphids and other pests. Interplanting dill with broccoli can help control pest populations and support overall garden health."
+            },
+            {
+                "name": "Marigolds",
+                "description": "Marigolds produce compounds that repel nematodes, aphids, and other pests harmful to broccoli. Planting marigolds as a border around broccoli beds can help deter pests and improve soil health."
+            },
+            {
+                "name": "Chamomile",
+                "description": "Chamomile has natural insect-repellent properties and attracts beneficial insects like hoverflies and parasitic wasps, which prey on aphids and caterpillars. Planting chamomile near broccoli can help protect the plants from pests."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Strawberries",
+                "description": "Strawberries are bad companion plants for broccoli as they compete for space, water, and nutrients in the garden. Planting them together can lead to reduced yields and increased pest and disease problems."
+            },
+            {
+                "name": "Tomatoes",
+                "description": "Tomatoes and broccoli are both heavy feeders and may compete for nutrients in the soil. Additionally, tomatoes are susceptible to similar pests and diseases as broccoli, increasing the risk of infestations and infections."
+            },
+            {
+                "name": "Beans",
+                "description": "Beans fix nitrogen in the soil, which can lead to excessive nitrogen levels that inhibit broccoli growth and development. Avoid planting beans near broccoli to prevent nutrient imbalances and stunted growth."
+            },
+            {
+                "name": "Onions",
+                "description": "Onions release compounds that inhibit the growth of nearby plants, including broccoli. Planting onions near broccoli can stunt its growth and reduce overall yields."
+            },
+            {
+                "name": "Cabbage",
+                "description": "Cabbage and broccoli are both susceptible to similar pests and diseases, including cabbage worms and aphids. Planting them together can increase pest pressure and disease outbreaks."
+            },
+            {
+                "name": "Potatoes",
+                "description": "Potatoes are heavy feeders that compete with broccoli for nutrients in the soil. Planting them together can lead to nutrient deficiencies and reduced yields for both crops."
+            },
+            {
+                "name": "Kohlrabi",
+                "description": "Kohlrabi attracts pests like cabbage worms and flea beetles, which can also affect broccoli. Planting kohlrabi near broccoli may increase the risk of pest infestations and damage."
+            },
+            {
+                "name": "Beets",
+                "description": "Beets compete with broccoli for nutrients and space in the garden. Planting them together can result in reduced yields and stunted growth for both crops."
+            }
+        ]
+    },
+    "pests": [
+        {
+            "name": "Aphids",
+            "description": "Aphids are small, soft-bodied insects that feed on plant sap, causing distorted growth, yellowing, and wilting. They reproduce rapidly and can quickly infest plants. Control aphids by spraying affected plants with a strong stream of water, introducing natural predators like ladybugs, or using insecticidal soap or neem oil."
+        },
+        {
+            "name": "Caterpillars",
+            "description": "Caterpillars are the larval stage of moths and butterflies that feed on plant foliage, causing holes and damage. They can defoliate plants if left unchecked. Control caterpillars by handpicking them from plants, using row covers to protect crops, or applying biological insecticides containing Bacillus thuringiensis (Bt)."
+        },
+        {
+            "name": "Whiteflies",
+            "description": "Whiteflies are tiny, moth-like insects that feed on plant sap, causing yellowing, wilting, and the transmission of viral diseases. They produce honeydew, attracting ants and promoting the growth of sooty mold. Control whiteflies by using yellow sticky traps, introducing natural predators like parasitic wasps, or applying insecticidal soap or neem oil."
+        },
+        {
+            "name": "Thrips",
+            "description": "Thrips are small, slender insects that feed on plant sap, causing stippling, distortion, and silvering of leaves. They can transmit viral diseases and damage plant tissues. Control thrips by removing weeds and debris from the garden, introducing natural predators like minute pirate bugs, or applying insecticidal soap or neem oil."
+        },
+        {
+            "name": "Spider Mites",
+            "description": "Spider mites are tiny pests that feed on plant sap, causing stippling, yellowing, and webbing on leaves. They thrive in hot, dry conditions and can rapidly reproduce, leading to severe infestations. Control spider mites by increasing humidity around plants, using a strong stream of water to dislodge them, or applying insecticidal soap, neem oil, or horticultural oil."
+        },
+        {
+            "name": "Cutworms",
+            "description": "Cutworms are moth larvae that feed on plant stems near the soil surface, cutting through them and causing plants to wilt and die. They are active at night and hide during the day in soil or plant debris. Control cutworms by placing collars around plant stems, removing debris from the garden, and applying biological insecticides containing Bacillus thuringiensis (Bt)."
+        },
+        {
+            "name": "Japanese Beetles",
+            "description": "Japanese beetles are metallic green insects that feed on plant foliage, flowers, and fruits, causing skeletonized leaves and significant damage. They are attracted to a wide range of plants and can quickly defoliate entire plants if left unchecked. Control Japanese beetles by handpicking them from plants, using pheromone traps, or applying insecticides labeled for Japanese beetle control."
+        },
+        {
+            "name": "Leaf Miners",
+            "description": "Leaf miners are small larvae that tunnel through plant leaves, creating winding trails or blotches and causing aesthetic damage. They can infest a wide range of plants and are often difficult to control once established. Control leaf miners by removing and destroying infested leaves, using sticky traps to monitor activity, or applying insecticides labeled for leaf miner control."
+        },
+        {
+            "name": "Slugs and Snails",
+            "description": "Slugs and snails are mollusks that feed on plant foliage, leaving behind irregular holes and damage. They are most active at night and prefer moist, shady conditions. Control slugs and snails by handpicking them from plants, using beer traps, or applying iron phosphate-based baits."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Clubroot",
+            "description": "Clubroot is a soilborne disease caused by the Plasmodiophora brassicae fungus, characterized by swollen, deformed roots and stunted growth. It thrives in acidic soil with poor drainage. Prevent clubroot by maintaining proper soil pH, improving soil drainage, and rotating crops."
+        },
+        {
+            "name": "Downy Mildew",
+            "description": "Downy mildew is a fungal disease caused by various species of the Peronospora genus, characterized by yellow patches on upper leaf surfaces and grayish-white fungal growth on lower leaf surfaces. It thrives in cool, humid conditions. Prevent downy mildew by providing good air circulation, avoiding overhead watering, and applying fungicides as needed."
+        },
+        {
+            "name": "Powdery Mildew",
+            "description": "Powdery mildew is a fungal disease caused by various species of fungi, characterized by white, powdery growth on plant surfaces. It thrives in warm, dry conditions. Prevent powdery mildew by providing good air circulation, avoiding overhead watering, and applying fungicides as needed."
+        },
+        {
+            "name": "Blight",
+            "description": "Blight is a general term for various fungal diseases that cause rapid browning and death of plant tissues. Examples include early blight, late blight, and bacterial blight. They thrive in warm, moist conditions. Prevent blight by practicing crop rotation, avoiding overhead watering, and applying fungicides as needed."
+        },
+        {
+            "name": "Anthracnose",
+            "description": "Anthracnose is a fungal disease caused by various species of fungi, characterized by dark, sunken lesions on plant tissues. It thrives in warm, humid conditions. Prevent anthracnose by removing and destroying infected plant parts, providing good air circulation, and applying fungicides as needed."
+        },
+        {
+            "name": "Verticillium Wilt",
+            "description": "Verticillium wilt is a fungal disease caused by Verticillium spp., characterized by wilting, yellowing, and vascular discoloration in plant tissues. It thrives in cool to warm temperatures. Prevent verticillium wilt by planting resistant varieties, practicing crop rotation, and improving soil drainage."
+        },
+        {
+            "name": "Fusarium Wilt",
+            "description": "Fusarium wilt is a soilborne fungal disease caused by Fusarium spp., characterized by wilting, yellowing, and vascular discoloration in plant tissues. It thrives in warm, moist conditions. Prevent fusarium wilt by planting resistant varieties, practicing crop rotation, and improving soil drainage."
+        },
+        {
+            "name": "Root Rot",
+            "description": "Root rot is a disease caused by various soilborne pathogens, characterized by rotting of plant roots and reduced plant vigor. It thrives in poorly drained, waterlogged soils. Prevent root rot by improving soil drainage, avoiding overwatering, and planting in well-drained locations."
+        }
+    ],
+    "tipsAndTricks": [
+        "Plant broccoli in well-drained, fertile soil rich in organic matter.",
+        "Provide consistent moisture throughout the growing season to promote healthy growth and development.",
+        "Harvest broccoli heads promptly to prevent overmaturity and bitterness.",
+        "Use row covers to protect young broccoli plants from pests like cabbage worms and flea beetles.",
+        "Mulch around broccoli plants to conserve soil moisture, suppress weeds, and regulate soil temperature.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action to control infestations.",
+        "Rotate broccoli crops with unrelated plants to prevent the buildup of pests and diseases in the soil.",
+        "Apply a balanced fertilizer high in nitrogen, phosphorus, and potassium to promote vigorous growth and abundant yields.",
+        "Plant broccoli in early spring or late summer for the best results, as it prefers cool weather and ample sunlight."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Broccoli Fact Sheet from University of California",
+            "url": "https://ucanr.edu/sites/UrbanAg/files/164432.pdf"
+        },
+        {
+            "title": "Recipes Using Broccoli",
+            "url": "https://www.allrecipes.com/recipes/1085/fruits-and-vegetables/vegetables/broccoli/"
+        }
+    ]
+}
+

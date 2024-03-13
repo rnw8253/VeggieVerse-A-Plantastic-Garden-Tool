@@ -1,0 +1,110 @@
+{
+    "plantName": "Tamarillo",
+    "description": "Tamarillo (Solanum betaceum), also known as tree tomato or tomate de árbol, is a subtropical fruit-bearing tree native to South America, particularly the Andes region. Belonging to the Solanaceae family, tamarillo is closely related to tomatoes, eggplants, and potatoes. It produces egg-shaped or oval fruits that vary in color from red, orange, yellow, to purple, depending on the variety. Tamarillo fruits have a unique flavor that combines elements of tomato, passion fruit, and citrus, making them a popular ingredient in both sweet and savory dishes.",
+    "thumbnailImageUrl": "Tamarillo_thumbnail",
+    "backgroundImageUrl": "Tamarillo_background",
+    "varieties": "Tamarillos, also known as tree tomatoes, come in several varieties, each offering its own unique flavor, size, and color. Some popular tamarillo varieties include 'Red', which has a sweet and tangy flavor with a vibrant red skin; 'Gold', known for its golden-yellow skin and slightly milder flavor; and 'Amber', prized for its unique amber-colored skin and sweet taste. These varieties, among others, provide a range of options suited for different culinary uses and preferences.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Tamarillo seeds can be started indoors 6-8 weeks before the last frost date. Sow seeds in pots filled with seed starting mix, planting them 1/4 inch deep. Keep the soil consistently moist and provide warmth and bright light for optimal germination.",
+        "sowingOutdoorsDescription": "Tamarillo seeds can also be sown directly into the garden after the danger of frost has passed and the soil has warmed to at least 65°F. Plant seeds 1/4 inch deep in well-drained soil amended with compost. Space plants according to their mature size, typically 6-10 feet apart in rows spaced 8-12 feet apart.",
+        "spaceBetweenPlants": "6\'-10\'",
+        "spaceBetweenRows": "8\'-12\'",
+        "squareFootPlantingRecommendationsMin": 0,
+        "squareFootPlantingRecommendationsMax": 0,
+        "lifeCycle": "Perennial",
+        "seedDepth": "1/4\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "65-75°F",
+        "season": "Tamarillo should be planted in spring after the danger of frost has passed. They prefer warm weather and thrive in full sun."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "70-80°F",
+        "growingDescription": "Tamarillo prefer full sun and well-drained soil rich in organic matter. Water newly planted tamarillo regularly to keep the soil consistently moist but not waterlogged. Mulch around plants to retain moisture and suppress weeds.",
+        "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+        "soilFertility": "Incorporate compost into the soil before planting to improve fertility and soil structure. Apply a balanced fertilizer during the growing season according to package instructions.",
+        "pruningRequirements": "Prune tamarillo in late winter or early spring to remove dead, diseased, or crowded branches. Thin out the canopy to improve air circulation and light penetration. Tamarillo plants may need structural support as they grow taller.",
+        "supportRequirements": "Tamarillo plants may require support as they grow taller. Install stakes or trellises to support the main trunk and prevent it from bending or breaking."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "6-12 months from planting",
+        "timeToMaturity": "Tamarillo plants typically start producing fruit 6-12 months after planting, depending on the age of the plant and growing conditions.",
+        "storageRecommendations": "Harvest tamarillos when they are fully ripe, indicated by a soft texture and vibrant color. Cut the fruits from the plant with a sharp knife or pruning shears. Store harvested tamarillos at room temperature for up to a week or in the refrigerator for longer storage.",
+        "harvestDescription": "Harvest tamarillos by twisting or cutting the fruits from the plant when they are fully ripe. Avoid pulling, as this can damage the plant."
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
+            {
+              "name": "Basil",
+              "description": "Basil can help repel pests like aphids, whiteflies, and tomato hornworms when planted near tamarillo plants. Its strong aroma can mask the scent of the tamarillo, making it harder for pests to locate."
+            },
+            {
+              "name": "Marigolds",
+              "description": "Marigolds contain compounds that repel many insect pests, including nematodes and whiteflies. Planting marigolds near tamarillo plants can help protect them from these pests."
+            },
+            {
+              "name": "Nasturtiums",
+              "description": "Nasturtiums can repel pests like aphids, whiteflies, and spider mites when planted near tamarillo plants. Their flowers also attract beneficial insects like ladybugs and lacewings."
+            },
+            {
+              "name": "Chives",
+              "description": "Chives can help deter pests like aphids and whiteflies when planted near tamarillo plants. Their strong aroma can mask the scent of the tamarillo, making it harder for pests to locate."
+            },
+            {
+              "name": "Comfrey",
+              "description": "Comfrey is a dynamic accumulator, bringing up nutrients from deep in the soil and making them available to tamarillo plants. Its deep roots also help improve soil structure and prevent erosion."
+            }
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Potatoes",
+              "description": "Potatoes and other members of the nightshade family can host pests and diseases that may affect tamarillo plants. Additionally, they may compete with tamarillo plants for water and nutrients."
+            },
+            {
+              "name": "Tomatoes",
+              "description": "Tomatoes and tamarillos are susceptible to similar pests and diseases, such as tomato hornworms and whiteflies. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
+            },
+            {
+              "name": "Peppers",
+              "description": "Peppers and tamarillos are susceptible to similar pests and diseases. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
+            },
+            {
+              "name": "Eggplant",
+              "description": "Eggplant and tamarillo plants are susceptible to similar pests and diseases. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
+            },
+            {
+              "name": "Walnuts",
+              "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including tamarillo plants. Avoid planting tamarillo plants near walnut trees."
+            }
+          ]
+        },
+    "pests": [
+        {
+            "name": "Fruit Fly",
+            "description": "Fruit flies are common pests of tamarillo trees, laying eggs on the surface of ripe fruits. The larvae feed on the flesh of the fruits, causing them to rot and become unsuitable for consumption. To control fruit flies, monitor the trees regularly for signs of infestation and remove and destroy infested fruits. Use traps or barriers to prevent adult fruit flies from reaching the fruits."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Anthracnose",
+            "description": "Anthracnose is a fungal disease that can affect tamarillo trees, causing dark lesions to develop on the leaves, stems, and fruits. It thrives in warm, humid conditions and can spread rapidly during periods of wet weather. To control anthracnose, practice good sanitation by removing and destroying infected plant material. Apply fungicidal sprays containing copper or sulfur to protect healthy foliage and fruits."
+        }
+    ],
+    "tipsAndTricks": [
+        "Plant tamarillo trees in a sunny, sheltered location with well-draining soil.",
+        "Provide consistent moisture throughout the growing season, especially during dry periods.",
+        "Mulch around the base of the tree to retain soil moisture and suppress weeds.",
+        "Prune tamarillo trees annually during the dormant season to maintain shape and promote fruit production.",
+        "Monitor the trees regularly for signs of pests and diseases, and take appropriate action to prevent infestations or infections."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Tamarillos: A Beginner's Guide",
+            "url": "https://www.rhs.org.uk/advice/grow-your-own/fruit/tamarillo"
+        },
+        {
+            "title": "Tamarillo Production and Marketing",
+            "url": "https://www.agrifutures.com.au/farm-diversity/tamarillo-production-and-marketing/"
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+{
+    "plantName": "Limes",
+    "description": "Limes are citrus fruits closely related to lemons, oranges, and grapefruits. They are known for their small, round green fruits with tart, acidic juice and aromatic peel. Limes are believed to be native to Southeast Asia and are now cultivated in many tropical and subtropical regions around the world. They are widely used in cooking, beverages, and household cleaning due to their refreshing flavor and high acidity. Limes are rich in vitamin C, antioxidants, and citric acid. Lime trees are evergreen shrubs or small trees with glossy green leaves and fragrant white flowers. They produce fruit year-round in warm climates and are prized for their ornamental and culinary value.",
+    "thumbnailImageUrl": "Limes_thumbnail",
+    "backgroundImageUrl": "Limes_background",
+    "varieties": "Limes come in various cultivars, each with its unique flavor, acidity, and aroma. Some popular lime varieties include 'Key Lime', prized for its intense flavor, thin skin, and high acidity; 'Persian Lime' or 'Tahiti Lime', known for its larger size, seedlessness, and milder flavor compared to Key Limes; 'Kaffir Lime', valued for its distinctive leaves used in cooking and its tart, aromatic fruit; and 'Makrut Lime', another name for Kaffir Lime. These varieties, among others, offer a range of options suited for different culinary uses and growing conditions.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Limes are typically propagated from seeds or cuttings. To grow from seeds, rinse lime seeds to remove any fruit flesh and dry them thoroughly. Plant seeds in pots filled with well-draining potting mix and keep them warm and moist. Germination may take several weeks.",
+        "sowingOutdoorsDescription": "Lime trees can also be propagated by cuttings. Take 6-8 inch cuttings from healthy lime trees in late winter or early spring. Remove the lower leaves and dip the cut end in rooting hormone. Plant cuttings in pots filled with well-draining potting mix and keep them warm and moist until roots develop.",
+        "spaceBetweenPlants": "10\'-20\'",
+        "spaceBetweenRows": "Varies based on planting scheme",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 2,
+        "lifeCycle": "Perennial",
+        "seedDepth": "1\"",
+        "pHRange": "5.5 - 6.5",
+        "germinationSoilTemp": "70-85°F",
+        "season": "Lime trees should be planted in spring or fall in a location with full sun and well-drained soil. They are sensitive to frost and should be protected from cold temperatures."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "65-85°F",
+        "growingDescription": "Lime trees prefer full sun and well-draining soil. They require regular watering, especially during dry periods, to keep the soil consistently moist but not waterlogged. Mulch around trees to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+        "soilFertility": "Incorporate organic matter, such as compost or well-rotted manure, into the soil before planting to improve fertility and soil structure. Fertilize lime trees with a balanced fertilizer according to package instructions.",
+        "pruningRequirements": "Prune lime trees in late winter or early spring to remove dead, diseased, or crossing branches. Thin out the canopy to improve air circulation and light penetration. Prune mature trees to maintain shape and size.",
+        "supportRequirements": "Young lime trees may benefit from staking to provide support and prevent leaning. Use sturdy stakes and ties to secure the tree in place until it establishes a strong root system."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "2-5 years from planting",
+        "timeToMaturity": "Lime trees typically begin producing fruit 2-5 years after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest limes when they are fully ripe, usually when they have reached their mature color and size. Cut the fruit from the tree with pruning shears or twist it gently until it separates from the stem. Store harvested limes at room temperature for up to one week, or refrigerate them for longer storage.",
+        "harvestDescription": "Harvest limes by hand when they are fully ripe. Avoid pulling or twisting the fruit, as this can damage the tree. Cut the fruit from the tree with pruning shears, leaving a short stem attached."
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
+            {
+              "name": "Lavender",
+              "description": "Lavender has aromatic foliage that can help repel pests like mosquitoes and flies from the lime garden. It also attracts pollinators like bees and butterflies, enhancing fruit set."
+            },
+            {
+              "name": "Rosemary",
+              "description": "Rosemary can deter pests like aphids and spider mites from lime trees with its strong scent. It also attracts beneficial insects like bees and parasitic wasps."
+            },
+            {
+              "name": "Basil",
+              "description": "Basil can enhance the flavor of limes when planted nearby. Additionally, it can help repel pests like aphids, mosquitoes, and flies with its strong scent."
+            },
+            {
+              "name": "Comfrey",
+              "description": "Comfrey is a dynamic accumulator, bringing up nutrients from deep in the soil and making them available to lime trees. Its deep roots also help improve soil structure and prevent erosion."
+            },
+            {
+              "name": "Marigolds",
+              "description": "Marigolds can help deter pests like nematodes and whiteflies from the lime garden with their strong scent. They also attract beneficial insects like bees and parasitic wasps."
+            }
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Grass",
+              "description": "Grass and other ground covers that compete with lime trees for nutrients, water, and sunlight should be avoided. They can also provide habitat for pests and diseases that affect lime trees."
+            },
+            {
+              "name": "Walnuts",
+              "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including lime trees. Avoid planting lime trees near walnut trees."
+            },
+            {
+              "name": "Sunflowers",
+              "description": "Sunflowers can compete with lime trees for sunlight, water, and nutrients, potentially reducing fruit production. Additionally, sunflowers may attract birds that can damage lime crops."
+            },
+            {
+              "name": "Tomatoes",
+              "description": "Tomatoes have different soil and water requirements than lime trees and may compete for resources. Additionally, tomatoes may attract pests and diseases that can affect lime trees."
+            },
+            {
+              "name": "Onions",
+              "description": "Onions and other alliums can repel pests like aphids, but they may also stunt the growth of nearby plants due to their allelopathic compounds. Keep onions and limes separated to avoid growth inhibition."
+            }
+          ]
+        },
+    "pests": [
+        {
+            "name": "Citrus Leafminer",
+            "description": "Citrus leafminers are common pests of lime trees, laying their eggs on leaves and causing damage to foliage. Control leafminer populations with insecticidal sprays or by removing and destroying affected leaves."
+        },
+        {
+            "name": "Scale Insects",
+            "description": "Scale insects are small, sap-sucking pests that feed on the sap of lime trees, causing yellowing, stunting, and reduced vigor. Control scale insect populations with horticultural oil or insecticidal soap."
+        }
+    ],
+    "diseases": [
+        {
+            "name": "Citrus Canker",
+            "description": "Citrus canker is a bacterial disease that affects lime trees, causing raised lesions on leaves, fruit, and stems. It can lead to defoliation, fruit drop, and reduced yields. Prevent citrus canker by planting disease-free stock, practicing good sanitation, and avoiding overhead watering."
+        },
+        {
+            "name": "Citrus Black Spot",
+            "description": "Citrus black spot is a fungal disease that affects lime trees, causing black, sunken lesions on fruit and leaves. It can lead to reduced yields and fruit quality. Prevent citrus black spot by providing good air circulation around trees, avoiding overhead watering, and applying fungicidal sprays preventatively."
+        }
+    ],
+    "tipsAndTricks": [
+        "Harvest limes when fully ripe for the best flavor and juiciness.",
+        "Monitor trees regularly for signs of pests and diseases, and take prompt action to control infestations.",
+        "Prune lime trees annually to remove dead or diseased wood, improve airflow, and shape the tree."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Limes: Planting Guide",
+            "url": "https://www.almanac.com/plant/limes"
+        },
+        {
+            "title": "How to Harvest and Store Limes",
+            "url": "https://www.gardeningknowhow.com/edible/fruits/lime/harvesting-limes.htm"
+        }
+    ]
+}
+
