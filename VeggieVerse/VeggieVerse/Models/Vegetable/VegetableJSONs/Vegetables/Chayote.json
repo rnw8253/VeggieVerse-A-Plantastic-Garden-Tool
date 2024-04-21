@@ -33,6 +33,18 @@
        "storageRecommendations": "Harvest chayote when the fruits are still firm and have reached the desired size. Cut the fruits from the vine using pruning shears or a sharp knife, leaving a short stem attached. Store harvested chayote in a cool, dry place for up to several weeks.",
        "harvestDescription": "Harvest chayote fruits when they are still firm and have reached the desired size, typically 4-6 inches in length. Cut the fruits from the vine, leaving a short stem attached. Use caution when handling the fruits, as they can have sharp spines on the outer skin."
      },
+     "SpringSowing": {
+       "Indoors": [],
+       "Transplant": [],
+       "Outdoors": [3, 4],
+       "LastSowDate": -16
+     },
+     "FallSowing": {
+       "Outdoors": [],
+       "Transplant": [],
+       "DaysToMaturity": 150,
+       "FrostTolerance": "Tender"
+     },
      "companionPlants": {
          "goodCompanionPlants": [
            {
@@ -48,7 +60,7 @@
              "description": "Similar to beans, peas are nitrogen-fixing legumes that can improve soil fertility when interplanted with chayote. Peas also provide structural support for chayote vines to climb."
            },
            {
-             "name": "Sunflowers",
+             "name": "Sunflower",
              "description": "Sunflowers provide sturdy stalks that can act as a trellis for chayote vines to climb. Interplanting chayote with sunflowers can help support the sprawling vines and maximize vertical space in the garden."
            }
          ],
@@ -67,33 +79,41 @@
            }
          ]
        },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids can infest chayote plants, feeding on sap and causing distorted growth and yellowing of leaves. Control aphids by spraying affected plants with water to dislodge them, introducing natural predators like ladybugs or lacewings, and using insecticidal soap or neem oil."
-        },
-        {
-            "name": "Squash Vine Borers",
-            "description": "Squash vine borers are common pests of chayote plants, burrowing into stems and causing wilting and collapse. Control squash vine borers by monitoring plants regularly for signs of infestation and removing and destroying affected stems. Use row covers to protect young plants from adult moths."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that affects chayote plants, causing white, powdery spots to form on leaves. It thrives in warm, humid conditions and can lead to reduced plant vigor and yield. Control powdery mildew by improving air circulation around plants, watering at the base of plants to avoid wetting foliage, and applying fungicidal sprays preventatively."
-        },
-        {
-            "name": "Downy Mildew",
-            "description": "Downy mildew is a fungal disease that affects chayote plants, causing yellowing and wilting of leaves. It thrives in cool, moist conditions and can spread rapidly in crowded or poorly ventilated areas. Control downy mildew by planting chayote in well-draining soil with good air circulation, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        }
-    ],
-    "tipsAndTricks": [
-        "Provide support for chayote vines to climb and spread, such as trellises, fences, or arbors.",
-        "Keep the soil consistently moist throughout the growing season to promote healthy growth and fruit production.",
-        "Prune chayote vines as needed to control their growth and shape, and train them onto support structures for maximum space utilization.",
-        "Harvest chayote fruits when they are young and tender for the best flavor and texture.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed to prevent damage."
-    ],
+     "pests": [
+       "Aphids",
+       "Leafminer",
+       "Caterpillar",
+       "Cutworm",
+       "Thrips",
+       "Armyworm",
+       "Whiteflies",
+       "Flea Beetle",
+       "Looper",
+       "Spider Mite"
+     ],
+     "beneficial_insects": [
+       "Ladybugs",
+       "Lacewings",
+       "Hoverflies",
+       "Parasitic Wasps",
+       "Predatory Mites"
+     ],
+     "diseases": [
+       "Powdery Mildew",
+       "Downy Mildew",
+       "Leaf Spot",
+       "Rust",
+       "Botrytis"
+     ],
+     "tipsAndTricks": [
+       "Plant chayote in well-drained soil with full sun exposure.",
+       "Provide a trellis or support for chayote vines to climb.",
+       "Water chayote plants regularly, keeping the soil consistently moist.",
+       "Apply a balanced fertilizer or compost to provide necessary nutrients for growth.",
+       "Mulch around the base of plants to retain moisture and suppress weeds.",
+       "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+       "Harvest chayote when they are young and tender, typically around 4-6 inches in length."
+     ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Chayote: Planting Guide",

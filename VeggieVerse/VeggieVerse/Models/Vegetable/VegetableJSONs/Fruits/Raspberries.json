@@ -7,8 +7,8 @@
       "sowingAndPlanting": {
         "sowingIndoorsDescription": "Raspberries are typically propagated from dormant root cuttings or crown divisions. Prepare root cuttings or divisions in late winter or early spring when the plants are dormant. Plant them in pots filled with well-draining potting mix and keep them moist. Roots should develop within a few weeks, at which point they can be transplanted to their permanent location.",
         "sowingOutdoorsDescription": "Raspberries can also be planted directly in the ground. Choose a sunny location with well-draining soil. Prepare the planting area by loosening the soil and incorporating organic matter. Plant root cuttings or divisions at the same depth they were growing previously, and water thoroughly.",
-        "spaceBetweenPlants": "2\'-3\'",
-        "spaceBetweenRows": "6\'-8\'",
+        "spaceBetweenPlants": "2'-3'",
+        "spaceBetweenRows": "6'-8'",
         "squareFootPlantingRecommendationsMin": 1,
         "squareFootPlantingRecommendationsMax": 4,
         "lifeCycle": "Perennial",
@@ -31,6 +31,18 @@
         "timeToMaturity": "Raspberries typically begin producing fruit 1-2 years after planting, depending on the variety and growing conditions.",
         "storageRecommendations": "Harvest raspberries when they are fully ripe, usually when they pull away easily from the plant with a gentle tug. Pick berries frequently, as they tend to become overripe quickly. Store harvested raspberries in the refrigerator for up to a few days, or freeze them for longer storage.",
         "harvestDescription": "Harvest raspberries by gently pulling them from the plant when they are fully ripe. Avoid squeezing or crushing the berries, as they are delicate and prone to bruising."
+      },
+      "SpringSowing": {
+          "Indoors": [],
+          "Transplant": [],
+          "Outdoors": [2, 4],
+          "LastSowDate": null
+      },
+      "FallSowing": {
+          "Outdoors": [-10, -8],
+          "Transplant": [],
+          "DaysToMaturity": 365,
+          "FrostTolerance": "Hardy"
       },
       "companionPlants": {
           "goodCompanionPlants": [
@@ -78,31 +90,42 @@
             }
           ]
         },
-    "pests": [
-        {
-            "name": "Raspberry Fruitworm",
-            "description": "Raspberry fruitworm is a common pest of raspberry plants, feeding on the fruit and causing damage like small holes and tunneling. Control raspberry fruitworm populations with insecticidal sprays or by introducing natural predators like parasitic wasps."
-        },
-        {
-            "name": "Raspberry Cane Borer",
-            "description": "Raspberry cane borer is a common pest of raspberry plants, burrowing into the canes and causing wilting and dieback. Infested canes may have swollen, discolored areas or holes where the larvae have exited. Control raspberry cane borer populations by pruning and destroying infested canes, and applying insecticidal sprays preventatively."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Anthracnose",
-            "description": "Anthracnose is a fungal disease that affects raspberry plants, causing dark, sunken lesions on fruit and foliage. It can lead to fruit rot and reduced yields. Control anthracnose by removing and destroying infected plant material, improving air circulation around plants, and applying fungicidal sprays preventatively."
-        },
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that affects raspberry plants, causing a white, powdery growth on leaves and fruit. It can lead to reduced fruit production and overall plant vigor. Control powdery mildew by improving air circulation around plants, watering at the base of the plant to avoid wetting foliage, and applying fungicidal sprays preventatively."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest raspberries when fully ripe for the best flavor and sweetness.",
-        "Prune raspberry plants annually to remove old or diseased canes, improve airflow, and promote fruit production.",
-        "Monitor plants regularly for signs of pests and diseases, and take prompt action to control infestations."
-    ],
+      "pests": [
+        "Fruitworm",
+        "Crown Borer",
+        "Cane Borer",
+        "Aphids",
+        "Leafhopper",
+        "Sawfly",
+        "Raspberry Beetle",
+        "Moth",
+        "Spider Mite",
+        "Whiteflies"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
+      ],
+      "diseases": [
+        "Mosaic Virus",
+        "Leaf Curl",
+        "Cane Blight",
+        "Root Rot",
+        "Anthracnose"
+      ],
+      "tipsAndTricks": [
+        "Plant raspberry bushes in well-drained soil with full sun exposure.",
+        "Space raspberry plants properly to allow good air circulation and prevent diseases.",
+        "Prune raspberry bushes regularly to remove old canes and promote new growth.",
+        "Water raspberry plants regularly, especially during dry periods.",
+        "Apply a balanced fertilizer during the growing season to promote healthy growth and fruiting.",
+        "Mulch around the base of plants to retain moisture and suppress weeds.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+        "Harvest raspberries when they are fully ripe and easily detach from the plant."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Raspberries: Planting Guide",

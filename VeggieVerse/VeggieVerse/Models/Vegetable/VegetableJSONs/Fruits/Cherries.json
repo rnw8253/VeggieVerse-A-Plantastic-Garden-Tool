@@ -7,8 +7,8 @@
     "sowingAndPlanting": {
       "sowingIndoorsDescription": "Cherry trees are typically propagated from rootstock rather than seeds. Obtain bare-root or container-grown cherry trees from a nursery or garden center. Plant trees in late winter or early spring while they are still dormant. Choose a sunny location with well-draining soil.",
       "sowingOutdoorsDescription": "Cherry trees can also be propagated by grafting. Select a healthy scion (a young shoot or bud) from a desired cherry variety and graft it onto a compatible rootstock. Plant grafted trees in late winter or early spring in a sunny location with well-draining soil.",
-      "spaceBetweenPlants": "20\'-25\'",
-      "spaceBetweenRows": "Varies based on planting scheme",
+      "spaceBetweenPlants": "20'-25'",
+      "spaceBetweenRows": "Varies",
       "squareFootPlantingRecommendationsMin": 0,
       "squareFootPlantingRecommendationsMax": 0,
       "lifeCycle": "Perennial",
@@ -32,6 +32,18 @@
       "storageRecommendations": "Harvest cherries when they are fully ripe, usually in late spring or early summer. Pick the cherries by hand, gently twisting the stem to detach the fruit from the tree. Store harvested cherries in the refrigerator for up to one week.",
       "harvestDescription": "Harvest cherries when they have reached their full color and size. Taste-test a few cherries to determine sweetness before harvesting the entire crop."
     },
+    "SpringSowing": {
+      "Indoors": [],
+      "Transplant": [],
+      "Outdoors": [4, 6],
+      "LastSowDate": null
+    },
+    "FallSowing": {
+      "Outdoors": [],
+      "Transplant": [],
+      "DaysToMaturity": 1825,
+      "FrostTolerance": "Hardy"
+    },
     "companionPlants": {
         "goodCompanionPlants": [
           {
@@ -43,7 +55,7 @@
             "description": "Chives can repel pests like aphids and Japanese beetles with their strong scent. Planting chives near cherry trees can help protect them from pest infestations and improve overall tree health."
           },
           {
-            "name": "Nasturtiums",
+            "name": "Nasturtium",
             "description": "Nasturtiums can attract beneficial insects like predatory insects and pollinators, which can help control pest populations and improve pollination in cherry orchards."
           },
           {
@@ -87,29 +99,43 @@
         ]
       },
     "pests": [
-        {
-            "name": "Birds",
-            "description": "Birds are common pests of cherry trees, especially as the fruit begins to ripen. Protect ripening fruit from birds with netting or other physical barriers, or use scare devices to deter birds."
-        },
-        {
-            "name": "Cherry Fruit Fly",
-            "description": "The cherry fruit fly is a common pest of cherry trees, laying its eggs in developing fruit. The larvae hatch and feed on the cherries, causing damage and making them unmarketable. Prevent cherry fruit fly damage by monitoring for adult flies with traps, harvesting fruit promptly, and applying insecticidal sprays or natural predators to control populations."
-        }
+      "Fruit Fly",
+      "Western Cherry Fruit Fly",
+      "Slug",
+      "Fruitworm",
+      "Leafhopper",
+      "Maggot",
+      "Aphids",
+      "Scale",
+      "Blackfly",
+      "Sawfly",
+      "Earwig",
+      "Four-Lined Plant Bug"
+    ],
+    "beneficial_insects": [
+      "Ladybugs",
+      "Lacewings",
+      "Hoverflies",
+      "Parasitic Wasps",
+      "Predatory Mites"
     ],
     "diseases": [
-        {
-            "name": "Brown Rot",
-            "description": "Brown rot is a fungal disease that affects cherry trees, causing brown, rotting spots on fruit and flowers. It thrives in warm, humid conditions and can lead to significant fruit loss if left untreated. Prevent brown rot by practicing good sanitation, removing and disposing of infected fruit and branches promptly, and applying fungicidal sprays preventatively."
-        },
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that affects cherry trees, causing white, powdery growth on leaves and shoots. It thrives in warm, humid conditions and can lead to reduced yields and fruit quality. Prevent powdery mildew by providing good air circulation around trees, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        }
+      "Brown Rot",
+      "Leaf Spot",
+      "Powdery Mildew",
+      "Cherry Blossom Blight",
+      "Bacterial Canker",
+      "Gummosis"
     ],
     "tipsAndTricks": [
-        "Harvest cherries when fully ripe for the best flavor and sweetness.",
-        "Protect ripening fruit from birds and other pests with netting or other physical barriers.",
-        "Monitor trees regularly for signs of pests and diseases, and take prompt action to control infestations."
+      "Plant cherry trees in well-drained soil with good air circulation.",
+      "Provide full sun exposure for optimal fruit production.",
+      "Prune cherry trees annually to remove dead or diseased wood and promote airflow.",
+      "Apply dormant oil spray in late winter to control overwintering pests and diseases.",
+      "Thin out excess fruit to improve fruit quality and prevent branch damage.",
+      "Monitor trees regularly for signs of pests and diseases, and take appropriate action.",
+      "Harvest cherries when they are fully ripe but still firm to the touch.",
+      "Store harvested cherries in the refrigerator and consume them within a few days for the best flavor."
     ],
     "linksToAdditionalResources": [
         {

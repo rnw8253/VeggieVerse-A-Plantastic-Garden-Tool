@@ -33,50 +33,110 @@
         "storageRecommendations": "Harvest dill leaves and stems as needed for culinary use. Use fresh dill immediately for best flavor, or dry it for later use. To dry dill, hang harvested stems upside down in a well-ventilated area out of direct sunlight until fully dried. Store dried dill leaves in an airtight container in a cool, dark place.",
         "harvestDescription": "Harvest dill leaves and stems by cutting them close to the base of the plant. Avoid harvesting more than one-third of the plant's leaves at a time to allow for continued growth."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [],
+        "Transplant": [],
+        "Outdoors": [-1, 2],
+        "LastSowDate": -8
+      },
+      "FallSowing": {
+        "Outdoors": [],
+        "Transplant": [],
+        "DaysToMaturity": 50,
+        "FrostTolerance": "Hardy"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Cabbage",
-                "description": "Dill is a good companion for cabbage, as it attracts beneficial insects that prey on cabbage pests."
+              "name": "Brassicas",
+              "description": "Dill is a beneficial companion for members of the cabbage family, including cabbage, broccoli, cauliflower, and Brussels sprouts. It attracts beneficial insects such as ladybugs and parasitic wasps, which prey on cabbage pests like aphids, cabbage loopers, and cabbage worms, helping to control pest populations naturally."
             },
             {
-                "name": "Cucumbers",
-                "description": "Dill is often planted near cucumbers to improve their growth and flavor."
-            }
-        ],
-        "badCompanionPlants": [
+              "name": "Tomatoes",
+              "description": "Dill can benefit tomatoes by attracting predatory insects like hoverflies and lacewings, which feed on common tomato pests such as aphids, whiteflies, and spider mites. Additionally, dill's strong scent may help deter pests like tomato hornworms."
+            },
             {
-                "name": "Carrots",
-                "description": "Avoid planting dill near carrots, as they may inhibit each other's growth."
+              "name": "Cucumbers",
+              "description": "Dill is a suitable companion for cucumbers, as it attracts beneficial insects like predatory wasps and hoverflies, which prey on cucumber pests such as aphids, cucumber beetles, and spider mites. It also enhances the flavor of cucumbers when grown nearby."
+            },
+            {
+              "name": "Lettuce",
+              "description": "Dill can be interplanted with lettuce to attract beneficial insects like predatory beetles and parasitic wasps, which help control aphid populations and other lettuce pests. Additionally, the tall, feathery foliage of dill can provide partial shade for lettuce during hot summer months."
+            },
+            {
+              "name": "Onions",
+              "description": "Dill can serve as a companion plant for onions, as it attracts beneficial insects such as hoverflies and parasitic wasps, which prey on onion pests like onion maggots and aphids. Its strong aroma may also help deter pests and mask the scent of onions, reducing pest pressure."
+            },
+            {
+              "name": "Broccoli",
+              "description": "Dill is known to attract hoverflies and other beneficial insects that feed on common broccoli pests such as aphids, cabbage loopers, and cabbage worms. Planting dill near broccoli can help improve pest control and overall plant health."
+            },
+            {
+              "name": "Brussels Sprouts",
+              "description": "Dill attracts beneficial insects like ladybugs and parasitic wasps, which prey on pests like aphids and cabbage worms that commonly affect Brussels sprouts. Interplanting dill with Brussels sprouts can enhance pest management and promote plant growth."
+            },
+            {
+              "name": "Caraway",
+              "description": "Dill and caraway are compatible companions, often grown together in herb gardens. They belong to the same family (Apiaceae) and share similar growing conditions. Planting them near each other can enhance pollination and provide a diverse habitat for beneficial insects."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids can infest dill plants, sucking sap from the leaves and causing distortion or yellowing. Use insecticidal soap or neem oil to control aphids."
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Carrots",
+              "description": "While dill and carrots are often recommended as companion plants in traditional folklore, some gardeners believe that dill may negatively affect carrot growth if planted too closely. Dill's tall, bushy growth may overshadow young carrot seedlings, leading to stunted growth or bolting."
+            },
+            {
+              "name": "Fennel",
+              "description": "Dill and fennel are both members of the Apiaceae family and may compete for resources if planted too closely together. Additionally, planting dill near fennel may attract similar pests, leading to increased pest pressure on both plants."
+            },
+            {
+              "name": "Lavender",
+              "description": "Dill and lavender are both aromatic herbs, but they may not make good companions in the garden. Lavender prefers dry, well-drained soil, while dill thrives in moist conditions. Planting them together may lead to competition for water and nutrients, affecting their growth."
+            },
+            {
+              "name": "Sage",
+              "description": "Sage and dill may compete for space and resources if planted in close proximity. Sage prefers well-drained soil and thrives in drier conditions, while dill prefers moist soil. Additionally, sage's strong aroma may overpower the delicate flavor of dill when grown nearby."
+            },
+            {
+              "name": "Rosemary",
+              "description": "Rosemary and dill have different soil and water requirements, as rosemary prefers well-drained soil and drier conditions, while dill thrives in moist soil. Planting them together may lead to competition for water and nutrients, affecting the growth of both plants."
+            }
+          ]
         },
-        {
-            "name": "Cabbage Worms",
-            "description": "Cabbage worms may feed on dill leaves, leaving behind holes or skeletonized foliage. Handpick caterpillars and use row covers to protect plants from infestation."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew can affect dill plants, causing a white powdery growth on the leaves. Ensure good air circulation around plants and avoid overhead watering to prevent powdery mildew."
-        },
-        {
-            "name": "Downy Mildew",
-            "description": "Downy mildew can also affect dill, manifesting as yellow patches on the leaves. Preventive measures include spacing plants properly and avoiding overhead watering."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest dill leaves regularly to encourage new growth and prevent the plant from bolting.",
-        "Pinch off flowers as they appear to prolong the harvest of dill leaves.",
-        "Mulch around plants to retain moisture and suppress weeds.",
-        "Inspect plants regularly for signs of pests and diseases, and take appropriate action if detected."
-    ],
+      "pests": [
+        "Aphids",
+        "Thrips",
+        "Spider Mite",
+        "Whiteflies",
+        "Cutworm",
+        "Leafminer"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps"
+      ],
+      "diseases": [
+        "Powdery Mildew",
+        "Downy Mildew",
+        "Fusarium Wilt",
+        "Root Rot",
+        "Aster Yellows"
+      ],
+      "tipsAndTricks": [
+        "Choose a planting site with well-drained soil and full sun exposure.",
+        "Directly sow dill seeds in the garden in early spring, after the last frost date.",
+        "Keep the soil consistently moist during germination and early growth stages.",
+        "Thin seedlings to about 12 inches apart to allow for proper air circulation and growth space.",
+        "Water dill regularly, providing about 1 inch of water per week, and avoid overwatering to prevent rot.",
+        "Harvest dill leaves as needed for culinary use by snipping them from the plant.",
+        "Harvest dill seeds when they are fully mature and the umbels have turned brown. Cut the umbels and hang them upside down in a paper bag to collect the seeds.",
+        "Monitor plants regularly for signs of pests such as aphids and thrips. Use insecticidal soap or neem oil as needed.",
+        "Watch for symptoms of diseases like powdery mildew and fusarium wilt. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+        "Succession plant dill every few weeks for a continuous harvest throughout the growing season.",
+        "Use dill leaves and seeds fresh or dried as a flavorful addition to salads, soups, sauces, and pickles."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Dill: Planting Guide",

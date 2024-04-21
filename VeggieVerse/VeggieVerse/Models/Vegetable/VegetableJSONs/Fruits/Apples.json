@@ -6,107 +6,155 @@
     "backgroundImageUrl": "Apples_background",
     "varieties": "Apples are available in a vast array of cultivars, each offering its own unique flavor, texture, and ideal uses. Some popular apple varieties include 'Red Delicious', known for its deep red color and sweet flavor; 'Granny Smith', prized for its tartness and crisp texture, making it ideal for baking and snacking; 'Honeycrisp', celebrated for its exceptionally crisp texture and sweet-tart flavor; 'Fuji', recognized for its firmness, sweetness, and long shelf life; 'Gala', beloved for its sweet flavor and thin skin, perfect for eating fresh; and 'Golden Delicious', renowned for its honey-like sweetness and versatility in cooking and baking. These varieties, among many others, provide a diverse range of options to suit different tastes and culinary preferences.",
     "sowingAndPlanting": {
-      "sowingIndoorsDescription": "Apples are typically propagated from grafted trees rather than grown from seeds. Purchase young apple trees from a nursery or garden center, selecting varieties suitable for your climate and growing conditions.",
-      "sowingOutdoorsDescription": "Plant apple trees in late winter or early spring while they are still dormant. Choose a sunny location with well-drained soil. Dig a hole slightly larger than the root ball of the tree and backfill with soil, ensuring the graft union is above the soil line. Space trees according to their mature size, typically 15-25 feet apart.",
-      "spaceBetweenPlants": "15\'-25\'",
-      "spaceBetweenRows": "Varies based on planting scheme",
-      "squareFootPlantingRecommendationsMin": 0,
-      "squareFootPlantingRecommendationsMax": 0,
-      "lifeCycle": "Perennial",
-      "seedDepth": "N/A",
-      "pHRange": "6.0 - 7.0",
-      "germinationSoilTemp": "N/A",
-      "season": "Apple trees should be planted in late winter or early spring while dormant. They require a chilling period during winter and thrive in temperate climates."
+        "sowingIndoorsDescription": "Apples are typically propagated from grafted trees rather than grown from seeds. Purchase young apple trees from a nursery or garden center, selecting varieties suitable for your climate and growing conditions.",
+        "sowingOutdoorsDescription": "Plant apple trees in late winter or early spring while they are still dormant. Choose a sunny location with well-drained soil. Dig a hole slightly larger than the root ball of the tree and backfill with soil, ensuring the graft union is above the soil line. Space trees according to their mature size, typically 15-25 feet apart.",
+        "spaceBetweenPlants": "15'-25'",
+        "spaceBetweenRows": "Varies",
+        "squareFootPlantingRecommendationsMin": 0,
+        "squareFootPlantingRecommendationsMax": 0,
+        "lifeCycle": "Perennial",
+        "seedDepth": "N/A",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "N/A",
+        "season": "Apple trees should be planted in late winter or early spring while dormant. They require a chilling period during winter and thrive in temperate climates."
     },
     "careAndMaintenance": {
-      "optimalSun": "Full Sun",
-      "growingSoilTemp": "50-85°F",
-      "growingDescription": "Apple trees prefer full sun and well-drained soil. Water newly planted trees regularly to establish a deep root system. Mulch around trees to conserve moisture, suppress weeds, and maintain soil temperature.",
-      "wateringNeeds": "Regular watering, aiming for 1-2 inches per week, especially during dry periods.",
-      "soilFertility": "Incorporate compost into the soil before planting to improve fertility and soil structure. Fertilize apple trees annually in early spring with a balanced fertilizer according to package instructions.",
-      "pruningRequirements": "Prune apple trees annually in late winter or early spring to remove dead, diseased, or crossing branches. Thin out the canopy to improve air circulation and light penetration. Train young trees to a central leader or desired shape.",
-      "supportRequirements": "Young apple trees may need support until they establish a strong root system. Stake trees at planting or as needed to prevent leaning or damage from wind."
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "50-85°F",
+        "growingDescription": "Apple trees prefer full sun and well-drained soil. Water newly planted trees regularly to establish a deep root system. Mulch around trees to conserve moisture, suppress weeds, and maintain soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1-2 inches per week, especially during dry periods.",
+        "soilFertility": "Incorporate compost into the soil before planting to improve fertility and soil structure. Fertilize apple trees annually in early spring with a balanced fertilizer according to package instructions.",
+        "pruningRequirements": "Prune apple trees annually in late winter or early spring to remove dead, diseased, or crossing branches. Thin out the canopy to improve air circulation and light penetration. Train young trees to a central leader or desired shape.",
+        "supportRequirements": "Young apple trees may need support until they establish a strong root system. Stake trees at planting or as needed to prevent leaning or damage from wind."
     },
     "harvestingAndStorage": {
-      "daysToHarvest": "Varies by variety and rootstock",
-      "timeToMaturity": "Apple trees typically begin bearing fruit 2-5 years after planting, depending on the variety, rootstock, and growing conditions.",
-      "storageRecommendations": "Harvest apples when they are fully ripe, indicated by their color, flavor, and firmness. Twist or gently lift apples from the tree, taking care not to damage the fruit or branches. Store harvested apples in a cool, humid place such as a root cellar or refrigerator for up to several months.",
-      "harvestDescription": "Harvest apples by twisting or gently lifting them from the tree when they are fully ripe. Handle apples carefully to avoid bruising or damaging the fruit."
+        "daysToHarvest": "Varies by variety and rootstock",
+        "timeToMaturity": "Apple trees typically begin bearing fruit 2-5 years after planting, depending on the variety, rootstock, and growing conditions.",
+        "storageRecommendations": "Harvest apples when they are fully ripe, indicated by their color, flavor, and firmness. Twist or gently lift apples from the tree, taking care not to damage the fruit or branches. Store harvested apples in a cool, humid place such as a root cellar or refrigerator for up to several months.",
+        "harvestDescription": "Harvest apples by twisting or gently lifting them from the tree when they are fully ripe. Handle apples carefully to avoid bruising or damaging the fruit."
+    },
+    "SpringSowing": {
+      "Indoors": [],
+      "Transplant": [],
+      "Outdoors": [0, 2],
+      "LastSowDate": null
+    },
+    "FallSowing": {
+      "Outdoors": [],
+      "Transplant": [],
+      "DaysToMaturity": 2920,
+      "FrostTolerance": "Hardy"
     },
     "companionPlants": {
-       "goodCompanionPlants": [
-         {
-           "name": "Daffodils",
-           "description": "Daffodils can be planted near apple trees to help repel pests like aphids and caterpillars. They also add beauty to the orchard."
-         },
-         {
-           "name": "Nasturtiums",
-           "description": "Nasturtiums can be interplanted with apple trees to help repel pests like aphids and codling moths. Additionally, they attract beneficial insects and can improve soil health."
-         },
-         {
-           "name": "Chives",
-           "description": "Chives planted near apple trees can deter pests like aphids with their strong scent. They are also edible and can be harvested for culinary use."
-         },
-         {
-           "name": "Marigolds",
-           "description": "Marigolds planted around apple trees can deter pests like nematodes with their strong scent. They also attract beneficial insects and add color to the garden."
-         },
-         {
-           "name": "Lavender",
-           "description": "Lavender planted near apple trees attracts pollinators and beneficial insects while repelling pests like moths, fleas, and mosquitoes. It also adds fragrance to the garden."
-         },
-         {
-           "name": "Dill",
-           "description": "Dill attracts beneficial insects like ladybugs and predatory wasps while repelling pests like aphids and spider mites. It can also be harvested for culinary use."
-         },
-         {
-           "name": "Yarrow",
-           "description": "Yarrow planted near apple trees attracts beneficial insects like ladybugs, lacewings, and parasitic wasps. It also improves soil health with its deep root system."
-         }
-       ],
-       "badCompanionPlants": [
-         {
-           "name": "Grass",
-           "description": "Grass and other ground covers that compete with apple trees for nutrients and water should be avoided. They can also provide habitat for pests."
-         },
-         {
-           "name": "Walnuts",
-           "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including apple trees. Avoid planting apple trees near walnut trees."
-         },
-         {
-           "name": "Potatoes",
-           "description": "Potatoes are susceptible to diseases like potato blight and can attract pests like Colorado potato beetles, making them poor companions for apple trees."
-         },
-         {
-           "name": "Corn",
-           "description": "Corn is a heavy feeder that competes for nutrients and can shade out apple trees. Additionally, corn can attract pests like aphids and corn borers."
-         },
-         {
-           "name": "Fennel",
-           "description": "Fennel produces chemicals that inhibit the growth of certain plants, including apple trees. Avoid planting fennel near apple trees."
-         },
-         {
-           "name": "Kohlrabi",
-           "description": "Kohlrabi can inhibit the growth of apple trees due to chemical interactions in the soil. Avoid planting kohlrabi near apple trees."
-         }
-       ]
-     },
+        "goodCompanionPlants": [
+            {
+                "name": "Daffodils",
+                "description": "Daffodils can be planted near apple trees to help repel pests like aphids and caterpillars. They also add beauty to the orchard."
+            },
+            {
+                "name": "Nasturtium",
+                "description": "Nasturtiums can be interplanted with apple trees to help repel pests like aphids and codling moths. Additionally, they attract beneficial insects and can improve soil health."
+            },
+            {
+                "name": "Chives",
+                "description": "Chives planted near apple trees can deter pests like aphids with their strong scent. They are also edible and can be harvested for culinary use."
+            },
+            {
+                "name": "Marigolds",
+                "description": "Marigolds planted around apple trees can deter pests like nematodes with their strong scent. They also attract beneficial insects and add color to the garden."
+            },
+            {
+                "name": "Lavender",
+                "description": "Lavender planted near apple trees attracts pollinators and beneficial insects while repelling pests like moths, fleas, and mosquitoes. It also adds fragrance to the garden."
+            },
+            {
+                "name": "Dill",
+                "description": "Dill attracts beneficial insects like ladybugs and predatory wasps while repelling pests like aphids and spider mites. It can also be harvested for culinary use."
+            },
+            {
+                "name": "Yarrow",
+                "description": "Yarrow planted near apple trees attracts beneficial insects like ladybugs, lacewings, and parasitic wasps. It also improves soil health with its deep root system."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Grass",
+                "description": "Grass and other ground covers that compete with apple trees for nutrients and water should be avoided. They can also provide habitat for pests."
+            },
+            {
+                "name": "Walnuts",
+                "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including apple trees. Avoid planting apple trees near walnut trees."
+            },
+            {
+                "name": "Potatoes",
+                "description": "Potatoes are susceptible to diseases like potato blight and can attract pests like Colorado potato beetles, making them poor companions for apple trees."
+            },
+            {
+                "name": "Corn",
+                "description": "Corn is a heavy feeder that competes for nutrients and can shade out apple trees. Additionally, corn can attract pests like aphids and corn borers."
+            },
+            {
+                "name": "Fennel",
+                "description": "Fennel produces chemicals that inhibit the growth of certain plants, including apple trees. Avoid planting fennel near apple trees."
+            },
+            {
+                "name": "Kohlrabi",
+                "description": "Kohlrabi can inhibit the growth of apple trees due to chemical interactions in the soil. Avoid planting kohlrabi near apple trees."
+            }
+        ]
+    },
     "pests": [
-        {
-            "name": "Codling Moth",
-            "description": "The codling moth is a common pest of apple trees, laying its eggs on developing fruit. The larvae hatch and burrow into the fruit, causing damage and making the apples unmarketable. Prevent codling moth damage by monitoring for adult moths with pheromone traps, applying insecticidal sprays or beneficial nematodes to control larvae, and removing infested fruit promptly."
-        }
+        "Codling Moth",
+        "Sawfly",
+        "Aphids",
+        "Leafhopper",
+        "Slug",
+        "Snail",
+        "Maggot",
+        "Corn Earworm",
+        "Diamondback Moth",
+        "Cabbage Looper",
+        "Cabbage Maggot",
+        "Leafroller",
+        "Leafminer",
+        "Thrips",
+        "Rust Mite",
+        "Scale",
+        "Spider Mite",
+        "Mealybug",
+        "Fruit Moth",
+        "Asian Lady Beetle",
+        "Earwig",
+        "Four-Lined Plant Bug",
+        "Tarnished Plant Bug"
+    ],
+    "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
     ],
     "diseases": [
-        {
-            "name": "Apple Scab",
-            "description": "Apple scab is a fungal disease that affects apple trees, causing dark, scabby lesions on leaves, fruit, and twigs. It thrives in warm, humid conditions and can lead to reduced fruit quality and yield. Prevent apple scab by planting disease-resistant apple varieties, practicing good sanitation, and applying fungicidal sprays preventatively."
-        }
+        "Fire Blight",
+        "Scab",
+        "Powdery Mildew",
+        "Rust",
+        "Mosaic Virus",
+        "Canker",
+        "Anthracnose",
+        "Cedar-Apple Rust",
+        "Blister Spot",
+        "Phytophthora Root Rot"
     ],
     "tipsAndTricks": [
-        "Harvest apples when they are ripe for the best flavor and texture.",
-        "Store harvested apples in a cool, humid environment to prolong freshness and prevent spoilage.",
-        "Prune apple trees annually to remove dead, diseased, or damaged wood and improve airflow."
+        "Plant apple trees in well-draining soil and full sun.",
+        "Prune apple trees annually to remove dead or diseased wood and improve airflow.",
+        "Apply dormant oil spray in late winter to control overwintering pests and diseases.",
+        "Thin out excess fruit to improve fruit quality and prevent branch damage.",
+        "Monitor trees regularly for signs of pests and diseases, and take appropriate action.",
+        "Harvest apples when they are fully ripe for the best flavor and texture.",
+        "Store harvested apples in a cool, humid environment to prolong freshness and prevent spoilage."
     ],
     "linksToAdditionalResources": [
         {

@@ -33,41 +33,94 @@
         "storageRecommendations": "Harvest turnips when they reach the desired size, usually 2-3 inches in diameter for most varieties. Use a garden fork or trowel to loosen the soil around the roots and lift them gently from the ground. Trim off the tops and store harvested turnips in the refrigerator for up to two weeks.",
         "harvestDescription": "Harvest turnips when they reach the desired size and the tops start to push out of the ground. Gently loosen the soil around the roots and lift them from the ground, taking care not to damage the roots. Rinse the turnips thoroughly to remove any soil before storing or using them."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [],
+        "Transplant": [],
+        "Outdoors": [4, 3],
+        "LastSowDate": -4
+      },
+      "FallSowing": {
+        "Outdoors": [-9, -7],
+        "Transplant": [],
+        "DaysToMaturity": 50,
+        "FrostTolerance": "Tolerant"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Peas",
-                "description": "Peas can be planted near turnips to help improve soil fertility by fixing nitrogen and provide natural pest control in the garden."
+              "name": "Peas",
+              "description": "Peas are excellent companions for turnips. They help fix nitrogen in the soil, which benefits turnip growth. Additionally, their shallow roots do not compete with turnips for nutrients, making them compatible planting partners."
             },
             {
-                "name": "Lettuce",
-                "description": "Lettuce can be interplanted with turnips to provide natural ground cover and help suppress weeds."
-            }
-        ],
-        "badCompanionPlants": [
+              "name": "Lettuce",
+              "description": "Lettuce is a good companion for turnips. Interplanting lettuce with turnips can help maximize space in the garden, as both plants have compact growth habits. Lettuce also helps to shade the soil, retain moisture, and suppress weeds around turnip plants."
+            },
             {
-                "name": "Potatoes",
-                "description": "Potatoes are not recommended to be planted near turnips as they may compete for space and nutrients."
+              "name": "Radishes",
+              "description": "Radishes are beneficial companions for turnips. Planting radishes near turnips can help deter pests like flea beetles and root maggots, as radishes emit compounds that repel these insects. Additionally, radishes have shallow root systems that complement the shallow roots of turnips."
+            },
+            {
+              "name": "Beans",
+              "description": "Beans make good companions for turnips. Beans fix nitrogen in the soil, which benefits turnip growth. Additionally, the dense foliage of beans provides some shade for turnips, helping to retain soil moisture and suppress weeds."
+            },
+            {
+              "name": "Chives",
+              "description": "Chives are good companions for turnips. Planting chives near turnips can help deter pests like aphids, carrot rust flies, and cabbage worms. Chives also produce compounds that may improve the flavor of nearby plants, including turnips."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Flea Beetles",
-            "description": "Flea beetles are common pests of turnip plants, feeding on leaves and causing small, shot-hole damage. Control flea beetles by using floating row covers to exclude them from plants, applying insecticidal sprays or dusts, or using natural predators like ladybugs and lacewings."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Clubroot",
-            "description": "Clubroot is a fungal disease that affects turnips and other cruciferous vegetables, causing swelling and distortion of roots and stunting of plants. Prevent clubroot by practicing crop rotation, selecting resistant varieties, and maintaining proper soil pH and drainage."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest turnips when the roots have reached the desired size for optimal flavor and texture.",
-        "Store harvested turnips in a cool, dark, well-ventilated location for extended storage.",
-        "Practice crop rotation to prevent the buildup of soilborne diseases."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Brassicas",
+              "description": "Other brassicas, such as cabbage, broccoli, and cauliflower, may not be the best companions for turnips. They have similar nutrient and water requirements and may compete with turnips for resources. Additionally, planting them together may increase the risk of pest and disease problems."
+            },
+            {
+              "name": "Sunflower",
+              "description": "Sunflowers may not be ideal companions for turnips. Sunflowers have deep taproots that may compete with turnips for nutrients and water, especially in soils with limited resources. Additionally, the tall growth habit of sunflowers may overshadow turnips, reducing their sunlight exposure."
+            },
+            {
+              "name": "Potatoes",
+              "description": "Potatoes are not recommended as companions for turnips. Potatoes have shallow root systems that may compete with turnips for nutrients and space. Additionally, both plants are susceptible to similar pests and diseases, which may increase the risk of infestations and reduce yields for both crops."
+            },
+            {
+              "name": "Fennel",
+              "description": "Fennel may not be an ideal companion for turnips. Fennel produces chemicals that inhibit the growth of nearby plants, which can negatively affect the growth and yield of turnips."
+            }
+          ]
+        },
+      "pests": [
+        "Aphids",
+        "Flea Beetle",
+        "Cutworm",
+        "Root Maggot",
+        "Wireworm",
+        "Slug",
+        "Snail"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
+      ],
+      "diseases": [
+        "Clubroot",
+        "Downy Mildew",
+        "Powdery Mildew",
+        "Root Rot",
+        "Rust"
+      ],
+      "tipsAndTricks": [
+        "Choose a planting site with well-drained soil and full sun to partial shade exposure.",
+        "Prepare the soil by loosening it to a depth of 6-8 inches and incorporating compost or aged manure for fertility.",
+        "Sow turnip seeds directly in the garden in early spring or late summer, spacing them 2-4 inches apart in rows spaced 12-18 inches apart.",
+        "Water turnips regularly, providing about 1 inch of water per week, and mulch to conserve moisture and suppress weeds.",
+        "Fertilize turnips with a balanced fertilizer or compost tea every 3-4 weeks, following package instructions.",
+        "Thin turnip seedlings to 4-6 inches apart once they have developed their first true leaves.",
+        "Monitor plants regularly for signs of pests such as aphids and flea beetles. Use row covers or insecticidal soap as needed.",
+        "Watch for symptoms of diseases like clubroot and downy mildew. Rotate crops and avoid overhead watering to reduce disease problems.",
+        "Harvest turnips when they reach the desired size, typically 30-60 days after planting. Lift them gently from the soil using a garden fork or trowel."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Turnips: Planting Guide",

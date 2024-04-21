@@ -33,6 +33,18 @@
       "storageRecommendations": "Harvest cardoon stalks when they are young and tender, typically 8-12 inches in length. Cut the stalks from the base of the plant using a sharp knife or pruners. Store harvested cardoon stalks in the refrigerator for up to a week. Trim off any tough or fibrous parts before cooking.",
       "harvestDescription": "Harvest cardoon stalks by cutting them from the base of the plant when they are young and tender. Avoid letting the stalks become too mature or fibrous, as they can become tough and bitter."
     },
+    "SpringSowing": {
+      "Indoors": [-8, -6],
+      "Transplant": [0, 2],
+      "Outdoors": [0, 2],
+      "LastSowDate": -20
+    },
+    "FallSowing": {
+      "Outdoors": [-12, -10],
+      "Transplant": [],
+      "DaysToMaturity": 180,
+      "FrostTolerance": "Hardy"
+    },
     "companionPlants": {
         "goodCompanionPlants": [
           {
@@ -44,7 +56,7 @@
             "description": "Fennel can attract beneficial insects like ladybugs and hoverflies, which prey on pests that may affect cardoons. Additionally, fennel's strong scent can mask the smell of the cardoons, making them less attractive to pests."
           },
           {
-            "name": "Sunflowers",
+            "name": "Sunflower",
             "description": "Sunflowers can provide shade and support for tall cardoon plants. Their large, vibrant flowers can also attract pollinators to the garden, benefiting both cardoons and other nearby plants."
           },
           {
@@ -72,31 +84,40 @@
         ]
       },
     "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids can infest cardoon plants, feeding on sap and causing distorted growth and yellowing of leaves. Control aphids by spraying affected plants with water to dislodge them, introducing natural predators like ladybugs or lacewings, and using insecticidal soap or neem oil."
-        },
-        {
-            "name": "Slugs and Snails",
-            "description": "Slugs and snails can damage cardoon plants by feeding on leaves and stems, particularly in damp or humid conditions. Control slugs and snails by handpicking them from plants, using beer traps, or applying slug and snail bait sparingly."
-        }
+      "Aphids",
+      "Thrips",
+      "Leafminer",
+      "Caterpillar",
+      "Whiteflies",
+      "Snail",
+      "Slug",
+      "Snail",
+      "Beetle",
+      "Weevil",
+      "Spider Mite"
+    ],
+    "beneficial_insects": [
+      "Ladybugs",
+      "Lacewings",
+      "Hoverflies",
+      "Parasitic Wasps",
+      "Predatory Mites"
     ],
     "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that affects cardoon, causing white, powdery spots to form on leaves. It thrives in warm, humid conditions and can lead to reduced plant vigor and yield. Control powdery mildew by improving air circulation around plants, watering at the base of plants to avoid wetting foliage, and applying fungicidal sprays preventatively."
-        },
-        {
-            "name": "Bacterial Leaf Spot",
-            "description": "Bacterial leaf spot is a common disease of cardoon, characterized by dark, water-soaked lesions on leaves. It is spread by water, insects, and contaminated tools. Control bacterial leaf spot by removing and destroying infected plant material, avoiding overhead watering, and applying copper-based fungicides as needed."
-        }
+      "Powdery Mildew",
+      "Downy Mildew",
+      "Leaf Spot",
+      "Rust",
+      "Botrytis"
     ],
     "tipsAndTricks": [
-        "Plant cardoon in early spring for a spring harvest or in late summer for a fall harvest.",
-        "Provide consistent moisture throughout the growing season to produce tender leaf stalks.",
-        "Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
-        "Harvest cardoon leaf stalks promptly when they are young and tender to prevent bitterness and encourage continued production.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed."
+      "Plant cardoon in well-drained soil with full sun exposure.",
+      "Space cardoon plants properly to allow good air circulation and prevent diseases.",
+      "Apply a balanced fertilizer or compost to provide necessary nutrients for growth.",
+      "Mulch around the base of plants to retain moisture and suppress weeds.",
+      "Water cardoon plants regularly, especially during dry periods.",
+      "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+      "Harvest cardoon when the stalks are young and tender, typically before they become tough and fibrous."
     ],
     "linksToAdditionalResources": [
         {

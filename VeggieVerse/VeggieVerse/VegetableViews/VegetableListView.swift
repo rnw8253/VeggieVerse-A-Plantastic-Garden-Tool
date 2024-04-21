@@ -9,15 +9,14 @@ import Foundation
 import SwiftUI
 
 struct VegetableListView: View {
-    @EnvironmentObject var data: LoadDataModel
     private let adaptiveColumns = Array(repeating: GridItem(.flexible(), spacing: 20), count: 3)
     @State private var filterString: String = ""
     var filteredVegetables: [Vegetable] {
         if filterString == "" {
-            return data.vegetables.sorted(by: { $0.name < $1.name })
+            return LoadDataModel.shared.vegetables.sorted(by: { $0.name < $1.name })
         } else {
             
-            return data.vegetables.filter({$0.name.lowercased().contains(filterString.lowercased())}).sorted(by: { $0.name < $1.name })
+            return LoadDataModel.shared.vegetables.filter({$0.name.lowercased().contains(filterString.lowercased())}).sorted(by: { $0.name < $1.name })
         }
     }
     var body: some View {
@@ -39,6 +38,7 @@ struct VegetableListView: View {
                                     .frame(minWidth: 100, maxWidth: .infinity, minHeight: 100, maxHeight: .infinity)
                                 Text(vegetable.name)
                                     .font(.headline)
+                                    .lineLimit(2, reservesSpace: true)
                                     .foregroundColor(.black)
                             }
                             
@@ -57,7 +57,7 @@ struct VegetableListView: View {
 
 struct VegetableListView_Previews: PreviewProvider {
     static var previews: some View {
-        VegetableListView().environmentObject(LoadDataModel())
+        VegetableListView()
     }
 }
 

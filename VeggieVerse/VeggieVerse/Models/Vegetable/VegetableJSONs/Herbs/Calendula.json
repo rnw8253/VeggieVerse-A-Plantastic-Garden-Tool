@@ -33,45 +33,94 @@
        "storageRecommendations": "Harvest calendula flowers when they are fully open but before they start to fade. Cut flowers in the morning after the dew has dried but before the sun is too hot. Calendula flowers can be used fresh immediately or dried for later use. To dry calendula, hang the flowers upside down in a well-ventilated area out of direct sunlight. Once completely dry, store the flowers in an airtight container in a cool, dark place.",
        "harvestDescription": "Harvest calendula flowers by cutting the stems just above a set of leaves. Use scissors or pruning shears to avoid damaging the plant. Rinse harvested flowers under cool water to remove any dirt or debris before using them in recipes or drying them for storage."
      },
-    "companionPlants": {
-        "goodCompanionPlants": [
-            {
-                "name": "Lavender",
-                "description": "Lavender is a beneficial companion plant for calendula, as it attracts pollinators like bees and butterflies while also repelling pests like aphids and whiteflies. Planting them together can create a diverse and harmonious garden ecosystem."
-            },
-            {
-                "name": "Nasturtium",
-                "description": "Nasturtium is also a good companion plant for calendula, as it helps repel pests like aphids, whiteflies, and cucumber beetles while also attracting beneficial insects like predatory insects and pollinators. Planting them together can enhance garden health and productivity."
-            }
-        ],
-        "badCompanionPlants": [
-            {
-                "name": "Tomatoes",
-                "description": "Calendula is not recommended as a companion plant for tomatoes, as it can attract pests like aphids and whiteflies while also competing for resources like water and nutrients in the garden. It's best to plant them in separate areas to avoid potential problems."
-            },
-            {
-                "name": "Potatoes",
-                "description": "Calendula is also not recommended as a companion plant for potatoes, as it can attract pests like aphids and potato beetles while also inhibiting the growth of potatoes through allelopathy. It's best to plant them in separate areas to avoid potential problems."
-            }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are small, soft-bodied insects that feed on the sap of calendula plants, causing distorted growth and yellowing of leaves. They can also transmit viral diseases. Control aphids by spraying plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs and lacewings, or applying insecticidal soap or neem oil."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect calendula plants, especially in warm, humid conditions. It appears as a white, powdery coating on leaves and stems and can inhibit plant growth and flower production. Control powdery mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        }
-    ],
-    "tipsAndTricks": [
-        "Provide consistent moisture and avoid letting the soil dry out completely, especially during hot, dry weather.",
-        "Deadhead spent flowers regularly to encourage continuous blooming and prevent self-seeding.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action to control them before they become a problem."
-    ],
+     "SpringSowing": {
+       "Indoors": [-8, -6],
+       "Transplant": [-4, -2],
+       "Outdoors": [0, 2],
+       "LastSowDate": null
+     },
+     "FallSowing": {
+       "Outdoors": [-10, -8],
+       "Transplant": [],
+       "DaysToMaturity": 60,
+       "FrostTolerance": "Tolerant"
+     },
+     "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Tomatoes",
+             "description": "Calendula is a beneficial companion for tomatoes. It attracts pollinators like bees and beneficial insects, which can help improve pollination and fruit set in tomato plants. Additionally, calendula may help deter pests like aphids."
+           },
+           {
+             "name": "Lettuce",
+             "description": "Calendula is a good companion for lettuce. It attracts pollinators like bees and beneficial insects, which can enhance pollination and improve overall garden biodiversity. Additionally, calendula may help repel pests like aphids and beetles."
+           },
+           {
+             "name": "Cucumbers",
+             "description": "Calendula is a suitable companion for cucumbers. It attracts pollinators like bees and beneficial insects, which can enhance cucumber pollination and increase fruit production. Additionally, calendula may help deter pests like cucumber beetles."
+           },
+           {
+             "name": "Beans",
+             "description": "Calendula is a good companion for beans. It attracts pollinators like bees and beneficial insects, which can enhance pollination and improve overall garden biodiversity. Additionally, calendula may help repel pests like bean beetles."
+           },
+           {
+             "name": "Carrots",
+             "description": "Calendula is a beneficial companion for carrots. It attracts beneficial insects like predatory wasps, which can help control pests like aphids and carrot flies. Additionally, calendula may help improve soil health and add color to the garden."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Fennel",
+             "description": "Fennel may not be an ideal companion for calendula. Some gardeners believe that planting fennel near calendula can negatively affect the growth and flavor of both plants. It's best to separate them in the garden."
+           },
+           {
+             "name": "Parsley",
+             "description": "Parsley may not be suitable companion for calendula. Some gardeners believe that planting parsley near calendula can negatively affect the growth and flavor of both plants. It's best to separate them in the garden."
+           },
+           {
+             "name": "Sage",
+             "description": "Sage may not be an ideal companion for calendula. Some gardeners believe that planting sage near calendula can negatively affect the growth and flavor of both plants. It's best to separate them in the garden."
+           },
+           {
+             "name": "Rosemary",
+             "description": "Rosemary may not be a suitable companion for calendula. Some gardeners believe that planting rosemary near calendula can negatively affect the growth and flavor of both plants. It's best to separate them in the garden."
+           },
+           {
+             "name": "Garlic",
+             "description": "Garlic may not be an ideal companion for calendula. Some gardeners believe that planting garlic near calendula can negatively affect the growth and flavor of both plants. It's best to separate them in the garden."
+           }
+         ]
+       },
+     "pests": [
+       "Aphids",
+       "Spider Mite",
+       "Whiteflies",
+       "Thrips"
+     ],
+     "beneficial_insects": [
+       "Ladybugs",
+       "Lacewings",
+       "Hoverflies",
+       "Parasitic Wasps"
+     ],
+     "diseases": [
+       "Powdery Mildew",
+       "Downy Mildew",
+       "Leaf Spot",
+       "Root Rot"
+     ],
+     "tipsAndTricks": [
+       "Choose a planting site with well-drained soil and full sun to partial shade exposure.",
+       "Directly sow calendula seeds outdoors in the spring after the last frost, or start seeds indoors 4-6 weeks before the last frost date.",
+       "Water calendula regularly, providing about 1 inch of water per week, and mulch to conserve moisture and suppress weeds.",
+       "Fertilize calendula with a balanced fertilizer or compost tea every 4-6 weeks during the growing season, following package instructions.",
+       "Deadhead spent flowers to encourage continuous blooming and prevent self-seeding.",
+       "Prune calendula plants as needed to remove dead or diseased growth and promote new growth.",
+       "Harvest calendula flowers as needed for culinary, medicinal, or decorative use by snipping them from the stem.",
+       "Monitor plants regularly for signs of pests such as aphids and spider mites. Use insecticidal soap or neem oil as needed.",
+       "Watch for symptoms of diseases like powdery mildew and leaf spot. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+       "Allow some calendula flowers to go to seed to ensure a continuous supply of plants in subsequent seasons."
+     ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Calendula",

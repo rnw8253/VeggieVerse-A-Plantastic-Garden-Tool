@@ -33,49 +33,98 @@
         "storageRecommendations": "Harvest tatsoi when the leaves are young and tender, usually before they start to bolt (produce flowers). Use a sharp knife or scissors to cut the outer leaves, allowing the inner leaves to continue growing. Store harvested tatsoi in the refrigerator for up to a week.",
         "harvestDescription": "Harvest tatsoi when the leaves are large enough to use, usually when they are 4-6 inches long. Cut the outer leaves first, leaving the center leaves to continue growing. Rinse the tatsoi thoroughly to remove any soil before storing or using it."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [-6, -4],
+        "Transplant": [2, 4],
+        "Outdoors": [],
+        "LastSowDate": -13
+      },
+      "FallSowing": {
+        "Outdoors": [],
+        "Transplant": [],
+        "DaysToMaturity": 90,
+        "FrostTolerance": "Tender"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Basil",
-                "description": "Basil is a good companion plant for tomatillos, as it can help repel pests and attract beneficial insects like bees and predatory wasps."
+              "name": "Marigolds",
+              "description": "Marigolds are good companions for tomatillos. They can help repel pests like nematodes, aphids, and tomato hornworms due to their strong fragrance and natural insecticidal properties."
             },
             {
-                "name": "Marigolds",
-                "description": "Marigolds are known for their ability to repel pests like nematodes and aphids, making them an excellent companion for tomatillos."
+              "name": "Basil",
+              "description": "Basil is a beneficial companion for tomatillos. It can enhance the flavor of tomatillos and may help repel pests like aphids and spider mites."
             },
             {
-                "name": "Nasturtiums",
-                "description": "Nasturtiums are both edible and ornamental, and their pungent scent can help deter pests like aphids and whiteflies from tomatillo plants."
+              "name": "Onions",
+              "description": "Onions make good companions for tomatillos. They can help deter pests like aphids and whiteflies, and their pungent smell may confuse and repel pests."
+            },
+            {
+              "name": "Garlic",
+              "description": "Garlic is a beneficial companion for tomatillos. It can help repel pests like aphids, spider mites, and whiteflies, while also adding flavor to nearby plants."
+            },
+            {
+              "name": "Nasturtium",
+              "description": "Nasturtiums are beneficial companions for tomatillos. They can help repel pests like aphids, whiteflies, and cabbage loopers, and their bright flowers attract beneficial insects to the garden."
             }
-        ],
-        "badCompanionPlants": [
+          ],
+          "badCompanionPlants": [
             {
-                "name": "Potatoes",
-                "description": "Potatoes and tomatillos are both members of the nightshade family and are susceptible to similar pests and diseases. It's best to avoid planting them near each other to prevent cross-contamination."
+              "name": "Potatoes",
+              "description": "Potatoes are not recommended as companions for tomatillos. Both belong to the nightshade family and are susceptible to similar pests and diseases. Planting them together may increase the risk of pest infestations and diseases."
             },
             {
-                "name": "Peppers",
-                "description": "Peppers and tomatillos have similar growing requirements and may compete for resources if planted too close together. It's best to give them plenty of space in the garden."
+              "name": "Fennel",
+              "description": "Fennel may not be an ideal companion for tomatillos. Fennel produces chemicals that inhibit the growth of nearby plants, which can negatively affect the growth and yield of tomatillos."
+            },
+            {
+              "name": "Cabbage",
+              "description": "Cabbage may not be a suitable companion for tomatillos. Both plants have different growth habits and nutrient requirements, and planting them together may result in competition for resources and reduced yields."
+            },
+            {
+              "name": "Sunflower",
+              "description": "Sunflowers may not be ideal companions for tomatillos. Sunflowers have deep taproots that may compete with tomatillos for water and nutrients, and their tall stature may overshadow and shade tomatillo plants."
+            },
+            {
+              "name": "Fruit Trees",
+              "description": "Fruit trees, such as apple or pear trees, may not be suitable companions for tomatillos. Fruit trees have different growth habits and nutrient requirements, and planting them together with tomatillos may result in competition for resources and reduced yields."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Tomato Hornworm",
-            "description": "Tomato hornworms are large green caterpillars that feed on the leaves and fruit of tomatillo plants. They can cause significant damage if left unchecked. Control tomato hornworms by handpicking them from plants, applying Bacillus thuringiensis (Bt) insecticide, or introducing natural predators like parasitic wasps."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Early Blight",
-            "description": "Early blight is a fungal disease that can affect tomatillo plants, causing dark brown or black lesions on the leaves and stems. It thrives in warm, humid conditions and can spread rapidly in crowded plantings. Control early blight by practicing good garden hygiene, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest tomatillos when the husks turn brown and papery, and the fruits fill out for the best flavor and texture.",
-        "Rotate tomatillos to a new location in the garden each year to prevent soilborne diseases and pest buildup.",
-        "Inspect plants regularly for signs of pests and diseases, and take appropriate action as needed to prevent damage."
-    ],
+          ]
+        },
+      "pests": [
+        "Aphids",
+        "Flea Beetle",
+        "Cutworm",
+        "Tomato Hornworm",
+        "Whiteflies",
+        "Slug",
+      "Snail"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
+      ],
+      "diseases": [
+        "Early Blight",
+        "Late Blight",
+        "Powdery Mildew",
+        "Leaf Spot",
+        "Blossom End Rot"
+      ],
+      "tipsAndTricks": [
+        "Choose a planting site with well-drained soil and full sun exposure.",
+        "Prepare the soil by adding compost or aged manure to improve fertility and texture.",
+        "Plant tomatillo transplants in the garden after the last frost date, spacing them 2-3 feet apart in rows spaced 3-4 feet apart.",
+        "Water tomatillos regularly, providing about 1-2 inches of water per week, and mulch to conserve moisture and suppress weeds.",
+        "Fertilize tomatillos with a balanced fertilizer or compost tea every 3-4 weeks, following package instructions.",
+        "Stake or cage tomatillo plants to support their sprawling growth habit and keep fruits off the ground.",
+        "Monitor plants regularly for signs of pests such as aphids and flea beetles. Use row covers or insecticidal soap as needed.",
+        "Watch for symptoms of diseases like early blight and powdery mildew. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+        "Harvest tomatillos when the husks turn brown and papery and the fruits fill out, typically 70-80 days after planting. Twist or cut the fruits from the stems and remove the husks before using."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Tomatillos: Planting Guide",

@@ -32,6 +32,18 @@
         "storageRecommendations": "Harvest currants when they are fully ripe, usually in mid to late summer. Pick the berries by hand, taking care not to crush them, and place them in shallow containers to prevent crushing. Store harvested currants in the refrigerator for up to one week, or freeze them for longer storage.",
         "harvestDescription": "Harvest currants when they are fully ripe and easily detach from the stems. Gently pull the berries from the clusters by hand, taking care not to crush them."
     },
+    "SpringSowing": {
+      "Indoors": [],
+      "Transplant": [4, 6],
+      "Outdoors": [4, 6],
+      "LastSowDate": null
+    },
+    "FallSowing": {
+      "Outdoors": [],
+      "Transplant": [],
+      "DaysToMaturity": 365,
+      "FrostTolerance": "Tolerant"
+    },
     "companionPlants": {
         "goodCompanionPlants": [
           {
@@ -43,7 +55,7 @@
             "description": "Chives can deter pests like aphids and Japanese beetles with their strong scent when planted near currant bushes. They are also edible and can be harvested for culinary use."
           },
           {
-            "name": "Nasturtiums",
+            "name": "Nasturtium",
             "description": "Nasturtiums can be interplanted with currant bushes to help repel pests like aphids and whiteflies. They also attract beneficial insects like ladybugs and lacewings."
           },
           {
@@ -65,7 +77,7 @@
             "description": "Rhubarb is not recommended to be planted near currant bushes, as it may compete for nutrients and water. Additionally, rhubarb leaves contain oxalic acid, which can be harmful to currants."
           },
           {
-            "name": "Sunflowers",
+            "name": "Sunflower",
             "description": "Sunflowers can compete with currant bushes for sunlight, water, and nutrients, potentially reducing fruit production. Additionally, sunflowers may attract birds that can damage currant crops."
           },
           {
@@ -79,21 +91,39 @@
         ]
       },
     "pests": [
-        {
-            "name": "Currant Aphid",
-            "description": "Currant aphids are small, soft-bodied insects that feed on the sap of currant leaves and stems. They can cause curling, yellowing, and distortion of leaves, as well as reduced plant vigor. Control aphids by spraying plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs and lacewings, or applying insecticidal soap or neem oil."
-        }
+      "Aphids",
+      "Fruit Fly",
+      "Sawfly",
+      "Bud Mite",
+      "Gall Mite",
+      "Stem Girdler",
+      "Clearwing Moth",
+      "Leafroller",
+      "Tortrix",
+      "Spanworm"
+    ],
+    "beneficial_insects": [
+      "Ladybugs",
+      "Lacewings",
+      "Hoverflies",
+      "Parasitic Wasps",
+      "Predatory Mites"
     ],
     "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect currant plants, especially in warm, humid conditions. It appears as a white, powdery coating on leaves and stems and can inhibit plant growth and fruit production. Control powdery mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        }
+      "White Pine Blister Rust",
+      "Powdery Mildew",
+      "Anthracnose",
+      "Leaf Spot",
+      "Leaf Curl"
     ],
     "tipsAndTricks": [
-        "Prune currant shrubs regularly to maintain an open, airy canopy and promote fruit production.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed to prevent damage.",
-        "Provide adequate support for heavily laden branches to prevent breakage and ensure a good harvest."
+      "Plant currant bushes in well-drained soil with good air circulation.",
+      "Prune currant bushes annually to remove old wood and promote new growth.",
+      "Apply a balanced fertilizer in early spring to encourage healthy growth.",
+      "Mulch around the base of plants to conserve moisture and suppress weeds.",
+      "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+      "Harvest currants when they are fully ripe and easily detach from the plant.",
+      "Store harvested currants in the refrigerator and consume them within a few days for the best flavor."
     ],
     "linksToAdditionalResources": [
         {

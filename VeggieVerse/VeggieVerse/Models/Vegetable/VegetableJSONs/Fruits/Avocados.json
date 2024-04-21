@@ -5,103 +5,133 @@
     "backgroundImageUrl": "Avocados_background",
     "varieties": "Avocados, also known as alligator pears, come in various cultivars, each with its unique flavor, texture, and skin characteristics. Some popular avocado varieties include 'Hass', prized for its creamy texture, rich flavor, and distinctive pebbly skin that turns purplish-black when ripe; 'Fuerte', known for its smooth, green skin and buttery flavor; 'Reed', favored for its large size, creamy texture, and nutty flavor; and 'Zutano', valued for its early ripening and mild taste. These varieties, among others, provide a range of options suited for different culinary uses and growing conditions.",
     "sowingAndPlanting": {
-      "sowingIndoorsDescription": "Avocado seeds can be started indoors by carefully removing the seed from a ripe avocado and washing it to remove any remaining fruit. Insert three or four toothpicks around the middle of the seed and suspend it, pointed end up, over a glass of water. Place the glass in a warm, sunny location, and change the water every few days. Roots should sprout within 2-6 weeks, at which point the seedling can be transplanted into a pot filled with well-draining soil.",
-      "sowingOutdoorsDescription": "Avocado trees can also be grown outdoors from grafted saplings purchased from nurseries. Select a sunny location with well-drained soil. Dig a hole twice as wide and as deep as the root ball of the sapling. Place the sapling in the hole, backfill with soil, and water thoroughly. Space multiple trees at least 20 feet apart.",
-      "spaceBetweenPlants": "20\'",
-      "spaceBetweenRows": "Varies based on planting scheme",
-      "squareFootPlantingRecommendationsMin": 0,
-      "squareFootPlantingRecommendationsMax": 0,
-      "lifeCycle": "Perennial",
-      "seedDepth": "1\"",
-      "pHRange": "6.0 - 7.0",
-      "germinationSoilTemp": "70-85°F",
-      "season": "Avocado seeds can be started indoors at any time of year, but outdoor planting of saplings is best done in spring or fall."
+        "sowingIndoorsDescription": "Avocado seeds can be started indoors by carefully removing the seed from a ripe avocado and washing it to remove any remaining fruit. Insert three or four toothpicks around the middle of the seed and suspend it, pointed end up, over a glass of water. Place the glass in a warm, sunny location, and change the water every few days. Roots should sprout within 2-6 weeks, at which point the seedling can be transplanted into a pot filled with well-draining soil.",
+        "sowingOutdoorsDescription": "Avocado trees can also be grown outdoors from grafted saplings purchased from nurseries. Select a sunny location with well-drained soil. Dig a hole twice as wide and as deep as the root ball of the sapling. Place the sapling in the hole, backfill with soil, and water thoroughly. Space multiple trees at least 20 feet apart.",
+        "spaceBetweenPlants": "20'",
+        "spaceBetweenRows": "Varies",
+        "squareFootPlantingRecommendationsMin": 0,
+        "squareFootPlantingRecommendationsMax": 0,
+        "lifeCycle": "Perennial",
+        "seedDepth": "1\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "70-85°F",
+        "season": "Avocado seeds can be started indoors at any time of year, but outdoor planting of saplings is best done in spring or fall."
     },
     "careAndMaintenance": {
-      "optimalSun": "Full Sun",
-      "growingSoilTemp": "65-85°F",
-      "growingDescription": "Avocado trees prefer full sun and well-drained soil. Water young trees deeply but infrequently to encourage deep root growth. Once established, avocados are moderately drought-tolerant but may need occasional deep watering during prolonged dry periods. Mulch around trees to retain moisture and suppress weeds.",
-      "wateringNeeds": "Moderate watering, allowing the soil to partially dry out between waterings.",
-      "soilFertility": "Avocado trees benefit from regular applications of organic fertilizer, such as compost or well-rotted manure, applied in spring and summer. Avoid high-nitrogen fertilizers, as they can promote excessive vegetative growth at the expense of fruit production.",
-      "pruningRequirements": "Prune avocado trees in late winter or early spring to shape the canopy, remove dead or diseased branches, and improve airflow and light penetration. Avoid heavy pruning, as this can reduce fruiting.",
-      "supportRequirements": "Young avocado trees may benefit from staking to provide support until they establish a strong root system. Avoid staking too tightly, as this can restrict trunk growth."
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "65-85°F",
+        "growingDescription": "Avocado trees prefer full sun and well-drained soil. Water young trees deeply but infrequently to encourage deep root growth. Once established, avocados are moderately drought-tolerant but may need occasional deep watering during prolonged dry periods. Mulch around trees to retain moisture and suppress weeds.",
+        "wateringNeeds": "Moderate watering, allowing the soil to partially dry out between waterings.",
+        "soilFertility": "Avocado trees benefit from regular applications of organic fertilizer, such as compost or well-rotted manure, applied in spring and summer. Avoid high-nitrogen fertilizers, as they can promote excessive vegetative growth at the expense of fruit production.",
+        "pruningRequirements": "Prune avocado trees in late winter or early spring to shape the canopy, remove dead or diseased branches, and improve airflow and light penetration. Avoid heavy pruning, as this can reduce fruiting.",
+        "supportRequirements": "Young avocado trees may benefit from staking to provide support until they establish a strong root system. Avoid staking too tightly, as this can restrict trunk growth."
     },
     "harvestingAndStorage": {
-      "daysToHarvest": "3-8 years from planting",
-      "timeToMaturity": "Avocado trees typically begin producing fruit 3-8 years after planting, depending on the variety and growing conditions.",
-      "storageRecommendations": "Harvest avocados when they are fully ripe, but still firm. The fruit should yield slightly to gentle pressure when squeezed in the palm of the hand. If avocados are harvested before they are ripe, they can be stored at room temperature to ripen. Once ripe, avocados can be stored in the refrigerator for a few days to slow down ripening.",
-      "harvestDescription": "To harvest avocados, gently twist the fruit from the tree or use pruning shears to cut the stem, leaving a small piece attached to the fruit. Handle avocados carefully to avoid bruising, as they can easily become damaged."
+        "daysToHarvest": "3-8 years from planting",
+        "timeToMaturity": "Avocado trees typically begin producing fruit 3-8 years after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest avocados when they are fully ripe, but still firm. The fruit should yield slightly to gentle pressure when squeezed in the palm of the hand. If avocados are harvested before they are ripe, they can be stored at room temperature to ripen. Once ripe, avocados can be stored in the refrigerator for a few days to slow down ripening.",
+        "harvestDescription": "To harvest avocados, gently twist the fruit from the tree or use pruning shears to cut the stem, leaving a small piece attached to the fruit. Handle avocados carefully to avoid bruising, as they can easily become damaged."
+    },
+    "SpringSowing": {
+      "Indoors": [],
+      "Transplant": [],
+      "Outdoors": [12, 16],
+      "LastSowDate": null
+    },
+    "FallSowing": {
+      "Outdoors": [],
+      "Transplant": [],
+      "DaysToMaturity": 1825,
+      "FrostTolerance": "Tender"
     },
     "companionPlants": {
         "goodCompanionPlants": [
-          {
-            "name": "Citrus Trees",
-            "description": "Citrus trees like oranges and lemons make good companions for avocados as they have similar soil and water requirements. Additionally, their shallow root systems complement each other, reducing competition for nutrients and water."
-          },
-          {
-            "name": "Basil",
-            "description": "Basil can improve the flavor of avocados and help repel pests like aphids, mosquitoes, and mites. Planting basil near avocado trees can also attract beneficial insects."
-          },
-          {
-            "name": "Nasturtiums",
-            "description": "Nasturtiums planted near avocado trees can repel pests like aphids, whiteflies, and scales. They also attract beneficial insects and add color to the garden."
-          },
-          {
-            "name": "Comfrey",
-            "description": "Comfrey planted near avocado trees can improve soil fertility with its deep roots and nutrient-rich leaves. It also acts as a dynamic accumulator, bringing up minerals from deep in the soil."
-          },
-          {
-            "name": "Marigolds",
-            "description": "Marigolds planted around avocado trees can deter pests like nematodes and attract beneficial insects like ladybugs and lacewings. They also add color and beauty to the garden."
-          },
-          {
-            "name": "Chives",
-            "description": "Chives can deter pests like aphids with their strong scent when planted near avocado trees. They are also edible and can be harvested for culinary use."
-          }
+            {
+                "name": "Citrus",
+                "description": "Citrus trees like oranges and lemons make good companions for avocados as they have similar soil and water requirements. Additionally, their shallow root systems complement each other, reducing competition for nutrients and water."
+            },
+            {
+                "name": "Basil",
+                "description": "Basil can improve the flavor of avocados and help repel pests like aphids, mosquitoes, and mites. Planting basil near avocado trees can also attract beneficial insects."
+            },
+            {
+                "name": "Nasturtium",
+                "description": "Nasturtiums planted near avocado trees can repel pests like aphids, whiteflies, and scales. They also attract beneficial insects and add color to the garden."
+            },
+            {
+                "name": "Comfrey",
+                "description": "Comfrey planted near avocado trees can improve soil fertility with its deep roots and nutrient-rich leaves. It also acts as a dynamic accumulator, bringing up minerals from deep in the soil."
+            },
+            {
+                "name": "Marigolds",
+                "description": "Marigolds planted around avocado trees can deter pests like nematodes and attract beneficial insects like ladybugs and lacewings. They also add color and beauty to the garden."
+            },
+            {
+                "name": "Chives",
+                "description": "Chives can deter pests like aphids with their strong scent when planted near avocado trees. They are also edible and can be harvested for culinary use."
+            }
         ],
         "badCompanionPlants": [
-          {
-            "name": "Grass",
-            "description": "Grass and other ground covers that compete with avocado trees for nutrients and water should be avoided. They can also provide habitat for pests."
-          },
-          {
-            "name": "Walnuts",
-            "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including avocados. Avoid planting avocados near walnut trees."
-          },
-          {
-            "name": "Potatoes",
-            "description": "Potatoes are susceptible to diseases like potato blight and can attract pests like Colorado potato beetles, making them poor companions for avocado trees."
-          },
-          {
-            "name": "Corn",
-            "description": "Corn is a heavy feeder that competes for nutrients and can shade out avocado trees. Additionally, corn can attract pests like aphids and corn borers."
-          },
-          {
-            "name": "Fennel",
-            "description": "Fennel produces chemicals that inhibit the growth of certain plants, including avocado trees. Avoid planting fennel near avocado trees."
-          },
-          {
-            "name": "Kohlrabi",
-            "description": "Kohlrabi can inhibit the growth of avocado trees due to chemical interactions in the soil. Avoid planting kohlrabi near avocado trees."
-          }
+            {
+                "name": "Grass",
+                "description": "Grass and other ground covers that compete with avocado trees for nutrients and water should be avoided. They can also provide habitat for pests."
+            },
+            {
+                "name": "Walnuts",
+                "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including avocados. Avoid planting avocados near walnut trees."
+            },
+            {
+                "name": "Potatoes",
+                "description": "Potatoes are susceptible to diseases like potato blight and can attract pests like Colorado potato beetles, making them poor companions for avocado trees."
+            },
+            {
+                "name": "Corn",
+                "description": "Corn is a heavy feeder that competes for nutrients and can shade out avocado trees. Additionally, corn can attract pests like aphids and corn borers."
+            },
+            {
+                "name": "Fennel",
+                "description": "Fennel produces chemicals that inhibit the growth of certain plants, including avocado trees. Avoid planting fennel near avocado trees."
+            },
+            {
+                "name": "Kohlrabi",
+                "description": "Kohlrabi can inhibit the growth of avocado trees due to chemical interactions in the soil. Avoid planting kohlrabi near avocado trees."
+            }
         ]
-      },
+    },
     "pests": [
-        {
-            "name": "Avocado Lace Bug",
-            "description": "The avocado lace bug is a common pest of avocado trees, feeding on the undersides of leaves and causing yellowing, stippling, and premature leaf drop. Control avocado lace bugs by spraying affected trees with a strong stream of water to dislodge the insects, introducing natural predators like ladybugs or lacewings, and applying insecticidal soap or neem oil."
-        }
+      "Lace Bug",
+      "Red Mite",
+      "Brown Mite",
+      "Thrips",
+      "Leafroller",
+      "Mealybug",
+      "Whiteflies",
+      "Weevil",
+      "Scale Insect"
+    ],
+    "beneficial_insects": [
+      "Ladybugs",
+      "Lacewings",
+      "Hoverflies",
+      "Parasitic Wasps",
+      "Predatory Mites"
     ],
     "diseases": [
-        {
-            "name": "Phytophthora Root Rot",
-            "description": "Phytophthora root rot is a fungal disease that affects avocado trees, causing root rot and wilting. It thrives in waterlogged soil and can lead to the decline and death of affected trees. Prevent phytophthora root rot by planting avocado trees in well-draining soil, avoiding overwatering, and improving soil drainage if necessary."
-        }
+      "Anthracnose",
+      "Root Rot",
+      "Sunblotch Viroid",
+      "Scab",
+      "Phytophthora Root Rot"
     ],
     "tipsAndTricks": [
-        "Harvest avocados when they are fully mature, but still firm, for the best flavor and texture.",
-        "Store harvested avocados at room temperature until they ripen, then refrigerate to prolong freshness.",
-        "Prune avocado trees annually to remove dead, diseased, or damaged wood and improve airflow."
+      "Plant avocado trees in well-draining soil with good drainage.",
+      "Ensure proper irrigation to prevent waterlogged soil.",
+      "Mulch around the base of trees to conserve moisture and suppress weeds.",
+      "Prune avocado trees for shaping and to remove dead or diseased branches.",
+      "Protect young trees from strong winds and frost.",
+      "Monitor trees regularly for signs of pests and diseases, and take appropriate action.",
+      "Harvest avocados when they are fully ripe but still firm to the touch.",
+      "Store harvested avocados at room temperature until ripe, then refrigerate to extend freshness."
     ],
     "linksToAdditionalResources": [
         {

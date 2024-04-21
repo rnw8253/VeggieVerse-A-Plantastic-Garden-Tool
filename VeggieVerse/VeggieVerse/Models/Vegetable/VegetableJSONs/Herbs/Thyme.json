@@ -33,37 +33,93 @@
         "storageRecommendations": "Harvest thyme leaves as needed for culinary use. Use fresh leaves immediately for the best flavor. Alternatively, you can dry thyme leaves by hanging them upside down in a warm, well-ventilated area until they are completely dry. Store dried thyme leaves in an airtight container in a cool, dark place.",
         "harvestDescription": "Harvest thyme leaves by snipping them from the plant as needed. Harvest leaves when they are young and tender for the best flavor."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [-10, -8],
+        "Transplant": [1, 2],
+        "Outdoors": [],
+        "LastSowDate": -12
+      },
+      "FallSowing": {
+        "Outdoors": [],
+        "Transplant": [],
+        "DaysToMaturity": 85,
+        "FrostTolerance": "Hardy"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Rosemary",
-                "description": "Rosemary is a good companion for thyme, as it may help deter certain pests and complement its aromatic qualities."
+              "name": "Basil",
+              "description": "Basil makes an excellent companion for thyme due to its ability to repel pests like mosquitoes and flies. It also shares similar soil and sunlight preferences, making them compatible in the garden. Additionally, planting basil near thyme can enhance the flavor of both herbs when used together in culinary dishes."
             },
             {
-                "name": "Sage",
-                "description": "Sage can be planted near thyme as it complements its fragrance and both have similar cultural requirements."
+              "name": "Chamomile",
+              "description": "Chamomile is a beneficial companion for thyme as it attracts pollinators like bees and butterflies, which are essential for the reproduction of both plants. Chamomile's delicate flowers and apple-like scent add visual interest to the garden and complement the aroma of thyme leaves."
+            },
+            {
+              "name": "Lavender",
+              "description": "Lavender is a compatible companion for thyme, as both herbs prefer similar soil and sunlight conditions. Lavender's fragrant flowers attract pollinators like bees and butterflies, benefiting the overall health of thyme plants. Additionally, the calming aroma of lavender may help deter pests and promote relaxation in the garden."
+            },
+            {
+              "name": "Rosemary",
+              "description": "Rosemary is a beneficial companion for thyme as it helps repel pests like mosquitoes, cabbage moths, and carrot flies. Its aromatic foliage adds visual interest to the garden and complements the flavor of thyme in culinary dishes. Rosemary's upright growth habit also provides structural diversity to herb gardens."
+            },
+            {
+              "name": "Sage",
+              "description": "Sage makes an excellent companion for thyme due to its ability to repel pests like cabbage moths, carrot flies, and spider mites. Its aromatic foliage adds visual interest to the garden and complements the flavor of thyme in culinary dishes. Sage's drought-tolerant nature and low maintenance requirements make it an ideal companion for thyme."
             }
-        ],
-        "badCompanionPlants": []
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids can sometimes infest thyme, feeding on the sap of the leaves and causing distortion or yellowing. Control aphids by spraying affected plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs, and applying insecticidal soap or neem oil as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect thyme, causing a white powdery growth on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest thyme leaves as needed by snipping them with scissors or shears.",
-        "Prune thyme regularly to encourage bushy growth and remove dead or woody stems.",
-        "Mulch around plants to retain moisture and suppress weeds.",
-        "Consider planting thyme in containers to prevent it from spreading too vigorously."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Mint",
+              "description": "Mint should be avoided as a companion for thyme as it can be invasive and may compete aggressively for space and resources in the garden. Its spreading root system can quickly overtake nearby plants, including thyme, leading to stunted growth and reduced yields. Additionally, mint's vigorous growth habit may overshadow the delicate foliage of thyme."
+            },
+            {
+              "name": "Parsley",
+              "description": "Parsley may not be an ideal companion for thyme as it has similar soil and sunlight preferences, leading to competition for resources. Planting parsley near thyme may result in reduced growth and vigor for both herbs. Additionally, parsley's shallow root system may not effectively utilize water and nutrients, further exacerbating competition."
+            },
+            {
+              "name": "Oregano",
+              "description": "Oregano can be aggressive in the garden and may compete with thyme for space, nutrients, and water. Its spreading habit can quickly overrun nearby plants, including thyme, leading to reduced growth and vigor. Additionally, oregano's pungent aroma may overpower the delicate scent of thyme."
+            },
+            {
+              "name": "Dill",
+              "description": "Dill should be avoided as a companion for thyme as it attracts pests like aphids and spider mites. Planting dill near thyme may increase the risk of pest infestations, negatively impacting the health and productivity of thyme plants. Additionally, dill's tall, floppy stems may shade out or crowd neighboring plants."
+            },
+            {
+              "name": "Fennel",
+              "description": "Fennel may not be an ideal companion for thyme as it can inhibit the growth of nearby plants through allelopathic compounds. Planting fennel near thyme may result in reduced growth and vigor for both herbs. Additionally, fennel's strong scent may overpower the delicate aroma of thyme leaves."
+            }
+          ]
+        },
+      "pests": [
+        "Aphids",
+        "Spider Mite",
+        "Whiteflies",
+        "Thrips"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps"
+      ],
+      "diseases": [
+        "Powdery Mildew",
+        "Root Rot"
+      ],
+      "tipsAndTricks": [
+        "Plant thyme in well-drained soil with full sun exposure.",
+        "Water thyme sparingly, allowing the soil to dry out slightly between waterings.",
+        "Avoid overwatering, as thyme prefers drier conditions and is susceptible to root rot.",
+        "Fertilize thyme sparingly with a balanced fertilizer during the growing season.",
+        "Mulch around thyme plants to retain moisture and suppress weeds.",
+        "Prune thyme regularly to maintain its shape and size, and to encourage bushy growth.",
+        "Harvest thyme leaves as needed for culinary use by snipping them from the plant. Use fresh or dried leaves to flavor meats, soups, stews, and other dishes.",
+        "Monitor plants regularly for signs of pests such as aphids and spider mites. Handpick pests or use insecticidal soap as needed.",
+        "Watch for symptoms of diseases like powdery mildew and root rot. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+        "Thyme is drought-tolerant once established and prefers slightly alkaline soil. Avoid planting in heavy, waterlogged soils.",
+        "Use dried thyme leaves to make herbal teas or infused oils. Store dried leaves in an airtight container away from light and moisture."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Thyme: Planting Guide",

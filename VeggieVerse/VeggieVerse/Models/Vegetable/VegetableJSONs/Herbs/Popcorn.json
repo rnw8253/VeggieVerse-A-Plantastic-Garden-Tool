@@ -9,7 +9,7 @@
         "sowingIndoorsDescription": "Popcorn is typically sown directly outdoors as it requires ample space to grow. However, if you choose to start seeds indoors, plant them in biodegradable pots to avoid disturbing the roots during transplanting. Fill the pots with seed starting mix and plant seeds 1-2 inches deep. Keep the soil consistently moist and provide ample sunlight or grow lights.",
         "sowingOutdoorsDescription": "Popcorn should be planted directly outdoors after the last frost date in your area. Choose a sunny location with well-drained soil. Plant seeds 1-2 inches deep and space them 8-12 inches apart in rows spaced 2-3 feet apart. Ensure adequate soil moisture during the growing season.",
         "spaceBetweenPlants": "8\"-12\"",
-        "spaceBetweenRows": "2\'-3\'",
+        "spaceBetweenRows": "2'-3'",
         "squareFootPlantingRecommendationsMin": 0,
         "squareFootPlantingRecommendationsMax": 0,
         "lifeCycle": "Annual",
@@ -33,43 +33,87 @@
         "storageRecommendations": "Harvest popcorn when kernels are fully mature and dry. Allow the ears to dry on the stalk until kernels are hard and moisture content is around 13-14%. Once harvested, remove kernels from the cob and store them in a cool, dry place in breathable containers. Properly dried popcorn can be stored for several months.",
         "harvestDescription": "Harvest popcorn when the kernels are fully mature and dry. Test a few kernels by pressing your fingernail into them; if they dent rather than break, they are not yet fully dry. Once ready, pull the ears gently from the stalk and allow them to air dry further in a warm, well-ventilated area before shelling."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [],
+        "Transplant": [],
+        "Outdoors": [4, 6],
+        "LastSowDate": null
+      },
+      "FallSowing": {
+        "Outdoors": [],
+        "Transplant": [],
+        "DaysToMaturity": 100,
+        "FrostTolerance": "Tender"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Beans",
-                "description": "Beans are good companion plants for popcorn, as they can help fix nitrogen in the soil, which benefits the corn crop. Planting beans near popcorn can also help suppress weeds and provide support for tall corn stalks."
+              "name": "Squash",
+              "description": "Squash is a beneficial companion for popcorn as it can help deter pests and improve soil health. Planting squash near popcorn can help repel pests like squash bugs, cucumber beetles, and vine borers, reducing the risk of pest damage to popcorn plants. Additionally, squash plants can provide shade and act as living mulch, helping to conserve soil moisture and suppress weeds."
             },
             {
-                "name": "Squash",
-                "description": "Squash plants are another suitable companion for popcorn, as they have similar growing requirements and can help shade the soil, conserve moisture, and suppress weeds. Interplanting squash with popcorn can also help deter pests and provide a diverse planting environment."
-            }
-        ],
-        "badCompanionPlants": [
+              "name": "Sunflower",
+              "description": "Sunflowers make good companions for popcorn as they can help attract beneficial insects and improve soil health. Planting sunflowers near popcorn can attract pollinators like bees and butterflies, which can help pollinate popcorn flowers and improve yield. Additionally, sunflowers can provide shade and act as living trellises for vining popcorn varieties, supporting their growth and reducing the risk of lodging."
+            },
             {
-                "name": "Tomatoes",
-                "description": "Tomatoes are not recommended as companion plants for popcorn, as they have different growing requirements and may compete for nutrients and space. Avoid planting tomatoes near popcorn to prevent potential issues with reduced yields and overall plant health."
+              "name": "Beans",
+              "description": "Beans are beneficial companions for popcorn as they can help improve soil fertility and suppress weeds. Planting beans near popcorn can provide nitrogen-fixing benefits, enriching the soil with essential nutrients and promoting healthy popcorn growth. Additionally, bean plants can act as living mulch, shading the soil surface and suppressing weed growth, which can benefit popcorn plants."
+            },
+            {
+              "name": "Radishes",
+              "description": "Radishes make good companions for popcorn as they can help improve soil structure and deter pests. Planting radishes near popcorn can help break up compacted soil, improving water infiltration and root growth for popcorn plants. Additionally, radishes emit a strong scent that can help repel pests like aphids, flea beetles, and cucumber beetles, reducing the risk of pest damage to popcorn plants."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Corn Earworm",
-            "description": "Corn earworms are common pests of popcorn and other corn crops, especially during the ear formation stage. The larvae of these insects feed on the kernels, causing damage and reducing yields. Control corn earworms by applying biological insecticides containing Bacillus thuringiensis (Bt) or spinosad, monitoring plants regularly for signs of infestation, and removing and destroying affected ears."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Corn Smut",
-            "description": "Corn smut is a fungal disease that affects popcorn and other corn crops, causing swollen, distorted growths on the ears, stalks, and tassels. While some cultures consider corn smut a delicacy, it can reduce yields and affect crop quality. Control corn smut by planting resistant varieties, removing and destroying infected plant parts, and practicing good crop rotation."
-        }
-    ],
-    "tipsAndTricks": [
-        "Choose popcorn varieties suited to your growing region and climate for best results.",
-        "Plant popcorn in blocks rather than single rows to improve pollination and kernel development.",
-        "Protect young seedlings from birds and other pests by covering them with floating row covers until they become established.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed to prevent damage and reduce losses.",
-        "Harvest popcorn when the kernels are fully mature and dry to avoid mold and storage issues."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Tomatoes",
+              "description": "Popcorn should be avoided as a companion for tomatoes as they may compete for space, nutrients, and water in the garden bed. Both popcorn and tomatoes are heavy feeders that require ample space and resources to grow, and planting them together may lead to competition and reduced yields for both crops."
+            },
+            {
+              "name": "Cabbage",
+              "description": "Popcorn is not recommended as a companion for cabbage as it may attract common pests and diseases. Cabbage is susceptible to pests like cabbage worms, cabbage loopers, and flea beetles, and planting it near popcorn may increase the risk of pest infestations on both crops. Additionally, popcorn may shade out cabbage plants and reduce their growth and yield."
+            },
+            {
+              "name": "Potatoes",
+              "description": "Popcorn should be avoided as a companion for potatoes as they may compete for space, nutrients, and water in the garden bed. Both popcorn and potatoes are heavy feeders that require ample space and resources to grow, and planting them together may lead to competition and reduced yields for both crops."
+            },
+            {
+              "name": "Lettuce",
+              "description": "Popcorn is not recommended as a companion for lettuce as it may shade out lettuce plants and reduce their growth and yield. Lettuce is a cool-season crop that prefers partial shade, while popcorn is a warm-season crop that thrives in full sun. Planting them together may lead to competition for sunlight and space in the garden bed."
+            }
+          ]
+        },
+      "pests": [
+         "Aphids",
+         "Cutworm",
+         "Corn Earworm",
+         "European Corn Borer",
+         "Rootworm"
+       ],
+       "beneficial_insects": [
+         "Ladybugs",
+         "Lacewings",
+         "Hoverflies",
+         "Parasitic Wasps"
+       ],
+       "diseases": [
+         "Corn Smut",
+         "Northern Leaf Blight",
+         "Rust",
+         "Stalk Rot"
+       ],
+       "tipsAndTricks": [
+         "Choose a planting site with full sun and well-drained soil.",
+         "Plant popcorn seeds in blocks rather than single rows to ensure proper pollination.",
+         "Water popcorn plants consistently, providing about 1 inch of water per week, especially during dry periods.",
+         "Mulch around popcorn plants to retain soil moisture and suppress weeds.",
+         "Apply a balanced fertilizer when planting and side-dress with nitrogen once the plants are knee-high.",
+         "Harvest popcorn ears when the kernels are fully mature and hard. Test a few kernels by popping them to ensure they pop fully.",
+         "Allow harvested ears to dry thoroughly in a warm, dry place for several weeks before shelling.",
+         "Monitor plants regularly for signs of pests such as aphids and corn earworms. Use row covers or insecticidal soap as needed.",
+         "Watch for symptoms of diseases like corn smut and rust. Rotate crops and provide good air circulation to reduce disease pressure.",
+         "Store dried popcorn kernels in a cool, dry place in airtight containers to maintain freshness."
+       ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Popcorn: Tips and Techniques",

@@ -33,47 +33,101 @@
         "storageRecommendations": "Harvest German Chamomile flowers as needed for culinary or medicinal use. Use fresh flowers immediately, or dry them for later use. To dry German Chamomile flowers, spread them out in a single layer on a clean, dry surface out of direct sunlight. Store dried flowers in an airtight container in a cool, dark place.",
         "harvestDescription": "Harvest German Chamomile flowers when they are fully open and at their peak fragrance. Gently pinch or snip the flowers from the stems for use."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [-8, -6],
+        "Transplant": [-4, -2],
+        "Outdoors": [0, 2],
+        "LastSowDate": null
+      },
+      "FallSowing": {
+        "Outdoors": [-10, -8],
+        "Transplant": [],
+        "DaysToMaturity": 60,
+        "FrostTolerance": "Tolerant"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Cabbage",
-                "description": "Cabbage is a good companion plant for German chamomile, as it can benefit from the herb's aromatic compounds, which may help deter pests like cabbage moths. Interplanting chamomile with cabbage can also attract beneficial insects like hoverflies and parasitic wasps."
+              "name": "Basil",
+              "description": "German chamomile and basil can be planted together to mutually benefit each other. Basil can help repel pests like aphids and mosquitoes, while German chamomile can attract beneficial insects like hoverflies and parasitic wasps, which prey on common garden pests."
             },
             {
-                "name": "Mint",
-                "description": "Mint is also a good companion plant for German chamomile, as it can help deter pests and improve overall garden health. Interplanting chamomile with mint can create a fragrant and attractive garden bed while providing habitat for beneficial insects."
-            }
-        ],
-        "badCompanionPlants": [
-            {
-                "name": "Parsley",
-                "description": "Parsley is not recommended as a companion plant for German chamomile, as it may compete for space and nutrients in the soil. It's best to plant them in separate areas to avoid potential problems."
+              "name": "Cilantro",
+              "description": "Cilantro is a good companion for German chamomile. It can help attract beneficial insects like parasitic wasps, which prey on garden pests that may affect German chamomile. Additionally, the fragrance of cilantro may help deter certain pests from the area."
             },
             {
-                "name": "Fennel",
-                "description": "Fennel is also not recommended as a companion plant for German chamomile, as it may inhibit the growth of nearby plants with its allelopathic compounds. It's best to plant them in separate areas to avoid potential problems."
+              "name": "Dill",
+              "description": "Dill and German chamomile can be beneficial companions in the garden. Dill attracts beneficial insects like parasitic wasps and predatory insects, which can help control aphids and other pests that may affect German chamomile. Additionally, both plants have similar cultural requirements and can thrive together."
+            },
+            {
+              "name": "Mint",
+              "description": "Mint can serve as a good companion for German chamomile by repelling pests like aphids and ants. The strong aroma of mint can mask the scent of German chamomile, making it less attractive to pests. Additionally, mint's spreading habit can help provide ground cover and suppress weeds around German chamomile plants."
+            },
+            {
+              "name": "Nasturtium",
+              "description": "Nasturtiums are beneficial companions for German chamomile. They can help attract pollinators like bees and butterflies to the garden, enhancing the pollination of German chamomile flowers. Additionally, nasturtiums can repel pests like aphids, protecting German chamomile from potential damage."
+            },
+            {
+              "name": "Yarrow",
+              "description": "Yarrow is a good companion for German chamomile due to its ability to attract beneficial insects like ladybugs, lacewings, and hoverflies, which prey on common garden pests. Additionally, yarrow's aromatic foliage may help deter pests from the area, benefiting German chamomile."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are common pests of German chamomile, feeding on the sap of leaves and stems and causing distortion and stunted growth. Control aphids by spraying plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs and lacewings, or applying insecticidal soap or neem oil."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect German chamomile plants, causing white powdery patches to form on the leaves. It thrives in warm, humid conditions and can spread rapidly in crowded plantings. Control powdery mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest German chamomile flowers early in the morning when their essential oil content is highest.",
-        "Use fresh or dried German chamomile flowers to make soothing herbal teas, bath infusions, or homemade skincare products.",
-        "To dry German chamomile flowers, spread them out in a single layer on a clean, dry surface and allow them to air dry completely before storing.",
-        "Rotate German chamomile crops annually to prevent soilborne diseases and nutrient depletion.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed to prevent damage."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Fennel",
+              "description": "Fennel is not a suitable companion for German chamomile. Fennel produces allelopathic compounds that may inhibit the growth of neighboring plants, including German chamomile. Additionally, fennel can attract pests like aphids and caterpillars, which may affect German chamomile adversely."
+            },
+            {
+              "name": "Parsley",
+              "description": "Parsley may not be the best companion for German chamomile. Parsley and German chamomile have similar growth requirements and may compete for space, nutrients, and water in the garden. It's advisable to space them adequately apart to prevent overcrowding and reduce competition."
+            },
+            {
+              "name": "Sage",
+              "description": "Sage is not recommended as a companion for German chamomile. Sage produces allelopathic compounds that can inhibit the growth of nearby plants, including German chamomile. Additionally, sage's strong aroma may mask the scent of German chamomile, making it less attractive to pollinators."
+            },
+            {
+              "name": "Tansy",
+              "description": "Tansy is not an ideal companion for German chamomile. Tansy contains compounds that can inhibit the growth of neighboring plants, including German chamomile. Additionally, tansy can attract pests like Japanese beetles, which may feed on German chamomile leaves and flowers."
+            },
+            {
+              "name": "Thyme",
+              "description": "Thyme may not be the best companion for German chamomile. Thyme and German chamomile have similar growth habits and may compete for space and resources in the garden. It's advisable to provide adequate spacing between them to prevent overcrowding and reduce competition."
+            }
+          ]
+        },
+      "pests": [
+        "Aphids",
+        "Leafhopper",
+        "Whiteflies",
+        "Spider Mite",
+        "Thrips"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps"
+      ],
+      "diseases": [
+        "Powdery Mildew",
+        "Downy Mildew",
+        "Root Rot",
+        "Fusarium Wilt"
+      ],
+      "tipsAndTricks": [
+        "Select a planting site with well-drained soil and full sun exposure.",
+        "Directly sow German chamomile seeds in the garden in early spring or fall.",
+        "Sow seeds lightly on the soil surface, as they require light for germination.",
+        "Keep the soil consistently moist during germination and early growth stages.",
+        "Thin seedlings to about 6 to 8 inches apart to allow for proper air circulation and growth space.",
+        "Water German chamomile regularly, providing about 1 inch of water per week, and avoid overwatering to prevent rot.",
+        "Mulch around German chamomile plants to retain soil moisture and suppress weeds.",
+        "Harvest German chamomile flowers when they are fully open but before they start to fade.",
+        "Monitor plants regularly for signs of pests such as aphids and leafhoppers. Use insecticidal soap or neem oil as needed.",
+        "Watch for symptoms of diseases like powdery mildew and root rot. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+        "German chamomile self-seeds readily, so deadhead flowers if you don't want them to spread.",
+        "Use German chamomile flowers fresh or dried to make soothing herbal teas or as a natural remedy for various ailments."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing German Chamomile: A Complete Guide",

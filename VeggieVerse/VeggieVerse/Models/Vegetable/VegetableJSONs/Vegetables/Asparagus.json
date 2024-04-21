@@ -33,6 +33,18 @@
        "storageRecommendations": "Harvest asparagus spears when they are young and tender, typically 6-8 inches tall. Cut spears just below the soil surface using a sharp knife or asparagus knife. Store harvested asparagus in the refrigerator for up to a week, or blanch and freeze for longer storage.",
        "harvestDescription": "Harvest asparagus spears by cutting them just below the soil surface when they reach 6-8 inches tall. Snap or cut spears at ground level to avoid damaging the crown."
      },
+     "SpringSowing": {
+       "Indoors": [],
+       "Transplant": [],
+       "Outdoors": [-2, 0],
+       "LastSowDate": -24
+     },
+     "FallSowing": {
+       "Outdoors": [],
+       "Transplant": [],
+       "DaysToMaturity": 1095,
+       "FrostTolerance": "Hardy"
+     },
      "companionPlants": {
          "goodCompanionPlants": [
            {
@@ -48,7 +60,7 @@
              "description": "Basil can enhance the flavor of asparagus when planted nearby due to its aromatic foliage. It can also help repel pests like asparagus beetles and spider mites, enhancing the overall health of the asparagus plants."
            },
            {
-             "name": "Nasturtiums",
+             "name": "Nasturtium",
              "description": "Nasturtiums can attract predatory insects like ladybugs and lacewings, which help control pests that may affect asparagus. Their flowers also add color and beauty to the garden."
            },
            {
@@ -79,24 +91,41 @@
            }
          ]
        },
-    "pests": [
-        {
-            "name": "Asparagus Beetle",
-            "description": "Asparagus beetles are small, oval-shaped insects with blue-black or orange-red bodies and black heads. They feed on asparagus foliage, leaving behind skeletonized leaves and reducing plant vigor. Control asparagus beetles by handpicking them off plants, using floating row covers to exclude them, and applying insecticidal soap or neem oil as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Fusarium Crown and Root Rot",
-            "description": "Fusarium crown and root rot is a fungal disease that affects asparagus plants, causing stunted growth, yellowing foliage, and rotting of the crowns and roots. It thrives in poorly drained soil and can persist in the soil for many years. Prevent fusarium crown and root rot by planting asparagus in well-draining soil, avoiding overwatering, and practicing crop rotation."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest asparagus spears when they are 6-8 inches tall and firm for the best flavor and tenderness.",
-        "Mulch around asparagus plants to retain moisture, suppress weeds, and regulate soil temperature.",
-        "Cut back asparagus ferns to the ground after they turn brown in the fall or winter to prevent overwintering of pests and diseases.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed."
-    ],
+     "pests": [
+       "Asparagus Beetle",
+       "Aphids",
+       "Leafminer",
+       "Looper",
+       "Mite",
+       "Beetle",
+       "Aphids",
+       "Rust Fly",
+       "Snout Beetle",
+       "Thrips"
+     ],
+     "beneficial_insects": [
+       "Ladybugs",
+       "Lacewings",
+       "Hoverflies",
+       "Parasitic Wasps",
+       "Predatory Mites"
+     ],
+     "diseases": [
+       "Rust",
+       "Fusarium Wilt",
+       "Crown Rot",
+       "Stemphylium Blight",
+       "Anthracnose"
+     ],
+     "tipsAndTricks": [
+       "Plant asparagus in well-drained soil with full sun exposure.",
+       "Space asparagus plants properly to allow good air circulation and prevent diseases.",
+       "Apply a balanced fertilizer or compost to provide necessary nutrients for growth.",
+       "Mulch around the base of plants to retain moisture and suppress weeds.",
+       "Water asparagus plants regularly, especially during dry periods.",
+       "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+       "Harvest asparagus spears when they reach 6-8 inches in height, snapping them off at ground level."
+     ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Asparagus: Planting Guide",

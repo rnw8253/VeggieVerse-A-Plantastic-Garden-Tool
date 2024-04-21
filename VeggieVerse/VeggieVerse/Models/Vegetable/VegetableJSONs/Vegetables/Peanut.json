@@ -33,49 +33,99 @@
        "storageRecommendations": "Harvest peanuts when the plants begin to yellow and the pods mature. Carefully dig up the plants with a garden fork or shovel, being careful not to damage the pods. Shake off excess soil and allow the pods to dry in a warm, well-ventilated area for 1-2 weeks. Once dry, remove the pods from the plants and store them in a cool, dry place.",
        "harvestDescription": "Harvest peanuts when the plants begin to yellow and the pods mature. Carefully lift the plants from the soil and shake off excess soil. Lay the plants in a warm, dry place with good air circulation to dry the pods."
      },
-    "companionPlants": {
-        "goodCompanionPlants": [
-            {
-                "name": "Corn",
-                "description": "Corn provides structural support for peanut plants and helps improve soil fertility by fixing nitrogen. Planting peanuts between rows of corn can maximize space in the garden and promote healthy growth."
-            },
-            {
-                "name": "Beans",
-                "description": "Beans are nitrogen-fixing plants that can help improve soil fertility and provide additional support for peanut plants. Interplanting peanuts with beans can create a mutually beneficial growing environment."
-            },
-            {
-                "name": "Marigolds",
-                "description": "Marigolds are believed to repel pests that may affect peanut plants, making them a good companion plant. Plant marigolds around the perimeter of the peanut patch to deter pests."
-            }
-        ],
-        "badCompanionPlants": [
-            {
-                "name": "Grasses",
-                "description": "Grasses can compete with peanut plants for water, nutrients, and sunlight, so it's best to avoid planting them too close together."
-            },
-            {
-                "name": "Heavy Feeders",
-                "description": "Plants that are heavy feeders, like tomatoes and peppers, may compete with peanut plants for nutrients and should be planted elsewhere in the garden."
-            }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids can infest peanut plants, sucking sap from leaves and causing them to curl and distort. Control aphids by spraying affected plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs or lacewings, and using insecticidal soap or neem oil as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Leaf Spot",
-            "description": "Leaf spot is a fungal disease that can affect peanut plants, causing small, dark spots to form on leaves. Control leaf spot by removing and destroying infected leaves, improving air circulation around plants, and applying fungicidal sprays preventatively."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest peanuts when the pods have turned yellow and the shells are fully mature. Dig up the entire plant and shake off excess soil before drying.",
-        "Rotate peanut crops annually to prevent soilborne diseases and pest buildup.",
-        "Inspect plants regularly for signs of pests and diseases, and take appropriate action as needed to prevent damage."
-    ],
+     "SpringSowing": {
+       "Indoors": [],
+       "Transplant": [],
+       "Outdoors": [4, 8],
+       "LastSowDate": null
+     },
+     "FallSowing": {
+       "Outdoors": [],
+       "Transplant": [],
+       "DaysToMaturity": 120,
+       "FrostTolerance": "Tender"
+     },
+     "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Corn",
+             "description": "Corn is a beneficial companion for peanuts. Peanuts are legumes that fix nitrogen in the soil, which benefits corn by providing it with a natural source of nitrogen fertilizer. In return, corn provides structural support for peanut plants as they grow, reducing the risk of lodging. Additionally, corn shades the soil, helping to conserve moisture and suppress weeds, which can benefit peanut crops."
+           },
+           {
+             "name": "Beans",
+             "description": "Beans are good companions for peanuts. Both peanuts and beans are legumes that fix nitrogen in the soil, improving soil fertility and providing mutual benefits to each other. Interplanting beans with peanuts can enhance nitrogen fixation in the soil, leading to healthier peanut crops. Additionally, beans can act as living mulch, shading the soil and suppressing weeds, which can help conserve moisture and improve growing conditions for peanuts."
+           },
+           {
+             "name": "Sunflower",
+             "description": "Sunflowers are beneficial companions for peanuts. Sunflowers provide structural support for peanut plants as they grow, reducing the risk of lodging. Additionally, sunflowers attract beneficial insects like pollinators and predatory insects, which can help improve pollination and provide natural pest control in the garden. Interplanting sunflowers with peanuts can create a diverse and balanced ecosystem, promoting healthier peanut crops."
+           },
+           {
+             "name": "Lettuce",
+             "description": "Lettuce is a good companion for peanuts. Interplanting lettuce with peanuts can help maximize garden space and reduce weed competition. Lettuce has shallow roots that complement the deeper taproots of peanuts, allowing them to grow together without competing for nutrients. Additionally, lettuce provides some shade to peanut plants during hot weather, preventing excessive heat stress and promoting healthier growth."
+           },
+           {
+             "name": "Radishes",
+             "description": "Radishes are beneficial companions for peanuts. Planting radishes near peanuts can help deter pests like aphids and nematodes, which may affect peanut crops. Radishes have a faster growth rate and can be harvested earlier, which helps loosen the soil and break up soil crusts, creating better growing conditions for peanuts. Additionally, radishes act as a trap crop, attracting pests away from peanuts and providing natural pest control."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Potatoes",
+             "description": "Potatoes may not be ideal companions for peanuts. Both crops have different cultural requirements and growth habits. Potatoes are heavy feeders that require ample space and water, which may compete with peanuts. Additionally, planting them together may increase the risk of disease transmission, as both crops are susceptible to certain soil-borne pathogens."
+           },
+           {
+             "name": "Tomatoes",
+             "description": "Tomatoes may not be suitable companions for peanuts. Both crops have different cultural requirements and growth habits. Tomatoes are heavy feeders that require ample sunlight and water, which may overshadow or compete with peanuts. Additionally, planting tomatoes near peanuts may increase the risk of disease transmission, as both crops are susceptible to certain soil-borne pathogens."
+           },
+           {
+             "name": "Onions",
+             "description": "Onions may not be the best companions for peanuts. While they belong to the same family (Alliaceae) and have similar cultural requirements, planting them together may increase the risk of disease transmission and pest infestation. Onions and peanuts may attract similar pests and diseases, such as thrips and white rot, which can spread easily between the two crops."
+           },
+           {
+             "name": "Turnips",
+             "description": "Turnips may not be ideal companions for peanuts. While they belong to the same family (Brassicaceae) and have similar cultural requirements, planting them together may increase the risk of disease transmission and pest infestation. Turnips and peanuts may attract similar pests and diseases, such as aphids and root-knot nematodes, which can spread easily between the two crops."
+           },
+           {
+             "name": "Celery",
+             "description": "Celery may not be suitable for planting near peanuts. Both crops have similar cultural requirements and may compete for space and resources in the garden. Additionally, celery may attract pests like aphids and leafhoppers, which can affect peanut crops. It's best to keep them separate in the garden to avoid potential issues."
+           }
+         ]
+       },
+     "pests": [
+       "Aphids",
+       "Leafhopper",
+       "Whiteflies",
+       "Thrips",
+       "Cutworm",
+       "Armyworm",
+       "Flea Beetle",
+       "Leaf Beetle",
+       "Mite",
+       "Looper"
+     ],
+     "beneficial_insects": [
+       "Ladybugs",
+       "Lacewings",
+       "Hoverflies",
+       "Parasitic Wasps",
+       "Predatory Mites"
+     ],
+     "diseases": [
+       "Leaf Spot",
+       "Rust",
+       "Smut",
+       "Wilt",
+       "Root Rot"
+     ],
+     "tipsAndTricks": [
+       "Plant peanuts in well-drained soil with full sun exposure.",
+       "Ensure that the soil is loose and well-aerated to promote healthy root development.",
+       "Water peanuts regularly, keeping the soil consistently moist but not waterlogged.",
+       "Mulch around peanut plants to retain moisture and suppress weeds.",
+       "Harvest peanuts when the pods have matured and the outer shell turns yellow.",
+       "Rotate crops to prevent the buildup of pests and diseases in the soil.",
+       "Monitor plants regularly for signs of pests and diseases, and take appropriate action."
+     ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Peanuts: Planting Guide",

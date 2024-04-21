@@ -33,38 +33,99 @@
         "storageRecommendations": "Harvest jicama when the vines start to die back and the tubers reach a desirable size (usually 3-6 months after planting). Carefully dig up the tubers, being careful not to damage them. Wash the tubers thoroughly to remove any dirt or debris. Store harvested jicama in a cool, dry place with good air circulation. It can be stored for several weeks to several months.",
         "harvestDescription": "Harvest jicama by carefully digging up the tubers with a garden fork or shovel. Wash the tubers thoroughly before storing or using them."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
-            {
-                "name": "Cilantro",
-                "description": "Cilantro is a good companion plant for jicama, as it attracts beneficial insects like ladybugs and lacewings, which prey on pests that may attack jicama plants."
-            }
-        ],
-        "badCompanionPlants": [
-            {
-                "name": "Potatoes",
-                "description": "Potatoes are not recommended as companion plants for jicama, as they may compete for space and nutrients in the soil."
-            }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids can infest jicama plants, sucking sap from leaves and causing them to curl and distort. Control aphids by spraying affected plants with water to dislodge them, introducing natural predators like ladybugs or lacewings, and using insecticidal soap or neem oil."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that affects jicama plants, causing white powdery patches to form on leaves and stems. It thrives in warm, humid conditions and can spread rapidly if left untreated. Control powdery mildew by improving air circulation around plants, watering at the base of plants to avoid wetting foliage, and applying fungicidal sprays preventatively."
-        }
-    ],
-    "tipsAndTricks": [
-        "Plant jicama in a sunny location with well-drained soil and plenty of space to spread out.",
-        "Keep the soil consistently moist but not waterlogged, especially during hot weather.",
-        "Harvest jicama roots when they reach 3-5 inches in diameter for the best flavor and texture.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed to prevent damage."
-    ],
+      "SpringSowing": {
+        "Indoors": [-14, -12],
+        "Transplant": [],
+        "Outdoors": [-10, -8],
+        "LastSowDate": -20
+      },
+      "FallSowing": {
+        "Outdoors": [],
+        "Transplant": [],
+        "DaysToMaturity": 140,
+        "FrostTolerance": "Tender"
+      },
+      "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Corn",
+             "description": "Corn provides natural support for pole beans to climb, while beans fix nitrogen in the soil, benefiting the nitrogen-demanding jicama plants. Interplanting corn with jicama can improve soil fertility and promote healthier growth for both crops."
+           },
+           {
+             "name": "Cucumbers",
+             "description": "Cucumbers have shallow roots and can be interplanted with jicama to help suppress weeds and conserve soil moisture. The two plants can coexist without competing for space, making them suitable companions in the garden."
+           },
+           {
+             "name": "Radishes",
+             "description": "Radishes are fast-growing and can help break up compacted soil, making it easier for jicama roots to penetrate. Interplanting radishes with jicama can improve soil aeration, drainage, and overall plant health."
+           },
+           {
+             "name": "Sweet Potatoes",
+             "description": "Sweet potatoes and jicama can be planted together as they have similar soil and cultural requirements. Interplanting them can maximize space in the garden and provide mutual benefits, such as weed suppression and improved soil health."
+           },
+           {
+             "name": "Lettuce",
+             "description": "Lettuce can be grown near jicama as a living mulch to suppress weeds and conserve soil moisture. The shallow roots of lettuce and jicama complement each other, allowing them to coexist without competing for soil nutrients."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Onions",
+             "description": "Onions and other alliums may inhibit the growth of jicama if planted too closely together. Some studies suggest that alliums release substances that can interfere with jicama growth and development."
+           },
+           {
+             "name": "Garlic",
+             "description": "Similar to onions, garlic may have an inhibitory effect on jicama if planted too closely together. Planting garlic near jicama may result in reduced growth and yield for jicama crops."
+           },
+           {
+             "name": "Brassicas",
+             "description": "Brassicas, such as cabbage, broccoli, and kale, may produce allelopathic compounds that inhibit the growth of nearby plants, including jicama. Planting brassicas near jicama may hinder jicama growth and development."
+           },
+           {
+             "name": "Beans",
+             "description": "Beans may compete with jicama for space, water, and nutrients in the soil. Planting them too closely together may result in reduced growth and yield for both jicama and bean crops."
+           },
+           {
+             "name": "Peas",
+             "description": "Peas have similar growth habits to beans and may compete with jicama for resources if planted too closely together. Planting peas near jicama may lead to overcrowding and reduced yields for both crops."
+           }
+         ]
+       },
+      "pests": [
+        "Aphids",
+        "Leafhopper",
+        "Whiteflies",
+        "Thrips",
+        "Cutworm",
+        "Armyworm",
+        "Flea Beetle",
+        "Leaf Beetle",
+        "Mite",
+        "Weevil"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
+      ],
+      "diseases": [
+        "Rust",
+        "Powdery Mildew",
+        "Anthracnose",
+        "Bacterial Blight",
+        "Fusarium Wilt"
+      ],
+      "tipsAndTricks": [
+        "Plant jicama in well-drained soil with full sun exposure.",
+        "Provide support for jicama vines, such as trellises or stakes.",
+        "Water jicama regularly, keeping the soil consistently moist but not waterlogged.",
+        "Mulch around the base of plants to retain moisture and suppress weeds.",
+        "Harvest jicama tubers when they reach a size suitable for consumption, typically 4 to 6 months after planting.",
+        "Rotate crops to prevent the buildup of pests and diseases in the soil.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Jicama: Planting Guide",

@@ -33,39 +33,92 @@
         "storageRecommendations": "Harvest yarrow flowers for use in floral arrangements as needed. Cut stems with sharp, clean scissors or pruners and place them in a vase filled with water. Change the water every few days to prolong the life of the flowers.",
         "harvestDescription": "Harvest yarrow flowers when they are fully open and colorful. Cut stems early in the morning when the flowers are hydrated for the best results."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [-8, -6],
+        "Transplant": [-6, -4],
+        "Outdoors": [-4, -2],
+        "LastSowDate": null
+      },
+      "FallSowing": {
+        "Outdoors": [-8, -6],
+        "Transplant": [],
+        "DaysToMaturity": 90,
+        "FrostTolerance": "Tolerant"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Lavender",
-                "description": "Lavender is a good companion plant for yarrow, as they share similar cultural requirements and complement each other aesthetically. Planting lavender near yarrow can attract beneficial insects and enhance the overall beauty of the garden."
+              "name": "Aster",
+              "description": "Asters attract beneficial insects like hoverflies and parasitic wasps, which prey on pests like aphids and caterpillars. Their daisy-like flowers provide nectar and pollen for pollinators, enhancing biodiversity in the garden. Additionally, asters' tall, bushy growth habit can provide shelter for yarrow plants and help support their upright stems."
+            },
+            {
+              "name": "Chamomile",
+              "description": "Chamomile is a beneficial companion for yarrow as it attracts pollinators like bees and hoverflies. Its aromatic foliage may also help deter pests like aphids and mosquitoes. Additionally, chamomile's low, spreading growth habit can provide ground cover, helping to suppress weeds and conserve soil moisture around yarrow plants."
+            },
+            {
+              "name": "Dill",
+              "description": "Dill attracts beneficial insects like ladybugs and lacewings, which prey on aphids and other pests. Its feathery foliage provides shelter for beneficial insects and adds visual interest to the garden. Additionally, dill's strong scent may help repel pests like spider mites and cabbage loopers, protecting yarrow from damage."
+            },
+            {
+              "name": "Sunflower",
+              "description": "Sunflowers attract beneficial insects like bees and parasitic wasps, which prey on pests like aphids and caterpillars. Their large, showy flowers provide nectar and pollen for pollinators, enhancing biodiversity in the garden. Additionally, sunflowers' tall, sturdy stems can provide support for yarrow plants and help protect them from strong winds."
+            },
+            {
+              "name": "Thyme",
+              "description": "Thyme is a beneficial companion for yarrow as it attracts beneficial insects like bees and predatory wasps. Its aromatic foliage may also help deter pests like aphids and cabbage loopers. Additionally, thyme's low, spreading growth habit provides ground cover, helping to suppress weeds and conserve soil moisture around yarrow plants."
             }
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Basil",
+              "description": "Basil may not be an ideal companion for yarrow as it competes for nutrients and water in the soil. Both plants prefer fertile, well-drained soil, leading to competition for resources. Additionally, basil's strong scent may overpower the delicate fragrance of yarrow flowers."
+            },
+            {
+              "name": "Garlic",
+              "description": "Garlic should be avoided as a companion for yarrow as it may inhibit the growth of nearby plants through allelopathic compounds. Planting garlic near yarrow may result in reduced growth and vigor for both herbs. Additionally, garlic's pungent aroma may overpower the subtle fragrance of yarrow flowers."
+            },
+            {
+              "name": "Parsley",
+              "description": "Parsley may not be suitable as a companion for yarrow as it has similar soil and water requirements, leading to competition for resources. Both plants prefer fertile, well-drained soil with moderate moisture levels, which may result in reduced growth for both herbs. Additionally, parsley's upright growth habit may shade yarrow plants, affecting their flowering."
+            },
+            {
+              "name": "Peppermint",
+              "description": "Peppermint may not be an ideal companion for yarrow as it has similar soil and water requirements, leading to competition for resources. Both plants prefer moist, well-drained soil with partial shade, which may result in reduced growth and vigor for both herbs. Additionally, peppermint's spreading growth habit may overcrowd yarrow plants, affecting their development."
+            },
+            {
+              "name": "Tomatoes",
+              "description": "Tomatoes should be avoided as companions for yarrow as they have different soil and water requirements. Tomatoes prefer well-drained, fertile soil with ample sunlight, while yarrow thrives in moist, well-drained soil with partial shade. Planting tomatoes near yarrow may lead to competition for resources and reduced growth for both plants."
+            }
+          ]
+        },
+      "pests": [
+          "Aphids",
+          "Spider Mite",
+          "Whiteflies",
+          "Thrips"
         ],
-        "badCompanionPlants": [
-            {
-                "name": "Potatoes",
-                "description": "Potatoes are not recommended as companion plants for yarrow, as they may compete for resources and space in the garden. Additionally, potatoes can attract pests and diseases that may also affect yarrow."
-            }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are common pests of yarrow, feeding on the sap of the plant and causing distorted growth and yellowing leaves. Control aphids by spraying affected plants with water to dislodge them, introducing natural predators like ladybugs, or applying insecticidal soap or neem oil."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect yarrow, particularly in humid conditions. It appears as a white, powdery growth on the leaves and stems, eventually leading to leaf distortion and premature leaf drop. Improve air circulation around the plants, avoid overhead watering, and apply fungicidal sprays as needed to control powdery mildew."
-        }
-    ],
-    "tipsAndTricks": [
-        "Plant yarrow in a location with full sun and well-drained soil for best results.",
-        "Water newly planted yarrow regularly until established, then water sparingly as needed.",
-        "Deadhead spent flowers to prolong blooming and prevent self-seeding.",
-        "Divide mature yarrow plants every 2-3 years to rejuvenate growth and maintain vigor.",
-        "Harvest yarrow flowers for fresh or dried use by cutting the flower stems just above a leaf node."
-    ],
+        "beneficial_insects": [
+          "Ladybugs",
+          "Lacewings",
+          "Hoverflies",
+          "Parasitic Wasps"
+        ],
+        "diseases": [
+          "Powdery Mildew",
+          "Root Rot"
+        ],
+        "tipsAndTricks": [
+          "Plant yarrow in well-drained soil with full sun exposure.",
+          "Water yarrow regularly, especially during dry periods, but avoid overwatering to prevent root rot.",
+          "Fertilize yarrow with a balanced fertilizer in the spring and summer months.",
+          "Mulch around yarrow plants to retain moisture and suppress weeds.",
+          "Prune yarrow regularly to remove spent blooms and promote bushy growth.",
+          "Harvest yarrow flowers as needed for medicinal or ornamental use by snipping them from the plant. Use fresh or dried flowers to make teas, tinctures, or as cut flowers.",
+          "Monitor plants regularly for signs of pests such as aphids and spider mites. Handpick pests or use insecticidal soap as needed.",
+          "Watch for symptoms of diseases like powdery mildew and root rot. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+          "Yarrow is drought-tolerant once established and can thrive in poor soil conditions. Avoid heavy clay soils and over-fertilization.",
+          "Use dried yarrow flowers in herbal remedies or potpourri. Store dried flowers in an airtight container away from light and moisture."
+        ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Yarrow in the Garden",

@@ -33,49 +33,99 @@
        "storageRecommendations": "Harvest Moringa leaves and pods as needed for fresh consumption. Leaves can be stored in the refrigerator for up to a week or frozen for longer storage. Pods should be harvested when young and tender for the best flavor and texture.",
        "harvestDescription": "Harvest Moringa leaves by pruning the outer branches, leaving the inner branches to continue growing. Harvest pods when they are young and tender, typically around 6-12 inches in length."
      },
-    "companionPlants": {
-        "goodCompanionPlants": [
-            {
-                "name": "Beans",
-                "description": "Beans are nitrogen-fixing plants that can help improve soil fertility around moringa trees."
-            },
-            {
-                "name": "Legumes",
-                "description": "Legumes like peas and lentils can also help improve soil fertility and provide additional nitrogen for moringa trees."
-            },
-            {
-                "name": "Marigolds",
-                "description": "Marigolds are believed to repel pests that may affect moringa trees, making them a good companion plant."
-            }
-        ],
-        "badCompanionPlants": [
-            {
-                "name": "Grasses",
-                "description": "Grasses can compete with moringa trees for water, nutrients, and sunlight, so it's best to avoid planting them too close together."
-            },
-            {
-                "name": "Heavy Feeders",
-                "description": "Plants that are heavy feeders, like tomatoes and peppers, may compete with moringa trees for nutrients and should be planted elsewhere in the garden."
-            }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids can infest moringa trees, sucking sap from leaves and causing them to curl and distort. Control aphids by spraying affected trees with a strong jet of water to dislodge them, introducing natural predators like ladybugs or lacewings, and using insecticidal soap or neem oil as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect moringa trees, causing white powdery growth on leaves and stems. Control powdery mildew by improving air circulation around trees, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest moringa leaves and pods regularly to encourage continuous production and prevent the tree from becoming too large.",
-        "Prune moringa trees regularly to promote bushy growth and remove any dead or damaged branches.",
-        "Monitor trees regularly for signs of pests and diseases, and take appropriate action as needed to prevent damage."
-    ],
+     "SpringSowing": {
+       "Indoors": [-8, -6],
+       "Transplant": [-4, -2],
+       "Outdoors": [0, 2],
+       "LastSowDate": null
+     },
+     "FallSowing": {
+       "Outdoors": [-8, -6],
+       "Transplant": [],
+       "DaysToMaturity": 90,
+       "FrostTolerance": "Tolerant"
+     },
+     "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Lettuce",
+             "description": "Mizuna and lettuce can be planted together as companion plants. Both are cool-season crops with similar growing requirements. Interplanting them can help maximize space in the garden and create a diverse mix of leafy greens. Additionally, lettuce can act as a living mulch to suppress weeds and conserve soil moisture, benefiting mizuna growth."
+           },
+           {
+             "name": "Radishes",
+             "description": "Radishes are quick-growing root vegetables that can be interplanted with mizuna. Planting radishes alongside mizuna can help break up compacted soil, improve soil aeration, and suppress weeds. Additionally, radishes can be harvested early, providing space and resources for mizuna as it matures."
+           },
+           {
+             "name": "Spinach",
+             "description": "Spinach is a cool-season crop that complements mizuna well. Interplanting spinach with mizuna can help maximize space in the garden and provide mutual benefits, such as weed suppression and soil moisture conservation. Additionally, spinach can be harvested early, allowing more space and resources for mizuna as it grows."
+           },
+           {
+             "name": "Kale",
+             "description": "Kale and mizuna can be grown together as companion plants. Both are cold-hardy greens that thrive in similar growing conditions. Interplanting kale with mizuna can help diversify the garden and provide a continuous harvest of leafy greens throughout the growing season. Additionally, kale's sturdy growth can provide some shade and protection for mizuna."
+           },
+           {
+             "name": "Beets",
+             "description": "Beets and mizuna can be planted together as companion plants. Beets have shallow roots and can be interplanted with mizuna without competing for resources. Additionally, beets can help break up compacted soil and improve soil structure, benefiting mizuna growth. Harvesting beets also provides space and resources for mizuna as it matures."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Brassicas",
+             "description": "Brassicas, such as cabbage, broccoli, and cauliflower, may not be ideal companions for mizuna. They belong to the same plant family and may attract similar pests and diseases, increasing the risk of infestation or disease spread. Additionally, brassicas have different cultural requirements and may compete with mizuna for resources like water and nutrients."
+           },
+           {
+             "name": "Beans",
+             "description": "Beans and mizuna may not be the best companions in the garden. Beans have a nitrogen-fixing ability that can enrich the soil with nitrogen, promoting lush foliage growth in mizuna at the expense of yield and flavor. Additionally, beans may overshadow mizuna plants, reducing their access to sunlight and affecting overall growth."
+           },
+           {
+             "name": "Onions",
+             "description": "Onions and other alliums may not be suitable companions for mizuna. Alliums have strong odors that may repel pests, but they can also deter beneficial insects needed for pollination and pest control in the garden. Additionally, the shallow root systems of alliums may compete with mizuna for soil nutrients and water."
+           },
+           {
+             "name": "Sunflower",
+             "description": "Sunflowers have dense root systems that may compete with mizuna for water and nutrients. Planting them together may result in reduced growth and yield for mizuna crops. Additionally, sunflowers may cast shade on mizuna plants, affecting their growth and development."
+           },
+           {
+             "name": "Fennel",
+             "description": "Fennel contains compounds that can inhibit the growth of nearby plants, including mizuna. Planting mizuna near fennel may result in stunted growth and reduced yield for mizuna crops. It's best to keep them separate in the garden."
+           }
+         ]
+       },
+     "pests": [
+         "Aphids",
+         "Leafhopper",
+         "Whiteflies",
+         "Thrips",
+         "Cutworm",
+         "Armyworm",
+         "Flea Beetle",
+         "Leaf Beetle",
+         "Mite",
+         "Looper"
+       ],
+       "beneficial_insects": [
+         "Ladybugs",
+         "Lacewings",
+         "Hoverflies",
+         "Parasitic Wasps",
+         "Predatory Mites"
+       ],
+       "diseases": [
+         "Downy Mildew",
+         "Powdery Mildew",
+         "Anthracnose",
+         "Fusarium Wilt",
+         "Leaf Spot"
+       ],
+       "tipsAndTricks": [
+         "Plant moringa in well-drained soil with full sun exposure.",
+         "Water moringa regularly, keeping the soil consistently moist but not waterlogged.",
+         "Mulch around the base of plants to retain moisture and suppress weeds.",
+         "Harvest moringa leaves when they are young and tender, typically before they become too mature and bitter.",
+         "Rotate crops to prevent the buildup of pests and diseases in the soil.",
+         "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+         "Prune moringa trees regularly to promote bushier growth and increased leaf production."
+       ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Moringa: Planting Guide",

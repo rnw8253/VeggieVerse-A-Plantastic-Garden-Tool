@@ -22,9 +22,11 @@ struct HalfWidthTextView: View {
                 .frame(width: imageWidth, height: imageWidth)
             VStack(alignment: .center) {
                 Text(label)
+                    .multilineTextAlignment(.center)
                     .font(Font.custom("AmericanTypewriter", size: 14))
                     .fontWeight(.heavy)
                 Text(value)
+                    .multilineTextAlignment(.center)
                     .font(Font.custom("AmericanTypewriter", size: 20))
             }
             .frame(width: 100)

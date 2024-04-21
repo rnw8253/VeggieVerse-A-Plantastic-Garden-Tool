@@ -33,46 +33,100 @@
         "storageRecommendations": "Harvest chickpeas when they are mature and dry on the plant. Allow harvested chickpeas to dry further in a well-ventilated area until fully dry. Store dried chickpeas in airtight containers in a cool, dry place. Properly stored, chickpeas can last for up to a year.",
         "harvestDescription": "Harvest chickpeas by pulling up the entire plant when the pods are fully mature and dry. Shell the pods to release the chickpeas and allow them to air dry further before storage."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [],
+        "Transplant": [],
+        "Outdoors": [4, 6],
+        "LastSowDate": null
+      },
+      "FallSowing": {
+        "Outdoors": [],
+        "Transplant": [],
+        "DaysToMaturity": 90,
+        "FrostTolerance": "Tender"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Cilantro",
-                "description": "Cilantro is a beneficial companion plant for chickpeas, as it can help attract beneficial insects like hoverflies and parasitic wasps, which prey on common chickpea pests. Planting them together can create a diverse and productive garden ecosystem."
+              "name": "Cilantro",
+              "description": "Cilantro is a beneficial companion for chickpeas as it attracts beneficial insects like ladybugs and hoverflies, which prey on pests that may harm chickpea plants. Additionally, cilantro's strong aroma can confuse pests and deter them from attacking chickpeas, reducing the need for chemical pesticides. Planting cilantro near chickpeas can enhance plant health and yield while also providing culinary benefits."
             },
             {
-                "name": "Radishes",
-                "description": "Radishes are also good companion plants for chickpeas, as they have shallow roots that can help break up compacted soil and improve soil structure. Planting them together can improve soil health and nutrient availability for both plants."
-            }
-        ],
-        "badCompanionPlants": [
-            {
-                "name": "Alliums",
-                "description": "Avoid planting chickpeas near members of the allium family, such as onions, garlic, and shallots, as they may inhibit chickpea growth and development. It's best to plant them in separate areas to avoid potential problems."
+              "name": "Fava Beans",
+              "description": "Fava beans are excellent companion plants for chickpeas as they are part of the same legume family and can enhance soil fertility by fixing nitrogen. Chickpeas and fava beans have a mutually beneficial relationship where chickpeas provide support for climbing fava bean vines, and fava beans enrich the soil with nitrogen, which is essential for chickpea growth. Interplanting chickpeas with fava beans can improve soil health and overall crop yield."
             },
             {
-                "name": "Tomatoes",
-                "description": "Tomatoes are also not recommended as companion plants for chickpeas, as they may compete for nutrients and water in the soil. It's best to plant them in separate areas to avoid potential problems."
+              "name": "Tarragon",
+              "description": "Tarragon is a good companion for chickpeas as it repels pests like aphids and caterpillars, which can damage chickpea plants. Additionally, tarragon's aromatic foliage can confuse pests and deter them from attacking chickpeas, reducing the need for chemical pesticides. Planting tarragon near chickpeas can improve pest management and promote healthier plant growth."
+            },
+            {
+              "name": "Oregano",
+              "description": "Oregano is a beneficial companion for chickpeas as it deters pests like aphids and spider mites with its strong aroma and natural insect-repelling properties. Additionally, oregano's dense foliage can provide shade and reduce soil moisture evaporation around chickpea plants, helping to conserve water and maintain optimal growing conditions. Planting oregano near chickpeas can enhance pest control and support overall plant health."
+            },
+            {
+              "name": "Marigolds",
+              "description": "Marigolds are excellent companion plants for chickpeas as they repel pests like nematodes, aphids, and whiteflies with their strong fragrance and natural insect-repelling properties. Additionally, marigolds attract beneficial insects like ladybugs and parasitic wasps, which prey on pests that may harm chickpea plants. Interplanting marigolds with chickpeas can help reduce pest damage and promote a healthier growing environment."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are common pests of chickpeas, feeding on the sap of leaves and stems and causing stunted growth and distorted foliage. Control aphids by spraying plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs and lacewings, or applying insecticidal soap or neem oil."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Ascochyta Blight",
-            "description": "Ascochyta blight is a fungal disease that can affect chickpea plants, causing dark, sunken lesions on leaves, stems, and pods. It thrives in cool, wet conditions and can spread rapidly in crowded plantings. Control ascochyta blight by planting disease-resistant varieties, providing adequate spacing between plants for air circulation, and applying fungicidal sprays preventatively."
-        }
-    ],
-    "tipsAndTricks": [
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action to control them before they become a problem.",
-        "Rotate chickpea crops annually to prevent the buildup of soilborne diseases and pests.",
-        "Harvest chickpeas promptly when they reach maturity to prevent pods from splitting and seeds from shattering.",
-        "Allow harvested pods to dry thoroughly before shelling to prevent mold and spoilage."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Garlic",
+              "description": "Garlic is not an ideal companion for chickpeas as it may inhibit chickpea growth due to its allelopathic properties. Garlic releases chemicals that can hinder the germination and growth of nearby plants, including chickpeas, leading to reduced productivity. It is best to keep garlic away from chickpeas to avoid negative effects on plant health and yield."
+            },
+            {
+              "name": "Onions",
+              "description": "Onions are not recommended as companion plants for chickpeas as they may compete for resources such as water, nutrients, and sunlight. Both onions and chickpeas have similar growth requirements and may compete for space and resources in the garden, leading to reduced growth and yield for both plants. It is advisable to plant onions away from chickpeas to prevent competition and promote healthy plant growth."
+            },
+            {
+              "name": "Sunflower",
+              "description": "Sunflowers are not suitable companions for chickpeas as they can compete for resources such as water, nutrients, and sunlight. Sunflowers have deep and extensive root systems that can outcompete chickpeas and other neighboring plants, leading to reduced growth and yield. It is recommended to keep sunflowers away from chickpeas to prevent competition and ensure optimal plant growth."
+            },
+            {
+              "name": "Potatoes",
+              "description": "Potatoes are not ideal companion plants for chickpeas as they may compete for resources such as water, nutrients, and space. Both potatoes and chickpeas have similar growth habits and can compete for resources in the garden, leading to reduced yields for both crops. Additionally, planting potatoes near chickpeas may increase the risk of diseases and pests that affect both plants. It is best to keep potatoes away from chickpeas to avoid competition and potential pest and disease problems."
+            },
+            {
+              "name": "Lavender",
+              "description": "Lavender is not recommended as a companion plant for chickpeas as it may compete for resources such as water, nutrients, and sunlight. Lavender has deep root systems and dense foliage that can shade out chickpeas and inhibit their growth. Additionally, lavender's strong fragrance may attract pests that could harm chickpea plants. It is best to keep lavender away from chickpeas to prevent competition and promote healthy plant growth."
+            }
+          ]
+        },
+      "pests": [
+        "Aphids",
+        "Spider Mite",
+        "Whiteflies",
+        "Thrips",
+        "Cutworm",
+        "Wireworm",
+        "Leafminer",
+        "Pod Borer"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Beetles"
+      ],
+      "diseases": [
+        "Fusarium Wilt",
+        "Root Rot",
+        "Powdery Mildew",
+        "Ascochyta Blight",
+        "Botrytis Fruit Rot"
+      ],
+      "tipsAndTricks": [
+        "Select a planting site with well-drained soil and full sun exposure.",
+        "Sow chickpea seeds directly into the soil once the danger of frost has passed and soil temperatures reach at least 60°F (15°C).",
+        "Water chickpea plants regularly, providing about 1 inch of water per week, and reduce watering during pod development to prevent splitting.",
+        "Fertilize chickpea plants with a balanced fertilizer or compost tea at planting time and side dress with nitrogen-rich fertilizer when the plants begin to flower.",
+        "Mulch around chickpea plants to conserve moisture, suppress weeds, and reduce soil splashing, which can help prevent soil-borne diseases.",
+        "Monitor plants regularly for signs of pests such as aphids, spider mites, and cutworms. Use physical barriers or insecticidal soap as needed.",
+        "Inspect plants for symptoms of diseases like fusarium wilt and powdery mildew. Practice crop rotation and avoid planting chickpeas in wet or poorly drained areas.",
+        "Harvest chickpeas when the pods are mature and firm, but still green. Allow the pods to dry completely before shelling to harvest the dried chickpeas.",
+        "Store dried chickpeas in a cool, dry place in airtight containers to maintain freshness.",
+        "Use chickpeas in a variety of dishes, including salads, soups, stews, and curries, or roast them for a nutritious snack."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Chickpeas",

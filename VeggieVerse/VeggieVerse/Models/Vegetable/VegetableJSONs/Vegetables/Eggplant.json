@@ -5,7 +5,7 @@
     "thumbnailImageUrl": "Eggplant_thumbnail",
     "backgroundImageUrl": "Eggplant_background",
     "varieties": "Eggplants come in various shapes, sizes, and colors, with each variety offering unique flavors and culinary uses. Some popular eggplant varieties include 'Black Beauty', known for its glossy, deep purple skin and meaty flesh; 'Italian', prized for its elongated shape and mild flavor; 'Japanese', recognized for its slender, tender fruits and delicate flavor; and 'White', valued for its creamy, mild-tasting flesh and lack of bitterness. These varieties, among others, offer a range of options suited for different culinary preferences and growing conditions.",
-      "sowingAndPlanting": {
+    "sowingAndPlanting": {
         "sowingIndoorsDescription": "Eggplants are typically started indoors 6-8 weeks before the last frost date. Plant seeds in pots or trays filled with seed-starting mix. Sow seeds 1/4 to 1/2 inch deep and keep the soil consistently moist and warm (70-85°F). Provide bright, indirect light or use grow lights to encourage healthy seedling growth. Transplant seedlings outdoors after the danger of frost has passed and the soil has warmed up.",
         "sowingOutdoorsDescription": "Eggplants can also be directly sown outdoors once the soil has warmed up and all danger of frost has passed. Choose a sunny location with well-drained soil. Plant seeds 1/4 to 1/2 inch deep and space them according to the recommended distance for the variety being grown. Keep the soil consistently moist until seedlings emerge.",
         "spaceBetweenPlants": "18\"-24\"",
@@ -17,8 +17,8 @@
         "pHRange": "6.0 - 7.0",
         "germinationSoilTemp": "70-90°F",
         "season": "Eggplants should be planted after the danger of frost has passed and the soil has warmed up in spring. They require warm temperatures and do not tolerate frost."
-      },
-      "careAndMaintenance": {
+    },
+    "careAndMaintenance": {
         "optimalSun": "Full Sun",
         "growingSoilTemp": "70-85°F",
         "growingDescription": "Eggplants prefer full sun and well-drained soil rich in organic matter. They require regular watering, especially during dry periods, to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
@@ -26,48 +26,97 @@
         "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Fertilize eggplants with a balanced fertilizer once they become established.",
         "pruningRequirements": "Eggplants generally do not require pruning, but you can remove any yellowing or damaged leaves as needed to improve air circulation and aesthetics.",
         "supportRequirements": "Eggplants may benefit from support, especially if they are heavy-fruited varieties. Install stakes or cages to support the plants and prevent them from toppling over."
-      },
-      "harvestingAndStorage": {
+    },
+    "harvestingAndStorage": {
         "daysToHarvest": "60-80 days from planting",
         "timeToMaturity": "Eggplants typically mature and are ready for harvest 60-80 days after planting, depending on the variety and growing conditions.",
         "storageRecommendations": "Harvest eggplants when they are firm, glossy, and have reached the desired size. Use a sharp knife or pruning shears to cut the fruits from the plant, leaving a short stem attached. Store harvested eggplants in the refrigerator for up to a week. Wash and dry the fruits before storing to remove any dirt or debris.",
         "harvestDescription": "Harvest eggplants regularly to encourage continuous fruit production. Cut the fruits from the plant when they are mature and have reached the desired size. Avoid letting eggplants become overripe, as they can develop a bitter taste."
-      },
+    },
+    "SpringSowing": {
+      "Indoors": [-8, -6],
+      "Transplant": [2, 3],
+      "Outdoors": [],
+      "LastSowDate": -10
+    },
+    "FallSowing": {
+      "Outdoors": [-16, -12],
+      "Transplant": [],
+      "DaysToMaturity": 70,
+      "FrostTolerance": "Tender"
+    },
     "companionPlants": {
         "goodCompanionPlants": [
             {
                 "name": "Basil",
-                "description": "Basil can be planted near eggplants to help repel pests like aphids and mosquitoes."
+                "description": "Basil repels pests such as aphids, spider mites, and flea beetles that commonly attack eggplants. Planting basil near eggplants can improve overall plant health and reduce the need for chemical pesticides."
             },
             {
                 "name": "Marigolds",
-                "description": "Marigolds can be planted near eggplants to help repel nematodes and other soil-borne pests."
+                "description": "Marigolds contain natural compounds that repel nematodes, aphids, and other common pests of eggplants. Interplanting marigolds with eggplants can help protect them from pest infestations and reduce soil-borne diseases."
+            },
+            {
+                "name": "Peppers",
+                "description": "Peppers share similar cultural requirements and growth habits with eggplants. Interplanting them can maximize space in the garden and provide mutual support against common pests and diseases."
+            },
+            {
+                "name": "Beans",
+                "description": "Beans, such as bush beans or pole beans, fix nitrogen in the soil, benefiting nitrogen-demanding eggplants. Planting beans near eggplants can improve soil fertility and promote healthier growth and higher yields."
+            },
+            {
+                "name": "Lettuce",
+                "description": "Lettuce has shallow roots and grows quickly, making it an ideal companion for eggplants. Interplanting lettuce with eggplants can help suppress weeds, retain soil moisture, and provide living mulch to cool the soil."
             }
         ],
         "badCompanionPlants": [
             {
+                "name": "Fennel",
+                "description": "Fennel exudes natural chemicals that inhibit the growth of nearby plants, including eggplants. Planting eggplants near fennel may result in reduced growth and yield due to allelopathic effects."
+            },
+            {
                 "name": "Potatoes",
-                "description": "Potatoes are not recommended to be planted near eggplants as they may compete for space and nutrients."
+                "description": "Potatoes and eggplants are susceptible to similar pests and diseases, including Colorado potato beetles and certain fungal infections. Planting them together may increase the risk of pest and disease infestations for both crops."
+            },
+            {
+                "name": "Tomatoes",
+                "description": "Tomatoes and eggplants are both members of the nightshade family (Solanaceae) and can attract similar pests, such as tomato hornworms and flea beetles. Planting them together may increase pest pressure on both crops."
             }
         ]
     },
     "pests": [
-        {
-            "name": "Flea Beetles",
-            "description": "Flea beetles are small, jumping insects that feed on eggplant leaves, causing small, irregular holes. They can also transmit bacterial and viral diseases. Control flea beetles by using row covers to exclude them from eggplant beds, applying organic insecticides like neem oil or pyrethrin, and removing nearby weed hosts."
-        }
+        "Flea Beetle",
+        "Aphids",
+        "Leafhopper",
+        "Whiteflies",
+        "Thrips",
+        "Cutworm",
+        "Armyworm",
+        "Hornworm",
+        "Spider Mite",
+        "Fruit Borer"
+    ],
+    "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
     ],
     "diseases": [
-        {
-            "name": "Verticillium Wilt",
-            "description": "Verticillium wilt is a fungal disease that affects eggplants, causing wilting, yellowing, and eventual death of the plant. It thrives in cool, moist conditions. Prevent verticillium wilt by planting disease-resistant varieties, practicing crop rotation, and using sterilized soil or potting mix."
-        }
+        "Verticillium Wilt",
+        "Fusarium Wilt",
+        "Anthracnose",
+        "Early Blight",
+        "Late Blight"
     ],
     "tipsAndTricks": [
-        "Harvest eggplants when they reach the desired size and color for the best flavor and texture.",
-        "Stake or cage eggplant plants to support heavy fruiting and protect them from wind damage.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed.",
-        "Water eggplant plants at the base to avoid wetting foliage and reduce the risk of disease."
+        "Plant eggplants in well-drained soil with full sun exposure.",
+        "Space eggplant plants properly to allow good air circulation and prevent diseases.",
+        "Provide support for eggplant stems, especially when bearing heavy fruit.",
+        "Water eggplants regularly, keeping the soil consistently moist but not waterlogged.",
+        "Apply mulch around the base of plants to retain moisture and suppress weeds.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+        "Harvest eggplants when they reach the desired size and color, typically before the skin turns dull and seeds become too hard."
     ],
     "linksToAdditionalResources": [
         {

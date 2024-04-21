@@ -33,36 +33,86 @@
        "storageRecommendations": "Harvest sorrel leaves as needed for culinary use. Use fresh sorrel immediately for the best flavor. Alternatively, you can store harvested sorrel leaves in the refrigerator for up to a week. To extend the shelf life, you can blanch and freeze sorrel leaves for longer storage.",
        "harvestDescription": "Harvest sorrel leaves by cutting them from the plant as needed. Harvest leaves from the outer parts of the plant to encourage new growth."
      },
-    "companionPlants": {
-        "goodCompanionPlants": [
-            {
-                "name": "Lettuce",
-                "description": "Lettuce is a good companion for sorrel, as it has similar cultural requirements and can provide shade to prevent sorrel from bolting in hot weather."
-            },
-            {
-                "name": "Chives",
-                "description": "Chives can be planted near sorrel as they have similar cultural requirements and complement each other in the garden."
-            }
-        ],
-        "badCompanionPlants": []
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids can sometimes infest sorrel, feeding on the sap of the leaves and causing distortion or yellowing. Control aphids by spraying affected plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs, and applying insecticidal soap or neem oil as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect sorrel, causing a white powdery growth on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest sorrel leaves as needed by snipping them with scissors or shears.",
-        "Mulch around plants to retain moisture and suppress weeds.",
-        "Consider planting sorrel in containers to prevent it from spreading too vigorously."
-    ],
+     "SpringSowing": {
+       "Indoors": [-8, -6],
+       "Transplant": [-6, -4],
+       "Outdoors": [-4, -2],
+       "LastSowDate": null
+     },
+     "FallSowing": {
+       "Outdoors": [-10, -8],
+       "Transplant": [],
+       "DaysToMaturity": 60,
+       "FrostTolerance": "Tolerant"
+     },
+     "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Chervil",
+             "description": "Chervil is a beneficial companion for sorrel as it shares similar cultural requirements and growth habits. Planting chervil near sorrel can help deter pests and attract beneficial insects like ladybugs and lacewings, which prey on aphids and other harmful insects. Additionally, chervil can provide a visually appealing and aromatic addition to the garden while enhancing the overall health and vigor of sorrel plants."
+           },
+           {
+             "name": "Lettuce",
+             "description": "Lettuce is a good companion for sorrel as it can help provide shade and moisture retention for sorrel plants, especially during hot weather. Planting lettuce near sorrel can create a diverse and visually appealing garden while maximizing space and resources. Additionally, lettuce and sorrel have complementary flavors and can be used together in salads and culinary dishes."
+           },
+           {
+             "name": "Spinach",
+             "description": "Spinach complements sorrel well in the garden as both leafy greens have similar cultural requirements and growth habits. Planting spinach near sorrel can create a lush and productive garden bed while providing a variety of culinary and ornamental benefits. Additionally, spinach and sorrel can be harvested together for use in salads, soups, and other dishes."
+           },
+           {
+             "name": "Thyme",
+             "description": "Thyme is a good companion for sorrel due to its aromatic foliage and ability to repel pests like cabbage worms and aphids. Planting thyme near sorrel can help protect the plants from insect damage while providing a flavorful and attractive addition to the garden. Additionally, thyme and sorrel can be used together in culinary dishes to enhance flavor and aroma."
+           },
+           {
+             "name": "Garlic",
+             "description": "Garlic is a beneficial companion for sorrel as it can help deter pests like aphids, spider mites, and cabbage loopers. Planting garlic near sorrel can create a protective barrier against insect damage while providing additional flavor and aroma to the garden. Additionally, garlic and sorrel can be harvested together for use in salads, soups, and other dishes."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Fennel",
+             "description": "Fennel should be avoided as a companion for sorrel as it has different cultural requirements and may compete for resources. Planting fennel near sorrel can lead to overcrowding and reduced growth for both plants. Additionally, fennel produces chemicals that can inhibit the growth of nearby plants, including sorrel."
+           },
+           {
+             "name": "Beans",
+             "description": "Beans are not recommended as companions for sorrel as they have different soil and watering requirements. Planting beans near sorrel can lead to competition for resources and space, resulting in reduced growth and vigor for both plants. Additionally, beans and sorrel may attract different pests and diseases that can negatively affect each other."
+           },
+           {
+             "name": "Cabbage",
+             "description": "Cabbage is not an ideal companion for sorrel as it may attract pests like cabbage worms and aphids that can also damage sorrel plants. Additionally, cabbage and sorrel have different soil and nutrient requirements, which can lead to competition for resources and reduced growth. Planting cabbage near sorrel may also increase the risk of disease transmission between the two plants."
+           }
+         ]
+       },
+     "pests": [
+       "Aphids",
+       "Spider Mite",
+       "Whiteflies",
+       "Thrips",
+       "Leafhopper"
+     ],
+     "beneficial_insects": [
+       "Ladybugs",
+       "Lacewings",
+       "Hoverflies",
+       "Parasitic Wasps"
+     ],
+     "diseases": [
+       "Powdery Mildew",
+       "Root Rot",
+       "Botrytis Blight"
+     ],
+     "tipsAndTricks": [
+       "Choose a planting location with well-drained soil and partial shade for sorrel.",
+       "Sow sorrel seeds directly in the garden or start them indoors and transplant after the last frost.",
+       "Water sorrel plants regularly, keeping the soil consistently moist but not waterlogged.",
+       "Mulch around sorrel plants to retain moisture and suppress weeds.",
+       "Fertilize sorrel plants with a balanced fertilizer every 4-6 weeks during the growing season.",
+       "Harvest sorrel leaves as needed for culinary use by cutting them from the plant. Harvest young leaves for the best flavor.",
+       "Monitor plants regularly for signs of pests such as aphids and spider mites. Handpick pests or use insecticidal soap as needed.",
+       "Watch for symptoms of diseases like powdery mildew and botrytis blight. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+       "Sorrel can self-seed prolifically, so deadhead flowers to prevent excessive spreading.",
+       "Use fresh sorrel leaves in salads, soups, sauces, and as a garnish. The leaves have a tangy, lemony flavor that adds brightness to dishes."
+     ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Sorrel: Planting Guide",

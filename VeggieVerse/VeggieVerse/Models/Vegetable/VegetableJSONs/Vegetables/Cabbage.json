@@ -33,6 +33,18 @@
        "storageRecommendations": "Harvest cabbage when the heads are firm and solid, typically 6-10 inches in diameter. Cut the head from the stem with a sharp knife, leaving a few outer leaves attached to protect the head. Store harvested cabbage in the refrigerator for up to a few weeks. Wash and dry the heads before storing to remove any dirt or debris.",
        "harvestDescription": "Harvest cabbage by cutting the head from the stem when it is firm and solid. Avoid letting the heads become loose or start to split, as this can negatively affect flavor and storage life."
      },
+     "SpringSowing": {
+         "Indoors": [-8, -6],
+         "Transplant": [-2, 0],
+         "Outdoors": [-4, -3],
+         "LastSowDate": -15
+     },
+     "FallSowing": {
+         "Outdoors": [-13, -12],
+         "Transplant": [-10, -9],
+         "DaysToMaturity": 90,
+         "FrostTolerance": "Tolerant"
+     },
      "companionPlants": {
          "goodCompanionPlants": [
            {
@@ -79,24 +91,44 @@
            }
          ]
        },
-    "pests": [
-        {
-            "name": "Cabbage Worms",
-            "description": "Cabbage worms are the larvae of cabbage white butterflies and can damage cabbage plants by feeding on the foliage. Control cabbage worms by handpicking them off plants, applying organic insecticides like Bacillus thuringiensis (Bt), and using row covers to exclude adult butterflies."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Clubroot",
-            "description": "Clubroot is a soilborne disease that affects members of the Brassica family, including cabbage. It causes swelling and distortion of the roots, leading to stunted growth and poor yields. Prevent clubroot by practicing crop rotation, improving soil drainage, and using disease-resistant varieties."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest cabbage heads when they reach the desired size and firmness for the best flavor and texture.",
-        "Remove any damaged or yellowing outer leaves from cabbage plants throughout the growing season to promote air circulation and reduce the risk of disease.",
-        "Provide consistent moisture and fertility to cabbage plants for optimal growth and development.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed."
-    ],
+     "pests": [
+       "Aphids",
+       "Cabbage Worm",
+       "Looper",
+       "Whiteflies",
+       "Flea Beetle",
+       "Cutworm",
+       "Thrips",
+       "Armyworm",
+       "Leafhopper",
+       "Diamondback Moth",
+       "Earwig",
+       "Harlequin Bug"
+     ],
+     "beneficial_insects": [
+       "Ladybugs",
+       "Lacewings",
+       "Hoverflies",
+       "Parasitic Wasps",
+       "Predatory Mites"
+     ],
+     "diseases": [
+       "Downy Mildew",
+       "Clubroot",
+       "Fusarium Wilt",
+       "Alternaria Leaf Spot",
+       "Powdery Mildew",
+       "Gray Mold Rot"
+     ],
+     "tipsAndTricks": [
+       "Plant cabbage in well-drained soil with full sun exposure.",
+       "Space cabbage plants properly to allow good air circulation and prevent diseases.",
+       "Apply a balanced fertilizer or compost to provide necessary nutrients for growth.",
+       "Mulch around the base of plants to retain moisture and suppress weeds.",
+       "Water cabbage plants regularly, especially during dry periods.",
+       "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+       "Harvest cabbage heads when they reach the desired size and feel firm to the touch."
+     ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Cabbage: Planting Guide",

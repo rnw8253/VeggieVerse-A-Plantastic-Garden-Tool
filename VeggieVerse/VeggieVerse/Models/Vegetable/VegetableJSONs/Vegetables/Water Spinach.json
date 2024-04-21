@@ -33,49 +33,91 @@
        "storageRecommendations": "Harvest water spinach as needed, cutting the stems just above the soil level. Store freshly harvested water spinach in the refrigerator in a plastic bag or container for up to a week. Alternatively, you can store cuttings in a glass of water on the countertop for a few days.",
        "harvestDescription": "Harvest water spinach by cutting the stems just above the soil level. You can harvest individual leaves as needed or cut the entire plant back to encourage new growth. Rinse the harvested leaves thoroughly to remove any dirt or debris before using them in your favorite recipes."
      },
-    "companionPlants": {
-        "goodCompanionPlants": [
-            {
-                "name": "Lemongrass",
-                "description": "Lemongrass is a good companion plant for water spinach, as its aromatic foliage can help deter pests like aphids and whiteflies."
-            },
-            {
-                "name": "Basil",
-                "description": "Basil is another good companion plant for water spinach, as it can help repel pests and attract beneficial insects like bees and predatory wasps."
-            },
-            {
-                "name": "Mint",
-                "description": "Mint is known for its ability to repel pests like ants and aphids, making it an excellent companion for water spinach."
-            }
-        ],
-        "badCompanionPlants": [
-            {
-                "name": "Brassicas",
-                "description": "Avoid planting water spinach near brassicas like cabbage, broccoli, and cauliflower, as they may compete for nutrients and space in the garden."
-            },
-            {
-                "name": "Beans",
-                "description": "Beans and other legumes can fix nitrogen in the soil, which may lead to excessive leafy growth in water spinach. It's best to avoid planting them too close together."
-            }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are small, soft-bodied insects that feed on the sap of water spinach plants, causing stunted growth and distorted leaves. Control aphids by spraying affected plants with water to dislodge them, introducing natural predators like ladybugs, lacewings, or parasitic wasps, and applying insecticidal soap or neem oil."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect water spinach, causing white powdery spots to form on the leaves. It thrives in warm, humid conditions and can spread rapidly in crowded plantings. Control powdery mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest water spinach when the shoots and leaves are young and tender for the best flavor and texture.",
-        "Rotate water spinach to a new location in the garden each year to prevent soilborne diseases and pest buildup.",
-        "Inspect plants regularly for signs of pests and diseases, and take appropriate action as needed to prevent damage."
-    ],
+     "SpringSowing": {
+        "Indoors": [],
+        "Transplant": [],
+        "Outdoors": [-8 ,-4],
+        "LastSowDate": -6
+      },
+      "FallSowing": {
+        "Outdoors": [-8, -6],
+        "Transplant": [],
+        "DaysToMaturity": 55,
+        "FrostTolerance": "Tender"
+      },
+     "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Cilantro",
+             "description": "Cilantro is a beneficial companion for water spinach. It can help attract beneficial insects like predatory wasps and hoverflies, which feed on pests that may affect water spinach. Additionally, cilantro's strong fragrance may help mask the scent of water spinach, reducing the likelihood of pest infestations."
+           },
+           {
+             "name": "Lettuce",
+             "description": "Lettuce can be interplanted with water spinach. Its shallow roots do not compete with water spinach for nutrients and water, making it a suitable companion. Lettuce also provides ground cover, helping to retain soil moisture and suppress weeds, which benefits the growth of water spinach."
+           },
+           {
+             "name": "Basil",
+             "description": "Basil is a good companion for water spinach. It can help repel pests like aphids, whiteflies, and spider mites, which may affect water spinach. Additionally, basil's aromatic foliage may help mask the scent of water spinach, making it less attractive to pests."
+           },
+           {
+             "name": "Chives",
+             "description": "Chives make good companions for water spinach. Planting chives near water spinach can help deter pests like aphids, thrips, and spider mites. Chives also produce compounds that may enhance the flavor of nearby plants, including water spinach."
+           },
+           {
+             "name": "Beans",
+             "description": "Beans are beneficial companions for water spinach. They help fix nitrogen in the soil, which can improve the overall health and growth of water spinach. Additionally, beans provide some shade with their dense foliage, which can help protect water spinach from excessive heat and sunburn."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Sunflower",
+             "description": "Sunflowers may not be ideal companions for water spinach. Sunflowers have deep taproots that may compete with water spinach for nutrients and water, especially in soils with limited resources. Additionally, the tall growth habit of sunflowers may overshadow water spinach, reducing its sunlight exposure."
+           },
+           {
+             "name": "Potatoes",
+             "description": "Potatoes are not recommended as companions for water spinach. Potatoes have shallow root systems that may compete with water spinach for nutrients and space. Additionally, both plants are susceptible to similar pests and diseases, which may increase the risk of infestations and reduce yields for both crops."
+           },
+           {
+             "name": "Brassicas",
+             "description": "Other brassicas, such as cabbage, broccoli, and cauliflower, may not be the best companions for water spinach. They have similar nutrient and water requirements and may compete with water spinach for resources. Additionally, planting them together may increase the risk of pest and disease problems."
+           },
+           {
+             "name": "Fennel",
+             "description": "Fennel may not be an ideal companion for water spinach. Fennel produces chemicals that inhibit the growth of nearby plants, which can negatively affect the growth and yield of water spinach."
+           }
+         ]
+       },
+     "pests": [
+       "Aphids",
+       "Flea Beetle",
+       "Cutworm",
+       "Leafminer",
+       "Slug",
+      "Snail"
+     ],
+     "beneficial_insects": [
+       "Ladybugs",
+       "Lacewings",
+       "Hoverflies",
+       "Parasitic Wasps",
+       "Predatory Mites"
+     ],
+     "diseases": [
+       "Powdery Mildew",
+       "Downy Mildew",
+       "Leaf Spot",
+       "Root Rot"
+     ],
+     "tipsAndTricks": [
+       "Choose a planting site with full sun to partial shade exposure and well-drained, fertile soil.",
+       "Prepare the soil by incorporating compost or aged manure to improve fertility and texture.",
+       "Plant water spinach seeds or cuttings in shallow water, such as the edge of a pond or in a container with water, ensuring that the water is consistently moist.",
+       "Provide water spinach with regular irrigation to keep the soil or water consistently moist, and mulch around the base of plants to retain moisture and suppress weeds.",
+       "Fertilize water spinach with a balanced fertilizer or compost tea every 3-4 weeks, following package instructions.",
+       "Monitor plants regularly for signs of pests such as aphids and flea beetles. Use row covers or insecticidal soap as needed.",
+       "Watch for symptoms of diseases like powdery mildew and downy mildew. Provide good air circulation and avoid overcrowding to reduce disease problems.",
+       "Harvest water spinach when the leaves are young and tender, typically 4-6 weeks after planting. Cut the stems just above ground level to encourage regrowth."
+     ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Water Spinach: Planting Guide",

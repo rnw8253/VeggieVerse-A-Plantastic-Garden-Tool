@@ -12,15 +12,25 @@ import RealmSwift
 enum Route {
     case vegetableListView
     case vegetableView(vegetable: Vegetable)
+    case gardenView(bed: SquareFootBed)
+    case gardenListView
+    case gardenBedVegetableList(squareID: ObjectId, bed: SquareFootBed)
 }
+
 
 extension Route: View {
     var body: some View {
         switch self {
         case .vegetableListView:
-            VegetableListView()
+            LazyView(VegetableListView())
         case let .vegetableView(vegetable):
-            VegetableView(vegetable: vegetable)
+            LazyView(VegetableView(vegetable: vegetable))
+        case let .gardenView(bed):
+            GardenBedView(bed: bed)
+        case .gardenListView:
+            GardenBedListView()
+        case let .gardenBedVegetableList(squareID, bed):
+            GardenBedVegetableSelection(squareID: squareID, bed: bed)
         }
     }
 }

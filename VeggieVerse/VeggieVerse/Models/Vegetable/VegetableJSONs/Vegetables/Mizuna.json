@@ -33,6 +33,18 @@
       "storageRecommendations": "Harvest mizuna by cutting outer leaves from the plant as needed, allowing the inner leaves to continue growing. Wash harvested leaves thoroughly to remove any dirt or debris. Store mizuna in the refrigerator for up to a week, loosely wrapped in a damp paper towel or plastic bag to maintain moisture.",
       "harvestDescription": "Harvest mizuna by cutting outer leaves from the plant with a sharp knife or scissors. Leave the inner leaves to continue growing for future harvests."
     },
+    "SpringSowing": {
+      "Indoors": [-6, -4],
+      "Transplant": [-2, 0],
+      "Outdoors": [0, 2],
+      "LastSowDate": null
+    },
+    "FallSowing": {
+      "Outdoors": [-10, -8],
+      "Transplant": [],
+      "DaysToMaturity": 40,
+      "FrostTolerance": "Tolerant"
+    },
     "companionPlants": {
         "goodCompanionPlants": [
             {
@@ -60,22 +72,40 @@
         ]
     },
     "pests": [
-        {
-            "name": "Flea Beetles",
-            "description": "Flea beetles are small, jumping insects that feed on Mizuna leaves, causing tiny holes and pits. Control flea beetles by covering plants with row covers or insect netting, applying floating row covers, and using insecticidal sprays or dusts as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Downy Mildew",
-            "description": "Downy mildew is a fungal disease that affects Mizuna plants, causing yellowing and wilting of leaves, along with grayish-white fuzzy growth on the undersides of leaves. Control downy mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest Mizuna leaves frequently to encourage continuous growth and prevent plants from bolting.",
-        "Rotate Mizuna crops annually to prevent soilborne diseases and pest buildup.",
-        "Inspect plants regularly for signs of pests and diseases, and take appropriate action as needed to prevent damage."
-    ],
+        "Aphids",
+        "Leafhopper",
+        "Whiteflies",
+        "Thrips",
+        "Cutworm",
+        "Armyworm",
+        "Flea Beetle",
+        "Leaf Beetle",
+        "Mite",
+        "Looper"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
+      ],
+      "diseases": [
+        "Downy Mildew",
+        "Powdery Mildew",
+        "Anthracnose",
+        "Fusarium Wilt",
+        "Bacterial Leaf Spot"
+      ],
+      "tipsAndTricks": [
+        "Plant mizuna in well-drained soil with full sun to partial shade exposure.",
+        "Space mizuna plants properly to allow good air circulation.",
+        "Water mizuna regularly, keeping the soil consistently moist but not waterlogged.",
+        "Mulch around the base of plants to retain moisture and suppress weeds.",
+        "Harvest mizuna leaves when they are young and tender, typically before they become too mature and bitter.",
+        "Rotate crops to prevent the buildup of pests and diseases in the soil.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Mizuna: Planting Guide",

@@ -12,6 +12,12 @@ struct VeggieVerseApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(LoadDataModel.shared)
+                .environmentObject(RealmManager.shared)
+                .environmentObject(AppState.shared)
+                .onAppear {
+                    RealmManager.shared.openRealm()
+                }
         }
     }
 }

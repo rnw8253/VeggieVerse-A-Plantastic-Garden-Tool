@@ -8,8 +8,8 @@
      "sowingAndPlanting": {
        "sowingIndoorsDescription": "Artichokes are typically propagated from seeds. Start seeds indoors 8-12 weeks before the last frost date. Plant seeds in pots filled with well-draining potting mix and keep them warm and moist. Transplant seedlings outdoors after the danger of frost has passed and the soil has warmed up.",
        "sowingOutdoorsDescription": "Artichokes can also be directly sown outdoors in mild climates. Plant seeds in well-prepared soil, spacing them according to the variety's mature size. Keep the soil consistently moist until seedlings emerge.",
-       "spaceBetweenPlants": "3\'-4\'",
-       "spaceBetweenRows": "4\'-6\'",
+       "spaceBetweenPlants": "3'-4'",
+       "spaceBetweenRows": "4'-6'",
        "squareFootPlantingRecommendationsMin": 1,
        "squareFootPlantingRecommendationsMax": 2,
        "lifeCycle": "Perennial",
@@ -33,6 +33,18 @@
        "storageRecommendations": "Harvest artichokes when the buds are firm, compact, and about 3-4 inches in diameter. Cut the buds from the plant with a sharp knife, leaving a short stem attached. Store harvested artichokes in the refrigerator for up to a week.",
        "harvestDescription": "Harvest artichokes by cutting the buds from the plant with a sharp knife when they are fully developed. Remove any tough outer leaves and trim the stem before cooking."
      },
+     "SpringSowing": {
+       "Indoors": [-10, -8],
+       "Transplant": [-4, -2],
+       "Outdoors": [2, 4],
+       "LastSowDate": null
+     },
+     "FallSowing": {
+       "Outdoors": [],
+       "Transplant": [],
+       "DaysToMaturity": 90,
+       "FrostTolerance": "Hardy"
+     },
      "companionPlants": {
          "goodCompanionPlants": [
            {
@@ -44,7 +56,7 @@
              "description": "Tarragon can improve the flavor of artichokes when planted nearby due to its aromatic foliage. Its strong scent can also help deter pests like aphids and caterpillars."
            },
            {
-             "name": "Nasturtiums",
+             "name": "Nasturtium",
              "description": "Nasturtiums can attract beneficial insects like predatory beetles and parasitic wasps, which prey on pests that may affect artichokes. Their flowers also add color and beauty to the garden."
            },
            {
@@ -66,7 +78,7 @@
              "description": "Potatoes and artichokes are susceptible to similar pests and diseases. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
            },
            {
-             "name": "Sunflowers",
+             "name": "Sunflower",
              "description": "Sunflowers can produce tall stalks that may shade out artichoke plants and compete for water and nutrients. Additionally, sunflowers may attract pests like aphids and caterpillars."
            },
            {
@@ -79,24 +91,41 @@
            }
          ]
        },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids can sometimes infest artichokes, feeding on the sap of the leaves and causing distortion or yellowing. Control aphids by spraying affected plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs, and applying insecticidal soap or neem oil as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect artichokes, causing a white powdery growth on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest artichokes when the flower buds are firm and tight, before they fully open, for the best flavor and tenderness.",
-        "Mulch around plants to retain moisture, suppress weeds, and regulate soil temperature.",
-        "Fertilize artichokes regularly with a balanced fertilizer to promote healthy growth and flower production.",
-        "Prune artichoke plants regularly to remove dead or damaged foliage and promote air circulation."
-    ],
+     "pests": [
+       "Aphids",
+       "Plume Moth",
+       "Midge",
+       "Mealybug",
+       "Artichoke Worm",
+       "Looper",
+       "Snail",
+       "Weevil",
+       "Thrips",
+       "Lace Bug"
+     ],
+     "beneficial_insects": [
+       "Ladybugs",
+       "Lacewings",
+       "Hoverflies",
+       "Parasitic Wasps",
+       "Predatory Mites"
+     ],
+     "diseases": [
+       "Rust",
+       "Botrytis",
+       "Downy Mildew",
+       "Crown Rot",
+       "Fusarium Wilt"
+     ],
+     "tipsAndTricks": [
+       "Plant artichokes in well-drained soil with full sun exposure.",
+       "Space artichoke plants properly to allow good air circulation and prevent diseases.",
+       "Apply a balanced fertilizer during the growing season to promote healthy growth and budding.",
+       "Mulch around the base of plants to retain moisture and suppress weeds.",
+       "Water artichoke plants regularly, especially during dry periods, and avoid wetting the foliage.",
+       "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+       "Harvest artichokes when the buds are firm, but the scales have not yet started to open."
+     ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Artichokes: Planting Guide",

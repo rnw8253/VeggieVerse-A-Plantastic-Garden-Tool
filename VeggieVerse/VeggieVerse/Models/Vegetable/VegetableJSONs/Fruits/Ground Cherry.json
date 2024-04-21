@@ -1,14 +1,14 @@
 {
     "plantName": "Ground Cherry",
     "description": "Ground cherry (Physalis pruinosa) is a small, annual fruit-bearing plant belonging to the Solanaceae family. Also known as Cape gooseberry or husk tomato, ground cherry is native to the Americas and is cultivated for its sweet, tangy fruits enclosed in papery husks. The fruits resemble small tomatoes and have a unique flavor that is often described as a blend of pineapple, tomato, and citrus. Ground cherries are commonly used fresh in salads, jams, pies, and preserves, and they can also be dried for later use.",
-    "thumbnailImageUrl": "Ground_Cherry_thumbnail",
-    "backgroundImageUrl": "Ground_Cherry_background",
+    "thumbnailImageUrl": "Ground Cherry_thumbnail",
+    "backgroundImageUrl": "Ground Cherry_background",
     "varieties": "Ground cherries, also known as Cape gooseberries or Physalis, are small, golden fruits enclosed in papery husks. Varieties of ground cherries include 'Aunt Molly's', prized for its sweet flavor and early ripening; 'Golden Nugget', known for its prolific yields and compact growth habit; 'Pineapple', which offers a unique tropical flavor reminiscent of pineapple; and 'Cossack Pineapple', valued for its large, sweet fruits. These varieties provide a range of flavors and characteristics suited for different culinary uses and growing conditions.",
     "sowingAndPlanting": {
       "sowingIndoorsDescription": "Ground cherries can be started indoors 6-8 weeks before the last frost date. Sow seeds in trays or pots filled with seed starting mix, covering them lightly. Keep the soil consistently moist and provide warmth and bright light for optimal germination.",
       "sowingOutdoorsDescription": "Sow ground cherry seeds directly into the garden after the danger of frost has passed and the soil has warmed to at least 60°F. Plant seeds 1/4 to 1/2 inch deep in well-drained soil amended with compost. Space plants 2-3 feet apart in rows spaced 3-4 feet apart.",
-      "spaceBetweenPlants": "2\'-3\'",
-      "spaceBetweenRows": "3\'-4\'",
+      "spaceBetweenPlants": "2'-3'",
+      "spaceBetweenRows": "3'-4'",
       "squareFootPlantingRecommendationsMin": 0.25,
       "squareFootPlantingRecommendationsMax": 0.5,
       "lifeCycle": "Annual",
@@ -32,6 +32,18 @@
       "storageRecommendations": "Harvest ground cherries when the husks have turned brown and papery, and the fruit has fully ripened to a golden yellow or orange color. Store harvested ground cherries in their husks in a cool, dry place for up to several weeks. Alternatively, remove the husks and store the fruit in the refrigerator for up to two weeks.",
       "harvestDescription": "Harvest ground cherries by gently lifting the papery husks from the plant. Ripe fruit will easily detach from the stem. Collect fallen fruit regularly to prevent pests and disease."
     },
+    "SpringSowing": {
+      "Indoors": [-8, -6],
+      "Transplant": [8, 10],
+      "Outdoors": [10, 12],
+      "LastSowDate": null
+    },
+    "FallSowing": {
+      "Outdoors": [],
+      "Transplant": [],
+      "DaysToMaturity": 70,
+      "FrostTolerance": "Tender"
+    },
     "companionPlants": {
         "goodCompanionPlants": [
           {
@@ -43,7 +55,7 @@
             "description": "Basil can enhance the flavor of ground cherries when planted nearby. Additionally, it can help repel pests like aphids, mosquitoes, and flies with its strong scent."
           },
           {
-            "name": "Nasturtiums",
+            "name": "Nasturtium",
             "description": "Nasturtiums can be interplanted with ground cherries to help repel pests like aphids and attract beneficial insects like ladybugs and lacewings. They also add color and beauty to the garden."
           },
           {
@@ -65,7 +77,7 @@
             "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including ground cherries. Avoid planting ground cherries near walnut trees."
           },
           {
-            "name": "Sunflowers",
+            "name": "Sunflower",
             "description": "Sunflowers can compete with ground cherries for sunlight, water, and nutrients, potentially reducing fruit production. Additionally, sunflowers may attract birds that can damage ground cherry crops."
           },
           {
@@ -79,29 +91,40 @@
         ]
       },
     "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are common pests that may infest ground cherry plants, sucking sap from the leaves and causing distortion, yellowing, and stunted growth. Control aphids by spraying plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs and lacewings, or applying insecticidal soap or neem oil."
-        },
-        {
-            "name": "Whiteflies",
-            "description": "Whiteflies are small, flying insects that may infest ground cherry plants, feeding on the undersides of leaves and causing yellowing, wilting, and reduced plant vigor. Control whiteflies by spraying plants with insecticidal soap or neem oil, introducing natural predators like ladybugs and lacewings, or using yellow sticky traps."
-        }
+      "Tomato Hornworm",
+      "Aphids",
+      "Whiteflies",
+      "Flea Beetle",
+      "Cutworm",
+      "Leafminer",
+      "Thrips",
+      "Spider Mite",
+      "Armyworm",
+      "Stink Bug"
+    ],
+    "beneficial_insects": [
+      "Ladybugs",
+      "Lacewings",
+      "Hoverflies",
+      "Parasitic Wasps",
+      "Predatory Mites"
     ],
     "diseases": [
-        {
-            "name": "Early Blight",
-            "description": "Early blight is a fungal disease that may affect ground cherry plants, causing dark lesions on the leaves, stems, and fruits. Infected plants may experience defoliation, reduced fruit production, and overall decline. Control early blight by removing and destroying infected plant debris, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        },
-        {
-            "name": "Gray Mold",
-            "description": "Gray mold, caused by the fungus Botrytis cinerea, may affect ground cherry plants, especially in cool, humid conditions. It appears as fuzzy gray or brown patches on the leaves, stems, and fruits, leading to rot and decay. Control gray mold by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        }
+      "Early Blight",
+      "Late Blight",
+      "Powdery Mildew",
+      "Fusarium Wilt",
+      "Leaf Spot"
     ],
     "tipsAndTricks": [
-        "Mulch around ground cherry plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
-        "Harvest ground cherries regularly to encourage continued fruit production and prevent over-ripening and dropping.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action to prevent infestations and infections from spreading."
+      "Plant ground cherry in well-drained soil with full sun exposure.",
+      "Provide support for ground cherry plants to prevent sprawling.",
+      "Mulch around the base of plants to conserve moisture and suppress weeds.",
+      "Water ground cherry plants regularly, especially during dry periods.",
+      "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+      "Harvest ground cherries when they are fully ripe and have fallen to the ground.",
+      "Store harvested ground cherries in a cool, dry place for short-term storage.",
+      "Rotate planting locations to prevent the buildup of pests and diseases in the soil."
     ],
     "linksToAdditionalResources": [
         {

@@ -5,104 +5,127 @@
     "thumbnailImageUrl": "Pears_thumbnail",
     "backgroundImageUrl": "Pears_background",
     "varieties": "Pears come in various cultivars, each with its unique flavor, texture, and ripening characteristics. Some popular pear varieties include 'Bartlett', prized for its sweet, juicy flesh and classic pear shape; 'Anjou', known for its smooth, green skin and sweet, slightly tangy flavor; 'Bosc', valued for its firm, dense flesh and rich, earthy flavor; and 'Comice', renowned for its tender, buttery texture and sweet, aromatic flavor. These varieties, among others, offer a range of options suited for different culinary uses and growing conditions.",
-     "sowingAndPlanting": {
-       "sowingIndoorsDescription": "Pears are typically propagated from seeds or grafted onto rootstock. To grow from seeds, stratify pear seeds by refrigerating them for several weeks before planting to mimic winter conditions. Plant seeds in pots filled with well-draining potting mix and keep them moist. Germination may take several weeks. Alternatively, purchase grafted pear trees from nurseries for faster fruit production.",
-       "sowingOutdoorsDescription": "Pear trees should be planted in well-draining soil in a sunny location. Dig a hole twice as wide and deep as the root ball of the tree. Place the tree in the hole, backfill with soil, and water thoroughly. Space trees according to their mature size, typically 15-20 feet apart.",
-       "spaceBetweenPlants": "15\'-20\'",
-       "spaceBetweenRows": "Varies based on planting scheme",
-       "squareFootPlantingRecommendationsMin": 1,
-       "squareFootPlantingRecommendationsMax": 2,
-       "lifeCycle": "Perennial",
-       "seedDepth": "1\"",
-       "pHRange": "6.0 - 7.0",
-       "germinationSoilTemp": "60-70°F",
-       "season": "Pear trees should be planted in late winter or early spring, while they are still dormant. They require a chilling period in winter to break dormancy and produce fruit, making them well-suited to temperate climates."
-     },
-     "careAndMaintenance": {
-       "optimalSun": "Full Sun",
-       "growingSoilTemp": "55-75°F",
-       "growingDescription": "Pear trees prefer full sun and well-draining soil. They require regular watering, especially during dry periods, to keep the soil consistently moist but not waterlogged. Mulch around trees to conserve moisture, suppress weeds, and maintain even soil temperature.",
-       "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
-       "soilFertility": "Incorporate organic matter, such as compost or well-rotted manure, into the soil before planting to improve fertility and soil structure. Fertilize pear trees with a balanced fertilizer according to package instructions.",
-       "pruningRequirements": "Prune pear trees in late winter or early spring to remove dead, diseased, or crossing branches. Thin out the canopy to improve air circulation and light penetration. Prune mature trees to maintain shape and size.",
-       "supportRequirements": "Young pear trees may benefit from staking to provide support and prevent leaning. Use sturdy stakes and ties to secure the tree in place until it establishes a strong root system."
-     },
-     "harvestingAndStorage": {
-       "daysToHarvest": "3-7 years from planting",
-       "timeToMaturity": "Pear trees typically begin producing fruit 3-7 years after planting, depending on the variety and growing conditions.",
-       "storageRecommendations": "Harvest pears when they are fully ripe, usually when they have reached their mature color and size. Pears should be harvested when they are still firm and allowed to ripen off the tree. Store harvested pears at room temperature until they reach the desired ripeness, then refrigerate them for longer storage.",
-       "harvestDescription": "Harvest pears by hand when they are fully ripe. Twist the fruit gently to detach it from the tree, or use pruning shears to cut it from the stem. Handle pears carefully to avoid bruising."
-     },
-     "companionPlants": {
-         "goodCompanionPlants": [
-           {
-             "name": "Chives",
-             "description": "Chives planted around pear trees can help deter pests like aphids, Japanese beetles, and spider mites. Their strong aroma can mask the scent of the pear tree, making it harder for pests to locate."
-           },
-           {
-             "name": "Garlic",
-             "description": "Garlic has natural fungicidal properties that can help prevent diseases like fire blight when planted near pear trees. It also repels some insect pests, such as aphids and pear psyllids."
-           },
-           {
-             "name": "Lavender",
-             "description": "Lavender attracts pollinators like bees and butterflies, which can help improve fruit set in pear trees. Its strong scent can also deter pests like aphids and moths."
-           },
-           {
-             "name": "Nasturtiums",
-             "description": "Nasturtiums can be interplanted with pear trees to help repel pests like aphids and pear psyllids. They also attract beneficial insects like ladybugs and lacewings."
-           },
-           {
-             "name": "Marigolds",
-             "description": "Marigolds have a strong aroma that can repel pests like nematodes, aphids, and whiteflies. Planting marigolds around pear trees can help protect them from these pests."
-           }
-         ],
-         "badCompanionPlants": [
-           {
-             "name": "Grass",
-             "description": "Grass competes with pear trees for water, nutrients, and sunlight. Additionally, grass can harbor pests and diseases that may affect pear trees. Keep the area around pear trees free of grass and other competing vegetation."
-           },
-           {
-             "name": "Walnuts",
-             "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including pear trees. Avoid planting pear trees near walnut trees."
-           },
-           {
-             "name": "Cherry",
-             "description": "Pears and cherries are susceptible to similar pests and diseases. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
-           },
-           {
-             "name": "Apple",
-             "description": "Pears and apples are susceptible to similar pests and diseases. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
-           },
-           {
-             "name": "Potatoes",
-             "description": "Potatoes and other members of the nightshade family can host pests and diseases that may affect pear trees. Additionally, they may compete with pear trees for water and nutrients."
-           }
-         ]
-       },
+    "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Pears are typically propagated from seeds or grafted onto rootstock. To grow from seeds, stratify pear seeds by refrigerating them for several weeks before planting to mimic winter conditions. Plant seeds in pots filled with well-draining potting mix and keep them moist. Germination may take several weeks. Alternatively, purchase grafted pear trees from nurseries for faster fruit production.",
+        "sowingOutdoorsDescription": "Pear trees should be planted in well-draining soil in a sunny location. Dig a hole twice as wide and deep as the root ball of the tree. Place the tree in the hole, backfill with soil, and water thoroughly. Space trees according to their mature size, typically 15-20 feet apart.",
+        "spaceBetweenPlants": "15'-20'",
+        "spaceBetweenRows": "Varies",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 2,
+        "lifeCycle": "Perennial",
+        "seedDepth": "1\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "60-70°F",
+        "season": "Pear trees should be planted in late winter or early spring, while they are still dormant. They require a chilling period in winter to break dormancy and produce fruit, making them well-suited to temperate climates."
+    },
+    "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "55-75°F",
+        "growingDescription": "Pear trees prefer full sun and well-draining soil. They require regular watering, especially during dry periods, to keep the soil consistently moist but not waterlogged. Mulch around trees to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+        "soilFertility": "Incorporate organic matter, such as compost or well-rotted manure, into the soil before planting to improve fertility and soil structure. Fertilize pear trees with a balanced fertilizer according to package instructions.",
+        "pruningRequirements": "Prune pear trees in late winter or early spring to remove dead, diseased, or crossing branches. Thin out the canopy to improve air circulation and light penetration. Prune mature trees to maintain shape and size.",
+        "supportRequirements": "Young pear trees may benefit from staking to provide support and prevent leaning. Use sturdy stakes and ties to secure the tree in place until it establishes a strong root system."
+    },
+    "harvestingAndStorage": {
+        "daysToHarvest": "3-7 years from planting",
+        "timeToMaturity": "Pear trees typically begin producing fruit 3-7 years after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest pears when they are fully ripe, usually when they have reached their mature color and size. Pears should be harvested when they are still firm and allowed to ripen off the tree. Store harvested pears at room temperature until they reach the desired ripeness, then refrigerate them for longer storage.",
+        "harvestDescription": "Harvest pears by hand when they are fully ripe. Twist the fruit gently to detach it from the tree, or use pruning shears to cut it from the stem. Handle pears carefully to avoid bruising."
+    },
+    "SpringSowing": {
+      "Indoors": [],
+      "Transplant": [2, 4],
+      "Outdoors": [4, 6],
+      "LastSowDate": null
+    },
+    "FallSowing": {
+      "Outdoors": [-4, -2],
+      "Transplant": [-4, -2],
+      "DaysToMaturity": 180,
+      "FrostTolerance": "Hardy"
+    },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Chives",
+                "description": "Chives planted around pear trees can help deter pests like aphids, Japanese beetles, and spider mites. Their strong aroma can mask the scent of the pear tree, making it harder for pests to locate."
+            },
+            {
+                "name": "Garlic",
+                "description": "Garlic has natural fungicidal properties that can help prevent diseases like fire blight when planted near pear trees. It also repels some insect pests, such as aphids and pear psyllids."
+            },
+            {
+                "name": "Lavender",
+                "description": "Lavender attracts pollinators like bees and butterflies, which can help improve fruit set in pear trees. Its strong scent can also deter pests like aphids and moths."
+            },
+            {
+                "name": "Nasturtium",
+                "description": "Nasturtiums can be interplanted with pear trees to help repel pests like aphids and pear psyllids. They also attract beneficial insects like ladybugs and lacewings."
+            },
+            {
+                "name": "Marigolds",
+                "description": "Marigolds have a strong aroma that can repel pests like nematodes, aphids, and whiteflies. Planting marigolds around pear trees can help protect them from these pests."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Grass",
+                "description": "Grass competes with pear trees for water, nutrients, and sunlight. Additionally, grass can harbor pests and diseases that may affect pear trees. Keep the area around pear trees free of grass and other competing vegetation."
+            },
+            {
+                "name": "Walnuts",
+                "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including pear trees. Avoid planting pear trees near walnut trees."
+            },
+            {
+                "name": "Cherries",
+                "description": "Pears and cherries are susceptible to similar pests and diseases. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
+            },
+            {
+                "name": "Apples",
+                "description": "Pears and apples are susceptible to similar pests and diseases. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
+            },
+            {
+                "name": "Potatoes",
+                "description": "Potatoes and other members of the nightshade family can host pests and diseases that may affect pear trees. Additionally, they may compete with pear trees for water and nutrients."
+            }
+        ]
+    },
     "pests": [
-        {
-            "name": "Pear Psylla",
-            "description": "Pear psylla are small insects that feed on the sap of pear trees, causing yellowing, curling leaves and reduced fruit production. Control pear psylla populations with insecticidal sprays or natural predators like ladybugs and lacewings."
-        },
-        {
-            "name": "Pear Sawfly",
-            "description": "Pear sawflies are common pests of pear trees, laying their eggs on the leaves. The larvae feed on the foliage, causing defoliation and reduced tree vigor. Control pear sawfly populations with insecticidal sprays or by removing and destroying affected leaves."
-        }
+        "Psylla",
+        "Sawfly",
+        "Leaf Blister Mite",
+        "Rust Mite",
+        "Fruit Sucker",
+        "Slug",
+        "Thrips",
+        "Weevil",
+        "Blister Mite",
+        "Asian Lady Beetle"
+    ],
+    "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
     ],
     "diseases": [
-        {
-            "name": "Fire Blight",
-            "description": "Fire blight is a bacterial disease that affects pear trees, causing wilting, blackening, and dieback of branches and foliage. It can lead to severe damage and death of the tree. Control fire blight by pruning infected branches at least 12 inches below the affected area, disinfecting pruning tools between cuts, and applying copper-based fungicides preventatively in spring."
-        },
-        {
-            "name": "Pear Rust",
-            "description": "Pear rust is a fungal disease that affects pear trees, causing yellow-orange spots on leaves and fruit. It can lead to defoliation and reduced fruit production. Control pear rust by removing and destroying infected leaves, improving air circulation around trees, and applying fungicidal sprays preventatively."
-        }
+        "Rust",
+        "Scab",
+        "Blight",
+        "Leaf Spot",
+        "Black Rot"
     ],
     "tipsAndTricks": [
-        "Harvest pears when mature but still firm, as they will continue to ripen after picking.",
-        "Monitor trees regularly for signs of pests and diseases, and take prompt action to control infestations.",
-        "Prune pear trees annually to remove dead or diseased wood, improve airflow, and shape the tree."
+        "Plant pear trees in well-drained soil with full sun exposure.",
+        "Prune pear trees in late winter to remove dead or diseased branches and maintain an open canopy.",
+        "Apply a balanced fertilizer during the growing season to promote healthy growth and fruiting.",
+        "Water pear trees regularly, especially during dry periods.",
+        "Mulch around the base of trees to retain moisture and suppress weeds.",
+        "Monitor trees regularly for signs of pests and diseases, and take appropriate action.",
+        "Thin out excess fruit in early summer to improve fruit size and reduce disease pressure.",
+        "Harvest pears when they are mature but still firm, then ripen them at room temperature."
     ],
     "linksToAdditionalResources": [
         {

@@ -33,6 +33,18 @@
         "storageRecommendations": "Harvest celery when the stalks are crisp and well-developed. Cut stalks at ground level or remove individual stalks as needed. Store harvested celery in the refrigerator, either wrapped in plastic or placed in a container with water to keep it fresh for up to several weeks.",
         "harvestDescription": "Harvest celery by cutting stalks at ground level with a sharp knife when they are mature. Remove any outer leaves and rinse the stalks thoroughly before use."
       },
+      "SpringSowing": {
+        "Indoors": [-12, -10],
+        "Transplant": [1, 3],
+        "Outdoors": [0, 1],
+        "LastSowDate": -10
+      },
+      "FallSowing": {
+        "Outdoors": [],
+        "Transplant": [],
+        "DaysToMaturity": 140,
+        "FrostTolerance": "Tolerant"
+      },
       "companionPlants": {
           "goodCompanionPlants": [
             {
@@ -44,7 +56,7 @@
               "description": "Celery can help repel pests like whiteflies and aphids when planted near tomato plants. Additionally, the strong scent of celery can mask the smell of tomatoes, making them less attractive to pests."
             },
             {
-              "name": "Nasturtiums",
+              "name": "Nasturtium",
               "description": "Nasturtiums are known to repel pests like aphids and whiteflies when planted near celery. Their vibrant flowers can also attract beneficial insects to the garden, which prey on pests."
             },
             {
@@ -83,24 +95,42 @@
             }
           ]
         },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are small, soft-bodied insects that feed on celery plants by sucking sap from leaves and stems. They reproduce rapidly and can cause distorted growth, yellowing, and wilting. Control aphids by spraying affected plants with water to dislodge them, introducing natural predators like ladybugs, lacewings, or parasitic wasps, and using insecticidal soap or neem oil as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Fusarium Wilt",
-            "description": "Fusarium wilt is a fungal disease that affects celery plants, causing wilting, yellowing, and stunted growth. It is soilborne and can persist in the soil for several years. Prevent fusarium wilt by practicing crop rotation, improving soil drainage, and using disease-resistant varieties."
-        }
-    ],
-    "tipsAndTricks": [
-        "Provide consistent moisture and fertility to celery plants for optimal growth and development.",
-        "Blanch celery stalks to produce tender, pale stalks. This can be achieved by wrapping the stalks with paper or cardboard or by planting in trenches and gradually filling them with soil.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed.",
-        "Harvest celery stalks when they reach the desired size and flavor for the best taste and texture."
-    ],
+      "pests": [
+        "Aphids",
+        "Leafminer",
+        "Stalk Borer",
+        "Caterpillar",
+        "Cutworm",
+        "Thrips",
+        "Armyworm",
+        "Whiteflies",
+        "Flea Beetle",
+        "Looper"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
+      ],
+      "diseases": [
+        "Leaf Blight",
+        "Fusarium Wilt",
+        "Bacterial Blight",
+        "Septoria Leaf Spot",
+        "Soft Rot",
+        "Aster Yellows"
+      ],
+      "tipsAndTricks": [
+        "Plant celery in well-drained soil with full sun to partial shade exposure.",
+        "Provide consistent moisture to celery plants, as they require regular watering.",
+        "Apply a balanced fertilizer or compost to provide necessary nutrients for growth.",
+        "Mulch around the base of plants to retain moisture and suppress weeds.",
+        "Avoid overhead watering to prevent the spread of diseases.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+        "Harvest celery stalks when they are crisp and firm, typically when they reach the desired size."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Celery: Planting Guide",

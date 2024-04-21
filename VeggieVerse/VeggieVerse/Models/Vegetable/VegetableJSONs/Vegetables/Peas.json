@@ -33,41 +33,99 @@
         "storageRecommendations": "Harvest peas when the pods are plump and well-filled but still tender. Use a sharp knife or scissors to cut the pods from the vines, being careful not to damage the plants. Store harvested peas in the refrigerator for up to a week.",
         "harvestDescription": "Harvest peas when the pods are plump and well-filled but still tender. Gently pull the pods from the vines, taking care not to damage the plants. Check plants regularly for ripe pods and harvest them promptly to encourage continued production."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [],
+        "Transplant": [],
+        "Outdoors": [-4, -3],
+        "LastSowDate": -22
+      },
+      "FallSowing": {
+        "Outdoors": [-10, -8],
+        "Transplant": [],
+        "DaysToMaturity": 5,
+        "FrostTolerance": "Tender"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Carrots",
-                "description": "Carrots can be planted near peas to help improve soil structure and provide natural pest control in the garden."
+              "name": "Carrots",
+              "description": "Carrots are excellent companions for peas. They have complementary root systems, with carrots growing underground and peas climbing upward. Interplanting carrots with peas maximizes space utilization and minimizes competition for soil nutrients. Additionally, carrots can help improve soil structure by loosening compacted soil, which benefits pea growth and overall garden health."
             },
             {
-                "name": "Lettuce",
-                "description": "Lettuce can be interplanted with peas to help suppress weeds and provide natural ground cover."
-            }
-        ],
-        "badCompanionPlants": [
+              "name": "Radishes",
+              "description": "Radishes are beneficial companions for peas. Planting radishes near peas can help deter pests like aphids and flea beetles, which may affect pea crops. Radishes have a faster growth rate and can be harvested earlier, which helps break up soil crusts and improve soil aeration, creating better growing conditions for peas. Additionally, radishes act as a trap crop, attracting pests away from peas and providing natural pest control."
+            },
             {
-                "name": "Onions",
-                "description": "Onions are not recommended to be planted near peas as they may compete for space and nutrients."
+              "name": "Lettuce",
+              "description": "Lettuce is a good companion for peas. Interplanting lettuce with peas can help maximize garden space and reduce weed competition. Lettuce has shallow roots that complement the deeper root systems of peas, allowing them to grow together without competing for nutrients. Additionally, lettuce provides some shade to pea plants during hot weather, preventing excessive heat stress and promoting healthier growth."
+            },
+            {
+              "name": "Beans",
+              "description": "Beans are beneficial companions for peas. Both peas and beans are legumes that fix nitrogen in the soil, improving soil fertility and providing mutual benefits to each other. Interplanting beans with peas can enhance nitrogen fixation in the soil, leading to healthier pea crops. Additionally, beans can act as living mulch, shading the soil and suppressing weeds, which can help conserve moisture and improve growing conditions for peas."
+            },
+            {
+              "name": "Sweet Alyssum",
+              "description": "Sweet Alyssum is a beneficial companion for peas. It attracts beneficial insects like hoverflies and lacewings, which prey on aphids and other pests that may affect pea crops. Interplanting sweet alyssum with peas can help enhance biological pest control in the garden, reducing the need for chemical pesticides and promoting a healthier garden ecosystem."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Pea Aphids",
-            "description": "Pea aphids are small, soft-bodied insects that feed on pea plants by sucking sap from leaves, stems, and pods. They reproduce rapidly and can cause distorted growth, yellowing, and wilting. To control pea aphids, spray affected plants with water to dislodge them, introduce natural predators like ladybugs or lacewings, and use insecticidal soap or neem oil as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that affects pea plants, causing a white, powdery growth on leaves, stems, and pods. It thrives in warm, humid conditions and can lead to reduced plant vigor and yield. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicidal sprays as needed."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest peas when they are young and tender for the best flavor and texture.",
-        "Provide support for pea vines to climb by using trellises, stakes, or other supports.",
-        "Rotate pea crops annually to prevent the buildup of soilborne pests and diseases."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Onions",
+              "description": "Onions may not be ideal companions for peas. While they belong to the same family (Alliaceae) and have similar cultural requirements, planting them together may increase the risk of disease transmission and pest infestation. Onions and peas may attract similar pests and diseases, such as thrips and powdery mildew, which can spread easily between the two crops."
+            },
+            {
+              "name": "Garlic",
+              "description": "Garlic may not be the best companion for peas. While they belong to the same family (Alliaceae) and have similar cultural requirements, planting them together may increase the risk of disease transmission and pest infestation. Garlic and peas may attract similar pests and diseases, such as onion maggots and damping-off fungi, which can spread easily between the two crops."
+            },
+            {
+              "name": "Shallot",
+              "description": "Shallots may not be suitable companions for peas. While they belong to the same family (Alliaceae) and have similar cultural requirements, planting them together may increase the risk of disease transmission and pest infestation. Shallots and peas may attract similar pests and diseases, such as onion thrips and downy mildew, which can spread easily between the two crops."
+            },
+            {
+              "name": "Chives",
+              "description": "Chives may not be ideal companions for peas. While they belong to the same family (Alliaceae) and have similar cultural requirements, planting them together may increase the risk of disease transmission and pest infestation. Chives and peas may attract similar pests and diseases, such as onion flies and rust, which can spread easily between the two crops."
+            },
+            {
+              "name": "Turnips",
+              "description": "Turnips may not be the best companions for peas. While they belong to the same family (Brassicaceae) and have similar cultural requirements, planting them together may increase the risk of disease transmission and pest infestation. Turnips and peas may attract similar pests and diseases, such as cabbage loopers and clubroot, which can spread easily between the two crops."
+            }
+          ]
+        },
+      "pests": [
+        "Aphids",
+        "Leafhopper",
+        "Whiteflies",
+        "Thrips",
+        "Cutworm",
+        "Armyworm",
+        "Flea Beetle",
+        "Leaf Beetle",
+        "Mite",
+        "Looper"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
+      ],
+      "diseases": [
+        "Powdery Mildew",
+        "Downy Mildew",
+        "Rust",
+        "Fusarium Wilt",
+        "Root Rot"
+      ],
+      "tipsAndTricks": [
+        "Plant peas in well-drained soil with full sun exposure.",
+        "Provide support for climbing varieties to prevent damage to vines.",
+        "Water peas regularly, keeping the soil consistently moist but not waterlogged.",
+        "Mulch around pea plants to retain moisture and suppress weeds.",
+        "Harvest peas when pods are plump and fully developed, but before they become tough and starchy.",
+        "Rotate crops to prevent the buildup of pests and diseases in the soil.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Peas: Planting Guide",

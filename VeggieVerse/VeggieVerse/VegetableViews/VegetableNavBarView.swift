@@ -16,7 +16,7 @@ struct VegetableNavBarView: View {
     var height: CGFloat
     var curveVal: CGFloat
     var backgroundImage: String
-    var showBackButton = true
+    var showBackButton = false
     var body: some View {
         VStack(spacing: 0) {
             ZStack {
@@ -56,7 +56,8 @@ struct VegetableNavBarView: View {
 struct VegetableNavBarView_Previews: PreviewProvider {
     static var previews: some View {
         VStack {
-            VegetableNavBarView(title: "Tomatoes", titleColor: Color.white, shadowColor: .black, openColor: .green, height: 100, curveVal: 50, backgroundImage: "Tomatoes_background")
+            VegetableNavBarView(title: "German Chamomile", titleColor: Color.white, shadowColor: .black, openColor: .green, height: 130, curveVal: 50, backgroundImage: "Tomatoes_background")
+
             Spacer()
         }
     }
@@ -68,13 +69,19 @@ extension VegetableNavBarView {
             appState.popXViews(1)
         } label: {
             Image(systemName: "chevron.left")
+                .shadow(radius: 15)
         }
-        .frame(width: 50, height: 50)
+        .frame(width: 75, height: 75)
     }
     
     private var titleSection: some View {
-        Text(title)
-            .font(.largeTitle)
-            .fontWeight(.black)
+            Text(title)
+                .font(.largeTitle)
+                .fontWeight(.black)
+                .shadow(radius: 15)
+                .multilineTextAlignment(.center)
+                .scaledToFit()
+                .minimumScaleFactor(0.5)
+                .lineLimit(2)
     }
 }

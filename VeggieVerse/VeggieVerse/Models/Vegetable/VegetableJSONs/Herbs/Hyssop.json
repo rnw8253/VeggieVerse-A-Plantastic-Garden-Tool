@@ -33,43 +33,96 @@
         "storageRecommendations": "Harvest hyssop leaves and flowers as needed for culinary, medicinal, or ornamental use. Use fresh leaves and flowers immediately, or dry them for later use. To dry hyssop, hang the stems upside down in small bunches in a well-ventilated area out of direct sunlight. Once fully dried, store the leaves and flowers in an airtight container in a cool, dark place.",
         "harvestDescription": "Harvest hyssop leaves and flowers when they are fully developed and at their peak flavor or fragrance. Snip the stems just above a leaf node for continuous growth and harvesting."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [-8, -6],
+        "Transplant": [-6, -4],
+        "Outdoors": [-4, -2],
+        "LastSowDate": null
+      },
+      "FallSowing": {
+        "Outdoors": [8, 10],
+        "Transplant": [],
+        "DaysToMaturity": 90,
+        "FrostTolerance": "Tolerant"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Lavender",
-                "description": "Lavender is a good companion plant for hyssop, as both share similar growing conditions and can complement each other visually in the garden. Interplanting hyssop with lavender may also help deter pests and attract beneficial insects."
+              "name": "Basil",
+              "description": "Basil is a beneficial companion for hyssop as it can attract pollinators like bees and butterflies, enhancing the overall health of the garden. Its aromatic foliage can also help deter pests."
             },
             {
-                "name": "Thyme",
-                "description": "Thyme is another suitable companion plant for hyssop, as it thrives in similar soil and light conditions. Planting hyssop and thyme together can create a fragrant and attractive herb garden while maximizing space and resources."
-            }
-        ],
-        "badCompanionPlants": [
+              "name": "Thyme",
+              "description": "Thyme complements hyssop well as it attracts beneficial insects and has antimicrobial properties that can aid in disease prevention. Additionally, thyme's low-growing habit can provide ground cover, conserving soil moisture and suppressing weed growth around hyssop."
+            },
             {
-                "name": "Fennel",
-                "description": "Fennel is not recommended as a companion plant for hyssop, as it may inhibit the growth of nearby plants with its allelopathic properties. Avoid planting fennel near hyssop to prevent potential competition and reduced vigor."
+              "name": "Lavender",
+              "description": "Lavender makes an excellent companion for hyssop due to its similar growth habits and preferences. Both plants thrive in sunny, well-draining soil and attract pollinators. The combined presence of hyssop and lavender can create a visually appealing and fragrant garden space."
+            },
+            {
+              "name": "Marjoram",
+              "description": "Marjoram is a beneficial companion plant for hyssop as it attracts beneficial insects like hoverflies and parasitic wasps, which prey on garden pests. Its aromatic foliage can also help repel pests such as aphids and whiteflies."
+            },
+            {
+              "name": "Oregano",
+              "description": "Oregano is a suitable companion for hyssop as it shares similar growing conditions and has aromatic foliage that can deter pests. Additionally, both herbs are edible and commonly used in culinary dishes, making them a functional and visually appealing pairing in the garden."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are common pests that may infest hyssop plants, especially during periods of new growth. They feed on the sap of the plant and can cause stunted growth, yellowing leaves, and distortion of foliage. Control aphids by spraying the affected plants with a strong jet of water to dislodge them or applying insecticidal soap or neem oil."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect hyssop plants, causing a white, powdery growth on the leaves and stems. It thrives in humid conditions and can spread rapidly in crowded plantings. Control powdery mildew by improving air circulation around the plants, avoiding overhead watering, and applying fungicidal treatments as needed."
-        }
-    ],
-    "tipsAndTricks": [
-        "Prune hyssop regularly to maintain its shape and promote bushy growth.",
-        "Harvest hyssop leaves and flowers as needed for culinary or medicinal use, but avoid overharvesting to ensure plant health.",
-        "Provide adequate spacing between hyssop plants to improve air circulation and reduce the risk of disease.",
-        "Monitor hyssop plants regularly for signs of pests and diseases, and take prompt action to address any issues.",
-        "Consider growing hyssop in containers or raised beds to control its spread and accommodate its specific growing requirements."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Fennel",
+              "description": "Fennel is not recommended as a companion for hyssop as it exudes allelopathic compounds that may inhibit the growth of neighboring plants, including hyssop. Furthermore, fennel can attract pests like aphids and caterpillars, posing a risk to the health of hyssop."
+            },
+            {
+              "name": "Cabbage",
+              "description": "Cabbage is not an ideal companion for hyssop as it may compete for resources such as water, nutrients, and space in the garden. Additionally, cabbage is susceptible to some of the same pests and diseases as hyssop, which can increase the likelihood of infestation and spread."
+            },
+            {
+              "name": "Brussels Sprouts",
+              "description": "Brussels sprouts should be avoided as companion plants for hyssop as they have similar cultural requirements and may compete for resources. Additionally, both plants are susceptible to aphid infestations, and planting them together can attract a larger population of these pests."
+            },
+            {
+              "name": "Kale",
+              "description": "Kale is not recommended as a companion for hyssop as it may attract pests like cabbage worms and aphids, which can also affect the health of hyssop. Furthermore, kale and hyssop have different growth habits and may compete for sunlight and nutrients in the garden."
+            },
+            {
+              "name": "Beans",
+              "description": "Beans, such as pole beans and bush beans, are not suitable companion plants for hyssop as they have different soil and water requirements. Beans prefer fertile, well-draining soil with consistent moisture, while hyssop thrives in leaner soil conditions with less frequent watering."
+            }
+          ]
+        },
+      "pests": [
+        "Aphids",
+        "Spider Mite",
+        "Whiteflies",
+        "Thrips",
+        "Leafhopper"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps"
+      ],
+      "diseases": [
+        "Powdery Mildew",
+        "Downy Mildew",
+        "Root Rot",
+        "Botrytis Blight"
+      ],
+      "tipsAndTricks": [
+        "Select a planting site with well-drained soil and full sun exposure.",
+        "Directly sow hyssop seeds in the garden in early spring or fall, after the last frost date.",
+        "Sow seeds lightly on the soil surface, and press them lightly into the soil. Keep the soil consistently moist during germination.",
+        "Thin seedlings to about 12 inches apart to allow for proper air circulation and growth space.",
+        "Water hyssop regularly, providing about 1 inch of water per week, and avoid overwatering to prevent rot.",
+        "Mulch around hyssop plants to retain soil moisture and suppress weeds.",
+        "Harvest hyssop leaves and flowers as needed for culinary or medicinal use by snipping them from the plant.",
+        "Prune hyssop plants regularly to promote bushy growth and prevent them from becoming leggy.",
+        "Monitor plants regularly for signs of pests such as aphids and spider mites. Use insecticidal soap or neem oil as needed.",
+        "Watch for symptoms of diseases like powdery mildew and root rot. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+        "Hyssop is drought tolerant once established but benefits from regular watering during dry periods."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Hyssop: A Beginner's Guide",

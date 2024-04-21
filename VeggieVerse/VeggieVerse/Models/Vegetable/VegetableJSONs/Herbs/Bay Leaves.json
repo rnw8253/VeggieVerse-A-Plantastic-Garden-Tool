@@ -8,8 +8,8 @@
      "sowingAndPlanting": {
        "sowingIndoorsDescription": "Bay laurel trees can be grown from seeds, but they can be slow and challenging to germinate. It's often easier to start with a young bay laurel tree from a nursery or garden center. If you choose to start from seeds, soak them in warm water for 24 hours before planting to soften the seed coat. Plant seeds in pots filled with well-draining potting mix, covering them lightly with soil. Keep the soil consistently moist and place the pots in a warm, sunny location.",
        "sowingOutdoorsDescription": "Bay laurel trees prefer warm, Mediterranean-like climates and are not suited for outdoor planting in colder regions. However, if you live in a suitable climate, you can plant bay laurel trees outdoors in well-draining soil with full sun to partial shade. Dig a hole twice as wide and deep as the root ball of the tree. Place the tree in the hole, backfill with soil, and water thoroughly.",
-       "spaceBetweenPlants": "10\'-12\'",
-       "spaceBetweenRows": "10\'-12\'",
+       "spaceBetweenPlants": "10'-12'",
+       "spaceBetweenRows": "10'-12'",
        "squareFootPlantingRecommendationsMin": 0,
        "squareFootPlantingRecommendationsMax": 0,
        "lifeCycle": "Perennial",
@@ -33,51 +33,93 @@
        "storageRecommendations": "Harvest bay leaves as needed by snipping them from the tree. Fresh bay leaves can be used immediately in cooking or dried for later use. To dry bay leaves, hang them in a warm, dry place with good air circulation until they are completely dry. Store dried bay leaves in an airtight container in a cool, dark place.",
        "harvestDescription": "Harvest bay leaves by snipping them from the tree as needed. Use fresh bay leaves immediately in recipes or dry them for later use. When harvesting, choose mature leaves from healthy branches, and avoid damaging the tree."
      },
-    "companionPlants": {
-        "goodCompanionPlants": [
-            {
-                "name": "Rosemary",
-                "description": "Rosemary is a good companion plant for bay leaves, as it repels pests like mosquitoes and carrot flies. It also complements the aromatic flavor of bay leaves in cooking."
-            },
-            {
-                "name": "Thyme",
-                "description": "Thyme is a beneficial companion plant for bay leaves, as it repels pests like cabbage worms and enhances the flavor of dishes when grown nearby."
-            }
-        ],
-        "badCompanionPlants": [
-            {
-                "name": "Fennel",
-                "description": "Fennel is not recommended to be planted near bay leaves, as it may inhibit their growth and flavor."
-            }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Scale Insects",
-            "description": "Scale insects are small, sap-sucking pests that can infest bay leaf trees. They appear as small bumps on the stems and leaves. Control scale insects by pruning and disposing of heavily infested branches, and applying horticultural oil or insecticidal soap to affected areas."
-        },
-        {
-            "name": "Mealybugs",
-            "description": "Mealybugs are soft-bodied insects that feed on the sap of bay leaf trees, causing yellowing, wilting, and stunting of growth. They also secrete honeydew, leading to the growth of sooty mold. Control mealybugs by pruning and disposing of heavily infested branches, and applying insecticidal soap or neem oil to affected areas."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that affects bay leaf trees, causing a white powdery growth on leaves. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
-        },
-        {
-            "name": "Root Rot",
-            "description": "Root rot is a fungal disease that affects bay leaf trees, causing yellowing, wilting, and eventual death of the plant. It is often caused by overwatering or poorly drained soil. Prevent root rot by planting bay leaf trees in well-drained soil and avoiding overwatering."
-        }
-    ],
-    "tipsAndTricks": [
-        "Water bay leaf trees regularly to keep the soil evenly moist, but not waterlogged.",
-        "Prune bay leaf trees to maintain shape and size, and remove any dead or damaged branches.",
-        "Inspect bay leaf trees regularly for signs of pests or diseases, and take prompt action to address any issues.",
-        "Harvest bay leaves as needed throughout the growing season, and dry them for long-term storage.",
-        "Use dried bay leaves in cooking to add flavor to soups, stews, and sauces."
-    ],
+     "SpringSowing": {
+       "Indoors": [8, 10],
+       "Transplant": [10, 12],
+       "Outdoors": [],
+       "LastSowDate": null
+     },
+     "FallSowing": {
+       "Outdoors": [],
+       "Transplant": [],
+       "DaysToMaturity": 730,
+       "FrostTolerance": "Tolerant"
+     },
+     "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Tomatoes",
+             "description": "Bay leaves are beneficial companions for tomatoes. They help repel insects like aphids, whiteflies, and tomato hornworms, which can damage tomato plants. Additionally, bay leaves can enhance the flavor of tomatoes when used together in cooking."
+           },
+           {
+             "name": "Rosemary",
+             "description": "Rosemary is a good companion for bay leaves. Both herbs have similar cultural requirements and can thrive when planted together. Additionally, rosemary's aromatic foliage can help deter pests and enhance the flavor of nearby bay leaves."
+           },
+           {
+             "name": "Thyme",
+             "description": "Thyme makes a suitable companion for bay leaves. Both herbs are aromatic and can help repel pests when planted together. Additionally, thyme's low-growing habit can provide ground cover and suppress weeds around bay leaf plants."
+           },
+           {
+             "name": "Sage",
+             "description": "Sage is a beneficial companion for bay leaves. It can help repel pests like aphids, cabbage loopers, and spider mites, which may affect bay leaf plants. Additionally, sage's strong scent can enhance the flavor of nearby bay leaves."
+           },
+           {
+             "name": "Oregano",
+             "description": "Oregano is a good companion for bay leaves. Both herbs have similar cultural requirements and can thrive when planted together. Additionally, oregano's aromatic foliage can help deter pests and attract beneficial insects to the garden."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Basil",
+             "description": "Basil may not be an ideal companion for bay leaves. Some gardeners believe that planting basil near bay leaves can negatively affect the flavor and growth of both herbs. It's best to separate them in the garden."
+           },
+           {
+             "name": "Dill",
+             "description": "Dill may not be the best companion for bay leaves. Some gardeners believe that planting dill near bay leaves can negatively affect the flavor and growth of both herbs. It's best to separate them in the garden."
+           },
+           {
+             "name": "Mint",
+             "description": "Mint may not be an ideal companion for bay leaves. Mint is known for its aggressive growth habit and can quickly spread and overcrowd the garden. Additionally, mint may compete with bay leaves for nutrients and water."
+           },
+           {
+             "name": "Parsley",
+             "description": "Parsley may not be the best companion for bay leaves. Some gardeners believe that planting parsley near bay leaves can negatively affect the flavor and growth of both herbs. It's best to separate them in the garden."
+           },
+           {
+             "name": "Chives",
+             "description": "Chives may not be an ideal companion for bay leaves. While chives can help deter pests, their aggressive growth habit may compete with bay leaves for space and resources in the garden."
+           }
+         ]
+       },
+     "pests": [
+       "Aphids",
+       "Spider Mite",
+       "Scale Insect",
+       "Mealybug"
+     ],
+     "beneficial_insects": [
+       "Ladybugs",
+       "Lacewings",
+       "Hoverflies",
+       "Parasitic Wasps"
+     ],
+     "diseases": [
+       "Powdery Mildew",
+       "Leaf Spot",
+       "Anthracnose",
+       "Root Rot"
+     ],
+     "tipsAndTricks": [
+       "Choose a planting site with well-drained soil and full sun to partial shade exposure.",
+       "Plant bay leaf seedlings in the garden after the last frost date, spacing them 10-12 feet apart to accommodate their eventual size.",
+       "Water bay leaves regularly, providing about 1 inch of water per week, and mulch to conserve moisture and suppress weeds.",
+       "Fertilize bay leaves with a balanced fertilizer or compost tea every 6-8 weeks during the growing season, following package instructions.",
+       "Prune bay leaf trees annually to maintain their shape and promote air circulation within the canopy.",
+       "Harvest bay leaves as needed by snipping them from the stem. Dry the leaves thoroughly before storing them in an airtight container.",
+       "Monitor plants regularly for signs of pests such as aphids and scale insects. Use insecticidal soap or neem oil as needed.",
+       "Watch for symptoms of diseases like powdery mildew and leaf spot. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+       "Protect bay leaf trees from frost damage by covering them with frost cloth or bringing them indoors during cold weather."
+     ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Bay Leaves: Planting Guide",

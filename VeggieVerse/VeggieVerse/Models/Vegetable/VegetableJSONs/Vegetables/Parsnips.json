@@ -33,41 +33,99 @@
        "storageRecommendations": "Harvest parsnips when they reach the desired size, usually 1-2 inches in diameter. Carefully loosen the soil around the roots with a garden fork and lift the roots from the ground. Trim the tops and brush off any excess soil. Store harvested parsnips in a cool, dark place with high humidity, such as a root cellar or refrigerator.",
        "harvestDescription": "Harvest parsnips when they reach the desired size, usually 1-2 inches in diameter. Use a garden fork to gently loosen the soil around the roots and lift them from the ground. Trim the tops and brush off any soil before storing."
      },
-    "companionPlants": {
+     "companionPlants": {
         "goodCompanionPlants": [
-            {
-                "name": "Lettuce",
-                "description": "Lettuce can be planted near parsnips to help suppress weeds and provide natural ground cover."
-            },
-            {
-                "name": "Radishes",
-                "description": "Radishes can be interplanted with parsnips to help break up soil and improve aeration for better root development."
-            }
+          {
+            "name": "Carrots",
+            "description": "Carrots are excellent companions for onions. When interplanted, carrots can help deter onion flies by masking the odor of onions with their own scent. This helps reduce the risk of onion fly infestations, resulting in healthier onion crops. Additionally, onions can repel carrot flies, providing mutual protection for both crops. Interplanting carrots and onions can maximize space in the garden and promote biodiversity."
+          },
+          {
+            "name": "Lettuce",
+            "description": "Lettuce makes a good companion for onions. Planting lettuce between rows of onions can help maximize garden space and reduce weed competition. Lettuce has shallow roots that complement the deeper roots of onions, allowing them to grow together without competing for nutrients. Additionally, onions provide some shade to lettuce during hot weather, preventing it from bolting prematurely."
+          },
+          {
+            "name": "Beets",
+            "description": "Beets are beneficial companions for onions. Interplanting beets with onions can help maximize garden space and improve overall crop health. Beets have shallow roots that complement the deeper roots of onions, reducing competition for nutrients and water. Additionally, beets can help deter pests like onion flies and aphids, providing natural pest control for onion crops."
+          },
+          {
+            "name": "Chamomile",
+            "description": "Chamomile is a good companion for onions. Planting chamomile near onions can help improve soil health and deter pests. Chamomile's strong aroma can repel pests like aphids, thrips, and onion flies, reducing the risk of infestation on onion crops. Additionally, chamomile attracts beneficial insects like hoverflies and parasitic wasps, which prey on harmful pests, further enhancing pest control in the garden."
+          },
+          {
+            "name": "Spinach",
+            "description": "Spinach is a compatible companion for onions. Interplanting spinach with onions can help maximize garden space and improve soil health. Spinach has shallow roots that complement the deeper roots of onions, reducing competition for nutrients and water. Additionally, spinach provides some shade to onions during hot weather, preventing premature bolting."
+          }
         ],
+        "SpringSowing": {
+          "Indoors": [],
+          "Transplant": [],
+          "Outdoors": [-4, -2],
+          "LastSowDate": -14
+        },
+        "FallSowing": {
+          "Outdoors": [],
+          "Transplant": [],
+          "DaysToMaturity": 105,
+          "FrostTolerance": "Tolerant"
+        },
         "badCompanionPlants": [
-            {
-                "name": "Carrots",
-                "description": "Carrots are not recommended to be planted near parsnips as they may compete for space and nutrients."
-            }
+          {
+            "name": "Peas",
+            "description": "Peas may not be ideal companions for onions. While peas fix nitrogen in the soil, which can benefit onions, they have similar cultural requirements and may compete for space and resources in the garden. Additionally, peas may overshadow onions, reducing their access to sunlight and hindering their growth. It's best to keep them separate in the garden."
+          },
+          {
+            "name": "Beans",
+            "description": "Beans are not recommended companions for onions. Both crops have different cultural requirements and growth habits. Beans are nitrogen-fixing plants that prefer rich, fertile soil, while onions thrive in well-drained soil with moderate fertility. Planting them together may result in competition for nutrients and water, affecting the growth and yield of both crops."
+          },
+          {
+            "name": "Sage",
+            "description": "Sage may not be suitable for planting near onions. While sage has aromatic properties that can repel pests, its aggressive growth habit and strong roots may compete with onions for nutrients and water. Additionally, sage prefers drier soil conditions, which may not be ideal for onions. It's best to keep sage separate from onions in the garden."
+          },
+          {
+            "name": "Kohlrabi",
+            "description": "Kohlrabi may not be the best companion for onions. Both crops have similar cultural requirements and may compete for space and resources in the garden. Kohlrabi's dense foliage may overshadow onions, reducing their access to sunlight and hindering their growth. Additionally, kohlrabi's shallow root system may compete with onions for nutrients and water."
+          },
+          {
+            "name": "Tomatoes",
+            "description": "Tomatoes may not be suitable companions for onions. Both crops have different cultural requirements and growth habits. Tomatoes are heavy feeders that require ample sunlight and water, which may overshadow or compete with onions. Additionally, planting tomatoes near onions may increase the risk of disease transmission, as both crops are susceptible to certain soil-borne pathogens."
+          }
         ]
-    },
-    "pests": [
-        {
-            "name": "Carrot Rust Fly",
-            "description": "Carrot rust fly is a common pest of parsnips and other root vegetables. The larvae of this fly tunnel into the roots, causing damage and reducing the quality of the harvest. Control carrot rust fly by covering crops with floating row covers to prevent adult flies from laying eggs, rotating crops annually to disrupt the life cycle, and using insecticidal sprays or traps as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Parsnip Canker",
-            "description": "Parsnip canker is a fungal disease that affects parsnip plants, causing brown lesions on the roots and stems. It thrives in cool, wet conditions and can lead to rotting of the roots. Prevent parsnip canker by selecting disease-resistant varieties, practicing crop rotation, and improving soil drainage."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest parsnips when they have reached the desired size for optimal flavor and tenderness.",
-        "Store harvested parsnips in a cool, dark place with high humidity to prolong their storage life.",
-        "Rotate parsnip crops annually to prevent the buildup of soilborne pests and diseases."
-    ],
+      },
+     "pests": [
+       "Aphids",
+       "Leafhopper",
+       "Whiteflies",
+       "Thrips",
+       "Cutworm",
+       "Armyworm",
+       "Flea Beetle",
+       "Leaf Beetle",
+       "Mite",
+       "Looper"
+     ],
+     "beneficial_insects": [
+       "Ladybugs",
+       "Lacewings",
+       "Hoverflies",
+       "Parasitic Wasps",
+       "Predatory Mites"
+     ],
+     "diseases": [
+       "Downy Mildew",
+       "Powdery Mildew",
+       "Canker",
+       "Root Rot",
+       "Leaf Spot"
+     ],
+     "tipsAndTricks": [
+       "Plant parsnips in well-drained, loose soil with full sun exposure.",
+       "Ensure that the soil is free from rocks and other obstructions that may cause roots to fork.",
+       "Water parsnips regularly, ensuring consistent moisture without waterlogging.",
+       "Mulch around parsnip plants to retain moisture and suppress weeds.",
+       "Harvest parsnips when they reach the desired size, typically after the first frost for sweeter flavor.",
+       "Rotate crops to prevent the buildup of pests and diseases in the soil.",
+       "Monitor plants regularly for signs of pests and diseases, and take appropriate action."
+     ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Parsnips: Planting Guide",

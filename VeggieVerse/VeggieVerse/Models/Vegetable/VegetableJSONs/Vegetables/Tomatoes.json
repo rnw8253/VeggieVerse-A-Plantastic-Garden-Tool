@@ -5,34 +5,46 @@
     "description": "Tomatoes are a popular garden vegetable known for their juicy, flavorful fruits.",
     "thumbnailImageUrl": "Tomatoes_thumbnail",
     "backgroundImageUrl": "Tomatoes_background",
-    "varieties": "Tomatillos come in various varieties, each with its unique flavor and fruit characteristics. Common tomatillo varieties include 'Toma Verde', known for its classic green color and tangy flavor; 'Purple', which offers a striking purple color and slightly sweeter taste; and 'Grande Rio Verde', prized for its large fruit size and robust flavor. These varieties provide options suited for different culinary preferences and growing conditions.",
-     "sowingAndPlanting": {
-       "sowingIndoorsDescription": "Tomatillos are typically started from seeds indoors 6-8 weeks before the last frost date in your area. Plant seeds in biodegradable pots or trays filled with seed-starting mix. Sow seeds 1/4 inch deep and keep the soil consistently moist and warm (70-75°F). Provide ample light or use supplemental grow lights. Transplant seedlings outdoors once all danger of frost has passed and the soil has warmed up.",
-       "sowingOutdoorsDescription": "Tomatillos can also be directly seeded outdoors once the soil has warmed up and all danger of frost has passed. Choose a sunny location with well-drained soil. Plant seeds 1/4 inch deep and space them 18-24 inches apart in rows spaced 3-4 feet apart. Keep the soil consistently moist until seedlings emerge.",
-       "spaceBetweenPlants": "18\"-24\"",
-       "spaceBetweenRows": "3\'-4\'",
-       "squareFootPlantingRecommendationsMin": 1,
-       "squareFootPlantingRecommendationsMax": 4,
-       "lifeCycle": "Annual",
-       "seedDepth": "1/4\"",
-       "pHRange": "6.0 - 7.0",
-       "germinationSoilTemp": "70-75°F",
-       "season": "Tomatillos should be planted after the last frost date in your area when the soil has warmed up. They prefer warm temperatures and require a long growing season, so planting them early ensures a good harvest."
+    "varieties": "Tomatoes come in various varieties, each with its unique flavor and fruit characteristics. Common tomato varieties include 'Roma', known for its meaty texture and low seed count, ideal for sauces and canning; 'Cherry', prized for its small, sweet fruit perfect for snacking; and 'Beefsteak', renowned for its large, juicy fruit often used in sandwiches and salads. These varieties provide options suited for different culinary preferences and growing conditions.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Tomatoes are typically started from seeds indoors 6-8 weeks before the last frost date in your area. Plant seeds in biodegradable pots or trays filled with seed-starting mix. Sow seeds 1/4 inch deep and keep the soil consistently moist and warm (70-75°F). Provide ample light or use supplemental grow lights. Transplant seedlings outdoors once all danger of frost has passed and the soil has warmed up.",
+        "sowingOutdoorsDescription": "Tomatoes can also be directly seeded outdoors once the soil has warmed up and all danger of frost has passed. Choose a sunny location with well-drained soil. Plant seeds 1/4 inch deep and space them 18-24 inches apart in rows spaced 3-4 feet apart. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "18\"-24\"",
+        "spaceBetweenRows": "3'-4'",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Annual",
+        "seedDepth": "1/4\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "70-75°F",
+        "season": "Tomatoes should be planted after the last frost date in your area when the soil has warmed up. They prefer warm temperatures and require a long growing season, so planting them early ensures a good harvest."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "70-75°F",
+        "growingDescription": "Tomatoes thrive in full sun and well-drained soil with a pH of 6.0-7.0. They require regular watering to keep the soil consistently moist, especially during dry periods. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+        "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress tomatoes with a balanced fertilizer once they start flowering.",
+        "pruningRequirements": "Prune tomato plants to remove any suckers or branches that are growing close to the ground. This improves air circulation and helps prevent disease.",
+        "supportRequirements": "Tomato plants may benefit from support, especially once they start bearing fruit. Use stakes or cages to support the plants and keep the fruit off the ground."
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "70-90 days from planting",
+        "timeToMaturity": "Tomatoes typically mature and are ready for harvest 70-90 days after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest tomatoes when they reach the desired ripeness. Store harvested tomatoes at room temperature away from direct sunlight. Use ripe tomatoes within a few days for best flavor and quality. Avoid refrigerating tomatoes, as it can affect their flavor and texture.",
+        "harvestDescription": "Harvest tomatoes when they are fully ripe and have reached their desired color and size. Gently twist or cut the tomatoes from the plant, leaving a short stem attached. Handle tomatoes carefully to avoid bruising or damaging the fruit."
+      },
+     "SpringSowing": {
+       "Indoors": [-8, -6],
+       "Transplant": [2, 3],
+       "Outdoors": [],
+       "LastSowDate": -13
      },
-     "careAndMaintenance": {
-       "optimalSun": "Full Sun",
-       "growingSoilTemp": "70-75°F",
-       "growingDescription": "Tomatillos thrive in full sun and well-drained soil with a pH of 6.0-7.0. They require regular watering to keep the soil consistently moist, especially during dry periods. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
-       "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
-       "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress tomatillos with a balanced fertilizer once they start flowering.",
-       "pruningRequirements": "Prune tomatillo plants to remove any suckers or branches that are growing close to the ground. This improves air circulation and helps prevent disease.",
-       "supportRequirements": "Tomatillo plants may benefit from support, especially once they start bearing fruit. Use stakes or cages to support the plants and keep the fruit off the ground."
-     },
-     "harvestingAndStorage": {
-       "daysToHarvest": "70-90 days from planting",
-       "timeToMaturity": "Tomatillos typically mature and are ready for harvest 70-90 days after planting, depending on the variety and growing conditions.",
-       "storageRecommendations": "Harvest tomatillos when the husks have split open and the fruit fills the husk. Remove the husks and rinse the tomatillos under cool water to remove any sticky residue. Store harvested tomatillos in a paper bag in the refrigerator for up to two weeks.",
-       "harvestDescription": "Harvest tomatillos when the fruit fills the husk and turns light green or yellowish. Gently twist or cut the tomatillos from the plant, leaving a short stem attached. Remove the husks and rinse the tomatillos before using them in recipes."
+     "FallSowing": {
+       "Outdoors": [],
+       "Transplant": [],
+       "DaysToMaturity": 70,
+       "FrostTolerance": "Tender"
      },
     "companionPlants": {
         "goodCompanionPlants": [
@@ -45,7 +57,7 @@
                 "description": "Marigolds emit a scent that deters many common tomato pests, including nematodes, aphids, and whiteflies. Their vibrant flowers attract beneficial insects like ladybugs and hoverflies."
             },
             {
-                "name": "Nasturtiums",
+                "name": "Nasturtium",
                 "description": "Nasturtiums repel aphids, whiteflies, and squash bugs, making them excellent companions for tomatoes. They also attract predatory insects and provide ground cover, suppressing weed growth."
             },
             {
@@ -97,87 +109,47 @@
         ]
     },
     "pests": [
-        {
-            "name": "Tomato Hornworm",
-            "description": "Tomato hornworms are large, green caterpillars with white diagonal stripes found on tomato plants. They can defoliate plants and cause significant damage. Hornworms are attracted to the solanaceous family of plants, including tomatoes, peppers, and potatoes. Handpick and destroy hornworms when spotted, and encourage natural predators like parasitic wasps and birds."
-        },
-        {
-            "name": "Aphids",
-            "description": "Aphids are small, soft-bodied insects that feed on tomato plants by sucking sap from leaves, stems, and fruit. They can cause stunted growth, yellowing, and distortion. Aphids are attracted to succulent, tender plant growth. Control aphid populations by spraying affected plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs, or applying insecticidal soap or neem oil."
-        },
-        {
-            "name": "Whiteflies",
-            "description": "Whiteflies are tiny, moth-like insects that feed on tomato plants by sucking sap from leaves. They can cause yellowing, wilting, and the transmission of viral diseases. Whiteflies are attracted to warm temperatures and new plant growth. Control whiteflies by using sticky traps, introducing natural predators like parasitic wasps, or applying insecticidal soap or neem oil."
-        },
-        {
-            "name": "Cutworms",
-            "description": "Cutworms are moth larvae that feed on tomato seedlings by cutting through stems near the soil surface. They can cause plants to wilt and die. Cutworms are active at night and hide during the day in soil or plant debris. Control cutworms by placing collars around tomato seedlings, removing debris from the garden, and applying biological insecticides containing Bacillus thuringiensis (Bt)."
-        },
-        {
-            "name": "Flea Beetles",
-            "description": "Flea beetles are small, jumping insects that feed on tomato leaves, causing tiny holes and damage to foliage. They can transmit bacterial diseases. Flea beetles are attracted to warm, dry conditions and prefer young plants. Control flea beetles by using row covers to protect seedlings, applying kaolin clay as a barrier, or using botanical insecticides containing neem oil or pyrethrin."
-        },
-        {
-            "name": "Leaf Miners",
-            "description": "Leaf miners are small larvae that feed on tomato leaves by tunneling through the tissue, creating winding trails or blotches. They can cause aesthetic damage. Leaf miners are attracted to new growth and prefer warm temperatures. Control leaf miners by removing and destroying infested leaves, using sticky traps to monitor activity, or applying insecticidal soap or spinosad-based insecticides."
-        },
-        {
-            "name": "Spider Mites",
-            "description": "Spider mites are tiny pests that feed on tomato leaves by sucking sap, causing stippling, yellowing, and webbing. They thrive in hot, dry conditions. Spider mites are difficult to spot due to their small size and webbing. Control spider mites by increasing humidity around plants, using a strong stream of water to dislodge them, or applying insecticidal soap, neem oil, or horticultural oil."
-        },
-        {
-            "name": "Thrips",
-            "description": "Thrips are small, slender insects that feed on tomato leaves and buds, causing stippling, distortion, and silvering of leaves. Thrips are attracted to warm temperatures and feed on plant sap. Control thrips by removing weeds and debris from the garden, introducing natural predators like minute pirate bugs, or applying insecticidal soap or neem oil."
-        },
-        {
-            "name": "Root Knot Nematodes",
-            "description": "Root knot nematodes are soil-borne pests that infect tomato roots, causing galls, stunted growth, and reduced yield. Nematodes are microscopic worms that live in the soil and feed on plant roots. Control root knot nematodes by planting resistant tomato varieties, rotating crops, and improving soil drainage and organic matter content. Solarization and biofumigation can also help reduce nematode populations."
-        }
+      "Aphids",
+      "Whiteflies",
+      "Tomato Hornworm",
+      "Flea Beetle",
+      "Cutworm",
+      "Leafminer",
+      "Spider Mite",
+      "Slug",
+      "Snail",
+      "Five-Spotted Hawk Moth",
+      "Blister Beetle"
+    ],
+    "beneficial_insects": [
+      "Ladybugs",
+      "Lacewings",
+      "Hoverflies",
+      "Parasitic Wasps",
+      "Predatory Mites"
     ],
     "diseases": [
-        {
-            "name": "Early Blight",
-            "description": "Early blight is a fungal disease caused by Alternaria solani, characterized by dark lesions with yellow halos on tomato leaves. It can lead to reduced plant vigor and yield. It is caused by fungal spores that spread through soil, water, and infected plant debris. Warm and humid conditions promote its growth. To treat early blight, remove infected leaves and debris, improve air circulation, and avoid overhead watering. Apply fungicides labeled for early blight prevention.",
-        },
-        {
-            "name": "Late Blight",
-            "description": "Late blight is a fungal disease caused by Phytophthora infestans, characterized by dark lesions on tomato foliage and fruit. It can cause rapid defoliation and fruit rot. Late blight is caused by fungal spores that spread through wind, rain, and infected plant debris. Cool, wet conditions favor its development. To treat late blight, remove infected plant parts, improve air circulation, and avoid overhead watering. Apply fungicides labeled for late blight prevention.",
-        },
-        {
-            "name": "Septoria Leaf Spot",
-            "description": "Septoria leaf spot is a fungal disease caused by Septoria lycopersici, characterized by small, circular lesions with dark borders on tomato leaves. It can lead to premature defoliation. Septoria leaf spot is caused by fungal spores that spread through splashing water, infected plant debris, and contaminated soil. Warm, humid conditions promote its growth. To treat septoria leaf spot, remove infected leaves, improve air circulation, and avoid overhead watering. Apply fungicides labeled for septoria leaf spot prevention.",
-        },
-        {
-            "name": "Blossom End Rot",
-            "description": "Blossom end rot is a physiological disorder caused by calcium deficiency in tomato plants, resulting in dark, sunken lesions on the blossom end of fruit. Blossom end rot is caused by calcium deficiency in the plant, which can be due to inconsistent watering, low soil pH, or insufficient calcium uptake. To treat blossom end rot, maintain consistent watering, improve soil drainage, and ensure proper calcium levels in the soil. Apply calcium supplements or foliar sprays as needed.",
-        },
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease caused by various species of fungi, characterized by white, powdery growth on tomato leaves, stems, and fruit. Powdery mildew is caused by fungal spores that spread through wind, rain, and infected plant debris. Warm, humid conditions promote its growth. To treat powdery mildew, remove infected plant parts, improve air circulation, and avoid overhead watering. Apply fungicides labeled for powdery mildew prevention.",
-        },
-        {
-            "name": "Fusarium Wilt",
-            "description": "Fusarium wilt is a soilborne fungal disease caused by Fusarium oxysporum, characterized by wilting, yellowing, and vascular discoloration in tomato plants. Fusarium wilt is caused by soilborne fungal spores that infect tomato roots, leading to vascular damage and water uptake impairment. To treat fusarium wilt, remove infected plants, rotate crops, and improve soil drainage. Plant resistant tomato varieties and apply fungicides as a preventive measure.",
-        },
-        {
-            "name": "Verticillium Wilt",
-            "description": "Verticillium wilt is a fungal disease caused by Verticillium dahliae, characterized by wilting, yellowing, and vascular discoloration in tomato plants. Verticillium wilt is caused by soilborne fungal spores that infect tomato roots, leading to vascular damage and water uptake impairment. To treat verticillium wilt, remove infected plants, rotate crops, and improve soil drainage. Plant resistant tomato varieties and apply fungicides as a preventive measure.",
-        },
-        {
-            "name": "Bacterial Speck",
-            "description": "Bacterial speck is a bacterial disease caused by Pseudomonas syringae pv. tomato, characterized by small, dark lesions on tomato leaves and fruit. Bacterial speck is caused by bacteria that enter tomato plants through natural openings or wounds, spreading through water and plant debris. To treat bacterial speck, remove infected plant parts, practice crop rotation, and avoid overhead watering. Apply copper-based bactericides or biological control agents.",
-        }
+      "Early Blight",
+      "Late Blight",
+      "Blossom End Rot",
+      "Fusarium Wilt",
+      "Verticillium Wilt",
+      "Mosaic Virus",
+      "Curly Top",
+      "Spotted Wilt",
+      "Gray Mold Rot"
     ],
     "tipsAndTricks": [
-        "Plant tomatoes in a sunny location with well-drained soil rich in organic matter.",
-        "Provide support for indeterminate tomato varieties with stakes, cages, or trellises to prevent sprawling.",
-        "Water tomato plants consistently to keep the soil evenly moist, especially during hot and dry periods.",
-        "Mulch around tomato plants to conserve soil moisture, suppress weeds, and maintain even soil temperature.",
-        "Prune tomato plants regularly to remove suckers and improve air circulation, which reduces the risk of diseases and promotes fruit production.",
-        "Fertilize tomato plants regularly with a balanced fertilizer to provide essential nutrients for growth and fruit development.",
-        "Harvest tomatoes when they are fully ripe for the best flavor and texture, as they do not continue to ripen once picked.",
-        "Rotate tomato crops annually to prevent the buildup of soilborne diseases and pests.",
-        "Plant companion plants like basil, marigolds, and nasturtiums to repel pests and attract beneficial insects to the tomato garden."
+      "Choose a planting site with well-drained soil and full sun exposure.",
+      "Prepare the soil by adding compost or aged manure to improve fertility and texture.",
+      "Plant tomato transplants in the garden after the last frost date, burying them deep to promote strong root growth.",
+      "Water tomatoes regularly, providing about 1-2 inches of water per week, and mulch to conserve moisture and suppress weeds.",
+      "Fertilize tomatoes with a balanced fertilizer or compost tea every 3-4 weeks, following package instructions.",
+      "Stake or cage tomato plants to support their upright growth habit and keep fruits off the ground.",
+      "Prune tomato plants regularly to remove suckers and improve airflow, which helps reduce disease problems.",
+      "Monitor plants regularly for signs of pests such as aphids and hornworms. Use row covers, insecticidal soap, or biological controls as needed.",
+      "Watch for symptoms of diseases like early blight and blossom end rot. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+      "Harvest tomatoes when they are firm, fully colored, and easily come off the vine, typically 60-80 days after planting. Use a sharp knife or pruning shears to cut the fruits from the stem."
     ],
     "linksToAdditionalResources": [
         {

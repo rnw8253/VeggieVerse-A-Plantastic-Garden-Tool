@@ -33,17 +33,66 @@
         "storageRecommendations": "Cat grass is best enjoyed fresh by cats. However, you can store unused portions in the refrigerator for a few days to keep them fresh. Keep the grass in a sealed plastic bag or container to maintain its moisture and freshness.",
         "harvestDescription": "Harvest cat grass by cutting the grass blades with clean scissors when they reach a height of 3-4 inches. Offer the freshly cut grass to your cats for them to enjoy."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [],
-        "badCompanionPlants": []
-    },
-    "pests": [],
-    "diseases": [],
-    "tipsAndTricks": [
-        "Rotate containers of cat grass to ensure even growth and prevent leggy growth.",
-        "Provide a constant supply of fresh cat grass to satisfy your cat's chewing instinct and provide essential nutrients.",
-        "Keep cat grass containers out of reach of dogs, as some may be tempted to chew on the grass, which can cause digestive issues."
-    ],
+      "SpringSowing": {
+        "Indoors": [-2, 0],
+        "Transplant": [],
+        "Outdoors": [],
+        "LastSowDate": null
+      },
+      "FallSowing": {
+        "Outdoors": [-6, -4],
+        "Transplant": [],
+        "DaysToMaturity": 14,
+        "FrostTolerance": "Tolerant"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
+            {
+              "name": "Catnip",
+              "description": "Cat grass and catnip are complementary plants, often grown together for the enjoyment of cats. Cat grass provides a safe and satisfying alternative to outdoor grass for cats to chew on, while catnip can be used to attract and entertain cats with its stimulating effects."
+            },
+            {
+              "name": "Wheatgrass",
+              "description": "Cat grass is often a type of wheatgrass, making it a suitable companion for itself. Wheatgrass provides a nutrient-rich grass option for cats to chew on, offering health benefits such as aiding digestion and providing essential nutrients."
+            },
+            {
+              "name": "Oat Grass",
+              "description": "Oat grass is another common type of cat grass and is a suitable companion for itself. Like wheatgrass, oat grass provides a safe and satisfying option for cats to chew on, promoting dental health and providing essential nutrients."
+            }
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Toxic Plants",
+              "description": "Avoid planting cat grass near toxic plants that could harm cats if ingested. Make sure to research any potential toxic plants in your garden and keep them separated from cat grass to ensure the safety of your pets."
+            }
+          ]
+        },
+      "pests": [
+        "Aphids",
+        "Spider Mite",
+        "Whiteflies"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies"
+      ],
+      "diseases": [
+        "Powdery Mildew",
+        "Leaf Spot",
+        "Root Rot"
+      ],
+      "tipsAndTricks": [
+        "Choose a planting site with well-drained soil and partial to full sun exposure.",
+        "Sow cat grass seeds evenly in a shallow container filled with potting mix, and keep the soil consistently moist until germination.",
+        "Water cat grass regularly, providing enough moisture to keep the soil evenly moist but not waterlogged.",
+        "Fertilize cat grass with a balanced fertilizer or compost tea every 2-4 weeks during the growing season, following package instructions.",
+        "Trim cat grass blades when they reach a height of 4-6 inches to encourage new growth and prevent the grass from becoming too leggy.",
+        "Provide access to cat grass for your pets to nibble on, as it can aid in digestion and provide essential nutrients.",
+        "Monitor plants regularly for signs of pests such as aphids and spider mites. Use insecticidal soap or neem oil as needed.",
+        "Watch for symptoms of diseases like powdery mildew and leaf spot. Provide good air circulation and avoid overcrowding plants to reduce disease problems.",
+        "Replace cat grass every 2-3 weeks to ensure a fresh and healthy supply for your pets."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Cat Grass",

@@ -33,39 +33,95 @@
        "storageRecommendations": "Harvest sweet bay leaves as needed for culinary use. Use fresh leaves immediately for the best flavor. Alternatively, you can dry sweet bay leaves by hanging them upside down in a warm, well-ventilated area until they are completely dry. Store dried sweet bay leaves in an airtight container in a cool, dark place.",
        "harvestDescription": "Harvest sweet bay leaves by snipping them from the plant as needed. Leaves can be harvested at any time of year, but flavor is best when leaves are mature."
      },
-    "companionPlants": {
-        "goodCompanionPlants": [
-            {
-                "name": "Lavender",
-                "description": "Lavender is a good companion plant for sweet bay trees, as it shares similar cultural requirements and can help deter pests with its aromatic foliage. Planting lavender near sweet bay trees can enhance the overall aesthetic of the garden."
-            }
-        ],
-        "badCompanionPlants": [
-            {
-                "name": "Sage",
-                "description": "Sage is not recommended as a companion plant for sweet bay trees, as it may compete for resources and space. Additionally, sage can attract pests that may also affect sweet bay trees."
-            }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Scale Insects",
-            "description": "Scale insects are common pests of sweet bay trees, particularly in indoor environments. They appear as small, immobile bumps on the leaves and stems and can cause damage by sucking sap from the plant. To control scale insects, prune and dispose of heavily infested branches, and treat the remaining plant with insecticidal soap or horticultural oil."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect sweet bay trees, particularly in humid conditions. It appears as a white, powdery growth on the leaves and stems and can cause leaf distortion and yellowing. Improve air circulation around the tree, avoid overhead watering, and apply fungicidal sprays as needed to control powdery mildew."
-        }
-    ],
-    "tipsAndTricks": [
-        "Plant sweet bay trees in a sunny to partially shaded location with well-drained, fertile soil.",
-        "Water sweet bay trees regularly, especially during dry periods, to promote healthy growth and foliage.",
-        "Harvest sweet bay leaves as needed throughout the growing season for use in cooking or for drying.",
-        "Mulch around the base of the tree to conserve moisture and suppress weeds.",
-        "Monitor sweet bay trees regularly for signs of pests and diseases, and take appropriate action to control infestations."
-    ],
+     "SpringSowing": {
+       "Indoors": [],
+       "Transplant": [],
+       "Outdoors": [12, 16],
+       "LastSowDate": null
+     },
+     "FallSowing": {
+       "Outdoors": [],
+       "Transplant": [],
+       "DaysToMaturity": 1095,
+       "FrostTolerance": "Hardy"
+     },
+     "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Basil",
+             "description": "Basil makes an excellent companion for sweet bay due to its ability to repel pests like mosquitoes and flies. It also shares similar soil and sunlight preferences, making them compatible in the garden. Additionally, planting basil near sweet bay can enhance the flavor of both herbs when used together in culinary dishes."
+           },
+           {
+             "name": "Chives",
+             "description": "Chives are beneficial companions for sweet bay as they help deter aphids and other garden pests. They also attract beneficial insects like hoverflies and parasitic wasps, which can help control pest populations. The onion-like scent of chives may also mask the aroma of sweet bay, making it less attractive to pests."
+           },
+           {
+             "name": "Lemon Balm",
+             "description": "Lemon balm can be planted alongside sweet bay to attract pollinators like bees and butterflies, which are essential for the reproduction of both plants. Lemon balm's citrusy aroma may also help deter pests like aphids and mosquitoes, benefiting the overall health of sweet bay."
+           },
+           {
+             "name": "Rosemary",
+             "description": "Rosemary is a compatible companion for sweet bay as it shares similar soil and sunlight preferences. Its strong aroma can help deter pests like aphids and whiteflies, benefiting the health of sweet bay plants. Additionally, rosemary's upright growth habit can provide shade and wind protection for sweet bay."
+           },
+           {
+             "name": "Thyme",
+             "description": "Thyme is a beneficial companion for sweet bay as it helps repel pests like cabbage worms and spider mites. Its low-growing habit can also serve as a living mulch, suppressing weeds and conserving soil moisture around sweet bay plants. Thyme's aromatic foliage adds visual interest to the garden and complements the flavor of sweet bay in culinary dishes."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Fennel",
+             "description": "Fennel should be avoided as a companion for sweet bay as it may compete for nutrients and water in the soil, leading to reduced growth and vigor for both plants. Additionally, fennel's strong scent may overpower the delicate aroma of sweet bay leaves."
+           },
+           {
+             "name": "Lavender",
+             "description": "Lavender may not be an ideal companion for sweet bay as it prefers drier soil conditions, while sweet bay prefers consistently moist soil. Planting lavender near sweet bay may create unfavorable growing conditions for both plants and lead to reduced health and growth."
+           },
+           {
+             "name": "Mint",
+             "description": "Mint can be invasive and may compete aggressively with sweet bay for space and resources in the garden. Its spreading root system can quickly overtake nearby plants, including sweet bay, leading to stunted growth and reduced yields. Additionally, mint's vigorous growth habit may overshadow the delicate foliage of sweet bay."
+           },
+           {
+             "name": "Dill",
+             "description": "Dill should be avoided as a companion for sweet bay as it attracts pests like aphids and spider mites. Planting dill near sweet bay may increase the risk of pest infestations, negatively impacting the health and productivity of sweet bay plants. Additionally, dill's tall, floppy stems may shade out or crowd neighboring plants."
+           },
+           {
+             "name": "Oregano",
+             "description": "Oregano can be aggressive in the garden and may compete with sweet bay for space, nutrients, and water. Its spreading habit can quickly overrun nearby plants, including sweet bay, leading to reduced growth and vigor. Additionally, oregano's pungent aroma may overpower the delicate scent of sweet bay."
+           }
+         ]
+       },
+     "pests": [
+        "Aphids",
+        "Scale Insect",
+        "Mealybug",
+        "Spider Mite",
+        "Whiteflies"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps"
+      ],
+      "diseases": [
+        "Powdery Mildew",
+        "Leaf Spot",
+        "Root Rot"
+      ],
+      "tipsAndTricks": [
+        "Plant sweet bay in well-draining soil with partial to full sun exposure.",
+        "Ensure adequate air circulation around the plant to prevent diseases.",
+        "Water sweet bay regularly, keeping the soil consistently moist but not waterlogged.",
+        "Avoid overwatering, as it can lead to root rot.",
+        "Fertilize sweet bay with a balanced fertilizer in the spring and summer months.",
+        "Prune sweet bay to maintain its shape and size, and to remove any dead or diseased branches.",
+        "Harvest sweet bay leaves as needed for culinary use by snipping them from the plant. Use fresh or dried leaves to flavor soups, stews, sauces, and other dishes.",
+        "Monitor plants regularly for signs of pests such as aphids, scale insects, and mealybugs. Handpick pests or use insecticidal soap as needed.",
+        "Watch for symptoms of diseases like powdery mildew and leaf spot. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+        "Sweet bay can be grown in containers indoors or outdoors. Bring potted plants indoors before the first frost in colder climates.",
+        "Use dried sweet bay leaves to make herbal teas or potpourri. Store dried leaves in an airtight container away from light and moisture."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Sweet Bay Trees",

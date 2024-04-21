@@ -8,8 +8,8 @@
       "sowingAndPlanting": {
         "sowingIndoorsDescription": "Pumpkin seeds can be started indoors in biodegradable pots or trays filled with seed-starting mix if you want to get a head start on the growing season. Plant seeds 1 inch deep and keep the soil consistently moist and warm (70-85°F). Transplant seedlings outdoors once they have developed strong roots and the weather has warmed up.",
         "sowingOutdoorsDescription": "Pumpkin seeds should be sown directly outdoors once the soil has warmed up and all danger of frost has passed. Choose a sunny location with well-drained soil. Plant seeds 1 inch deep and space them 2-3 feet apart in rows spaced 4-8 feet apart, depending on the variety's spread. Keep the soil consistently moist until seedlings emerge.",
-        "spaceBetweenPlants": "2\'-3\'",
-        "spaceBetweenRows": "4\'-8\'",
+        "spaceBetweenPlants": "2'-3'",
+        "spaceBetweenRows": "4'-8'",
         "squareFootPlantingRecommendationsMin": 4,
         "squareFootPlantingRecommendationsMax": 9,
         "lifeCycle": "Annual",
@@ -33,41 +33,94 @@
         "storageRecommendations": "Harvest pumpkins when they have reached their mature size and the rind has hardened. Use a sharp knife or pruners to cut the stem, leaving a few inches attached to the pumpkin. Cure harvested pumpkins in a warm, dry place with good air circulation for 1-2 weeks to harden the skin and prolong storage life. Store cured pumpkins in a cool, dry place with good ventilation.",
         "harvestDescription": "Harvest pumpkins when they have reached their mature size and the rind has hardened. Use a sharp knife or pruners to cut the stem, leaving a few inches attached to the pumpkin. Handle pumpkins carefully to avoid bruising or damaging the skin."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [-3, -1],
+        "Transplant": [2, 3],
+        "Outdoors": [2, 3],
+        "LastSowDate": -15
+      },
+      "FallSowing": {
+        "Outdoors": [],
+        "Transplant": [],
+        "DaysToMaturity": 105,
+        "FrostTolerance": "Tender"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Corn",
-                "description": "Corn can be planted near pumpkins to provide natural support for sprawling vines and shade for developing fruits."
+              "name": "Corn",
+              "description": "Corn is an excellent companion for pumpkins. The tall stalks of corn provide natural support for sprawling pumpkin vines, allowing them to grow vertically and conserve space. Additionally, pumpkins can benefit from the shade provided by corn, reducing soil moisture evaporation and preventing weed growth. Corn also acts as a 'living trellis' for climbing pumpkin varieties, enhancing air circulation and reducing the risk of fungal diseases."
             },
             {
-                "name": "Beans",
-                "description": "Beans can be interplanted with pumpkins to help improve soil fertility by fixing nitrogen and provide natural pest control in the garden."
-            }
-        ],
-        "badCompanionPlants": [
+              "name": "Beans",
+              "description": "Beans are beneficial companions for pumpkins. As nitrogen-fixing plants, beans enrich the soil with nitrogen, which benefits the growth of pumpkins. Interplanting beans and pumpkins promotes a mutually beneficial relationship known as the Three Sisters planting method, where beans climb up corn stalks, pumpkins spread along the ground, and corn provides support and shade. This method maximizes space utilization and enhances soil fertility."
+            },
             {
-                "name": "Potatoes",
-                "description": "Potatoes are not recommended to be planted near pumpkins as they may compete for space and nutrients."
+              "name": "Marigolds",
+              "description": "Marigolds are good companions for pumpkins. Their strong fragrance helps repel pests like nematodes, squash bugs, and cucumber beetles, reducing the risk of pest infestations in pumpkin crops. Marigolds also attract beneficial insects like ladybugs and parasitic wasps, which prey on garden pests. Planting marigolds around pumpkin beds can help improve overall plant health and reduce the need for chemical pesticides."
+            },
+            {
+              "name": "Radishes",
+              "description": "Radishes are beneficial companions for pumpkins. They serve as a trap crop, attracting cucumber beetles away from pumpkin plants. Cucumber beetles prefer radishes over pumpkins, reducing the damage they cause to pumpkin crops. Additionally, radishes help break up compacted soil and improve soil aeration, creating better growing conditions for pumpkins. Interplanting radishes and pumpkins maximizes space utilization and promotes biodiversity in the garden."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Squash Bugs",
-            "description": "Squash bugs are common pests of pumpkins and other cucurbit crops, feeding on leaves, stems, and fruits. Handpick adult bugs and destroy them, and crush egg clusters found on the undersides of leaves. Use row covers to exclude squash bugs from plants, and apply insecticidal sprays or dusts as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that affects pumpkins, causing white, powdery growth on leaves, stems, and fruits. It thrives in warm, humid conditions and can lead to reduced plant vigor and yield. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest pumpkins when the rind is hard and fully colored for best flavor and storage.",
-        "Store harvested pumpkins in a cool, dry place with good air circulation to prolong their storage life.",
-        "Rotate pumpkin crops annually to prevent the buildup of soilborne pests and diseases."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Potatoes",
+              "description": "Potatoes may not be ideal companions for pumpkins. Both potatoes and pumpkins are heavy feeders, meaning they require a lot of nutrients from the soil. Planting them together may result in competition for nutrients, leading to reduced yields for both crops. Additionally, potatoes and pumpkins have different spacing and growth habits, which can make interplanting them challenging and may result in overcrowding."
+            },
+            {
+              "name": "Sunflower",
+              "description": "Sunflowers may not be suitable companions for pumpkins. While sunflowers can provide some shade and attract pollinators, planting them near pumpkins may result in competition for resources. Sunflowers have deep root systems that can compete with pumpkins for nutrients and water, potentially reducing pumpkin yields. Additionally, sunflowers may overshadow pumpkin plants, reducing their access to sunlight and hindering their growth."
+            },
+            {
+              "name": "Nasturtium",
+              "description": "Nasturtiums may not be the best companions for pumpkins. While nasturtiums can help repel pests like squash bugs and beetles, they may also attract aphids, which can damage pumpkin plants. Additionally, nasturtiums have aggressive growth habits and may compete with pumpkins for space and resources. Interplanting nasturtiums and pumpkins requires careful management to prevent overcrowding and ensure optimal growing conditions for both crops."
+            },
+            {
+              "name": "Raspberries",
+              "description": "Raspberries may not be ideal companions for pumpkins. While raspberries can provide some shade and attract pollinators, planting them near pumpkins may result in competition for resources. Raspberries have spreading root systems that can compete with pumpkins for nutrients and water, potentially reducing pumpkin yields. Additionally, raspberries may attract pests that could also affect pumpkin crops."
+            },
+            {
+              "name": "Blackberries",
+              "description": "Blackberries may not be the best companions for pumpkins. While blackberries can help suppress weeds and provide some shade, planting them near pumpkins may result in competition for resources. Blackberries have spreading root systems that can compete with pumpkins for nutrients and water, potentially reducing pumpkin yields. Additionally, blackberries may attract pests that could also affect pumpkin crops."
+            }
+          ]
+        },
+      "pests": [
+          "Squash Vine Borer",
+          "Cucumber Beetle",
+          "Squash Bug",
+          "Aphids",
+          "Leafhopper",
+          "Thrips",
+          "Cutworm",
+        ],
+        "beneficial_insects": [
+          "Ladybugs",
+          "Lacewings",
+          "Hoverflies",
+          "Parasitic Wasps",
+          "Predatory Mites"
+        ],
+        "diseases": [
+          "Powdery Mildew",
+          "Downy Mildew",
+          "Anthracnose",
+          "Bacterial Wilt",
+          "Mosaic Virus",
+          "Ring Spot"
+        ],
+        "tipsAndTricks": [
+          "Plant pumpkins in well-drained soil with full sun exposure.",
+          "Space pumpkin plants properly to allow for vine development.",
+          "Provide ample space for pumpkin vines to spread.",
+          "Water pumpkins regularly, keeping the soil consistently moist but not waterlogged.",
+          "Mulch around pumpkin plants to retain moisture and suppress weeds.",
+          "Harvest pumpkins when they have reached full size and have developed a deep, solid color.",
+          "Rotate crops to prevent the buildup of pests and diseases in the soil.",
+          "Monitor plants regularly for signs of pests and diseases, and take appropriate action."
+        ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Pumpkins: Planting Guide",

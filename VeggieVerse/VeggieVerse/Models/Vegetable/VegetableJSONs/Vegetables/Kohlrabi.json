@@ -33,41 +33,99 @@
         "storageRecommendations": "Harvest kohlrabi when the bulb reaches the desired size, usually 2-3 inches in diameter. Use a sharp knife to cut the bulb just above the soil surface. Wash harvested kohlrabi thoroughly to remove any dirt or debris. Store kohlrabi in the refrigerator for up to a week, loosely wrapped in a damp paper towel or plastic bag to maintain moisture.",
         "harvestDescription": "Harvest kohlrabi by cutting the bulb just above the soil surface with a sharp knife. Leave the leaves attached to the bulb, as they can be eaten as well."
       },
-    "companionPlants": {
+      "SpringSowing": {
+        "Indoors": [-6, -4],
+        "Transplant": [-3, -2],
+        "Outdoors": [-4, -3],
+        "LastSowDate": -22
+      },
+      "FallSowing": {
+        "Outdoors": [-9, -6],
+        "Transplant": [],
+        "DaysToMaturity": 45,
+        "FrostTolerance": "Tolerant"
+      },
+      "companionPlants": {
         "goodCompanionPlants": [
-            {
-                "name": "Beets",
-                "description": "Beets can be planted near kohlrabi to help repel pests like leafminers and provide natural pest control in the garden."
-            },
-            {
-                "name": "Nasturtiums",
-                "description": "Nasturtiums can be planted near kohlrabi to help repel pests like aphids and provide natural pest control in the garden."
-            }
+          {
+            "name": "Beets",
+            "description": "Beets and kohlrabi are both cool-season crops with similar cultural requirements. Interplanting them can help maximize space in the garden and reduce competition for soil nutrients. Additionally, beets can act as a living mulch to help suppress weeds and conserve soil moisture for kohlrabi."
+          },
+          {
+            "name": "Lettuce",
+            "description": "Lettuce has shallow roots and grows well in the shade of taller plants like kohlrabi. Interplanting lettuce with kohlrabi can help conserve soil moisture, suppress weeds, and provide living mulch to cool the soil, creating a beneficial microclimate for both crops."
+          },
+          {
+            "name": "Onions",
+            "description": "Onions and kohlrabi are compatible companions. Interplanting onions with kohlrabi can help deter pests such as cabbage worms and aphids, which commonly affect brassica crops like kohlrabi. Additionally, onions can help suppress weeds and improve soil health."
+          },
+          {
+            "name": "Potatoes",
+            "description": "Potatoes and kohlrabi can be grown together as companion plants. Kohlrabi's shallow roots and compact growth habit make it compatible with potatoes, allowing them to coexist without competing for space or nutrients. Additionally, kohlrabi can help suppress weeds and improve soil structure for potatoes."
+          },
+          {
+            "name": "Spinach",
+            "description": "Spinach is a cool-season crop that complements kohlrabi well. Interplanting spinach with kohlrabi can help maximize space in the garden and provide mutual benefits, such as weed suppression and soil moisture conservation. Additionally, spinach can be harvested early, allowing more space and resources for kohlrabi as it matures."
+          }
         ],
         "badCompanionPlants": [
-            {
-                "name": "Strawberries",
-                "description": "Strawberries are not recommended to be planted near kohlrabi as they may compete for space and nutrients."
-            }
+          {
+            "name": "Strawberries",
+            "description": "Strawberries and kohlrabi are not ideal companions. While they can grow in the same garden bed, planting them too closely together may result in competition for nutrients and space, leading to reduced yields for both crops. Additionally, strawberries may attract pests that can damage kohlrabi plants."
+          },
+          {
+            "name": "Beans",
+            "description": "Beans and kohlrabi may compete for similar soil nutrients, especially if planted too closely together. Additionally, beans may attract pests like aphids and bean beetles, which can also affect kohlrabi plants. It's best to avoid planting beans near kohlrabi."
+          },
+          {
+            "name": "Brassicas",
+            "description": "Kohlrabi belongs to the brassica family, and planting it near other brassicas like cabbage, broccoli, and kale may increase the risk of pest and disease problems. Cross-contamination of pests and diseases can occur more easily when brassicas are grown in close proximity."
+          },
+          {
+            "name": "Sunflower",
+            "description": "Sunflowers have dense root systems that may compete with kohlrabi for water and nutrients. Planting them together may result in reduced growth and yield for kohlrabi crops. Additionally, sunflowers may cast shade on kohlrabi plants, affecting their growth and development."
+          },
+          {
+            "name": "Fennel",
+            "description": "Fennel contains compounds that can inhibit the growth of nearby plants, including kohlrabi. Planting kohlrabi near fennel may result in stunted growth and reduced yield for kohlrabi crops. It's best to keep them separate in the garden."
+          }
         ]
-    },
-    "pests": [
-        {
-            "name": "Cabbage Worms",
-            "description": "Cabbage worms are green caterpillars that feed on kohlrabi leaves, causing damage to foliage. They can quickly defoliate plants if left unchecked. Control cabbage worms by handpicking them off plants, using floating row covers to exclude butterflies, and applying organic insecticides like Bacillus thuringiensis (Bt) as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Clubroot",
-            "description": "Clubroot is a fungal disease that affects kohlrabi plants, causing swelling and distortion of roots. It thrives in acidic soil with poor drainage. Prevent clubroot by maintaining soil pH between 6.0 and 7.5, improving soil drainage, and practicing crop rotation."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest kohlrabi bulbs when they are young and tender for the best flavor and texture.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed.",
-        "Rotate kohlrabi crops annually to prevent the buildup of soilborne pests and diseases."
-    ],
+      },
+      "pests": [
+          "Aphids",
+          "Cabbage White Butterfly",
+          "Diamondback Moth",
+          "Thrips",
+          "Cutworm",
+          "Armyworm",
+          "Flea Beetle",
+          "Leaf Beetle",
+          "Mite",
+          "Looper"
+        ],
+        "beneficial_insects": [
+          "Ladybugs",
+          "Lacewings",
+          "Hoverflies",
+          "Parasitic Wasps",
+          "Predatory Mites"
+        ],
+        "diseases": [
+          "Downy Mildew",
+          "Powdery Mildew",
+          "Anthracnose",
+          "Black Rot",
+          "Clubroot"
+        ],
+        "tipsAndTricks": [
+          "Plant kohlrabi in well-drained soil with full sun to partial shade exposure.",
+          "Space kohlrabi plants properly to allow good air circulation.",
+          "Water kohlrabi regularly, keeping the soil consistently moist but not waterlogged.",
+          "Mulch around the base of plants to retain moisture and suppress weeds.",
+          "Harvest kohlrabi bulbs when they are young and tender, typically when they reach 2-3 inches in diameter.",
+          "Rotate crops to prevent the buildup of pests and diseases in the soil.",
+          "Monitor plants regularly for signs of pests and diseases, and take appropriate action."
+        ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Kohlrabi: Planting Guide",

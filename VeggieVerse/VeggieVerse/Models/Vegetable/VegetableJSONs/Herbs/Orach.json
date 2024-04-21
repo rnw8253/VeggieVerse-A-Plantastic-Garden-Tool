@@ -33,40 +33,93 @@
         "storageRecommendations": "Harvest orach leaves as needed for culinary use. Use fresh leaves immediately, or store them in the refrigerator for up to a week. Orach leaves can also be blanched and frozen for longer storage.",
         "harvestDescription": "Harvest orach leaves by snipping them from the plant as needed. For continuous harvest, pick the outer leaves and allow the inner leaves to continue growing."
     },
+    "SpringSowing": {
+       "Indoors": [],
+       "Transplant": [],
+       "Outdoors": [2, 4],
+       "LastSowDate": null
+     },
+     "FallSowing": {
+       "Outdoors": [-8, -6],
+       "Transplant": [],
+       "DaysToMaturity": 50,
+       "FrostTolerance": "Tolerant"
+     },
     "companionPlants": {
         "goodCompanionPlants": [
-            {
-                "name": "Lettuce",
-                "description": "Lettuce is a good companion plant for orach, as it shares similar growing requirements and can benefit from the shade provided by orach's tall foliage. Interplanting orach with lettuce can help conserve moisture in the soil and suppress weeds."
-            },
-            {
-                "name": "Radishes",
-                "description": "Radishes are another suitable companion plant for orach, as they have similar growing requirements and can help break up compacted soil. Planting radishes near orach can improve soil aeration and overall garden health."
-            }
+          {
+            "name": "Beans",
+            "description": "Orach is a beneficial companion for beans as it can help improve soil structure and fertility. The deep taproots of orach help break up compacted soil, allowing better aeration and water infiltration, which benefits bean plants. Additionally, orach accumulates nutrients like potassium and phosphorus, which can be beneficial for bean growth."
+          },
+          {
+            "name": "Lettuce",
+            "description": "Orach makes a good companion for lettuce as it can provide shade and protection for lettuce plants during hot weather. The tall, leafy growth of orach can create a microclimate that helps keep the soil cool and moist, reducing stress on lettuce plants. Additionally, orach's deep roots can help improve soil structure and moisture retention, benefiting lettuce growth."
+          },
+          {
+            "name": "Tomatoes",
+            "description": "Orach is a beneficial companion for tomatoes as it can help improve soil fertility and provide weed suppression. The deep taproots of orach help break up compacted soil and improve aeration, which benefits tomato plants' root development. Additionally, orach's dense foliage can shade out competing weeds, reducing competition for nutrients and water in the garden bed."
+          },
+          {
+            "name": "Cucumbers",
+            "description": "Orach makes a good companion for cucumbers as it can help improve soil fertility and moisture retention. The deep taproots of orach help break up compacted soil and improve drainage, which benefits cucumber plants' root development. Additionally, orach's tall, leafy growth can provide shade and protection for cucumber plants, reducing stress during hot weather."
+          },
+          {
+            "name": "Peppers",
+            "description": "Orach is a beneficial companion for peppers as it can help improve soil fertility and moisture retention. The deep taproots of orach help break up compacted soil and improve water infiltration, which benefits pepper plants' root development. Additionally, orach's dense foliage can provide shade and protection for pepper plants, reducing stress during hot weather."
+          }
         ],
         "badCompanionPlants": [
-            {
-                "name": "Spinach",
-                "description": "Spinach is not recommended as a companion plant for orach, as they may compete for space and nutrients in the garden. Avoid planting orach near spinach to prevent potential issues with overcrowding and reduced yields."
-            }
+          {
+            "name": "Carrots",
+            "description": "Orach is not recommended as a companion for carrots as it may compete for space, nutrients, and water in the garden bed. Carrots require well-drained soil and may suffer from reduced growth if they have to compete with fast-growing orach for resources. Additionally, orach's dense foliage may shade out carrot plants, further hindering their growth."
+          },
+          {
+            "name": "Onions",
+            "description": "Orach should be avoided as a companion for onions as it may compete for space, nutrients, and water in the garden bed. Onions require adequate spacing to develop bulbs properly, and the vigorous growth of orach may encroach upon their space, reducing onion yields. Additionally, orach's dense foliage may shade out onion plants, further inhibiting bulb development."
+          },
+          {
+            "name": "Potatoes",
+            "description": "Orach is not recommended as a companion for potatoes as it may compete for space, nutrients, and water in the garden bed. Potatoes require well-drained soil and may suffer from reduced growth if they have to compete with fast-growing orach for resources. Additionally, orach's dense foliage may shade out potato plants, further hindering tuber development."
+          },
+          {
+            "name": "Radishes",
+            "description": "Orach should be avoided as a companion for radishes as it may compete for space, nutrients, and water in the garden bed. Radishes require adequate spacing to develop bulbs properly, and the vigorous growth of orach may encroach upon their space, reducing radish yields. Additionally, orach's dense foliage may shade out radish plants, further inhibiting bulb development."
+          },
+          {
+            "name": "Beets",
+            "description": "Orach is not recommended as a companion for beets as it may compete for space, nutrients, and water in the garden bed. Beets require well-drained soil and may suffer from reduced growth if they have to compete with fast-growing orach for resources. Additionally, orach's dense foliage may shade out beet plants, further hindering root development."
+          }
         ]
-    },
+      },
     "pests": [
-        {
-            "name": "Leaf Miners",
-            "description": "Leaf miners are common pests of orach plants, especially during periods of new growth. The larvae of these insects tunnel through the leaves, leaving distinctive trails and causing cosmetic damage. Control leaf miners by regularly inspecting plants for signs of infestation and removing affected leaves. You can also apply insecticidal soap or neem oil to deter adult leaf miner flies."
-        }
+      "Aphids",
+      "Cabbage White Butterfly",
+      "Cucumber Beetle",
+      "Flea Beetle",
+      "Leafminer"
+    ],
+    "beneficial_insects": [
+      "Ladybugs",
+      "Lacewings",
+      "Hoverflies",
+      "Parasitic Wasps"
     ],
     "diseases": [
-        {
-            "name": "Downy Mildew",
-            "description": "Downy mildew is a fungal disease that can affect orach plants, especially in cool, humid conditions. It appears as yellow or brown spots on the upper surface of the leaves, with a fuzzy gray or white growth on the undersides. Control downy mildew by improving air circulation around the plants, avoiding overhead watering, and applying fungicidal treatments as needed."
-        }
+      "Powdery Mildew",
+      "Downy Mildew",
+      "Root Rot",
+      "Botrytis Blight"
     ],
     "tipsAndTricks": [
-        "Use orach leaves as a nutritious addition to salads, sandwiches, soups, and other culinary dishes.",
-        "Harvest orach leaves regularly to encourage continued growth and prevent the plants from bolting.",
-        "Experiment with different orach varieties, which vary in leaf color, texture, and flavor intensity."
+      "Select a planting site with well-drained soil and full sun to partial shade exposure.",
+      "Sow orach seeds directly into the garden soil or in containers, as it doesn't transplant well.",
+      "Water orach plants regularly, especially during dry periods, to keep the soil consistently moist.",
+      "Mulch around orach plants to retain soil moisture and suppress weeds.",
+      "Harvest orach leaves as needed for culinary use by cutting them from the plant. Both young and mature leaves are edible.",
+      "Monitor plants regularly for signs of pests such as aphids and leaf miners. Handpick pests or use insecticidal soap as needed.",
+      "Watch for symptoms of diseases like powdery mildew and downy mildew. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+      "Orach is a cool-season annual that prefers cooler temperatures. It may bolt and go to seed in hot weather.",
+      "Use orach leaves raw in salads, or cook them as you would spinach or other leafy greens. They can also be used as a colorful garnish."
     ],
     "linksToAdditionalResources": [
         {

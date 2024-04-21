@@ -8,7 +8,7 @@
       "sowingAndPlanting": {
         "sowingIndoorsDescription": "Hibiscus seeds can be started indoors 6-8 weeks before the last frost date. Sow seeds in trays or pots filled with seed starting mix, covering them lightly. Keep the soil consistently moist and provide warmth and bright light for optimal germination.",
         "sowingOutdoorsDescription": "Sow hibiscus seeds directly into the garden after the danger of frost has passed and the soil has warmed. Plant seeds 1/4 to 1/2 inch deep in well-drained soil amended with compost. Space plants according to their mature size, typically 2-3 feet apart.",
-        "spaceBetweenPlants": "2\'-3\'",
+        "spaceBetweenPlants": "2'-3'",
         "spaceBetweenRows": "",
         "squareFootPlantingRecommendationsMin": 0,
         "squareFootPlantingRecommendationsMax": 0,
@@ -33,6 +33,18 @@
         "storageRecommendations": "Harvest hibiscus flowers when fully open and vibrant in color. Use fresh flowers immediately or dry them for later use in teas, herbal remedies, or crafts.",
         "harvestDescription": "Harvest hibiscus flowers by snipping them from the plant with sharp, clean pruners. Choose flowers that are fully open and free from damage or pests."
       },
+      "SpringSowing": {
+        "Indoors": [-12, -8],
+        "Transplant": [12, 16],
+        "Outdoors": [16, 20],
+        "LastSowDate": null
+      },
+      "FallSowing": {
+        "Outdoors": [],
+        "Transplant": [],
+        "DaysToMaturity": 90,
+        "FrostTolerance": "Tender"
+      },
       "companionPlants": {
           "goodCompanionPlants": [
             {
@@ -44,7 +56,7 @@
               "description": "Marigolds can help repel pests like nematodes and whiteflies from the hibiscus garden with their strong scent. They also attract beneficial insects like ladybugs and lacewings."
             },
             {
-              "name": "Nasturtiums",
+              "name": "Nasturtium",
               "description": "Nasturtiums can be interplanted with hibiscus to help repel pests like aphids and attract beneficial insects like ladybugs and lacewings. They also add color and beauty to the garden."
             },
             {
@@ -70,7 +82,7 @@
               "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including hibiscus. Avoid planting hibiscus near walnut trees."
             },
             {
-              "name": "Sunflowers",
+              "name": "Sunflower",
               "description": "Sunflowers can compete with hibiscus for sunlight, water, and nutrients, potentially reducing flower production. Additionally, sunflowers may attract birds that can damage hibiscus flowers."
             },
             {
@@ -79,23 +91,42 @@
             }
           ]
         },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are small, soft-bodied insects that feed on the sap of hibiscus plants, causing distorted growth and yellowing of leaves. They can also transmit viral diseases. Control aphids by spraying plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs and lacewings, or applying insecticidal soap or neem oil."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect hibiscus plants, especially in warm, humid conditions. It appears as a white, powdery coating on leaves and stems and can inhibit plant growth and flowering. Control powdery mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        }
-    ],
-    "tipsAndTricks": [
-        "Mulch around hibiscus plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
-        "Prune hibiscus plants regularly to promote bushy growth and abundant flowering.",
-        "Harvest hibiscus flowers when they are fully open and at their peak of freshness for the best flavor and fragrance."
-    ],
+      "pests": [
+        "Aphids",
+        "Sawfly",
+        "Mealybug",
+        "Hibiscus Beetle",
+        "Scale",
+        "Thrips",
+        "Whiteflies",
+        "Midge",
+        "Leafhopper",
+        "Gall Midge"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
+      ],
+      "diseases": [
+        "Leaf Spot",
+        "Rust",
+        "Blight",
+        "Anthracnose",
+        "Powdery Mildew"
+      ],
+      "tipsAndTricks": [
+        "Plant hibiscus in well-drained soil with full sun to partial shade exposure.",
+        "Water hibiscus regularly, keeping the soil evenly moist but not waterlogged.",
+        "Apply a layer of organic mulch around the base of plants to retain moisture and suppress weeds.",
+        "Prune hibiscus regularly to remove dead or diseased branches and promote bushy growth.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+        "Feed hibiscus with a balanced fertilizer during the growing season to promote healthy growth and flowering.",
+        "Protect hibiscus from strong winds and extreme temperatures.",
+        "Deadhead spent flowers to encourage continuous blooming."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Hibiscus: Planting Guide",

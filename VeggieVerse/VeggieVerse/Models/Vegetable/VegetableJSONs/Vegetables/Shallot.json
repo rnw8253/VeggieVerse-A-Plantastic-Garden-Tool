@@ -33,50 +33,94 @@
        "storageRecommendations": "Harvest shallots when the tops start to dry and turn brown. Use a garden fork or trowel to loosen the soil around the bulbs and lift them gently from the ground. Remove any excess soil and trim off the tops. Cure harvested shallots in a warm, dry place with good air circulation for 2-3 weeks to allow them to dry and develop flavor. Store cured shallots in a cool, dark place with good ventilation for several months.",
        "harvestDescription": "Harvest shallots when the tops start to dry and turn brown, usually in late summer or early fall. Gently lift them from the ground, taking care not to damage the bulbs. Rinse the shallots thoroughly to remove any soil before curing or storing them."
      },
-    "companionPlants": {
-        "goodCompanionPlants": [
-            {
-                "name": "Lettuce",
-                "description": "Lettuce and shallots make excellent companions, as they have similar growing requirements and can be interplanted to maximize space in the garden."
-            },
-            {
-                "name": "Carrots",
-                "description": "Carrots and shallots can be interplanted to provide a diverse and attractive garden bed. Carrots help loosen the soil, making it easier for shallots to grow, while shallots deter pests that may affect carrots."
-            },
-            {
-                "name": "Spinach",
-                "description": "Spinach and shallots can be interplanted to provide a diverse and attractive garden bed. Spinach helps shade the soil and retain moisture, while shallots deter pests that may affect spinach."
-            }
-        ],
-        "badCompanionPlants": [
-            {
-                "name": "Beans",
-                "description": "Beans and other legumes can compete with shallots for water and nutrients, so it's best to avoid planting them too close together."
-            },
-            {
-                "name": "Brassicas",
-                "description": "Brassicas like cabbage, broccoli, and cauliflower can attract pests that may affect shallots. It's best to keep them separate in the garden."
-            }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Onion Maggots",
-            "description": "Onion maggots are the larvae of small flies that feed on the roots of shallot plants, causing stunted growth and wilting. Control onion maggots by practicing crop rotation, using row covers to protect young plants, and applying beneficial nematodes to the soil."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Botrytis Rot",
-            "description": "Botrytis rot is a fungal disease that can affect shallot bulbs, causing grayish-brown lesions and decay. Control botrytis rot by avoiding overhead watering, providing good air circulation around plants, and removing and destroying infected bulbs."
-        }
-    ],
-    "tipsAndTricks": [
-        "Plant shallots in well-draining soil with plenty of organic matter for best results.",
-        "Harvest shallots when the tops have begun to yellow and die back, but before the bulbs start to split or sprout.",
-        "Cure harvested shallots in a warm, dry location with good air circulation before storing them.",
-        "Inspect plants regularly for signs of pests and diseases, and take appropriate action as needed to prevent damage."
-    ],
+     "SpringSowing": {
+       "Indoors": [-10, -8],
+       "Transplant": [-2, 0],
+       "Outdoors": [-4, -2],
+       "LastSowDate": -16
+     },
+     "FallSowing": {
+       "Outdoors": [-4, -2],
+       "Transplant": [],
+       "DaysToMaturity": 110,
+       "FrostTolerance": "Tolerant"
+     },
+     "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Carrots",
+             "description": "Carrots make excellent companions for scallions. Planting carrots alongside scallions can help deter pests like onion flies and carrot rust flies, as the strong aroma of scallions masks the scent of carrots. Additionally, scallions provide some shade for carrots, helping to prevent soil erosion and retain moisture."
+           },
+           {
+             "name": "Lettuce",
+             "description": "Lettuce is a good companion for scallions. Interplanting lettuce and scallions can help maximize space in the garden, as scallions grow upright while lettuce grows close to the ground. The shallow root systems of both plants allow for efficient use of soil nutrients and water."
+           },
+           {
+             "name": "Tomatoes",
+             "description": "Tomatoes are beneficial companions for scallions. Planting tomatoes near scallions may help deter pests like aphids and whiteflies, as scallions emit a strong odor that repels these insects. Additionally, the tall growth habit of tomatoes provides some shade for scallions, helping to prevent sunscald."
+           },
+           {
+             "name": "Spinach",
+             "description": "Spinach is a beneficial companion for scallions. Planting spinach near scallions provides shade and moisture retention, creating a microclimate that benefits both crops. Additionally, spinach and scallions have complementary nutrient needs, reducing competition for resources in the soil."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Beans",
+             "description": "Beans may not be ideal companions for scallions. Beans are legumes that fix nitrogen in the soil, which may lead to excessive nitrogen levels for scallions. Additionally, beans have different growth habits and nutrient needs, which can result in competition for resources in the garden."
+           },
+           {
+             "name": "Peas",
+             "description": "Peas are not recommended as companions for scallions. Peas are nitrogen-fixing plants that enrich the soil with nitrogen, which may lead to overly lush foliage growth in scallions at the expense of bulb development. Additionally, the vining habit of peas may overshadow scallions, reducing their sunlight exposure."
+           },
+           {
+             "name": "Garlic",
+             "description": "Garlic may not be an ideal companion for scallions. Both garlic and scallions belong to the allium family and may attract similar pests and diseases. Planting them together may increase the risk of pest infestations and disease outbreaks, leading to reduced yields for both crops."
+           },
+           {
+             "name": "Radishes",
+             "description": "Radishes may not be the best companions for scallions. While some gardeners interplant radishes with scallions to deter pests, radishes have shallow root systems that may compete with scallions for nutrients and space. Planting them together may result in reduced yields for both crops."
+           }
+         ]
+       },
+     "pests": [
+         "Aphids",
+         "Thrips",
+         "Onion Maggot",
+         "Leafminer",
+         "Cutworm",
+         "Wireworm",
+         "Slug",
+         "Snail"
+       ],
+       "beneficial_insects": [
+         "Ladybugs",
+         "Lacewings",
+         "Hoverflies",
+         "Parasitic Wasps",
+         "Predatory Mites"
+       ],
+       "diseases": [
+         "Downy Mildew",
+         "Powdery Mildew",
+         "Bacterial Soft Rot",
+         "Fusarium Basal Rot",
+         "Pink Root",
+         "Smudge",
+         "Stemphylium Leaf Blight"
+       ],
+       "tipsAndTricks": [
+         "Choose a planting site with well-drained, fertile soil and full sun exposure.",
+         "Prepare the soil by adding compost or aged manure to improve fertility and texture.",
+         "Plant shallot sets (small bulbs) or seeds directly in the garden in early spring or late summer.",
+         "Sow seeds thinly in rows spaced 6-8 inches apart, covering them with a thin layer of soil and keeping them evenly moist until germination.",
+         "Thin seedlings to 2-3 inches apart once they reach a height of 2-3 inches.",
+         "Water shallots regularly, providing about 1 inch of water per week, and mulch to conserve moisture and suppress weeds.",
+         "Fertilize shallots with a balanced fertilizer every 4-6 weeks, following package instructions.",
+         "Monitor plants regularly for signs of pests such as aphids and thrips. Use row covers or insecticidal soap as needed.",
+         "Watch for symptoms of diseases like downy mildew and bacterial soft rot. Avoid overhead watering and provide good air circulation to reduce humidity around plants.",
+         "Harvest shallots when the tops have died back and the bulbs have reached the desired size, typically 90-120 days after planting. Lift them gently with a garden fork, brush off excess soil, and allow them to cure in a warm, dry place for 1-2 weeks before storage."
+       ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Shallots: Planting Guide",

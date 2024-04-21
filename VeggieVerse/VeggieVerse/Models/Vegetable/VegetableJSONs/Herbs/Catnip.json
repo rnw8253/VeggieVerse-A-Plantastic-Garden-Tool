@@ -33,45 +33,66 @@
        "storageRecommendations": "Harvest catnip leaves and flowers as needed for fresh use or drying. Hang harvested stems upside down in a well-ventilated area out of direct sunlight to dry. Once dry, store the leaves and flowers in an airtight container in a cool, dark place.",
        "harvestDescription": "Harvest catnip leaves and flowers by cutting stems just above a set of leaves. Use fresh catnip immediately for your cat's enjoyment, or dry it for later use."
      },
-    "companionPlants": {
-        "goodCompanionPlants": [
-            {
-                "name": "Basil",
-                "description": "Basil is a beneficial companion plant for catnip, as it can help repel pests like mosquitoes and aphids while also enhancing the flavor of catnip when grown nearby. Planting them together can create a diverse and productive herb garden."
-            },
-            {
-                "name": "Lemon Balm",
-                "description": "Lemon balm is also a good companion plant for catnip, as it shares similar growing conditions and can help attract pollinators like bees and butterflies. Planting them together can create a harmonious and beneficial garden ecosystem."
-            }
-        ],
-        "badCompanionPlants": [
-            {
-                "name": "Potatoes",
-                "description": "Catnip is not recommended as a companion plant for potatoes, as it can attract pests like flea beetles and potato beetles while also competing for resources like water and nutrients in the garden. It's best to plant them in separate areas to avoid potential problems."
-            },
-            {
-                "name": "Sage",
-                "description": "Catnip is also not recommended as a companion plant for sage, as it can inhibit the growth of sage through allelopathy. It's best to plant them in separate areas to avoid potential problems."
-            }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are small, soft-bodied insects that feed on the sap of catnip plants, causing distorted growth and yellowing of leaves. They can also transmit viral diseases. Control aphids by spraying plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs and lacewings, or applying insecticidal soap or neem oil."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect catnip plants, especially in warm, humid conditions. It appears as a white, powdery coating on leaves and stems and can inhibit plant growth and flower production. Control powdery mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        }
-    ],
-    "tipsAndTricks": [
-        "Provide consistent moisture and avoid letting the soil dry out completely, especially during hot, dry weather.",
-        "Deadhead spent flowers regularly to encourage continuous blooming and prevent self-seeding.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action to control them before they become a problem."
-    ],
+     "SpringSowing": {
+       "Indoors": [-8, -6],
+       "Transplant": [-4, -2],
+       "Outdoors": [0, 2],
+       "LastSowDate": null
+     },
+     "FallSowing": {
+       "Outdoors": [-10, -8],
+       "Transplant": [],
+       "DaysToMaturity": 90,
+       "FrostTolerance": "Tolerant"
+     },
+     "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Cat Grass",
+             "description": "Catnip and cat grass are complementary plants often grown together for the enjoyment of cats. Catnip provides stimulating effects for cats when ingested or rubbed against, while cat grass offers a safe and satisfying alternative to outdoor grass for cats to chew on."
+           },
+           {
+             "name": "Valerian",
+             "description": "Valerian is a good companion for catnip as it attracts cats with its scent, similar to catnip. However, valerian has a calming effect on cats, which can complement the stimulating effects of catnip, providing a range of experiences for feline enrichment."
+           },
+           {
+             "name": "Lavender",
+             "description": "Lavender can be a beneficial companion for catnip as it attracts pollinators like bees and butterflies while repelling pests like mosquitoes and flies. Additionally, the calming aroma of lavender may help create a relaxing environment for both humans and cats."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Toxic Plants",
+             "description": "Avoid planting catnip near toxic plants that could harm cats if ingested. Make sure to research any potential toxic plants in your garden and keep them separated from catnip to ensure the safety of your pets."
+           }
+         ]
+       },
+     "pests": [
+         "Aphids",
+         "Spider Mite",
+         "Whiteflies"
+       ],
+       "beneficial_insects": [
+         "Ladybugs",
+         "Lacewings",
+         "Hoverflies"
+       ],
+       "diseases": [
+         "Powdery Mildew",
+         "Leaf Spot",
+         "Root Rot"
+       ],
+       "tipsAndTricks": [
+         "Choose a planting site with well-drained soil and full sun exposure.",
+         "Directly sow catnip seeds outdoors in the spring after the last frost, or start seeds indoors 6-8 weeks before the last frost date.",
+         "Water catnip regularly, providing about 1 inch of water per week, and mulch to conserve moisture and suppress weeds.",
+         "Fertilize catnip with a balanced fertilizer or compost tea every 4-6 weeks during the growing season, following package instructions.",
+         "Harvest catnip leaves and flowers as needed for drying or fresh use by snipping them from the stem.",
+         "Monitor plants regularly for signs of pests such as aphids and spider mites. Use insecticidal soap or neem oil as needed.",
+         "Watch for symptoms of diseases like powdery mildew and leaf spot. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+         "Allow some catnip flowers to go to seed to ensure a continuous supply of plants in subsequent seasons.",
+         "Protect catnip plants from excessive browsing by cats, especially during the flowering stage when they are most attractive to felines."
+       ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Catnip",

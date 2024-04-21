@@ -5,11 +5,11 @@
     "thumbnailImageUrl": "Grapefruits_thumbnail",
     "backgroundImageUrl": "Grapefruits_background",
     "varieties": "Grapefruits, known for their tangy-sweet flavor and juicy flesh, come in various cultivars, each with its unique taste, color, and size. Some popular grapefruit varieties include 'Ruby Red', prized for its deep red flesh, rich flavor, and juiciness; 'Marsh', known for its seedlessness, sweet-tart taste, and pale yellow flesh; 'Star Ruby', favored for its intensely red flesh, bold flavor, and juiciness; and 'Rio Red', valued for its sweet taste, deep red flesh, and juiciness. These varieties, among others, offer a range of options suited for different climates and taste preferences.",
-      "sowingAndPlanting": {
+    "sowingAndPlanting": {
         "sowingIndoorsDescription": "Grapefruit trees are typically propagated from seeds or grafted onto rootstock. To grow from seeds, obtain fresh grapefruit seeds and plant them in pots filled with well-draining potting mix. Keep the soil consistently moist and provide warmth and bright, indirect light. Transplant seedlings outdoors once they are sturdy enough to handle outdoor conditions.",
         "sowingOutdoorsDescription": "Grapefruit trees can also be propagated by grafting. Select a healthy scion (a young shoot or bud) from a desired grapefruit variety and graft it onto a compatible rootstock. Plant grafted trees in a sunny location with well-draining soil.",
-        "spaceBetweenPlants": "15\'-20\'",
-        "spaceBetweenRows": "Varies based on planting scheme",
+        "spaceBetweenPlants": "15'-20'",
+        "spaceBetweenRows": "Varies",
         "squareFootPlantingRecommendationsMin": 0,
         "squareFootPlantingRecommendationsMax": 0,
         "lifeCycle": "Perennial",
@@ -17,8 +17,8 @@
         "pHRange": "6.0 - 7.5",
         "germinationSoilTemp": "70-80°F",
         "season": "Grapefruit trees should be planted in late winter or early spring in regions with mild winters. They require full sun and well-draining soil."
-      },
-      "careAndMaintenance": {
+    },
+    "careAndMaintenance": {
         "optimalSun": "Full Sun",
         "growingSoilTemp": "70-85°F",
         "growingDescription": "Grapefruit trees prefer full sun and well-draining soil. They require regular watering, especially during dry periods, to establish a strong root system. Mulch around trees to conserve moisture, suppress weeds, and maintain even soil temperature.",
@@ -26,83 +26,107 @@
         "soilFertility": "Incorporate organic matter, such as compost or aged manure, into the soil before planting to improve fertility and soil structure. Fertilize grapefruit trees annually with a balanced fertilizer according to package instructions.",
         "pruningRequirements": "Prune grapefruit trees in late winter or early spring to remove dead, diseased, or crossing branches. Thin out the center of the tree to improve air circulation and light penetration. Prune mature trees to maintain shape and encourage fruit production.",
         "supportRequirements": "Grapefruit trees do not typically require support."
-      },
-      "harvestingAndStorage": {
+    },
+    "harvestingAndStorage": {
         "daysToHarvest": "3-5 years from planting",
         "timeToMaturity": "Grapefruit trees typically begin producing fruit 3-5 years after planting, depending on the variety and growing conditions.",
         "storageRecommendations": "Harvest grapefruits when they are fully ripe, usually in late fall or winter. Pick the fruits by hand or use pruning shears to cut them from the tree. Store harvested grapefruits at room temperature for up to one week, or refrigerate them for longer storage.",
         "harvestDescription": "Harvest grapefruits when they have reached their full size and color. Taste-test a few fruits to determine sweetness before harvesting the entire crop."
-      },
-      "companionPlants": {
-          "goodCompanionPlants": [
+    },
+    "SpringSowing": {
+      "Indoors": [-12, -8],
+      "Transplant": [12, 16],
+      "Outdoors": [16, 20],
+      "LastSowDate": null
+    },
+    "FallSowing": {
+      "Outdoors": [],
+      "Transplant": [],
+      "DaysToMaturity": 365,
+      "FrostTolerance": "Tender"
+    },
+    "companionPlants": {
+        "goodCompanionPlants": [
             {
-              "name": "Marigolds",
-              "description": "Marigolds can deter pests like aphids and whiteflies from grapefruit trees with their strong scent. They also attract beneficial insects like ladybugs and lacewings."
+                "name": "Marigolds",
+                "description": "Marigolds can deter pests like aphids and whiteflies from grapefruit trees with their strong scent. They also attract beneficial insects like ladybugs and lacewings."
             },
             {
-              "name": "Lavender",
-              "description": "Lavender has aromatic foliage that can help repel pests like mosquitoes and flies from the grapefruit garden. It also attracts pollinators like bees and butterflies."
+                "name": "Lavender",
+                "description": "Lavender has aromatic foliage that can help repel pests like mosquitoes and flies from the grapefruit garden. It also attracts pollinators like bees and butterflies."
             },
             {
-              "name": "Rosemary",
-              "description": "Rosemary can deter pests like aphids and spider mites from grapefruit trees with its strong scent. It also attracts beneficial insects like bees and parasitic wasps."
+                "name": "Rosemary",
+                "description": "Rosemary can deter pests like aphids and spider mites from grapefruit trees with its strong scent. It also attracts beneficial insects like bees and parasitic wasps."
             },
             {
-              "name": "Comfrey",
-              "description": "Comfrey is a dynamic accumulator, bringing up nutrients from deep in the soil and making them available to grapefruit trees. Its deep roots also help improve soil structure."
+                "name": "Comfrey",
+                "description": "Comfrey is a dynamic accumulator, bringing up nutrients from deep in the soil and making them available to grapefruit trees. Its deep roots also help improve soil structure."
             },
             {
-              "name": "Chives",
-              "description": "Chives can deter pests like aphids and Japanese beetles with their strong scent when planted near grapefruit trees. They are also edible and can be harvested for culinary use."
+                "name": "Chives",
+                "description": "Chives can deter pests like aphids and Japanese beetles with their strong scent when planted near grapefruit trees. They are also edible and can be harvested for culinary use."
             }
-          ],
-          "badCompanionPlants": [
+        ],
+        "badCompanionPlants": [
             {
-              "name": "Grass",
-              "description": "Grass and other ground covers that compete with grapefruit trees for nutrients, water, and sunlight should be avoided. They can also provide habitat for pests and diseases that affect grapefruit trees."
+                "name": "Grass",
+                "description": "Grass and other ground covers that compete with grapefruit trees for nutrients, water, and sunlight should be avoided. They can also provide habitat for pests and diseases that affect grapefruit trees."
             },
             {
-              "name": "Potatoes",
-              "description": "Potatoes are susceptible to diseases like potato blight and can attract pests like Colorado potato beetles, making them poor companions for grapefruit trees."
+                "name": "Potatoes",
+                "description": "Potatoes are susceptible to diseases like potato blight and can attract pests like Colorado potato beetles, making them poor companions for grapefruit trees."
             },
             {
-              "name": "Walnuts",
-              "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including grapefruit trees. Avoid planting grapefruit trees near walnut trees."
+                "name": "Walnuts",
+                "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including grapefruit trees. Avoid planting grapefruit trees near walnut trees."
             },
             {
-              "name": "Sunflowers",
-              "description": "Sunflowers can compete with grapefruit trees for sunlight, water, and nutrients, potentially reducing fruit production. Additionally, sunflowers may attract birds that can damage grapefruit crops."
+                "name": "Sunflower",
+                "description": "Sunflowers can compete with grapefruit trees for sunlight, water, and nutrients, potentially reducing fruit production. Additionally, sunflowers may attract birds that can damage grapefruit crops."
             },
             {
-              "name": "Tomatoes",
-              "description": "Tomatoes have different soil and water requirements than grapefruit trees and may compete for resources. Additionally, tomatoes may attract pests and diseases that can affect grapefruit trees."
+                "name": "Tomatoes",
+                "description": "Tomatoes have different soil and water requirements than grapefruit trees and may compete for resources. Additionally, tomatoes may attract pests and diseases that can affect grapefruit trees."
             }
-          ]
-        },
+        ]
+    },
     "pests": [
-        {
-            "name": "Citrus Leafminer",
-            "description": "Citrus leafminers are common pests of grapefruit trees, laying their eggs on young leaves and causing characteristic serpentine tunnels as the larvae feed. Monitor trees regularly for signs of leafminer damage and use sticky traps or beneficial insects to control populations."
-        },
-        {
-            "name": "Citrus Whitefly",
-            "description": "Citrus whiteflies are small, sap-sucking insects that feed on the leaves and stems of grapefruit trees. They excrete honeydew, promoting the growth of sooty mold and attracting ants. Control whitefly populations with insecticidal soap, horticultural oil, or natural predators like ladybugs and lacewings."
-        }
+        "Leafminer",
+        "Red Mite",
+        "Whiteflies",
+        "Thrips",
+        "Fruit Fly",
+        "Mealybug",
+        "Weevil",
+        "Leaf Beetle",
+        "Cutworm",
+        "Rust Mite"
+    ],
+    "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
     ],
     "diseases": [
-        {
-            "name": "Citrus Canker",
-            "description": "Citrus canker is a bacterial disease that affects grapefruit trees, causing raised, corky lesions on leaves, stems, and fruit. It spreads rapidly in warm, humid conditions and can lead to defoliation and fruit drop. Prevent citrus canker by planting disease-resistant varieties, practicing good sanitation, and avoiding overhead watering."
-        },
-        {
-            "name": "Citrus Scab",
-            "description": "Citrus scab is a fungal disease that affects grapefruit trees, causing raised, scaly lesions on leaves, stems, and fruit. It thrives in warm, humid conditions and can lead to reduced yields and fruit quality. Prevent citrus scab by providing good air circulation around trees, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        }
+        "Citrus Canker",
+        "Citrus Black Spot",
+        "Citrus Greening",
+        "Citrus Scab",
+        "Citrus Root Rot",
+        "Psorosis"
     ],
     "tipsAndTricks": [
-        "Harvest grapefruits when fully ripe for the best flavor and sweetness.",
-        "Monitor trees regularly for signs of pests and diseases, and take prompt action to control infestations.",
-        "Prune grapefruit trees annually to remove dead or diseased wood, improve airflow, and shape the tree."
+        "Plant grapefruit trees in well-drained soil with full sun exposure.",
+        "Provide regular watering, especially during the dry season.",
+        "Mulch around the base of trees to conserve moisture and suppress weeds.",
+        "Prune grapefruit trees regularly to promote airflow and remove dead or diseased branches.",
+        "Fertilize grapefruit trees with a balanced fertilizer during the growing season.",
+        "Monitor trees regularly for signs of pests and diseases, and take appropriate action.",
+        "Harvest grapefruits when they are fully ripe and have a bright color.",
+        "Store harvested grapefruits at room temperature or in the refrigerator for extended freshness."
     ],
     "linksToAdditionalResources": [
         {

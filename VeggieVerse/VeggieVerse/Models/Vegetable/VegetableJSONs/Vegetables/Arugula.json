@@ -33,6 +33,18 @@
        "storageRecommendations": "Harvest arugula when the leaves are young and tender, typically 6-8 inches long. Cut leaves from the plant as needed, leaving some leaves to continue growing. Store harvested arugula in the refrigerator for up to a week.",
        "harvestDescription": "Harvest arugula by cutting leaves from the plant with scissors or a sharp knife. Start with outer leaves, allowing the center leaves to continue growing."
      },
+     "SpringSowing": {
+       "Indoors": [-8, -6],
+       "Transplant": [-3, -1],
+       "Outdoors": [-4, -3],
+       "LastSowDate": -4
+     },
+     "FallSowing": {
+       "Outdoors": [-7, -4],
+       "Transplant": [],
+       "DaysToMaturity": 40,
+       "FrostTolerance": "Tolerant"
+     },
      "companionPlants": {
          "goodCompanionPlants": [
            {
@@ -44,7 +56,7 @@
              "description": "Spinach and arugula can be planted together as they have similar growth habits and nutritional needs. Interplanting them can help optimize space in the garden while providing a diverse harvest."
            },
            {
-             "name": "Nasturtiums",
+             "name": "Nasturtium",
              "description": "Nasturtiums can attract beneficial insects like predatory beetles and parasitic wasps, which help control pests that may affect arugula. Their flowers also add color and beauty to the garden."
            },
            {
@@ -79,32 +91,49 @@
            }
          ]
        },
-    "pests": [
-        {
-            "name": "Flea Beetles",
-            "description": "Flea beetles are common pests of arugula, feeding on the leaves and causing small holes or pits. Control flea beetles by using row covers to protect plants, applying neem oil or insecticidal soap, and using natural predators like ladybugs."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Downy Mildew",
-            "description": "Downy mildew is a fungal disease that can affect arugula, causing yellowing of leaves and a downy white growth on the undersides. Provide good air circulation around plants, avoid overhead watering, and apply fungicides as needed to control downy mildew."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest arugula leaves regularly to encourage continuous growth and prevent bolting.",
-        "Water arugula plants regularly to keep the soil consistently moist.",
-        "Mulch around plants to retain moisture and suppress weeds.",
-        "Plant arugula in succession for a continuous harvest throughout the growing season."
-    ],
+     "pests": [
+       "Flea Beetle",
+       "Aphids",
+       "Leafminer",
+       "Whiteflies",
+       "Cabbage Worm",
+       "Cutworm",
+       "Thrips",
+       "Leafhopper",
+       "Mite",
+       "Grasshopper"
+     ],
+     "beneficial_insects": [
+       "Ladybugs",
+       "Lacewings",
+       "Hoverflies",
+       "Parasitic Wasps",
+       "Predatory Mites"
+     ],
+     "diseases": [
+       "Downy Mildew",
+       "White Rust",
+       "Black Leg",
+       "Leaf Spot",
+       "Clubroot"
+     ],
+     "tipsAndTricks": [
+       "Plant arugula in well-drained soil with partial shade to full sun exposure.",
+       "Space arugula plants properly to allow good air circulation and prevent diseases.",
+       "Water arugula plants regularly, keeping the soil consistently moist but not waterlogged.",
+       "Apply a balanced fertilizer or compost to provide necessary nutrients for growth.",
+       "Mulch around the base of plants to retain moisture and suppress weeds.",
+       "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+       "Harvest arugula leaves when they are young and tender for the best flavor."
+     ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Arugula: Planting Guide",
             "url": "https://www.almanac.com/plant/arugula"
         },
         {
-            "title": "How to Harvest and Store Arugula",
-            "url": "https://www.gardeningknowhow.com/edible/herbs/arugula/harvesting-arugula.htm"
+            "title": "How to Plant, Grow, and Harvest Organic Arugula in a Raised Bed",
+            "url": "https://www.gardenary.com/blog/how-to-plant-grow-and-harvest-organic-arugula-in-a-raised-bed"
         }
     ]
 }

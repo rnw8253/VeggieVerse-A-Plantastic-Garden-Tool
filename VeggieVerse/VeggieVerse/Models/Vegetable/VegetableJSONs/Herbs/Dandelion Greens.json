@@ -33,44 +33,78 @@
         "storageRecommendations": "Harvest dandelion leaves as needed for culinary use. Use fresh leaves immediately for salads, sautés, or teas. Store any unused portions in the refrigerator wrapped in a damp paper towel and placed in a plastic bag for up to a few days.",
         "harvestDescription": "Harvest dandelion leaves by cutting them close to the base of the plant. Avoid harvesting from areas that may have been treated with herbicides or other chemicals."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [],
+        "Transplant": [],
+        "Outdoors": [-8, -6],
+        "LastSowDate": null
+      },
+      "FallSowing": {
+        "Outdoors": [-12, -10],
+        "Transplant": [],
+        "DaysToMaturity": 30,
+        "FrostTolerance": "Tolerant"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Lettuce",
-                "description": "Lettuce is a good companion plant for dandelion greens as it helps to shade the soil, retain moisture, and suppress weeds."
+              "name": "Herbs",
+              "description": "Dandelion greens can be beneficially interplanted with various herbs such as chamomile, parsley, and thyme. These herbs can help attract beneficial insects and provide natural pest control, enhancing the overall health of the garden."
             },
             {
-                "name": "Radishes",
-                "description": "Radishes can be planted near dandelion greens as they repel certain pests that may affect the greens."
+              "name": "Root Crops",
+              "description": "Dandelion greens can serve as a beneficial companion for root crops like carrots and radishes. Their deep taproots can help break up compacted soil, improving soil structure and nutrient absorption for neighboring root crops."
+            },
+            {
+              "name": "Dynamic Accumulators",
+              "description": "Dandelion greens are considered dynamic accumulators, meaning they accumulate nutrients from deep within the soil and make them available to nearby plants. They can enrich the soil with essential minerals such as potassium, calcium, and iron, benefiting the growth of surrounding crops."
+            },
+            {
+              "name": "Legumes",
+              "description": "Leguminous plants like peas and beans can benefit from the presence of dandelion greens. Dandelions fix nitrogen in the soil, which can be utilized by legumes for enhanced growth and nitrogen fixation, promoting soil health and fertility."
             }
-        ],
-        "badCompanionPlants": []
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids can sometimes infest dandelion greens, sucking sap from the leaves and causing distortion or yellowing. Use insecticidal soap or neem oil to control aphids."
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Shade-Tolerant Plants",
+              "description": "Dandelion greens thrive in full sun to partial shade conditions and may overshadow shade-tolerant plants if grown in close proximity. Therefore, it's best to avoid planting shade-loving crops near dandelion greens, as they may be deprived of adequate sunlight and struggle to thrive."
+            },
+            {
+              "name": "Plants Prone to Overcrowding",
+              "description": "Dandelion greens have a vigorous growth habit and can spread rapidly, crowding out neighboring plants. It's advisable to avoid planting dandelion greens near crops that are prone to overcrowding, as they may inhibit their growth and development."
+            }
+          ]
         },
-        {
-            "name": "Slugs and Snails",
-            "description": "Slugs and snails may feed on dandelion greens, leaving behind ragged edges on the leaves. Use physical barriers or slug pellets to protect plants from these pests."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew can affect dandelion greens, causing a white powdery growth on the leaves. Ensure good air circulation around plants and avoid overhead watering to prevent powdery mildew."
-        },
-        {
-            "name": "Leaf Spot",
-            "description": "Leaf spot diseases can cause dark spots or lesions on dandelion greens leaves. Remove and destroy infected leaves and ensure plants have adequate spacing for air circulation."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest dandelion greens regularly to encourage new growth and prevent the plant from flowering, which can make the leaves bitter.",
-        "Mulch around plants to retain moisture and suppress weeds.",
-        "Inspect plants regularly for signs of pests and diseases, and take appropriate action if detected."
-    ],
+      "pests": [
+        "Aphids",
+        "Flea Beetle",
+        "Cutworm",
+        "Slug",
+        "Snail"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps"
+      ],
+      "diseases": [
+        "Powdery Mildew",
+        "Leaf Spot",
+        "Root Rot"
+      ],
+      "tipsAndTricks": [
+        "Choose a planting site with well-drained soil and full sun to partial shade exposure.",
+        "Directly sow dandelion seeds in the garden in early spring or fall.",
+        "Keep the soil consistently moist during germination and early growth stages.",
+        "Thin seedlings to about 6 inches apart to allow for proper air circulation and growth space.",
+        "Harvest dandelion leaves as needed for culinary use by snipping them from the base of the plant.",
+        "Regularly remove flower heads to prevent self-seeding and maintain leaf production.",
+        "Monitor plants regularly for signs of pests such as aphids and flea beetles. Use insecticidal soap or neem oil as needed.",
+        "Watch for symptoms of diseases like powdery mildew and leaf spot. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+        "Dandelion greens are best harvested when young and tender. Older leaves can become bitter.",
+        "Use dandelion greens fresh in salads, sandwiches, and smoothies, or cook them as a nutritious vegetable side dish."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Dandelion Greens: Planting Guide",

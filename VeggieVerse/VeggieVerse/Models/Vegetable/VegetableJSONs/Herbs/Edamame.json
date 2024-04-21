@@ -33,46 +33,95 @@
         "storageRecommendations": "Harvest edamame pods when they are still green and plump. Pick pods regularly to encourage continued production. Use harvested edamame immediately for fresh consumption, or blanch them in boiling water for 2-3 minutes, then cool and freeze them for longer storage.",
         "harvestDescription": "Harvest edamame pods when they are fully developed but still green and tender. Simply snap or cut the pods from the plants with scissors or pruners."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [],
+        "Transplant": [],
+        "Outdoors": [6, 8],
+        "LastSowDate": null
+      },
+      "FallSowing": {
+        "Outdoors": [],
+        "Transplant": [],
+        "DaysToMaturity": 70,
+        "FrostTolerance": "Tender"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Corn",
-                "description": "Corn is a good companion plant for edamame, as the tall stalks provide support for climbing beans while the beans fix nitrogen in the soil, benefiting the corn plants. Planting them together in a traditional Three Sisters garden can improve overall garden productivity and health."
+              "name": "Beans",
+              "description": "Edamame, being a type of soybean, can benefit from interplanting with other bean varieties. Beans fix nitrogen in the soil, which can improve the overall soil fertility for edamame. Additionally, planting beans alongside edamame can help deter pests by confusing them with mixed plantings."
             },
             {
-                "name": "Radishes",
-                "description": "Radishes are also good companion plants for edamame, as they mature quickly and can help suppress weed growth while providing a food source for beneficial insects. Interplanting radishes between rows of edamame can create a diverse and productive garden ecosystem."
+              "name": "Corn",
+              "description": "Edamame can be interplanted with corn as part of the traditional 'three sisters' planting method. Corn provides support for the climbing beans, while the beans fix nitrogen in the soil to benefit both crops. This symbiotic relationship promotes healthier growth and higher yields."
+            },
+            {
+              "name": "Cucumbers",
+              "description": "Cucumbers can serve as good companions for edamame. Their sprawling growth habit can help provide shade and conserve soil moisture for edamame plants. Additionally, planting cucumbers nearby can help deter pests by attracting beneficial insects that prey on common edamame pests."
+            },
+            {
+              "name": "Lettuce",
+              "description": "Edamame and lettuce can be interplanted to make efficient use of garden space. Lettuce grows low to the ground, providing shade for the soil and helping to retain moisture, which can benefit edamame plants. Additionally, the quick-growing lettuce can be harvested before the edamame matures fully."
+            },
+            {
+              "name": "Peas",
+              "description": "Peas are suitable companions for edamame due to their similar growth habits and nitrogen-fixing abilities. Interplanting peas with edamame can improve soil fertility and promote healthier growth for both crops. Additionally, peas can help suppress weeds and provide support for the edamame plants."
+            },
+            {
+              "name": "Spinach",
+              "description": "Spinach can be interplanted with edamame to maximize space and diversity in the garden. Spinach grows quickly and can be harvested before the edamame plants reach full maturity. Additionally, spinach's shallow root system helps prevent soil erosion and improves soil structure."
             }
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Alliums",
+              "description": "Alliums, such as onions and garlic, may not be the best companions for edamame. They can potentially inhibit the growth of edamame due to their allelopathic properties, which may interfere with the growth and development of neighboring plants. It's best to keep them separated in the garden."
+            },
+            {
+              "name": "Nightshades",
+              "description": "Nightshade plants like tomatoes and potatoes are not ideal companions for edamame. They belong to the same plant family as edamame (Solanaceae) and may attract similar pests and diseases, increasing the risk of infestation and reducing overall crop health. It's advisable to keep them separated to minimize potential issues."
+            },
+            {
+              "name": "Brassicas",
+              "description": "Brassicas, including cabbage and broccoli, are not recommended companions for edamame. They may compete for similar soil nutrients and space in the garden, potentially leading to reduced yields for both crops. It's best to rotate edamame with non-brassica crops to maintain soil health and prevent disease buildup."
+            },
+            {
+              "name": "Allelopathic Herbs",
+              "description": "Certain herbs, such as sage and rosemary, possess allelopathic properties that can inhibit the growth of neighboring plants, including edamame. Planting edamame near these herbs may negatively impact its growth and overall productivity. It's advisable to keep such herbs away from the vicinity of edamame."
+            }
+          ]
+        },
+      "pests": [
+          "Aphids",
+          "Bean Leaf Beetle",
+          "Thrips",
+          "Cutworm",
+          "Japanese Beetle"
         ],
-        "badCompanionPlants": [
-            {
-                "name": "Onions",
-                "description": "Onions are not recommended as companion plants for edamame, as they may compete for space and nutrients in the soil. It's best to plant them in separate areas to avoid potential problems."
-            },
-            {
-                "name": "Garlic",
-                "description": "Garlic is also not recommended as a companion plant for edamame, as it may compete for space and nutrients and may not provide any specific benefits when grown together. It's best to plant them in separate areas to avoid potential problems."
-            }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are common pests of edamame, feeding on the sap of leaves and stems and causing distortion and stunted growth. Control aphids by spraying plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs and lacewings, or applying insecticidal soap or neem oil."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect edamame plants, causing white powdery patches to form on the leaves. It thrives in warm, humid conditions and can spread rapidly in crowded plantings. Control powdery mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest edamame pods regularly to promote continuous production and prevent overripening.",
-        "Rotate edamame crops annually to prevent soilborne diseases and nutrient depletion.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed to prevent damage.",
-        "Save seeds from mature edamame pods for replanting next season, or purchase fresh seeds from a reputable source."
-    ],
+        "beneficial_insects": [
+          "Ladybugs",
+          "Lacewings",
+          "Hoverflies",
+          "Parasitic Wasps"
+        ],
+        "diseases": [
+          "Powdery Mildew",
+          "Downy Mildew",
+          "Anthracnose",
+          "Root Rot"
+        ],
+        "tipsAndTricks": [
+          "Choose a planting site with well-drained soil and full sun exposure.",
+          "Directly sow edamame seeds in the garden after the last frost date, once the soil temperature has reached at least 60°F (15°C).",
+          "Sow seeds 1 to 2 inches deep and space them about 2 to 4 inches apart in rows spaced 18 to 24 inches apart.",
+          "Water edamame regularly, providing about 1 inch of water per week, and avoid overwatering to prevent rot.",
+          "Mulch around edamame plants to retain soil moisture and suppress weeds.",
+          "Harvest edamame pods when they are plump and firm but still green. Pods are typically ready for harvest 70 to 90 days after planting.",
+          "Monitor plants regularly for signs of pests such as aphids and bean leaf beetles. Use insecticidal soap or neem oil as needed.",
+          "Watch for symptoms of diseases like powdery mildew and anthracnose. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+          "Rotate crops annually to prevent disease buildup in the soil.",
+          "Use edamame fresh by boiling or steaming the pods, then sprinkling them with salt for a tasty snack."
+        ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Edamame: Tips and Tricks",

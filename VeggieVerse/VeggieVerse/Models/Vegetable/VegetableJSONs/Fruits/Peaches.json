@@ -4,104 +4,129 @@
     "thumbnailImageUrl": "Peaches_thumbnail",
     "backgroundImageUrl": "Peaches_background",
     "varieties": "Peaches come in various cultivars, each with its unique flavor, sweetness, and texture. Some popular peach varieties include 'Elberta', known for its large size, firm texture, and classic peach flavor; 'Georgia Belle', prized for its juicy, aromatic fruit and semi-freestone pit; 'Red Haven', valued for its early ripening, firm flesh, and sweet-tart flavor; and 'Saturn' or 'Donut Peach', characterized by its flattened shape, sweet flavor, and small pit. These varieties, among others, offer a range of options suited for different culinary uses and growing conditions.",
-     "sowingAndPlanting": {
-       "sowingIndoorsDescription": "Peaches are typically propagated from seeds or by grafting. To grow from seeds, rinse peach seeds to remove any fruit pulp and dry them thoroughly. Plant seeds in pots filled with well-draining potting mix and keep them warm and moist. Germination may take several weeks. Alternatively, purchase grafted peach trees from a nursery for faster fruit production.",
-       "sowingOutdoorsDescription": "Peach trees should be planted in well-draining soil in a sunny location. Dig a hole slightly larger than the root ball of the tree and backfill with soil, making sure the tree is planted at the same depth as it was in the nursery container. Water thoroughly after planting.",
-       "spaceBetweenPlants": "15\'-20\'",
-       "spaceBetweenRows": "Varies based on planting scheme",
-       "squareFootPlantingRecommendationsMin": 1,
-       "squareFootPlantingRecommendationsMax": 2,
-       "lifeCycle": "Perennial",
-       "seedDepth": "1\"",
-       "pHRange": "6.0 - 7.0",
-       "germinationSoilTemp": "70-85°F",
-       "season": "Peach trees should be planted in early spring while still dormant. They require a chilling period in winter and are best suited to regions with mild winters and hot summers."
-     },
-     "careAndMaintenance": {
-       "optimalSun": "Full Sun",
-       "growingSoilTemp": "60-85°F",
-       "growingDescription": "Peach trees prefer full sun and well-draining soil. They require regular watering, especially during dry periods, to keep the soil consistently moist but not waterlogged. Mulch around trees to conserve moisture, suppress weeds, and maintain even soil temperature.",
-       "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
-       "soilFertility": "Incorporate organic matter, such as compost or well-rotted manure, into the soil before planting to improve fertility and soil structure. Fertilize peach trees with a balanced fertilizer according to package instructions, avoiding excessive nitrogen.",
-       "pruningRequirements": "Prune peach trees in late winter or early spring to remove dead, diseased, or crossing branches. Thin out the canopy to improve air circulation and light penetration. Prune mature trees to maintain shape and size, and to encourage fruit production on younger wood.",
-       "supportRequirements": "Young peach trees may benefit from staking to provide support and prevent leaning. Use sturdy stakes and ties to secure the tree in place until it establishes a strong root system."
-     },
-     "harvestingAndStorage": {
-       "daysToHarvest": "2-4 years from planting",
-       "timeToMaturity": "Peach trees typically begin producing fruit 2-4 years after planting, depending on the variety and growing conditions.",
-       "storageRecommendations": "Harvest peaches when they are fully ripe, usually when the skin develops a rich color and the fruit yields slightly to gentle pressure. Twist the fruit gently or cut it from the tree with pruning shears, leaving a short stem attached. Store harvested peaches at room temperature for a few days, or refrigerate them for longer storage.",
-       "harvestDescription": "Harvest peaches by hand when they are fully ripe. Avoid pulling or twisting the fruit forcefully, as this can damage the tree or cause bruising. Cut the fruit from the tree with pruning shears, leaving a short stem attached."
-     },
-     "companionPlants": {
-         "goodCompanionPlants": [
-           {
-             "name": "Nasturtiums",
-             "description": "Nasturtiums can be interplanted with peach trees to help repel pests like aphids and leafhoppers. They also attract beneficial insects like ladybugs and lacewings."
-           },
-           {
-             "name": "Chives",
-             "description": "Chives planted around peach trees can help deter pests like aphids, Japanese beetles, and spider mites. Their strong aroma can mask the scent of the peach tree, making it harder for pests to locate."
-           },
-           {
-             "name": "Garlic",
-             "description": "Garlic has natural fungicidal properties that can help prevent diseases like peach leaf curl when planted near peach trees. It also repels some insect pests, such as aphids and peach tree borers."
-           },
-           {
-             "name": "Lavender",
-             "description": "Lavender attracts pollinators like bees and butterflies, which can help improve fruit set in peach trees. Its strong scent can also deter pests like aphids and moths."
-           },
-           {
-             "name": "Marigolds",
-             "description": "Marigolds have a strong aroma that can repel pests like nematodes, aphids, and whiteflies. Planting marigolds around peach trees can help protect them from these pests."
-           }
-         ],
-         "badCompanionPlants": [
-           {
-             "name": "Grass",
-             "description": "Grass competes with peach trees for water, nutrients, and sunlight. Additionally, grass can harbor pests and diseases that may affect peach trees. Keep the area around peach trees free of grass and other competing vegetation."
-           },
-           {
-             "name": "Walnuts",
-             "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including peach trees. Avoid planting peach trees near walnut trees."
-           },
-           {
-             "name": "Cherry",
-             "description": "Peach and cherry trees are susceptible to similar pests and diseases. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
-           },
-           {
-             "name": "Plum",
-             "description": "Peach and plum trees are susceptible to similar pests and diseases. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
-           },
-           {
-             "name": "Potatoes",
-             "description": "Potatoes and other members of the nightshade family can host pests and diseases that may affect peach trees. Additionally, they may compete with peach trees for water and nutrients."
-           }
-         ]
-       },
+    "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Peaches are typically propagated from seeds or by grafting. To grow from seeds, rinse peach seeds to remove any fruit pulp and dry them thoroughly. Plant seeds in pots filled with well-draining potting mix and keep them warm and moist. Germination may take several weeks. Alternatively, purchase grafted peach trees from a nursery for faster fruit production.",
+        "sowingOutdoorsDescription": "Peach trees should be planted in well-draining soil in a sunny location. Dig a hole slightly larger than the root ball of the tree and backfill with soil, making sure the tree is planted at the same depth as it was in the nursery container. Water thoroughly after planting.",
+        "spaceBetweenPlants": "15'-20'",
+        "spaceBetweenRows": "Varies",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 2,
+        "lifeCycle": "Perennial",
+        "seedDepth": "1\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "70-85°F",
+        "season": "Peach trees should be planted in early spring while still dormant. They require a chilling period in winter and are best suited to regions with mild winters and hot summers."
+    },
+    "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "60-85°F",
+        "growingDescription": "Peach trees prefer full sun and well-draining soil. They require regular watering, especially during dry periods, to keep the soil consistently moist but not waterlogged. Mulch around trees to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+        "soilFertility": "Incorporate organic matter, such as compost or well-rotted manure, into the soil before planting to improve fertility and soil structure. Fertilize peach trees with a balanced fertilizer according to package instructions, avoiding excessive nitrogen.",
+        "pruningRequirements": "Prune peach trees in late winter or early spring to remove dead, diseased, or crossing branches. Thin out the canopy to improve air circulation and light penetration. Prune mature trees to maintain shape and size, and to encourage fruit production on younger wood.",
+        "supportRequirements": "Young peach trees may benefit from staking to provide support and prevent leaning. Use sturdy stakes and ties to secure the tree in place until it establishes a strong root system."
+    },
+    "harvestingAndStorage": {
+        "daysToHarvest": "2-4 years from planting",
+        "timeToMaturity": "Peach trees typically begin producing fruit 2-4 years after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest peaches when they are fully ripe, usually when the skin develops a rich color and the fruit yields slightly to gentle pressure. Twist the fruit gently or cut it from the tree with pruning shears, leaving a short stem attached. Store harvested peaches at room temperature for a few days, or refrigerate them for longer storage.",
+        "harvestDescription": "Harvest peaches by hand when they are fully ripe. Avoid pulling or twisting the fruit forcefully, as this can damage the tree or cause bruising. Cut the fruit from the tree with pruning shears, leaving a short stem attached."
+    },
+    "SpringSowing": {
+      "Indoors": [],
+      "Transplant": [],
+      "Outdoors": [4, 6],
+      "LastSowDate": null
+    },
+    "FallSowing": {
+      "Outdoors": [],
+      "Transplant": [-8, -6],
+      "DaysToMaturity": 120,
+      "FrostTolerance": "Tender"
+    },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Nasturtium",
+                "description": "Nasturtiums can be interplanted with peach trees to help repel pests like aphids and leafhoppers. They also attract beneficial insects like ladybugs and lacewings."
+            },
+            {
+                "name": "Chives",
+                "description": "Chives planted around peach trees can help deter pests like aphids, Japanese beetles, and spider mites. Their strong aroma can mask the scent of the peach tree, making it harder for pests to locate."
+            },
+            {
+                "name": "Garlic",
+                "description": "Garlic has natural fungicidal properties that can help prevent diseases like peach leaf curl when planted near peach trees. It also repels some insect pests, such as aphids and peach tree borers."
+            },
+            {
+                "name": "Lavender",
+                "description": "Lavender attracts pollinators like bees and butterflies, which can help improve fruit set in peach trees. Its strong scent can also deter pests like aphids and moths."
+            },
+            {
+                "name": "Marigolds",
+                "description": "Marigolds have a strong aroma that can repel pests like nematodes, aphids, and whiteflies. Planting marigolds around peach trees can help protect them from these pests."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Grass",
+                "description": "Grass competes with peach trees for water, nutrients, and sunlight. Additionally, grass can harbor pests and diseases that may affect peach trees. Keep the area around peach trees free of grass and other competing vegetation."
+            },
+            {
+                "name": "Walnuts",
+                "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including peach trees. Avoid planting peach trees near walnut trees."
+            },
+            {
+                "name": "Cherries",
+                "description": "Peach and cherry trees are susceptible to similar pests and diseases. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
+            },
+            {
+                "name": "Plums",
+                "description": "Peach and plum trees are susceptible to similar pests and diseases. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
+            },
+            {
+                "name": "Potatoes",
+                "description": "Potatoes and other members of the nightshade family can host pests and diseases that may affect peach trees. Additionally, they may compete with peach trees for water and nutrients."
+            }
+        ]
+    },
     "pests": [
-        {
-            "name": "Peach Leaf Curl",
-            "description": "Peach leaf curl is a fungal disease that affects peach trees, causing distorted, reddened leaves and reduced fruit production. Control peach leaf curl by applying fungicidal sprays preventatively in late winter or early spring, before bud swell."
-        },
-        {
-            "name": "Peach Tree Borer",
-            "description": "Peach tree borers are common pests of peach trees, laying their eggs on the trunk near the soil line. The larvae bore into the wood, causing damage and weakening the tree. Control peach tree borer populations by applying insecticidal sprays to the trunk and base of the tree, and by keeping the area around the tree free of weeds and debris."
-        }
+        "Fruit Fly",
+        "Twig Borer",
+        "Borer",
+        "Aphids",
+        "Scale",
+        "Leaf Curl Aphid",
+        "Leafhopper",
+        "Moth",
+        "Weevil",
+        "Earwig",
+        "Four-Lined Plant Bug"
+    ],
+    "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
     ],
     "diseases": [
-        {
-            "name": "Brown Rot",
-            "description": "Brown rot is a fungal disease that affects peach trees, causing brown, rotting lesions on fruit and flowers. It can lead to fruit drop and reduced yields. Prevent brown rot by providing good air circulation around trees, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        },
-        {
-            "name": "Peach Scab",
-            "description": "Peach scab is a fungal disease that affects peach trees, causing raised, scabby lesions on fruit and leaves. It can lead to reduced yields and fruit quality. Prevent peach scab by providing good air circulation around trees, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        }
+        "Leaf Curl",
+        "Scab",
+        "Powdery Mildew",
+        "Rust",
+        "Bacterial Spot",
+        "Gummosis"
     ],
     "tipsAndTricks": [
-        "Harvest peaches when fully ripe for the best flavor and juiciness.",
-        "Monitor trees regularly for signs of pests and diseases, and take prompt action to control infestations.",
-        "Prune peach trees annually to remove dead or diseased wood, improve airflow, and shape the tree."
+        "Plant peach trees in well-drained soil with full sun exposure.",
+        "Prune peach trees in late winter to remove dead or diseased branches and maintain an open canopy.",
+        "Apply a balanced fertilizer during the growing season to promote healthy growth and fruiting.",
+        "Water peach trees regularly, especially during dry periods, and avoid wetting the foliage to prevent diseases.",
+        "Mulch around the base of trees to retain moisture and suppress weeds.",
+        "Monitor trees regularly for signs of pests and diseases, and take appropriate action.",
+        "Thin out excess fruit in early summer to improve fruit size and reduce disease pressure.",
+        "Harvest peaches when they are fully ripe and have a slight give when gently squeezed."
     ],
     "linksToAdditionalResources": [
         {

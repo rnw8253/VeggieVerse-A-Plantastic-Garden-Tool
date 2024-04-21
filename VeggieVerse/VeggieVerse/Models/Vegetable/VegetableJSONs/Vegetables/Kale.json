@@ -33,41 +33,99 @@
        "storageRecommendations": "Harvest kale by cutting leaves from the outer part of the plant, allowing the inner leaves to continue growing. Wash harvested leaves thoroughly to remove any dirt or debris. Store kale in the refrigerator for up to a week, loosely wrapped in a damp paper towel or plastic bag to maintain moisture.",
        "harvestDescription": "Harvest kale by cutting leaves from the outer part of the plant with a sharp knife or scissors. Leave the inner leaves to continue growing for future harvests."
      },
-    "companionPlants": {
-        "goodCompanionPlants": [
-            {
-                "name": "Beets",
-                "description": "Beets can be planted near kale to help repel pests like leafminers and provide natural pest control in the garden."
-            },
-            {
-                "name": "Nasturtiums",
-                "description": "Nasturtiums can be planted near kale to help repel pests like aphids and provide natural pest control in the garden."
-            }
-        ],
-        "badCompanionPlants": [
-            {
-                "name": "Strawberries",
-                "description": "Strawberries are not recommended to be planted near kale as they may compete for space and nutrients."
-            }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Cabbage Worms",
-            "description": "Cabbage worms are green caterpillars that feed on kale leaves, causing damage to foliage. They can quickly defoliate plants if left unchecked. Control cabbage worms by handpicking them off plants, using floating row covers to exclude butterflies, and applying organic insecticides like Bacillus thuringiensis (Bt) as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Downy Mildew",
-            "description": "Downy mildew is a fungal disease that affects kale plants, causing yellow spots on leaves and a fuzzy gray growth on the undersides. It thrives in cool, moist conditions. Prevent downy mildew by providing good air circulation around plants, watering at the base of plants to avoid wetting foliage, and using fungicides as needed."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest kale leaves when they are young and tender for the best flavor and texture.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed.",
-        "Rotate kale crops annually to prevent the buildup of soilborne pests and diseases."
-    ],
+     "SpringSowing": {
+       "Indoors": [-8, -6],
+       "Transplant": [-2, 0],
+       "Outdoors": [-4, -3],
+       "LastSowDate": -22
+     },
+     "FallSowing": {
+       "Outdoors": [-10, -8],
+       "Transplant": [],
+       "DaysToMaturity": 60,
+       "FrostTolerance": "Hardy"
+     },
+     "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Lettuce",
+             "description": "Lettuce has shallow roots and grows well in the shade of taller plants like kale. Interplanting lettuce with kale can help conserve soil moisture, suppress weeds, and provide living mulch to cool the soil."
+           },
+           {
+             "name": "Herbs",
+             "description": "Herbs like thyme, oregano, and sage can attract beneficial insects like ladybugs and predatory wasps, which can help control pests that affect kale plants. Interplanting herbs with kale can promote a healthier ecosystem and reduce pest populations."
+           },
+           {
+             "name": "Beans",
+             "description": "Beans, such as bush beans or pole beans, can enrich the soil with nitrogen through nitrogen fixation, benefiting kale plants. Interplanting beans with kale can improve soil fertility and promote healthier growth."
+           },
+           {
+             "name": "Celery",
+             "description": "Celery can provide natural shade and moisture retention for kale plants when grown together. Interplanting celery with kale can help create a microclimate that is favorable for kale growth and development."
+           },
+           {
+             "name": "Onions",
+             "description": "Onions and other alliums can deter pests like aphids and cabbage worms, which are common pests of kale. Interplanting onions with kale can help reduce pest infestations and protect kale plants from damage."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Strawberries",
+             "description": "Strawberries can attract pests like slugs and snails, which may also feed on kale leaves. Planting strawberries near kale may increase the risk of pest infestations and damage to kale crops."
+           },
+           {
+             "name": "Tomatoes",
+             "description": "Tomatoes are susceptible to similar diseases as kale, such as fungal diseases like early blight and powdery mildew. Planting tomatoes near kale may increase the spread of diseases between the two crops."
+           },
+           {
+             "name": "Brassicas",
+             "description": "Planting kale near other brassica crops, such as cabbage, broccoli, and cauliflower, may increase the risk of cross-contamination and the spread of pests and diseases that affect brassicas."
+           },
+           {
+             "name": "Sunflower",
+             "description": "Sunflowers have dense root systems that may compete with kale for water and nutrients. Planting them together may result in reduced growth and yield for kale crops."
+           },
+           {
+             "name": "Peas",
+             "description": "Peas and kale have similar soil and nutrient requirements and may compete for resources if planted too closely together. Planting them together may lead to overcrowding and reduced growth for both crops."
+           }
+         ]
+       },
+     "pests": [
+       "Aphids",
+       "Cabbage White Butterfly",
+       "Diamondback Moth",
+       "Thrips",
+       "Cutworm",
+       "Armyworm",
+       "Flea Beetle",
+       "Leaf Beetle",
+       "Mite",
+       "Looper"
+     ],
+     "beneficial_insects": [
+       "Ladybugs",
+       "Lacewings",
+       "Hoverflies",
+       "Parasitic Wasps",
+       "Predatory Mites"
+     ],
+     "diseases": [
+       "Downy Mildew",
+       "Powdery Mildew",
+       "Anthracnose",
+       "Black Rot",
+       "Clubroot"
+     ],
+     "tipsAndTricks": [
+       "Plant kale in well-drained soil with full sun to partial shade exposure.",
+       "Space kale plants properly to allow good air circulation.",
+       "Water kale regularly, keeping the soil consistently moist but not waterlogged.",
+       "Mulch around the base of plants to retain moisture and suppress weeds.",
+       "Harvest kale leaves when they are young and tender, typically before they become too tough and bitter.",
+       "Rotate crops to prevent the buildup of pests and diseases in the soil.",
+       "Monitor plants regularly for signs of pests and diseases, and take appropriate action."
+     ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Kale: Planting Guide",

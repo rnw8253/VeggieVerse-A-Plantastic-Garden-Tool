@@ -1,0 +1,125 @@
+
+{
+    "plantName": "Marigolds",
+    "description": "Marigolds are a popular warm-season annual flower known for their vibrant blooms and pest-repelling properties. They belong to the genus Tagetes and are native to the Americas. Marigolds are valued for their ease of cultivation, bright colors, and ability to attract beneficial insects to the garden.",
+    "thumbnailImageUrl": "Marigolds_thumbnail",
+    "backgroundImageUrl": "Marigolds_background",
+    "varieties": "Marigolds come in various sizes, colors, and flower forms, including single, semi-double, and double blooms. Some popular marigold varieties include 'French Marigold' (Tagetes patula), known for its compact growth habit and wide range of colors; 'African Marigold' (Tagetes erecta), prized for its large, showy flowers in shades of yellow, orange, and gold; and 'Signet Marigold' (Tagetes tenuifolia), valued for its delicate foliage and small, edible flowers. These varieties offer gardeners a range of options for adding color and beauty to landscapes, containers, and flower beds.",
+    "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Marigolds can be started indoors 4-6 weeks before the last frost date. Plant seeds in well-draining potting mix and keep them moist until germination. Once seedlings have developed true leaves, transplant them into individual containers or cell packs.",
+        "sowingOutdoorsDescription": "Marigolds can also be directly sown outdoors after the last frost date. Choose a sunny location with well-drained soil. Sow seeds thinly and cover lightly with soil. Keep the soil evenly moist until seedlings emerge.",
+        "spaceBetweenPlants": "6\"-9\"",
+        "spaceBetweenRows": "9\"-12\"",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Annual",
+        "seedDepth": "1/4\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "70-75°F",
+        "season": "Marigolds should be planted after the last frost date in spring when the soil has warmed up. They thrive in warm temperatures and require full sun for optimal growth."
+    },
+    "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "60-85°F",
+        "growingDescription": "Marigolds prefer full sun and well-drained soil. They are relatively low-maintenance plants but benefit from regular watering, especially during dry periods. Deadhead spent flowers to promote continuous blooming and remove any diseased or damaged foliage promptly.",
+        "wateringNeeds": "Regular watering, aiming for 1 inch per week.",
+        "soilFertility": "Marigolds are not heavy feeders but will benefit from a balanced fertilizer applied during planting. Avoid over-fertilizing, as this can lead to lush foliage with fewer flowers.",
+        "pruningRequirements": "Deadhead spent flowers regularly to encourage continuous blooming and remove any diseased or damaged foliage promptly.",
+        "supportRequirements": "Marigolds typically do not require support."
+    },
+    "harvestingAndStorage": {
+        "daysToHarvest": "60-90 days from planting",
+        "timeToMaturity": "Marigolds typically bloom 60-90 days after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest marigold blooms when they are fully open and vibrant in color. Cut flowers in the morning when they are well-hydrated, and place them immediately in a bucket of water. Remove any foliage below the waterline to prevent bacterial growth. Store cut marigold flowers in a cool, dark place or use them immediately for floral arrangements.",
+        "harvestDescription": "Harvest marigold blooms by cutting the stems just above a leaf node using clean, sharp scissors or pruners. Remove any foliage below the waterline to prevent bacterial growth."
+    },
+    "SpringSowing": {
+      "Indoors": [-8, -6],
+      "Transplant": [0, 2],
+      "Outdoors": [1, 2],
+      "LastSowDate": -14
+    },
+    "FallSowing": {
+      "Outdoors": [],
+      "Transplant": [],
+      "DaysToMaturity": 70,
+      "FrostTolerance": "Tender"
+    },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Vegetables",
+                "description": "Marigolds make excellent companions for vegetables such as tomatoes, peppers, and eggplants. They help repel pests like aphids, nematodes, and whiteflies, reducing the need for chemical pesticides."
+            },
+            {
+                "name": "Herbs",
+                "description": "Marigolds can be planted near herbs like basil, oregano, and rosemary to deter pests and attract beneficial insects such as ladybugs and hoverflies."
+            },
+            {
+                "name": "Beans",
+                "description": "Marigolds are beneficial companions for beans, as they repel pests like bean beetles and enhance soil health. Interplanting marigolds with beans can improve overall garden productivity."
+            },
+            {
+                "name": "Cucumbers",
+                "description": "Marigolds can be grown alongside cucumbers to deter pests like cucumber beetles and squash bugs. Planting them together can help protect cucumber plants and improve yields."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Sensitive Plants",
+                "description": "Marigolds may inhibit the growth of certain sensitive plants, such as ferns and orchids, due to their allelopathic properties. It's best to avoid planting marigolds near these species."
+            },
+            {
+                "name": "Root Crops",
+                "description": "Marigolds may deter pests but can also inhibit the growth of root vegetables like potatoes and carrots if planted too closely. Keep marigolds at a distance from root crops to avoid competition for resources."
+            },
+            {
+                "name": "Low-Growing Plants",
+                "description": "Marigolds can overshadow and outcompete low-growing plants such as ground covers and trailing annuals. Avoid planting marigolds in areas where these plants are desired to thrive."
+            }
+        ]
+    },
+    "pests": [
+        "Aphids",
+        "Whiteflies",
+        "Leaf Nematode",
+        "Spider Mite",
+        "Thrips",
+        "Slug",
+        "Snail"
+    ],
+    "beneficial_insects": [
+        "Ladybugs",
+        "Hoverflies",
+        "Parasitic Wasps"
+    ],
+    "diseases": [
+        "Powdery Mildew",
+        "Botrytis Blight",
+        "Fusarium Wilt",
+        "Root Rot"
+    ],
+    "tipsAndTricks": [
+        "Plant marigolds in well-drained soil with full sun exposure for best results.",
+        "Water marigolds regularly, especially during dry spells, but avoid overwatering to prevent root rot.",
+        "Deadhead spent flowers regularly to promote continuous blooming throughout the growing season.",
+        "Apply a layer of mulch around marigold plants to conserve soil moisture and suppress weeds.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action if necessary.",
+        "Consider planting marigolds in containers or hanging baskets for colorful additions to patios and balconies.",
+        "Rotate marigold plantings annually to prevent buildup of pests and diseases in the soil.",
+        "Use marigold flowers as companion plants in vegetable gardens to deter pests and attract beneficial insects.",
+        "Harvest marigold flowers regularly for fresh floral arrangements or drying for decorative purposes."
+    ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Marigolds: Planting Guide",
+            "url": "https://www.almanac.com/plant/marigolds"
+        },
+        {
+            "title": "Marigold Care: Tips from HGTV",
+            "url": "https://www.hgtv.com/outdoors/flowers-and-plants/flowers/growing-marigolds"
+        }
+    ]
+}
+
+

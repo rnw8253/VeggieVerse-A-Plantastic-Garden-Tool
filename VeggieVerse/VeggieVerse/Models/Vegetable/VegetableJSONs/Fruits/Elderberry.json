@@ -4,11 +4,11 @@
     "thumbnailImageUrl": "Elderberry_thumbnail",
     "backgroundImageUrl": "Elderberry_background",
     "varieties": "Elderberries are known for their deep purple to black berries and are prized for both their culinary and medicinal uses. They come in various cultivars, each with unique flavors and growth characteristics. Some popular elderberry varieties include 'Adams', known for its large clusters of berries and vigorous growth habit; 'Black Lace', prized for its dark foliage and ornamental appeal in addition to its fruit production; 'York', which produces abundant, large berries ideal for culinary use; and 'Johns', favored for its disease resistance and consistent yields. These varieties, among others, provide a range of options suited for different purposes and growing conditions.",
-      "sowingAndPlanting": {
+    "sowingAndPlanting": {
         "sowingIndoorsDescription": "Elderberries are typically propagated from hardwood cuttings taken during the dormant season in late fall or winter. Select healthy, disease-free elderberry stems that are about pencil-thick and 1-2 years old. Cut the stems into sections about 8-12 inches long, making sure each section has at least 2-3 buds. Plant the cuttings in well-drained soil, burying them halfway and spacing them about 6 feet apart. Keep the soil consistently moist until roots establish, which typically takes 1-2 months.",
         "sowingOutdoorsDescription": "Elderberries can also be propagated by direct seeding or transplanting nursery-grown plants. Choose a site with full sun to partial shade and well-drained soil. Plant seeds 1/4 to 1/2 inch deep and keep the soil consistently moist until germination, which usually takes 2-3 weeks. Transplant nursery-grown elderberry plants in late fall or early spring, spacing them 6 feet apart in rows spaced 8 feet apart.",
-        "spaceBetweenPlants": "6\'",
-        "spaceBetweenRows": "8\'",
+        "spaceBetweenPlants": "6'",
+        "spaceBetweenRows": "8'",
         "squareFootPlantingRecommendationsMin": 0,
         "squareFootPlantingRecommendationsMax": 0,
         "lifeCycle": "Perennial",
@@ -16,8 +16,8 @@
         "pHRange": "5.5 - 6.5",
         "germinationSoilTemp": "70-75°F",
         "season": "Elderberries can be planted in late fall or early spring, while dormant. They thrive in USDA hardiness zones 3-10."
-      },
-      "careAndMaintenance": {
+    },
+    "careAndMaintenance": {
         "optimalSun": "Full Sun to Partial Shade",
         "growingSoilTemp": "60-70°F",
         "growingDescription": "Elderberries prefer full sun but can tolerate partial shade. They thrive in well-drained, slightly acidic soil rich in organic matter. Water newly planted elderberries regularly to keep the soil consistently moist. Mulch around plants to retain moisture, suppress weeds, and maintain soil temperature.",
@@ -25,83 +25,105 @@
         "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Apply a balanced fertilizer in early spring and again after flowering.",
         "pruningRequirements": "Prune elderberries in late winter or early spring to remove dead, diseased, or weak branches. Thin out crowded growth and prune for shape. Elderberries produce fruit on second-year wood, so prune older branches to encourage new growth and fruiting.",
         "supportRequirements": "Elderberry plants may need support, especially when heavily laden with fruit. Install stakes or a trellis system to prevent branches from bending or breaking."
-      },
-      "harvestingAndStorage": {
+    },
+    "harvestingAndStorage": {
         "daysToHarvest": "85-95 days from planting",
         "timeToMaturity": "Elderberries typically begin producing fruit 2-3 years after planting, with peak production occurring after 5-6 years.",
         "storageRecommendations": "Harvest elderberries when fully ripe, usually in late summer to early fall. Berries should be plump, dark purple, and easily detach from the stems. Store harvested elderberries in the refrigerator for up to two weeks or freeze them for longer-term storage.",
         "harvestDescription": "Harvest elderberries by gently shaking the clusters or cutting entire clusters from the plant. Remove berries from the stems by hand, discarding any unripe or damaged fruit."
-      },
-      "companionPlants": {
-          "goodCompanionPlants": [
+    },
+    "SpringSowing": {
+      "Indoors": [-8, -6],
+      "Transplant": [8, 10],
+      "Outdoors": [10, 12],
+      "LastSowDate": null
+    },
+    "FallSowing": {
+      "Outdoors": [],
+      "Transplant": [],
+      "DaysToMaturity": 90,
+      "FrostTolerance": "Tender"
+    },
+    "companionPlants": {
+        "goodCompanionPlants": [
             {
-              "name": "Yarrow",
-              "description": "Yarrow can attract beneficial insects like ladybugs and lacewings, which help control pests like aphids and caterpillars that may affect elderberry plants."
+                "name": "Yarrow",
+                "description": "Yarrow can attract beneficial insects like ladybugs and lacewings, which help control pests like aphids and caterpillars that may affect elderberry plants."
             },
             {
-              "name": "Chamomile",
-              "description": "Chamomile has insect-repelling properties and can attract beneficial insects like hoverflies, which prey on aphids and other pests that may infest elderberry plants."
+                "name": "Chamomile",
+                "description": "Chamomile has insect-repelling properties and can attract beneficial insects like hoverflies, which prey on aphids and other pests that may infest elderberry plants."
             },
             {
-              "name": "Comfrey",
-              "description": "Comfrey is a dynamic accumulator, bringing up nutrients from deep in the soil and making them available to elderberry plants. Its deep roots also help improve soil structure."
+                "name": "Comfrey",
+                "description": "Comfrey is a dynamic accumulator, bringing up nutrients from deep in the soil and making them available to elderberry plants. Its deep roots also help improve soil structure."
             },
             {
-              "name": "Nasturtiums",
-              "description": "Nasturtiums can be interplanted with elderberry plants to help repel pests like aphids and attract beneficial insects like ladybugs and lacewings."
+                "name": "Nasturtium",
+                "description": "Nasturtiums can be interplanted with elderberry plants to help repel pests like aphids and attract beneficial insects like ladybugs and lacewings."
             },
             {
-              "name": "Borage",
-              "description": "Borage attracts pollinators like bees and beneficial insects like hoverflies, which prey on aphids. It also accumulates potassium, which can benefit elderberry plants."
+                "name": "Borage",
+                "description": "Borage attracts pollinators like bees and beneficial insects like hoverflies, which prey on aphids. It also accumulates potassium, which can benefit elderberry plants."
             }
-          ],
-          "badCompanionPlants": [
+        ],
+        "badCompanionPlants": [
             {
-              "name": "Black Nightshade",
-              "description": "Black nightshade is a common weed that can compete with elderberry plants for nutrients, water, and sunlight. It should be removed from the vicinity of elderberry plants."
+                "name": "Black Nightshade",
+                "description": "Black nightshade is a common weed that can compete with elderberry plants for nutrients, water, and sunlight. It should be removed from the vicinity of elderberry plants."
             },
             {
-              "name": "Walnuts",
-              "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including elderberries. Avoid planting elderberry plants near walnut trees."
+                "name": "Walnuts",
+                "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including elderberries. Avoid planting elderberry plants near walnut trees."
             },
             {
-              "name": "Potatoes",
-              "description": "Potatoes are susceptible to diseases like potato blight and can attract pests like Colorado potato beetles, making them poor companions for elderberry plants."
+                "name": "Potatoes",
+                "description": "Potatoes are susceptible to diseases like potato blight and can attract pests like Colorado potato beetles, making them poor companions for elderberry plants."
             },
             {
-              "name": "Rhubarb",
-              "description": "Rhubarb is not recommended to be planted near elderberry plants, as it may compete for nutrients and water. Additionally, rhubarb leaves contain oxalic acid, which can be harmful to elderberries."
+                "name": "Rhubarb",
+                "description": "Rhubarb is not recommended to be planted near elderberry plants, as it may compete for nutrients and water. Additionally, rhubarb leaves contain oxalic acid, which can be harmful to elderberries."
             },
             {
-              "name": "Sunflowers",
-              "description": "Sunflowers can compete with elderberry plants for sunlight, water, and nutrients, potentially reducing fruit production. Additionally, sunflowers may attract birds that can damage elderberry crops."
+                "name": "Sunflower",
+                "description": "Sunflowers can compete with elderberry plants for sunlight, water, and nutrients, potentially reducing fruit production. Additionally, sunflowers may attract birds that can damage elderberry crops."
             }
-          ]
-        },
+        ]
+    },
     "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids can infest elderberry plants, sucking sap from the leaves and causing distortion, yellowing, and stunted growth. Control aphids by spraying plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs and lacewings, or applying insecticidal soap or neem oil."
-        },
-        {
-            "name": "Elderberry Borer",
-            "description": "The elderberry borer is a type of beetle whose larvae bore into the stems of elderberry plants, causing wilting, dieback, and ultimately plant death. Infested stems may have entry holes and sawdust-like frass. Prune and destroy infested stems and use sticky traps to monitor and control adult beetles."
-        }
+        "Borer",
+        "Shoot Borer",
+        "Midge",
+        "Sawfly",
+        "Leaf Beetle",
+        "Lace Bug",
+        "Aphids",
+        "Fruitworm",
+        "Bud Mite",
+        "Gall Mite"
+    ],
+    "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
     ],
     "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect elderberry plants, especially in warm, humid conditions. It appears as a white, powdery coating on leaves and stems and can inhibit plant growth and fruit production. Control powdery mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        },
-        {
-            "name": "Anthracnose",
-            "description": "Anthracnose is a fungal disease that can affect elderberry plants, causing leaf spots, stem cankers, and fruit rot. Infected leaves may develop dark lesions, and fruit may become discolored and shriveled. Control anthracnose by pruning and destroying infected plant parts, improving air circulation, and applying fungicidal sprays preventatively."
-        }
+        "Powdery Mildew",
+        "Anthracnose",
+        "Rust",
+        "Leaf Spot",
+        "Bacterial Canker"
     ],
     "tipsAndTricks": [
-        "Provide regular pruning to elderberry shrubs to maintain a healthy, open canopy and promote vigorous growth and fruit production.",
-        "Monitor plants regularly for signs of pests and diseases, and take prompt action to prevent infestations and infections from spreading.",
-        "Mulch around elderberry plants to retain moisture, suppress weeds, and maintain even soil temperature."
+        "Plant elderberry bushes in well-drained soil with full to partial sun exposure.",
+        "Provide regular watering, especially during dry periods.",
+        "Prune elderberry bushes in late winter to remove dead or diseased wood and promote new growth.",
+        "Mulch around the base of plants to conserve moisture and suppress weeds.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+        "Harvest elderberries when they are fully ripe and easily detach from the cluster.",
+        "Store harvested elderberries in the refrigerator or freeze them for longer-term storage."
     ],
     "linksToAdditionalResources": [
         {

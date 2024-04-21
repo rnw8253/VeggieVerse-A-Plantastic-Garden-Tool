@@ -1,0 +1,134 @@
+
+{
+    "plantName": "Scallions",
+    "description": "Scallions, also known as green onions or spring onions, are a type of young onion harvested before the bulb has fully matured. They are characterized by long, slender green stalks and small white bulbs. Scallions have a mild onion flavor and are commonly used in salads, soups, stir-fries, and garnishes. They are easy to grow and can be harvested throughout the growing season.",
+    "thumbnailImageUrl": "Scallions_thumbnail",
+    "backgroundImageUrl": "Scallions_background",
+    "varieties": "Scallions, also known as green onions or spring onions, are typically harvested young for their tender stems and mild flavor. They come in various varieties, but common ones include 'Evergreen', known for its long, slender stalks and mild taste; 'White Lisbon', prized for its white stems and green tops; and 'Red Beard', which offers red-tinged stems and a slightly peppery flavor. These varieties provide options for different culinary preferences and growing conditions.",
+     "sowingAndPlanting": {
+       "sowingIndoorsDescription": "Scallions are best sown directly outdoors rather than started indoors. However, if you want to get a head start on the growing season, you can start seeds indoors in biodegradable pots or trays filled with seed-starting mix. Plant seeds 1/4 inch deep and keep the soil consistently moist and warm (60-70°F). Transplant seedlings outdoors once they have developed several true leaves and the weather has warmed up.",
+       "sowingOutdoorsDescription": "Scallion seeds should be sown directly outdoors as soon as the soil can be worked in the spring. Choose a sunny location with well-drained soil. Plant seeds 1/4 inch deep and space them 1 inch apart in rows spaced 6-12 inches apart. Keep the soil consistently moist until seedlings emerge.",
+       "spaceBetweenPlants": "1\"",
+       "spaceBetweenRows": "6\"-12\"",
+       "squareFootPlantingRecommendationsMin": 16,
+       "squareFootPlantingRecommendationsMax": 36,
+       "lifeCycle": "Annual",
+       "seedDepth": "1/4\"",
+       "pHRange": "6.0 - 7.0",
+       "germinationSoilTemp": "60-70°F",
+       "season": "Scallions prefer cooler weather and should be planted in the early spring or late summer for a fall harvest. They can tolerate light frosts and may even overwinter in mild climates."
+     },
+     "careAndMaintenance": {
+       "optimalSun": "Full Sun to Partial Shade",
+       "growingSoilTemp": "60-70°F",
+       "growingDescription": "Scallions prefer full sun but can tolerate partial shade, especially in warmer climates. They thrive in well-drained, fertile soil with a pH of 6.0-7.0. Scallions require regular watering to keep the soil consistently moist, especially during dry periods. Mulch around plants to conserve moisture and suppress weeds.",
+       "wateringNeeds": "Regular watering, aiming for 1 inch per week.",
+       "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress scallions with a balanced fertilizer once they start growing vigorously.",
+       "pruningRequirements": "Scallions do not require pruning.",
+       "supportRequirements": "Scallions do not require support."
+     },
+     "harvestingAndStorage": {
+       "daysToHarvest": "60-90 days from planting",
+       "timeToMaturity": "Scallions typically mature and are ready for harvest 60-90 days after planting, depending on the variety and growing conditions.",
+       "storageRecommendations": "Harvest scallions when they reach the desired size and have developed a strong root system. Use a sharp knife or scissors to cut the scallions just above the soil level. Store harvested scallions in the refrigerator for up to a week.",
+       "harvestDescription": "Harvest scallions when they reach the desired size, usually 6-8 inches tall for most varieties. Cut them just above the soil level, leaving the roots intact. Rinse the scallions thoroughly to remove any soil before storing or using them."
+     },
+     "SpringSowing": {
+       "Indoors": [-4, -2],
+       "Transplant": [0, 2],
+       "Outdoors": [-4, -2],
+       "LastSowDate": -8
+     },
+     "FallSowing": {
+       "Outdoors": [-10, -8],
+       "Transplant": [],
+       "DaysToMaturity": 55,
+       "FrostTolerance": "Tolerant"
+     },
+     "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Carrots",
+             "description": "Carrots make excellent companions for scallions. Planting carrots alongside scallions can help deter pests like onion flies and carrot rust flies, as the strong aroma of scallions masks the scent of carrots. Additionally, scallions provide some shade for carrots, helping to prevent soil erosion and retain moisture."
+           },
+           {
+             "name": "Lettuce",
+             "description": "Lettuce is a good companion for scallions. Interplanting lettuce and scallions can help maximize space in the garden, as scallions grow upright while lettuce grows close to the ground. The shallow root systems of both plants allow for efficient use of soil nutrients and water."
+           },
+           {
+             "name": "Tomatoes",
+             "description": "Tomatoes are beneficial companions for scallions. Planting tomatoes near scallions may help deter pests like aphids and whiteflies, as scallions emit a strong odor that repels these insects. Additionally, the tall growth habit of tomatoes provides some shade for scallions, helping to prevent sunscald."
+           },
+           {
+             "name": "Spinach",
+             "description": "Spinach is a beneficial companion for scallions. Planting spinach near scallions provides shade and moisture retention, creating a microclimate that benefits both crops. Additionally, spinach and scallions have complementary nutrient needs, reducing competition for resources in the soil."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Beans",
+             "description": "Beans may not be ideal companions for scallions. Beans are legumes that fix nitrogen in the soil, which may lead to excessive nitrogen levels for scallions. Additionally, beans have different growth habits and nutrient needs, which can result in competition for resources in the garden."
+           },
+           {
+             "name": "Peas",
+             "description": "Peas are not recommended as companions for scallions. Peas are nitrogen-fixing plants that enrich the soil with nitrogen, which may lead to overly lush foliage growth in scallions at the expense of bulb development. Additionally, the vining habit of peas may overshadow scallions, reducing their sunlight exposure."
+           },
+           {
+             "name": "Garlic",
+             "description": "Garlic may not be an ideal companion for scallions. Both garlic and scallions belong to the allium family and may attract similar pests and diseases. Planting them together may increase the risk of pest infestations and disease outbreaks, leading to reduced yields for both crops."
+           },
+           {
+             "name": "Radishes",
+             "description": "Radishes may not be the best companions for scallions. While some gardeners interplant radishes with scallions to deter pests, radishes have shallow root systems that may compete with scallions for nutrients and space. Planting them together may result in reduced yields for both crops."
+           }
+         ]
+       },
+     "pests": [
+         "Aphids",
+         "Thrips",
+         "Onion Maggot",
+         "Leafminer",
+         "Cutworm",
+         "Wireworm",
+         "Slug",
+         "Snail"
+       ],
+       "beneficial_insects": [
+         "Ladybugs",
+         "Lacewings",
+         "Hoverflies",
+         "Parasitic Wasps",
+         "Predatory Mites"
+       ],
+       "diseases": [
+         "Downy Mildew",
+         "Powdery Mildew",
+         "Bacterial Soft Rot",
+         "Fusarium Basal Rot",
+         "Pink Root",
+         "Smudge",
+         "Stemphylium Leaf Blight"
+       ],
+       "tipsAndTricks": [
+         "Choose a planting site with well-drained, fertile soil and full sun exposure.",
+         "Prepare the soil by adding compost or aged manure to improve fertility and texture.",
+         "Plant scallion sets (small bulbs) or seeds directly in the garden in early spring or late summer.",
+         "Sow seeds thinly in rows spaced 6-8 inches apart, covering them with a thin layer of soil and keeping them evenly moist until germination.",
+         "Thin seedlings to 2-3 inches apart once they reach a height of 2-3 inches.",
+         "Water scallions regularly, providing about 1 inch of water per week, and mulch to conserve moisture and suppress weeds.",
+         "Fertilize scallions with a balanced fertilizer every 4-6 weeks, following package instructions.",
+         "Monitor plants regularly for signs of pests such as aphids and thrips. Use row covers or insecticidal soap as needed.",
+         "Watch for symptoms of diseases like downy mildew and bacterial soft rot. Avoid overhead watering and provide good air circulation to reduce humidity around plants.",
+         "Harvest scallions when they reach the desired size, typically 60-90 days after planting. Cut them at the base of the stem with scissors or a sharp knife, leaving the roots intact for regrowth."
+       ],
+    "linksToAdditionalResources": [
+        {
+            "title": "Growing Scallions: Planting Guide",
+            "url": "https://www.almanac.com/plant/scallions"
+        },
+        {
+            "title": "Scallions: A Flavorful Addition to the Garden",
+            "url": "https://extension.umn.edu/vegetables/growing-scallions"
+        }
+    ]
+}

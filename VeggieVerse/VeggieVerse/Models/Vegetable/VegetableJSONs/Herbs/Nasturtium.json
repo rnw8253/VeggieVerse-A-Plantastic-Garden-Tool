@@ -33,42 +33,95 @@
         "storageRecommendations": "Harvest nasturtium flowers and leaves as needed for culinary or decorative use. Use fresh flowers and leaves immediately, or store them in the refrigerator for up to a week. Nasturtium flowers are also edible and can be used to garnish salads, soups, and other dishes.",
         "harvestDescription": "Harvest nasturtium flowers by snipping them from the plant as needed. Leaves can be harvested anytime for culinary use."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [-4, -2],
+        "Transplant": [],
+        "Outdoors": [0, 2],
+        "LastSowDate": null
+      },
+      "FallSowing": {
+        "Outdoors": [],
+        "Transplant": [],
+        "DaysToMaturity": 50,
+        "FrostTolerance": "Tolerant"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Tomatoes",
-                "description": "Tomatoes are a good companion plant for nasturtium, as they can help repel pests like aphids and whiteflies. Planting nasturtium near tomatoes may also attract beneficial insects that prey on tomato pests."
+              "name": "Cabbage",
+              "description": "Nasturtiums are beneficial companions for cabbage plants as they can repel cabbage moths, a common pest that lays eggs on cabbage leaves. The pungent odor emitted by nasturtiums can deter cabbage moths from laying eggs, reducing the risk of infestation and damage to cabbage crops."
             },
             {
-                "name": "Cucumbers",
-                "description": "Cucumbers are another suitable companion plant for nasturtium, as they have similar growing requirements and can benefit from the shade provided by nasturtium's trailing foliage. Interplanting nasturtium with cucumbers can help conserve moisture in the soil and suppress weeds."
-            }
-        ],
-        "badCompanionPlants": [
+              "name": "Radishes",
+              "description": "Nasturtiums make excellent companions for radishes as they can help deter pests like aphids, cucumber beetles, and squash bugs. The strong scent and peppery taste of nasturtiums act as a natural repellent, discouraging these pests from feeding on radish plants. Additionally, nasturtiums can attract beneficial insects like ladybugs and hoverflies, which prey on aphids and other harmful pests."
+            },
             {
-                "name": "Brassicas",
-                "description": "Brassicas, such as cabbage, broccoli, and cauliflower, are not recommended as companion plants for nasturtium, as they may compete for space and nutrients in the garden. Avoid planting nasturtium near brassicas to prevent potential issues with overcrowding and reduced yields."
+              "name": "Tomatoes",
+              "description": "Nasturtiums are beneficial companions for tomato plants as they can help repel pests like aphids, whiteflies, and hornworms. The strong scent and spicy flavor of nasturtiums act as a natural insect repellent, deterring pests from infesting tomato plants. Additionally, nasturtiums can attract predatory insects like spiders and ground beetles, which feed on pest insects, further enhancing pest control in the garden."
+            },
+            {
+              "name": "Squash",
+              "description": "Nasturtiums are excellent companions for squash plants as they can help repel pests like squash bugs, cucumber beetles, and aphids. The pungent odor emitted by nasturtiums acts as a natural repellent, discouraging these pests from feeding on squash plants. Additionally, nasturtiums can attract beneficial insects like ladybugs and parasitic wasps, which prey on aphids and other harmful pests, providing further pest control."
+            },
+            {
+              "name": "Potatoes",
+              "description": "Nasturtiums make good companions for potatoes as they can help repel pests like potato beetles, aphids, and whiteflies. The strong scent and peppery taste of nasturtiums act as a natural deterrent, discouraging these pests from infesting potato plants. Additionally, nasturtiums can attract beneficial insects like ladybugs and lacewings, which prey on aphids and other harmful pests, providing additional pest control in the garden."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are common pests that may infest nasturtium plants, especially during periods of new growth. They feed on the sap of the plant and can cause stunted growth and distorted foliage. Control aphids by spraying the affected plants with a strong jet of water to dislodge them or applying insecticidal soap or neem oil."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect nasturtium plants, especially in humid or crowded growing conditions. It appears as a white, powdery growth on the leaves and stems and can lead to leaf distortion and reduced plant vigor. Control powdery mildew by improving air circulation around the plants, avoiding overhead watering, and applying fungicidal treatments as needed."
-        }
-    ],
-    "tipsAndTricks": [
-        "Use nasturtium flowers to add color and peppery flavor to salads, soups, and other culinary dishes.",
-        "Nasturtium leaves can be used as a natural pest repellent in the garden. Plant them near susceptible crops to deter pests like aphids and whiteflies.",
-        "Encourage continuous blooming by deadheading spent flowers regularly and providing adequate water and sunlight.",
-        "Experiment with different nasturtium varieties, which vary in flower color, size, and flavor intensity."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Brassicas",
+              "description": "Nasturtiums should be avoided as companions for brassica plants like broccoli, cauliflower, and kale as they may attract pests like cabbage moths. While nasturtiums can repel cabbage moths, they may inadvertently draw these pests away from nasturtiums and towards nearby brassica plants, increasing the risk of infestation and damage."
+            },
+            {
+              "name": "Beans",
+              "description": "Nasturtiums are not recommended companions for bean plants as they may attract aphids, which can also infest bean plants. While nasturtiums can repel certain pests, they may inadvertently attract aphids to the garden, increasing the likelihood of infestation on nearby bean plants."
+            },
+            {
+              "name": "Carrots",
+              "description": "Nasturtiums should be avoided as companions for carrot plants as they may compete for nutrients and water in the soil. Carrots require well-drained soil and may suffer from reduced growth if they have to compete with fast-growing nasturtiums for resources. Additionally, nasturtiums' dense foliage may shade out carrot plants, further hindering their growth."
+            },
+            {
+              "name": "Onions",
+              "description": "Nasturtiums are not recommended companions for onion plants as they may compete for space, nutrients, and water in the garden bed. Onions require adequate spacing to develop bulbs properly, and the vigorous growth of nasturtiums may encroach upon their space, reducing onion yields. Additionally, nasturtiums' dense foliage may shade out onion plants, further inhibiting bulb development."
+            },
+            {
+              "name": "Peas",
+              "description": "Nasturtiums should be avoided as companions for pea plants as they may compete for space, nutrients, and water in the garden bed. Peas require support for climbing, and the sprawling growth of nasturtiums may interfere with their growth and development. Additionally, nasturtiums' dense foliage may shade out pea plants, reducing their access to sunlight and hindering pod production."
+            }
+          ]
+        },
+      "pests": [
+          "Aphids",
+          "Cabbage White Butterfly",
+          "Cucumber Beetle",
+          "Flea Beetle",
+          "Caterpillar"
+        ],
+        "beneficial_insects": [
+          "Ladybugs",
+          "Lacewings",
+          "Hoverflies",
+          "Parasitic Wasps"
+        ],
+        "diseases": [
+          "Powdery Mildew",
+          "Downy Mildew",
+          "Root Rot",
+          "Botrytis Blight"
+        ],
+        "tipsAndTricks": [
+          "Choose a planting site with well-drained soil and full sun to partial shade exposure.",
+          "Plant nasturtiums in containers, hanging baskets, or in the ground as ground cover or border plants.",
+          "Water nasturtiums regularly, allowing the soil to dry slightly between waterings.",
+          "Avoid over-fertilizing nasturtiums, as this can lead to excessive foliage growth and reduced flowering.",
+          "Deadhead spent flowers regularly to encourage continuous blooming.",
+          "Harvest nasturtium leaves and flowers for culinary use by snipping them from the plant. Both leaves and flowers are edible and have a peppery flavor.",
+          "Monitor plants regularly for signs of pests such as aphids and caterpillars. Handpick pests or use insecticidal soap as needed.",
+          "Watch for symptoms of diseases like powdery mildew and downy mildew. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+          "Nasturtiums are known for their ability to repel certain pests, such as aphids and whiteflies, making them beneficial companion plants in the garden.",
+          "Use nasturtium flowers and leaves in salads, sandwiches, and garnishes, or pickle the seeds as a substitute for capers."
+        ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Nasturtium: Tips and Techniques",

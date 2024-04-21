@@ -9,7 +9,7 @@
         "sowingIndoorsDescription": "Potatoes are typically grown from seed potatoes rather than seeds. Seed potatoes are small tubers that have been saved from the previous year's crop. About 2-3 weeks before the last expected frost date, place seed potatoes in a warm, well-lit area to encourage sprouting. Once sprouts have developed, cut the seed potatoes into pieces, making sure each piece has at least one eye (sprout). Allow the cut pieces to dry for a day or two before planting.",
         "sowingOutdoorsDescription": "Potatoes should be planted outdoors in early spring after the danger of frost has passed. Choose a sunny location with well-drained soil. Dig trenches or furrows about 4-6 inches deep and space seed potatoes 12-15 inches apart within the rows. Rows should be spaced 2-3 feet apart. Plant the seed potatoes with the eyes facing upward and cover them with soil. As the plants grow, gradually mound soil around the stems to encourage tuber development.",
         "spaceBetweenPlants": "12\"-15\"",
-        "spaceBetweenRows": "2\'-3\'",
+        "spaceBetweenRows": "2'-3'",
         "squareFootPlantingRecommendationsMin": 0,
         "squareFootPlantingRecommendationsMax": 0,
         "lifeCycle": "Annual",
@@ -33,41 +33,102 @@
         "storageRecommendations": "Harvest potatoes when the tops of the plants have died back and the skins are set. Use a garden fork or shovel to carefully dig up the potatoes, being careful not to damage them. Brush off excess soil and allow the potatoes to dry in a cool, dark place for a few days before storing. Store harvested potatoes in a cool, dark, and well-ventilated place, such as a cellar or pantry, where they can last for several months.",
         "harvestDescription": "Harvest potatoes when the tops of the plants have died back and the skins are set. Gently dig around the plants with a garden fork or shovel to loosen the soil, then carefully lift the potatoes from the ground."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [],
+        "Transplant": [],
+        "Outdoors": [-4, -2],
+        "LastSowDate": -10
+      },
+      "FallSowing": {
+        "Outdoors": [],
+        "Transplant": [],
+        "DaysToMaturity": 105,
+        "FrostTolerance": "Tolerant"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Beans",
-                "description": "Beans can be planted near potatoes to help improve soil fertility by fixing nitrogen and providing natural pest control in the garden."
+              "name": "Beans",
+              "description": "Beans are excellent companions for potatoes. They are nitrogen-fixing plants, which means they can enrich the soil with nitrogen, benefiting the growth of potatoes. Additionally, beans help suppress weeds and provide ground cover, which can improve soil moisture retention and prevent erosion. Interplanting beans and potatoes also maximizes space utilization in the garden."
             },
             {
-                "name": "Corn",
-                "description": "Corn can be interplanted with potatoes to provide natural support for potato vines and shade for tubers."
-            }
-        ],
-        "badCompanionPlants": [
+              "name": "Corn",
+              "description": "Corn is a good companion for potatoes. When interplanted with potatoes, corn provides a natural support structure for climbing bean plants, creating a symbiotic relationship known as the Three Sisters planting method. Additionally, corn can provide shade to the soil, reducing weed growth and improving soil moisture retention. The combination of corn, beans, and potatoes also promotes biodiversity and enhances soil health."
+            },
             {
-                "name": "Tomatoes",
-                "description": "Tomatoes are not recommended to be planted near potatoes as they are both susceptible to similar diseases, such as late blight."
+              "name": "Brassicas",
+              "description": "Cabbage family plants, such as cabbage, broccoli, and cauliflower, can be beneficial companions for potatoes. These plants are known as 'brassicas' and can help repel pests like potato beetles when interplanted with potatoes. Additionally, their strong aroma can mask the scent of potatoes, making it difficult for pests to locate them. Interplanting cabbage family plants and potatoes also maximizes space utilization and promotes biodiversity in the garden."
+            },
+            {
+              "name": "Horseradish",
+              "description": "Horseradish is a good companion for potatoes. Planting horseradish near potatoes can help deter pests like potato beetles and improve overall plant health. Horseradish has natural pest-repelling properties and can enhance the flavor of nearby potatoes. Additionally, horseradish can help suppress weeds and provide ground cover, reducing soil erosion and improving soil moisture retention."
+            },
+            {
+              "name": "Marigolds",
+              "description": "Marigolds are beneficial companions for potatoes. They release compounds that repel pests like nematodes, potato beetles, and root knot nematodes, reducing the risk of pest infestations in potato crops. Marigolds also attract beneficial insects like ladybugs, which prey on potato pests. Planting marigolds around potato beds can help improve overall plant health and reduce the need for chemical pesticides."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Colorado Potato Beetle",
-            "description": "The Colorado potato beetle is a common pest of potatoes, feeding on the foliage and causing defoliation if left unchecked. Handpick adult beetles and larvae and destroy them. Use row covers to exclude adult beetles from plants, and apply insecticidal sprays or dusts as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Late Blight",
-            "description": "Late blight is a fungal disease that affects potatoes, causing dark, water-soaked lesions on leaves, stems, and tubers. It thrives in cool, wet conditions and can lead to widespread crop loss if not controlled. Prevent late blight by planting disease-resistant potato varieties, practicing crop rotation, and applying fungicidal sprays preventatively."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest potatoes when the tops have died back for optimal storage and flavor.",
-        "Cure harvested potatoes in a cool, dark place with good air circulation for 1-2 weeks before storing.",
-        "Store cured potatoes in a cool, dark, well-ventilated location with low humidity to prevent sprouting and spoilage."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Pumpkins",
+              "description": "Pumpkins may not be the best companions for potatoes. While pumpkins can help suppress weeds and provide ground cover, planting them near potatoes may result in competition for resources. Both pumpkins and potatoes have sprawling growth habits and may shade each other, reducing sunlight exposure and potentially impacting yields. Additionally, pumpkins may attract pests that could also affect potato crops."
+            },
+            {
+              "name": "Tomatoes",
+              "description": "Tomatoes may not be ideal companions for potatoes. While both tomatoes and potatoes are members of the nightshade family, planting them together can increase the risk of disease transmission. Both crops are susceptible to similar pests and diseases, including blight and nematodes, which can spread more easily when grown in close proximity. Interplanting tomatoes and potatoes may also lead to competition for nutrients and water, reducing yields for both crops."
+            },
+            {
+              "name": "Sunflower",
+              "description": "Sunflowers may not be suitable companions for potatoes. While sunflowers can provide some shade and attract pollinators, planting them near potatoes may result in competition for resources. Sunflowers have deep root systems that can compete with potatoes for nutrients and water, potentially reducing potato yields. Additionally, sunflowers may attract pests that could also affect potato crops."
+            },
+            {
+              "name": "Raspberries",
+              "description": "Raspberries may not be the best companions for potatoes. While raspberries can help suppress weeds and provide some shade, planting them near potatoes may result in competition for resources. Raspberries have spreading root systems that can compete with potatoes for nutrients and water, potentially reducing potato yields. Additionally, raspberries may attract pests that could also affect potato crops."
+            },
+            {
+              "name": "Blackberries",
+              "description": "Blackberries may not be ideal companions for potatoes. While blackberries can help suppress weeds and provide some shade, planting them near potatoes may result in competition for resources. Blackberries have spreading root systems that can compete with potatoes for nutrients and water, potentially reducing potato yields. Additionally, blackberries may attract pests that could also affect potato crops."
+            }
+          ]
+        },
+      "pests": [
+         "Colorado Potato Beetle",
+         "Aphids",
+         "Tuber Moth",
+         "Leafhopper",
+         "Whiteflies",
+         "Flea Beetle",
+         "Wireworm",
+         "Psyllid",
+         "Cyst Nematode",
+         "Leafminer",
+         "Blister Beetle"
+       ],
+       "beneficial_insects": [
+         "Ladybugs",
+         "Lacewings",
+         "Hoverflies",
+         "Parasitic Wasps",
+         "Predatory Mites"
+       ],
+       "diseases": [
+         "Late Blight",
+         "Early Blight",
+         "Scab",
+         "Black Leg",
+         "Virus Y",
+         "Spotted Wilt"
+       ],
+       "tipsAndTricks": [
+         "Plant potatoes in well-drained soil with full sun exposure.",
+         "Space potato plants properly to allow for tuber development.",
+         "Hill up soil around potato plants as they grow to prevent greening and protect tubers from sunlight.",
+         "Water potatoes regularly, keeping the soil consistently moist but not waterlogged.",
+         "Mulch around potato plants to retain moisture and suppress weeds.",
+         "Harvest potatoes when the tops have died back, typically in late summer or early fall.",
+         "Rotate crops to prevent the buildup of pests and diseases in the soil.",
+         "Monitor plants regularly for signs of pests and diseases, and take appropriate action."
+       ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Potatoes: Planting Guide",

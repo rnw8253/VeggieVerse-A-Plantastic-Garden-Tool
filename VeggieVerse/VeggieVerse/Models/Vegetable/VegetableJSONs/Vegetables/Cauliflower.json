@@ -33,6 +33,18 @@
        "storageRecommendations": "Harvest cauliflower when the heads are tight and firm, typically 6-8 inches in diameter. Cut the head from the stem with a sharp knife, leaving a few outer leaves attached to protect the head. Store harvested cauliflower in the refrigerator for up to a week. Wash and dry the heads before storing to remove any dirt or debris.",
        "harvestDescription": "Harvest cauliflower by cutting the head from the stem when it is tight and firm. Avoid letting the heads become loose or start to flower, as this can negatively affect flavor and texture."
      },
+     "SpringSowing": {
+       "Indoors": [-8, -6],
+       "Transplant": [-1, 1],
+       "Outdoors": [],
+       "LastSowDate": -10
+     },
+     "FallSowing": {
+       "Outdoors": [-14, -13],
+       "Transplant": [-12, -11],
+       "DaysToMaturity": 75,
+       "FrostTolerance": "Tolerant"
+     },
      "companionPlants": {
          "goodCompanionPlants": [
            {
@@ -56,7 +68,7 @@
              "description": "Dill can attract beneficial insects like ladybugs and lacewings, which prey on pests that may affect cauliflower. Additionally, dill can enhance the flavor of cauliflower when planted nearby."
            },
            {
-             "name": "Nasturtiums",
+             "name": "Nasturtium",
              "description": "Nasturtiums are known to repel pests like aphids and cabbage worms when planted near cauliflower. Their vibrant flowers can also attract pollinators to the garden."
            }
          ],
@@ -83,25 +95,43 @@
            }
          ]
        },
-    "pests": [
-        {
-            "name": "Cabbage Worms",
-            "description": "Cabbage worms are the larvae of cabbage white butterflies and can damage cauliflower plants by feeding on the foliage. Control cabbage worms by handpicking them off plants, applying organic insecticides like Bacillus thuringiensis (Bt), and using row covers to exclude adult butterflies."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Clubroot",
-            "description": "Clubroot is a soilborne disease that affects members of the Brassica family, including cauliflower. It causes swelling and distortion of the roots, leading to stunted growth and poor yields. Prevent clubroot by practicing crop rotation, improving soil drainage, and using disease-resistant varieties."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest cauliflower heads when they reach the desired size and density for the best flavor and texture.",
-        "Blanch cauliflower heads by tying leaves together to shield them from sunlight and maintain their white color.",
-        "Remove any yellowing or damaged outer leaves from cauliflower plants throughout the growing season to promote air circulation and reduce the risk of disease.",
-        "Provide consistent moisture and fertility to cauliflower plants for optimal growth and development.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed."
-    ],
+     "pests": [
+       "Aphids",
+       "Cabbage Worm",
+       "Diamondback Moth",
+       "Cutworm",
+       "Thrips",
+       "Armyworm",
+       "Leafhopper",
+       "Whiteflies",
+       "Flea Beetle",
+       "Looper",
+       "Harlequin Bug"
+     ],
+     "beneficial_insects": [
+       "Ladybugs",
+       "Lacewings",
+       "Hoverflies",
+       "Parasitic Wasps",
+       "Predatory Mites"
+     ],
+     "diseases": [
+       "Downy Mildew",
+       "Clubroot",
+       "Fusarium Wilt",
+       "Alternaria Leaf Spot",
+       "Powdery Mildew",
+       "Gray Mold Rot"
+     ],
+     "tipsAndTricks": [
+       "Plant cauliflower in well-drained soil with full sun exposure.",
+       "Space cauliflower plants properly to allow good air circulation and prevent diseases.",
+       "Apply a balanced fertilizer or compost to provide necessary nutrients for growth.",
+       "Mulch around the base of plants to retain moisture and suppress weeds.",
+       "Water cauliflower plants regularly, especially during dry periods.",
+       "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+       "Harvest cauliflower heads when they are firm and compact, typically before they start to separate or turn yellow."
+     ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Cauliflower: Planting Guide",

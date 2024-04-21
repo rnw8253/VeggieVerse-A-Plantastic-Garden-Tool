@@ -33,43 +33,95 @@
         "storageRecommendations": "Harvest lemon verbena leaves as needed for culinary, medicinal, or aromatic use. Use fresh leaves immediately for cooking or brewing tea, or dry them for later use. To dry lemon verbena leaves, hang them upside down in small bunches in a well-ventilated area out of direct sunlight. Once fully dried, store the leaves in an airtight container in a cool, dark place.",
         "harvestDescription": "Harvest lemon verbena leaves by snipping the stems just above a leaf node. Avoid harvesting more than one-third of the plant's leaves at a time to allow for continued growth and health of the plant."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+          "Indoors": [-8, -6],
+          "Transplant": [-6, -4],
+          "Outdoors": [-4, -2],
+          "LastSowDate": null
+        },
+        "FallSowing": {
+          "Outdoors": [8, 10],
+          "Transplant": [],
+          "DaysToMaturity": 90,
+          "FrostTolerance": "Tolerant"
+        },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Basil",
-                "description": "Basil is a good companion plant for lemon verbena, as both herbs share similar growing conditions and can complement each other in the garden. Interplanting lemon verbena with basil may also help deter pests and attract beneficial insects."
+              "name": "Lemon Balm",
+              "description": "Lemon balm is an excellent companion for lemon verbena as both plants share a similar lemony fragrance and are attractive to pollinators like bees and butterflies. Lemon balm's spreading growth habit can complement lemon verbena's upright form, creating a visually appealing garden bed. Additionally, lemon balm can help attract beneficial insects and deter pests, enhancing the overall health of the garden."
             },
             {
-                "name": "Lavender",
-                "description": "Lavender is another suitable companion plant for lemon verbena, as it thrives in similar soil and light conditions. Planting lemon verbena and lavender together can create a fragrant and visually appealing herb garden."
-            }
-        ],
-        "badCompanionPlants": [
+              "name": "Mint",
+              "description": "Mint is a beneficial companion for lemon verbena as both plants belong to the mint family and have similar cultural requirements. Mint's vigorous growth habit can help suppress weed growth and provide ground cover around lemon verbena plants. Additionally, mint's strong aroma can help deter pests and mask the scent of nearby plants, contributing to a healthier garden ecosystem."
+            },
             {
-                "name": "Mint",
-                "description": "Mint is not recommended as a companion plant for lemon verbena, as it can be invasive and may compete with lemon verbena for resources. Planting mint near lemon verbena may result in overcrowding and reduced growth for both plants."
+              "name": "Lavender",
+              "description": "Lavender is a suitable companion for lemon verbena as both plants have aromatic foliage and are attractive to pollinators. Lavender's upright growth habit can complement the spreading nature of lemon verbena, creating a visually appealing garden bed. Additionally, lavender's insect-repelling properties can help protect lemon verbena from pests, promoting overall plant health."
+            },
+            {
+              "name": "Chamomile",
+              "description": "Chamomile makes a beneficial companion for lemon verbena as it attracts beneficial insects like hoverflies and parasitic wasps, which prey on common garden pests. Chamomile's delicate flowers can provide a contrasting texture and visual interest in the garden bed, enhancing the overall aesthetic. Additionally, chamomile's medicinal properties can complement lemon verbena's culinary and herbal uses."
+            },
+            {
+              "name": "Bee Balm",
+              "description": "Bee balm, also known as Monarda, is a suitable companion for lemon verbena as both plants are attractive to pollinators and have similar cultural requirements. Bee balm's vibrant flowers can provide a pop of color in the garden and attract beneficial insects like bees and butterflies, which can help improve pollination and pest control. Additionally, bee balm's aromatic foliage can enhance the overall fragrance of the garden."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are common pests that may infest lemon verbena plants, especially during periods of new growth. They feed on the sap of the plant and can cause stunted growth, yellowing leaves, and distortion of foliage. Control aphids by spraying the affected plants with a strong jet of water to dislodge them or applying insecticidal soap or neem oil."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect lemon verbena plants, causing a white, powdery growth on the leaves and stems. It thrives in humid conditions and can spread rapidly in crowded plantings. Control powdery mildew by improving air circulation around the plants, avoiding overhead watering, and applying fungicidal treatments as needed."
-        }
-    ],
-    "tipsAndTricks": [
-        "Prune lemon verbena regularly to maintain its shape and promote bushy growth.",
-        "Harvest lemon verbena leaves as needed for culinary or medicinal use, but avoid overharvesting to ensure plant health.",
-        "Provide adequate spacing between lemon verbena plants to improve air circulation and reduce the risk of disease.",
-        "Monitor lemon verbena plants regularly for signs of pests and diseases, and take prompt action to address any issues.",
-        "Consider growing lemon verbena in containers or raised beds to control its spread and accommodate its specific growing requirements."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Brassicas",
+              "description": "Cabbages and other brassicas are not recommended as companion plants for lemon verbena as they may attract pests like cabbage worms and aphids, which can also affect the health of lemon verbena plants. Additionally, cabbages and brassicas have different soil and water requirements, leading to potential competition for resources."
+            },
+            {
+              "name": "Parsley",
+              "description": "Parsley is not an ideal companion for lemon verbena as it may compete for resources like sunlight, water, and nutrients in the garden bed. Additionally, parsley may attract pests like carrot flies and aphids, which can also affect the health and growth of lemon verbena plants."
+            },
+            {
+              "name": "Sage",
+              "description": "Sage should be avoided as a companion for lemon verbena as it may compete for space and resources in the garden bed. Additionally, sage's strong aroma may overpower the delicate lemony fragrance of lemon verbena, diminishing its overall appeal. Furthermore, sage may attract pests like spider mites and cabbage moths."
+            },
+            {
+              "name": "Fennel",
+              "description": "Fennel is not recommended as a companion for lemon verbena as it exudes allelopathic compounds that may inhibit the growth of neighboring plants, including lemon verbena. Additionally, fennel's invasive root system can outcompete lemon verbena for nutrients and water, leading to stunted growth and reduced vigor."
+            },
+            {
+              "name": "Tomatoes",
+              "description": "Tomatoes should be avoided as companion plants for lemon verbena as they have different cultural requirements and may compete for resources like water and nutrients in the garden bed. Additionally, tomatoes are susceptible to certain pests and diseases that may also affect the health of lemon verbena plants."
+            }
+          ]
+        },
+      "pests": [
+        "Aphids",
+        "Spider Mite",
+        "Whiteflies",
+        "Thrips",
+        "Leafhopper"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps"
+      ],
+      "diseases": [
+        "Powdery Mildew",
+        "Downy Mildew",
+        "Root Rot",
+        "Botrytis Blight"
+      ],
+      "tipsAndTricks": [
+        "Select a planting site with well-drained soil and full sun exposure.",
+        "Plant lemon verbena in containers or raised beds to control its growth and prevent it from spreading.",
+        "Water lemon verbena regularly, keeping the soil consistently moist but not waterlogged.",
+        "Mulch around lemon verbena plants to retain soil moisture and suppress weeds.",
+        "Prune lemon verbena regularly to maintain its shape and encourage bushy growth.",
+        "Harvest lemon verbena leaves as needed for culinary or medicinal use by snipping them from the plant.",
+        "Monitor plants regularly for signs of pests such as aphids and spider mites. Use insecticidal soap or neem oil as needed.",
+        "Watch for symptoms of diseases like powdery mildew and root rot. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+        "Lemon verbena is sensitive to cold temperatures, so bring potted plants indoors before the first frost in colder climates.",
+        "Lemon verbena leaves can be used fresh or dried to make fragrant herbal teas or as a flavoring in cooking and baking."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Lemon Verbena: A Beginner's Guide",

@@ -4,11 +4,11 @@
     "thumbnailImageUrl": "Blueberries_thumbnail",
     "backgroundImageUrl": "Blueberries_background",
     "varieties": "Blueberries, known for their sweet flavor and vibrant color, come in various cultivars, each with its unique characteristics. Some popular blueberry varieties include 'Bluecrop', prized for its high yields, large berries, and excellent flavor; 'Duke', known for its early ripening and firm, sweet berries; 'Legacy', favored for its late-season harvest and rich, tangy flavor; and 'Patriot', valued for its cold hardiness and adaptability to various climates. These varieties, among others, offer a range of options suited for different growing conditions and taste preferences.",
-      "sowingAndPlanting": {
+    "sowingAndPlanting": {
         "sowingIndoorsDescription": "Blueberries are typically propagated from cuttings rather than seeds. Take 4-6 inch cuttings from healthy blueberry plants in late winter or early spring, and remove the lower leaves. Dip the cut end in rooting hormone and plant it in a pot filled with well-draining potting mix. Keep the soil consistently moist and provide bright, indirect light until roots develop.",
         "sowingOutdoorsDescription": "Blueberries can also be propagated by layering. Select a healthy, flexible stem close to the ground and gently bend it downward. Make a small wound on the underside of the stem and bury it in the soil, leaving the tip exposed. Keep the soil consistently moist, and roots should form within a few months. Once roots have developed, cut the stem from the parent plant and transplant it to its permanent location.",
-        "spaceBetweenPlants": "3\'-5\'",
-        "spaceBetweenRows": "8\'-10\'",
+        "spaceBetweenPlants": "3'-5'",
+        "spaceBetweenRows": "8'-10'",
         "squareFootPlantingRecommendationsMin": 1,
         "squareFootPlantingRecommendationsMax": 4,
         "lifeCycle": "Perennial",
@@ -16,8 +16,8 @@
         "pHRange": "4.5 - 5.5",
         "germinationSoilTemp": "60-70°F",
         "season": "Blueberries should be planted in late winter or early spring while they are still dormant. They prefer well-drained, acidic soil and are hardy to USDA zones 3-7."
-      },
-      "careAndMaintenance": {
+    },
+    "careAndMaintenance": {
         "optimalSun": "Full Sun to Partial Shade",
         "growingSoilTemp": "60-70°F",
         "growingDescription": "Blueberries prefer full sun to partial shade and well-draining soil rich in organic matter. They require regular watering, especially during dry periods, to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
@@ -25,83 +25,114 @@
         "soilFertility": "Incorporate peat moss or acidic compost into the soil before planting to lower pH and improve soil structure. Side-dress with an acidic fertilizer once the plants are established.",
         "pruningRequirements": "Prune blueberry bushes in late winter or early spring to remove dead, damaged, or crossing branches. Thin out the center of the bush to improve air circulation and light penetration. Prune mature bushes to encourage new growth and fruiting.",
         "supportRequirements": "Blueberry bushes do not typically require support, but you may want to stake or cage young plants to protect them from strong winds."
-      },
-      "harvestingAndStorage": {
+    },
+    "harvestingAndStorage": {
         "daysToHarvest": "2-3 years from planting",
         "timeToMaturity": "Blueberry bushes typically begin producing fruit 2-3 years after planting, depending on the variety and growing conditions.",
         "storageRecommendations": "Harvest blueberries when they are fully ripe, usually in mid to late summer. Pick the berries by hand, taking care not to crush them, and place them in shallow containers to prevent crushing. Store harvested blueberries in the refrigerator for up to one week, or freeze them for longer storage.",
         "harvestDescription": "Harvest blueberries when they are fully ripe and easily detach from the stem. Gently roll the berries between your fingers to remove any debris, and then transfer them to a container for storage."
-      },
-      "companionPlants": {
-          "goodCompanionPlants": [
+    },
+    "SpringSowing": {
+      "Indoors": [],
+      "Transplant": [],
+      "Outdoors": [8, 12],
+      "LastSowDate": null
+    },
+    "FallSowing": {
+      "Outdoors": [-4, 0],
+      "Transplant": [],
+      "DaysToMaturity": 365,
+      "FrostTolerance": "Hardy"
+    },
+    "companionPlants": {
+        "goodCompanionPlants": [
             {
-              "name": "Azaleas",
-              "description": "Azaleas make good companions for blueberries as they have similar soil requirements and acidic soil preferences. Planting azaleas near blueberry bushes can enhance the aesthetics of the garden and provide additional pollinator habitat."
+                "name": "Azaleas",
+                "description": "Azaleas make good companions for blueberries as they have similar soil requirements and acidic soil preferences. Planting azaleas near blueberry bushes can enhance the aesthetics of the garden and provide additional pollinator habitat."
             },
             {
-              "name": "Cranberries",
-              "description": "Cranberries can be interplanted with blueberries as they have similar cultural requirements and acidic soil preferences. Additionally, cranberries can help suppress weeds and conserve soil moisture around blueberry bushes."
+                "name": "Cranberries",
+                "description": "Cranberries can be interplanted with blueberries as they have similar cultural requirements and acidic soil preferences. Additionally, cranberries can help suppress weeds and conserve soil moisture around blueberry bushes."
             },
             {
-              "name": "Daffodils",
-              "description": "Daffodils can be planted near blueberry bushes to help repel pests like aphids and caterpillars. They also add beauty to the garden and provide early spring color."
+                "name": "Daffodils",
+                "description": "Daffodils can be planted near blueberry bushes to help repel pests like aphids and caterpillars. They also add beauty to the garden and provide early spring color."
             },
             {
-              "name": "Lupines",
-              "description": "Lupines can improve soil fertility around blueberry bushes by fixing nitrogen in the soil. Planting lupines as a cover crop or intercrop can enhance soil health and provide additional nutrients for blueberry plants."
+                "name": "Lupines",
+                "description": "Lupines can improve soil fertility around blueberry bushes by fixing nitrogen in the soil. Planting lupines as a cover crop or intercrop can enhance soil health and provide additional nutrients for blueberry plants."
             },
             {
-              "name": "Ferns",
-              "description": "Ferns can be planted near blueberry bushes to provide shade, conserve soil moisture, and suppress weeds. They also add texture and interest to the garden landscape."
+                "name": "Ferns",
+                "description": "Ferns can be planted near blueberry bushes to provide shade, conserve soil moisture, and suppress weeds. They also add texture and interest to the garden landscape."
             },
             {
-              "name": "Heather",
-              "description": "Heather plants make good companions for blueberries as they have similar soil requirements and acidic soil preferences. Planting heather near blueberry bushes can provide additional pollinator habitat and enhance garden aesthetics."
+                "name": "Heather",
+                "description": "Heather plants make good companions for blueberries as they have similar soil requirements and acidic soil preferences. Planting heather near blueberry bushes can provide additional pollinator habitat and enhance garden aesthetics."
             }
-          ],
-          "badCompanionPlants": [
+        ],
+        "badCompanionPlants": [
             {
-              "name": "Brassicas",
-              "description": "Brassicas can be poor companions for blueberries as they have different soil pH preferences and cultural requirements. Additionally, brassicas may attract pests like cabbage worms and nematodes."
+                "name": "Brassicas",
+                "description": "Brassicas can be poor companions for blueberries as they have different soil pH preferences and cultural requirements. Additionally, brassicas may attract pests like cabbage worms and nematodes."
             },
             {
-              "name": "Grass",
-              "description": "Grass and other ground covers that compete with blueberry bushes for nutrients and water should be avoided. They can also provide habitat for pests and diseases that affect blueberries."
+                "name": "Grass",
+                "description": "Grass and other ground covers that compete with blueberry bushes for nutrients and water should be avoided. They can also provide habitat for pests and diseases that affect blueberries."
             },
             {
-              "name": "Walnuts",
-              "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including blueberries. Avoid planting blueberry bushes near walnut trees."
+                "name": "Walnuts",
+                "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including blueberries. Avoid planting blueberry bushes near walnut trees."
             },
             {
-              "name": "Sunflowers",
-              "description": "Sunflowers can compete with blueberry bushes for sunlight, water, and nutrients, potentially reducing fruit production. Additionally, sunflowers may attract birds that can damage blueberry crops."
+                "name": "Sunflower",
+                "description": "Sunflowers can compete with blueberry bushes for sunlight, water, and nutrients, potentially reducing fruit production. Additionally, sunflowers may attract birds that can damage blueberry crops."
             },
             {
-              "name": "Tomatoes",
-              "description": "Tomatoes are not recommended to be grown near blueberry bushes, as they have different soil and water requirements. Additionally, tomatoes may attract pests and diseases that can affect blueberries."
+                "name": "Tomatoes",
+                "description": "Tomatoes are not recommended to be grown near blueberry bushes, as they have different soil and water requirements. Additionally, tomatoes may attract pests and diseases that can affect blueberries."
             },
             {
-              "name": "Rhubarb",
-              "description": "Rhubarb is not recommended to be planted near blueberry bushes, as it may compete for nutrients and water. Additionally, rhubarb leaves contain oxalic acid, which can be harmful to blueberries."
+                "name": "Rhubarb",
+                "description": "Rhubarb is not recommended to be planted near blueberry bushes, as it may compete for nutrients and water. Additionally, rhubarb leaves contain oxalic acid, which can be harmful to blueberries."
             }
-          ]
-        },
+        ]
+    },
     "pests": [
-        {
-            "name": "Blueberry Maggot",
-            "description": "The blueberry maggot is a common pest of blueberry bushes, laying its eggs in developing fruit. The larvae hatch and feed on the berries, causing damage and making them unmarketable. Prevent blueberry maggot damage by monitoring for adult flies with traps, harvesting fruit promptly, and applying insecticidal sprays or natural predators to control populations."
-        }
+      "Maggot",
+      "Spotted Wing Drosophila",
+      "Fruitworm",
+      "Thrips",
+      "Bud Mite",
+      "Gall Midge",
+      "Stem Borer",
+      "Flea Beetle",
+      "Leafminer",
+      "Tip Borer"
+    ],
+    "beneficial_insects": [
+      "Ladybugs",
+      "Lacewings",
+      "Hoverflies",
+      "Parasitic Wasps",
+      "Predatory Mites"
     ],
     "diseases": [
-        {
-            "name": "Mummy Berry",
-            "description": "Mummy berry is a fungal disease that affects blueberries, causing brown, shriveled berries and distorted shoots. It can lead to significant fruit loss if left untreated. Prevent mummy berry by practicing good sanitation, removing and disposing of infected berries and shoots promptly, and applying fungicidal sprays preventatively."
-        }
+      "Mummy Berry",
+      "Anthracnose",
+      "Powdery Mildew",
+      "Botrytis Fruit Rot",
+      "Phomopsis Twig Blight"
     ],
     "tipsAndTricks": [
-        "Harvest blueberries when they are fully ripe for the best flavor and sweetness.",
-        "Prune blueberry bushes annually to remove dead, diseased, or damaged wood and improve airflow.",
-        "Protect ripening fruit from birds and other pests with netting or other physical barriers."
+      "Plant blueberry bushes in acidic, well-draining soil with a pH between 4.5 and 5.5.",
+      "Provide full sun exposure for optimal fruit production.",
+      "Mulch around the base of plants to conserve moisture and suppress weeds.",
+      "Prune blueberry bushes annually to remove old wood, promote airflow, and encourage new growth.",
+      "Water blueberry plants regularly, especially during dry periods.",
+      "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+      "Harvest blueberries when they are fully ripe and easily detach from the plant.",
+      "Store harvested blueberries in the refrigerator and consume them within a few days for the best flavor."
     ],
     "linksToAdditionalResources": [
         {

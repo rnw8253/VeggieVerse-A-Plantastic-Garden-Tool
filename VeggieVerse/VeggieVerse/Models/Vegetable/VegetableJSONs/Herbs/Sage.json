@@ -33,37 +33,90 @@
        "storageRecommendations": "Harvest sage leaves as needed for culinary use. Use fresh sage immediately for the best flavor. Alternatively, you can dry sage leaves by hanging them upside down in a warm, well-ventilated area until they are dry and brittle. Store dried sage leaves in an airtight container in a cool, dark place.",
        "harvestDescription": "Harvest sage leaves by snipping them from the plant as needed. Avoid harvesting more than one-third of the plant at a time to ensure healthy growth."
      },
-    "companionPlants": {
-        "goodCompanionPlants": [
-            {
-                "name": "Rosemary",
-                "description": "Rosemary is a good companion for sage, as it may help deter certain pests and complement its aromatic qualities."
-            },
-            {
-                "name": "Thyme",
-                "description": "Thyme can be planted near sage as it complements its fragrance and both have similar cultural requirements."
-            }
-        ],
-        "badCompanionPlants": []
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids can sometimes infest sage, feeding on the sap of the leaves and causing distortion or yellowing. Control aphids by spraying affected plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs, and applying insecticidal soap or neem oil as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect sage, causing a white powdery growth on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest sage leaves as needed by snipping them with scissors or shears.",
-        "Prune sage regularly to encourage bushy growth and remove dead or woody stems.",
-        "Mulch around plants to retain moisture and suppress weeds.",
-        "Consider planting sage in containers to prevent it from spreading too vigorously."
-    ],
+     "SpringSowing": {
+       "Indoors": [-8, -6],
+       "Transplant": [1, 3],
+       "Outdoors": [],
+       "LastSowDate": -11
+     },
+     "FallSowing": {
+       "Outdoors": [],
+       "Transplant": [],
+       "DaysToMaturity": 75,
+       "FrostTolerance": "Hardy"
+     },
+     "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Rosemary",
+             "description": "Sage is a beneficial companion for rosemary as it shares similar cultural requirements and can help deter pests. Planting sage near rosemary can provide a visually appealing and aromatic herb garden while attracting beneficial insects like bees and butterflies. Additionally, both sage and rosemary have antimicrobial properties that can help protect each other from soil-borne diseases."
+           },
+           {
+             "name": "Thyme",
+             "description": "Sage pairs well with thyme as both herbs share similar growing conditions and can enhance each other's flavors in culinary dishes. Planting sage and thyme together creates a fragrant and attractive herb garden while providing a variety of culinary herbs for cooking. Additionally, sage and thyme have aromatic oils that can help deter pests and promote overall plant health."
+           },
+           {
+             "name": "Lavender",
+             "description": "Sage complements lavender well in the garden as both plants have similar cultural requirements and aromatic properties. Planting sage and lavender together can create a visually stunning and fragrant garden while attracting pollinators like bees and butterflies. Additionally, sage and lavender have natural pest-repelling qualities that can help protect each other from common garden pests."
+           },
+           {
+             "name": "Oregano",
+             "description": "Sage and oregano make excellent companions in the garden as they share similar growth habits and cultural requirements. Planting sage and oregano together can create a lush and aromatic herb garden while providing a variety of culinary herbs for cooking. Additionally, sage and oregano have antimicrobial properties that can help protect each other from soil-borne diseases."
+           },
+           {
+             "name": "Chives",
+             "description": "Sage pairs well with chives in the garden as both herbs have natural pest-repelling qualities and complement each other in culinary dishes. Planting sage and chives together can provide a natural pest control barrier while adding flavor and aroma to savory dishes. Additionally, chives produce attractive purple flowers that attract beneficial insects like bees and butterflies."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Basil",
+             "description": "Sage should be planted away from basil as they have different cultural requirements and may compete for resources. Basil may outcompete sage for space and nutrients in the soil, leading to reduced growth and vigor for both plants. Additionally, basil is susceptible to certain pests and diseases that may also affect sage."
+           },
+           {
+             "name": "Cilantro",
+             "description": "Cilantro is not recommended as a companion for sage as it has different cultural requirements and may attract pests. Planting cilantro near sage can lead to competition for resources and space, resulting in reduced growth and vigor for both plants. Additionally, cilantro is susceptible to certain pests and diseases that may also affect sage."
+           },
+           {
+             "name": "Mint",
+             "description": "Sage should be planted away from mint as mint is a vigorous grower and may become invasive. Planting mint near sage can lead to aggressive spreading and overtake the garden bed, crowding out other plants including sage. Additionally, mint has different cultural requirements and may outcompete sage for water and nutrients in the soil."
+           },
+           {
+             "name": "Parsley",
+             "description": "Parsley is not recommended as a companion for sage as it has different cultural requirements and may compete for resources. Planting parsley near sage can lead to overcrowding and reduced growth for both plants. Additionally, parsley attracts certain pests and diseases that may also affect sage."
+           }
+         ]
+       },
+     "pests": [
+         "Aphids",
+         "Spider Mite",
+         "Whiteflies",
+         "Thrips",
+         "Leafhopper"
+       ],
+       "beneficial_insects": [
+         "Ladybugs",
+         "Lacewings",
+         "Hoverflies",
+         "Parasitic Wasps"
+       ],
+       "diseases": [
+         "Powdery Mildew",
+         "Root Rot",
+         "Botrytis Blight"
+       ],
+       "tipsAndTricks": [
+         "Choose a planting location with well-drained soil and full sun exposure for sage.",
+         "Plant sage in a raised bed or container with sandy, loamy soil to ensure good drainage.",
+         "Water sage plants sparingly, allowing the soil to dry out between waterings.",
+         "Avoid overwatering sage, as it is susceptible to root rot in waterlogged conditions.",
+         "Prune sage regularly to maintain its shape and promote bushy growth. Pruning also helps improve air circulation around the plant.",
+         "Harvest sage leaves as needed for culinary use by cutting them from the plant. Harvest in the morning when the oils are most concentrated.",
+         "Monitor plants regularly for signs of pests such as aphids and spider mites. Handpick pests or use insecticidal soap as needed.",
+         "Watch for symptoms of diseases like powdery mildew and botrytis blight. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+         "Sage is drought-tolerant once established and prefers slightly dry conditions. Avoid over-fertilizing, as this can reduce the flavor of the leaves.",
+         "Use fresh or dried sage leaves to flavor a variety of dishes, including meats, poultry, stuffing, and soups."
+       ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Sage: Planting Guide",

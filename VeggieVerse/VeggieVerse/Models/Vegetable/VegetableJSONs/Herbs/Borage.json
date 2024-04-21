@@ -33,45 +33,94 @@
         "storageRecommendations": "Harvest borage leaves and flowers as needed for culinary use. Use them fresh or dry them for later use. To dry borage, tie small bunches of stems together and hang them upside down in a warm, well-ventilated area. Once dry, store the leaves and flowers in an airtight container away from light and moisture.",
         "harvestDescription": "Harvest borage leaves and flowers when they are young and tender. Use scissors or pruners to snip off individual leaves or cut entire stems as needed. Rinse harvested borage under cool water before using it in recipes."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [-6, -4],
+        "Transplant": [],
+        "Outdoors": [-4, -2],
+        "LastSowDate": null
+      },
+      "FallSowing": {
+        "Outdoors": [],
+        "Transplant": [],
+        "DaysToMaturity": 60,
+        "FrostTolerance": "Tender"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Tomatoes",
-                "description": "Borage is a beneficial companion plant for tomatoes, as it helps repel pests like tomato hornworms and enhances the flavor of tomatoes when grown nearby. Planting them together can improve overall garden health and productivity."
+              "name": "Tomatoes",
+              "description": "Borage is a beneficial companion for tomatoes. It attracts pollinators like bees and beneficial insects like predatory wasps, which can help control pests like tomato hornworms and improve pollination in the garden."
             },
             {
-                "name": "Strawberries",
-                "description": "Borage is also a good companion plant for strawberries, as it attracts pollinators like bees and butterflies while also repelling pests like slugs and snails. Planting them together can create a harmonious and productive garden environment."
-            }
-        ],
-        "badCompanionPlants": [
-            {
-                "name": "Cucumbers",
-                "description": "Borage is not recommended as a companion plant for cucumbers, as it can become invasive and compete with cucumbers for space, water, and nutrients in the garden. It's best to plant them in separate areas to avoid overcrowding and competition."
+              "name": "Squash",
+              "description": "Borage is a good companion for squash. It attracts pollinators like bees and beneficial insects, which can help improve pollination and fruit set in squash plants. Additionally, borage may help repel pests like squash bugs."
             },
             {
-                "name": "Beans",
-                "description": "Borage is also not recommended as a companion plant for beans, as it can attract pests like aphids and bean beetles while also inhibiting the growth of beans through allelopathy. It's best to plant them in separate areas to avoid potential problems."
+              "name": "Cucumbers",
+              "description": "Borage is a suitable companion for cucumbers. It attracts pollinators like bees, which can enhance cucumber pollination and increase fruit production. Additionally, borage may help deter pests like cucumber beetles."
+            },
+            {
+              "name": "Strawberries",
+              "description": "Borage is a beneficial companion for strawberries. It attracts pollinators like bees and beneficial insects, which can improve pollination and increase fruit yield in strawberry plants. Additionally, borage may help repel pests like slugs."
+            },
+            {
+              "name": "Beans",
+              "description": "Borage is a good companion for beans. It attracts pollinators like bees and beneficial insects, which can enhance pollination and improve overall garden biodiversity. Additionally, borage may help repel pests like bean beetles."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are small, soft-bodied insects that feed on the sap of borage plants, causing distorted growth and yellowing of leaves. They can also transmit viral diseases. Control aphids by spraying plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs and lacewings, or applying insecticidal soap or neem oil."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect borage plants, especially in warm, humid conditions. It appears as a white, powdery coating on leaves and stems and can inhibit plant growth and flower production. Control powdery mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        }
-    ],
-    "tipsAndTricks": [
-        "Provide consistent moisture and avoid letting the soil dry out completely, especially during hot, dry weather.",
-        "Deadhead spent flowers regularly to encourage continuous blooming and prevent self-seeding.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action to control them before they become a problem."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Fennel",
+              "description": "Fennel may not be an ideal companion for borage. Some gardeners believe that planting fennel near borage can negatively affect the growth and flavor of both plants. It's best to separate them in the garden."
+            },
+            {
+              "name": "Brassicas",
+              "description": "Cabbages may not be suitable companions for borage. Some gardeners believe that planting cabbages near borage can negatively affect the growth and flavor of both plants. It's best to separate them in the garden."
+            },
+            {
+              "name": "Carrots",
+              "description": "Carrots may not be ideal companions for borage. Some gardeners believe that planting carrots near borage can negatively affect the growth and flavor of both plants. It's best to separate them in the garden."
+            },
+            {
+              "name": "Lavender",
+              "description": "Lavender may not be an ideal companion for borage. Some gardeners believe that planting lavender near borage can negatively affect the growth and flavor of both plants. It's best to separate them in the garden."
+            },
+            {
+              "name": "Sage",
+              "description": "Sage may not be a suitable companion for borage. Some gardeners believe that planting sage near borage can negatively affect the growth and flavor of both plants. It's best to separate them in the garden."
+            }
+          ]
+        },
+      "pests": [
+        "Aphids",
+        "Spider Mite",
+        "Whiteflies",
+        "Looper"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps"
+      ],
+      "diseases": [
+        "Powdery Mildew",
+        "Downy Mildew",
+        "Leaf Spot",
+        "Root Rot"
+      ],
+      "tipsAndTricks": [
+        "Choose a planting site with well-drained soil and full sun exposure.",
+        "Directly sow borage seeds outdoors in the spring after the last frost, or start seeds indoors 4-6 weeks before the last frost date.",
+        "Water borage regularly, providing about 1 inch of water per week, and mulch to conserve moisture and suppress weeds.",
+        "Fertilize borage with a balanced fertilizer or compost tea every 4-6 weeks during the growing season, following package instructions.",
+        "Deadhead spent flowers to encourage continuous blooming and prevent self-seeding.",
+        "Prune borage plants as needed to maintain shape and remove dead or diseased growth.",
+        "Harvest borage leaves and flowers as needed for culinary or medicinal use by snipping them from the stem.",
+        "Monitor plants regularly for signs of pests such as aphids and spider mites. Use insecticidal soap or neem oil as needed.",
+        "Watch for symptoms of diseases like powdery mildew and leaf spot. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+        "Allow some borage plants to self-seed to ensure a continuous supply of plants in subsequent seasons."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Borage",

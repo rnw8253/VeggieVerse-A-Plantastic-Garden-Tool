@@ -4,7 +4,7 @@
     "thumbnailImageUrl": "Leeks_thumbnail",
     "backgroundImageUrl": "Leeks_background",
     "varieties": "Leeks come in various varieties, each with its unique characteristics such as flavor, size, and cold tolerance. Common varieties include 'American Flag', 'Giant Musselburgh', 'King Richard', and 'Lancelot'. These varieties offer different sizes, textures, and growth habits suitable for various culinary uses and growing conditions.",
-      "sowingAndPlanting": {
+    "sowingAndPlanting": {
         "sowingIndoorsDescription": "Leeks can be started indoors 10-12 weeks before the last frost date in your area. Sow seeds in trays or pots filled with seed-starting mix. Plant seeds 1/4 inch deep and keep the soil consistently moist and warm (60-70°F). Provide bright, indirect light or use grow lights to encourage healthy seedling growth. Transplant seedlings outdoors after the danger of frost has passed and the soil has warmed up.",
         "sowingOutdoorsDescription": "Leeks can also be directly sown outdoors once the soil is workable and the danger of frost has passed. Choose a sunny location with well-drained, fertile soil. Sow seeds 1/4 inch deep and space them 6 inches apart in rows spaced 12-18 inches apart. Keep the soil consistently moist until seedlings emerge.",
         "spaceBetweenPlants": "6\"",
@@ -16,8 +16,8 @@
         "pHRange": "6.0 - 7.0",
         "germinationSoilTemp": "55-75°F",
         "season": "Leeks are typically planted in early spring for a summer or fall harvest. They can also be planted in late summer or early fall for a winter or spring harvest."
-      },
-      "careAndMaintenance": {
+    },
+    "careAndMaintenance": {
         "optimalSun": "Full Sun to Partial Shade",
         "growingSoilTemp": "55-75°F",
         "growingDescription": "Leeks prefer full sun to partial shade and well-drained, fertile soil rich in organic matter. They require regular watering to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
@@ -25,48 +25,105 @@
         "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress leeks with a balanced fertilizer once they are established.",
         "pruningRequirements": "Leeks generally do not require pruning. However, you can remove any yellowing or damaged leaves as needed to improve air circulation and aesthetics.",
         "supportRequirements": "Leeks do not require support."
-      },
-      "harvestingAndStorage": {
+    },
+    "harvestingAndStorage": {
         "daysToHarvest": "90-120 days from planting",
         "timeToMaturity": "Leeks typically mature and are ready for harvest 90-120 days after planting, depending on the variety and growing conditions.",
         "storageRecommendations": "Harvest leeks when they reach the desired size, usually when the stems are about 1 inch in diameter. Use a fork to loosen the soil around the base of the leeks, then gently lift them from the ground. Trim the roots and any damaged foliage. Leeks can be stored in the refrigerator for up to several weeks. For longer storage, leeks can be blanched and frozen.",
         "harvestDescription": "Harvest leeks by gently pulling them from the ground or using a garden fork to loosen the soil around the base of the plants. Cut off any remaining roots and trim the tops to the desired length."
-      },
+    },
+    "SpringSowing": {
+      "Indoors": [-10, -8],
+      "Transplant": [-3, -1],
+      "Outdoors": [],
+      "LastSowDate": -15
+    },
+    "FallSowing": {
+      "Outdoors": [],
+      "Transplant": [],
+      "DaysToMaturity": 110,
+      "FrostTolerance": "Tolerant"
+    },
     "companionPlants": {
         "goodCompanionPlants": [
             {
                 "name": "Carrots",
-                "description": "Carrots can be planted near leeks to help repel pests like carrot rust fly and provide natural pest control in the garden."
+                "description": "Carrots and leeks are mutually beneficial companions in the garden. Carrots have a shallow root system, while leeks have deeper roots, allowing them to occupy different soil layers without competing for nutrients. Interplanting carrots with leeks can help maximize space, improve soil structure, and deter pests such as carrot rust flies."
             },
             {
                 "name": "Lettuce",
-                "description": "Lettuce can be planted near leeks to help repel pests like aphids and provide natural pest control in the garden."
+                "description": "Lettuce and leeks make excellent companions in the garden. Lettuce has shallow roots and grows well in the shade of taller plants like leeks. Interplanting lettuce with leeks can help conserve soil moisture, suppress weeds, and provide living mulch to cool the soil, creating a beneficial microclimate for both crops."
+            },
+            {
+                "name": "Onions",
+                "description": "Onions and leeks are closely related and can be planted together as companion plants. Interplanting onions with leeks can help deter pests such as onion flies and aphids, which commonly affect allium crops. Additionally, onions can help suppress weeds and improve soil health."
+            },
+            {
+                "name": "Spinach",
+                "description": "Spinach is a cool-season crop that complements leeks well. Interplanting spinach with leeks can help maximize space in the garden and provide mutual benefits, such as weed suppression and soil moisture conservation. Additionally, spinach can be harvested early, allowing more space and resources for leeks as they mature."
+            },
+            {
+                "name": "Potatoes",
+                "description": "Potatoes and leeks can be grown together as companion plants. Leeks have a natural pest-repelling effect on potato crops, helping to deter pests like potato beetles and aphids. Additionally, interplanting leeks with potatoes can help suppress weeds and improve soil fertility."
             }
         ],
         "badCompanionPlants": [
             {
                 "name": "Beans",
-                "description": "Beans are not recommended to be planted near leeks as they may compete for space and nutrients."
+                "description": "Beans and leeks may not be the best companions in the garden. Beans have a nitrogen-fixing ability that can lead to excess nitrogen in the soil, which may cause leeks to produce lush foliage at the expense of bulb development. Additionally, beans may attract pests like aphids and bean beetles, which can also affect leek plants."
+            },
+            {
+                "name": "Brassicas",
+                "description": "Brassicas, such as cabbage, broccoli, and kale, may produce allelopathic compounds that can inhibit the growth of nearby plants, including leeks. Planting brassicas near leeks may hinder leek growth and development, leading to reduced yields."
+            },
+            {
+                "name": "Fennel",
+                "description": "Fennel contains compounds that can inhibit the growth of nearby plants, including leeks. Planting leeks near fennel may result in stunted growth and reduced yield for leek crops. It's best to keep them separate in the garden."
+            },
+            {
+                "name": "Sunflower",
+                "description": "Sunflowers have dense root systems that may compete with leeks for water and nutrients. Planting them together may result in reduced growth and yield for leek crops. Additionally, sunflowers may cast shade on leek plants, affecting their growth and development."
+            },
+            {
+                "name": "Alliums",
+                "description": "While onions are good companions for leeks, other alliums such as garlic may inhibit leek growth if planted too closely together. Some studies suggest that alliums release substances that can interfere with leek growth and development."
             }
         ]
     },
     "pests": [
-        {
-            "name": "Leek Moth",
-            "description": "Leek moth larvae feed on leek foliage, causing damage to leaves and reducing plant vigor. Control leek moths by handpicking larvae off plants, using floating row covers to exclude moths, and applying organic insecticides like Bacillus thuringiensis (Bt) as needed."
-        }
+        "Moth",
+        "Aphids",
+        "Leafminer",
+        "Thrips",
+        "Cutworm",
+        "Armyworm",
+        "Flea Beetle",
+        "Leaf Beetle",
+        "Mite",
+        "Looper"
+    ],
+    "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
     ],
     "diseases": [
-        {
-            "name": "Leek Rust",
-            "description": "Leek rust is a fungal disease that affects leek plants, causing orange pustules on leaves and reducing plant vigor. It thrives in humid conditions. Prevent leek rust by providing good air circulation around plants, avoiding overhead watering, and removing infected plant debris."
-        }
+        "Downy Mildew",
+        "Powdery Mildew",
+        "Rust",
+        "Fusarium Wilt",
+        "Botrytis Rot"
     ],
     "tipsAndTricks": [
-        "Hill soil around leek stems as they grow to encourage longer, blanched stems.",
-        "Harvest leeks when they are young and tender for the best flavor and texture.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed.",
-        "Rotate leek crops annually to prevent the buildup of soilborne pests and diseases."
+        "Plant leeks in well-drained soil with full sun to partial shade exposure.",
+        "Space leek plants properly to allow good air circulation.",
+        "Water leeks regularly, keeping the soil consistently moist but not waterlogged.",
+        "Mulch around the base of plants to retain moisture and suppress weeds.",
+        "Harvest leeks when they reach the desired size, typically after the bulbs have swelled and the foliage is tall and green.",
+        "Rotate crops to prevent the buildup of pests and diseases in the soil.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action."
     ],
     "linksToAdditionalResources": [
         {

@@ -12,7 +12,7 @@ struct CustomNavBarView: View {
     var title: String
     var titleColor: Color
     var backgroundColor: Color = .clear
-    var showBackButton = true
+    var showBackButton = false
     var body: some View {
         HStack {
             if showBackButton {

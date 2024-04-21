@@ -33,55 +33,99 @@
         "storageRecommendations": "Harvest Chinese broccoli when the stems are thick and tender and the flower buds are still tightly closed. Cut the stems at ground level using a sharp knife or shears. Store harvested Chinese broccoli in the refrigerator for up to a week.",
         "harvestDescription": "Harvest Chinese broccoli by cutting the stems at ground level when they are thick and tender. Avoid waiting too long to harvest, as the stems can become tough and the flower buds may start to open."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+          "Indoors": [-8, -6],
+          "Transplant": [-2, 0],
+          "Outdoors": [-4, -3],
+          "LastSowDate": -9
+      },
+      "FallSowing": {
+          "Outdoors": [-13, -12],
+          "Transplant": [-10, -8],
+          "DaysToMaturity": 65,
+          "FrostTolerance": "Tolerant"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Lettuce",
-                "description": "Lettuce is a good companion plant for Chinese broccoli, as it provides shade and moisture retention for the soil and can be interplanted between rows to maximize space."
+              "name": "Bok Choy",
+              "description": "Chinese broccoli and bok choy share similar cultural requirements and are often grown together in traditional Asian gardens. Interplanting them can maximize space and promote healthy growth."
             },
             {
-                "name": "Radishes",
-                "description": "Radishes make good companion plants for Chinese broccoli, as they deter pests like flea beetles and aphids with their strong scent and can be interplanted between rows to utilize space efficiently."
+              "name": "Lettuce",
+              "description": "Lettuce can act as a living mulch for Chinese broccoli, helping to suppress weeds, retain soil moisture, and regulate soil temperature. Interplanting them can improve overall soil health and productivity."
             },
             {
-                "name": "Spinach",
-                "description": "Spinach is a beneficial companion plant for Chinese broccoli, as it helps suppress weeds, retain moisture, and improve soil structure with its deep roots."
-            }
-        ],
-        "badCompanionPlants": [
+              "name": "Carrots",
+              "description": "Carrots have shallow roots that occupy different soil layers than Chinese broccoli, reducing competition for nutrients and space. Interplanting them can help maximize space and promote healthy growth."
+            },
             {
-                "name": "Broccoli",
-                "description": "Broccoli is not recommended as a companion plant for Chinese broccoli, as they are closely related and may compete for space, nutrients, and sunlight."
+              "name": "Beans",
+              "description": "Beans are nitrogen-fixing legumes that can enrich the soil with nitrogen, benefiting the growth of Chinese broccoli. Interplanting them can improve soil fertility and overall plant health."
+            },
+            {
+              "name": "Chives",
+              "description": "Chives can help deter pests like aphids and flea beetles when planted near Chinese broccoli. Their strong scent can also confuse and repel pests, reducing the risk of infestation."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Flea Beetles",
-            "description": "Flea beetles are common pests of Chinese broccoli, feeding on the leaves and causing small, round holes. Control flea beetles by using row covers to protect young plants, applying neem oil or insecticidal soap, and practicing crop rotation to reduce pest populations."
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Onions",
+              "description": "Onions release compounds that may inhibit the growth of Chinese broccoli and affect its flavor. Planting onions near Chinese broccoli may result in reduced yield and quality."
+            },
+            {
+              "name": "Garlic",
+              "description": "Garlic has allelopathic properties that can inhibit the growth of neighboring plants, including Chinese broccoli. Planting garlic near Chinese broccoli may hinder its growth and development."
+            },
+            {
+              "name": "Cabbage",
+              "description": "Chinese broccoli and cabbage are susceptible to similar pests and diseases, including cabbage worms and aphids. Planting them in close proximity may increase the risk of pest infestations and disease spread."
+            },
+            {
+              "name": "Radishes",
+              "description": "Radishes are fast-growing plants that may compete with Chinese broccoli for nutrients and space. Planting radishes near Chinese broccoli may result in stunted growth and reduced yield for both crops."
+            },
+            {
+              "name": "Mustard Greens",
+              "description": "Mustard greens produce chemicals that can inhibit the growth of nearby plants, including Chinese broccoli. Planting them together may hinder the growth and development of Chinese broccoli."
+            }
+          ]
         },
-        {
-            "name": "Aphids",
-            "description": "Aphids can infest Chinese broccoli plants, sucking sap from leaves and causing them to curl and distort. Control aphids by spraying affected plants with water to dislodge them, introducing natural predators like ladybugs or lacewings, and using insecticidal soap or neem oil."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Downy Mildew",
-            "description": "Downy mildew is a fungal disease that affects Chinese broccoli, causing yellowing and wilting of leaves. It thrives in cool, moist conditions and can spread rapidly in crowded or poorly ventilated areas. Control downy mildew by planting Chinese broccoli in well-draining soil with good air circulation, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        },
-        {
-            "name": "Clubroot",
-            "description": "Clubroot is a soil-borne disease that affects Chinese broccoli and other brassica crops, causing swollen, deformed roots and stunted growth. It thrives in acidic soil and can persist for several years. Control clubroot by improving soil drainage, raising soil pH with lime, and practicing crop rotation with non-brassica crops."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest Chinese broccoli stems and leaves when they are young and tender for the best flavor and texture.",
-        "Keep the soil consistently moist throughout the growing season to promote healthy growth and prevent bolting.",
-        "Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed to prevent damage.",
-        "Practice crop rotation with non-brassica crops to reduce the risk of soil-borne diseases like clubroot."
-    ],
+      "pests": [
+        "Aphids",
+        "Cabbage Worm",
+        "Diamondback Moth",
+        "Cutworm",
+        "Thrips",
+        "Armyworm",
+        "Leafhopper",
+        "Whiteflies",
+        "Flea Beetle",
+        "Looper"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
+      ],
+      "diseases": [
+        "Downy Mildew",
+        "Clubroot",
+        "Fusarium Wilt",
+        "Alternaria Leaf Spot",
+        "Powdery Mildew"
+      ],
+      "tipsAndTricks": [
+        "Plant Chinese broccoli in well-drained soil with full sun exposure.",
+        "Space Chinese broccoli plants properly to allow good air circulation and prevent diseases.",
+        "Apply a balanced fertilizer or compost to provide necessary nutrients for growth.",
+        "Mulch around the base of plants to retain moisture and suppress weeds.",
+        "Water Chinese broccoli plants regularly, especially during dry periods.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+        "Harvest Chinese broccoli when the stalks are young and tender, typically before they start to flower."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Chinese Broccoli: Planting Guide",

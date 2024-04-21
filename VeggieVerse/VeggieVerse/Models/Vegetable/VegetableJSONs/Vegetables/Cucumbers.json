@@ -32,42 +32,94 @@
         "storageRecommendations": "Harvest cucumbers when they are firm, crisp, and have reached the desired size. Cut the fruits from the vine using pruning shears or a sharp knife, leaving a short stem attached. Store harvested cucumbers in the refrigerator for up to a week. Wash and dry the fruits before storing to remove any dirt or debris.",
         "harvestDescription": "Harvest cucumbers regularly to encourage continuous fruit production. Cut the fruits from the vine when they are mature and have reached the desired size. Avoid letting cucumbers become overripe, as they can become bitter and seedy."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [-3, -3],
+        "Transplant": [1, 3],
+        "Outdoors": [2, 3],
+        "LastSowDate": -10
+      },
+      "FallSowing": {
+        "Outdoors": [],
+        "Transplant": [],
+        "DaysToMaturity": 60,
+        "FrostTolerance": "Tender"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Beans",
-                "description": "Beans can be planted near cucumbers to help fix nitrogen in the soil and provide natural pest control in the garden."
+              "name": "Beans",
+              "description": "Beans, such as bush beans or pole beans, can be planted near cucumbers. Beans fix nitrogen in the soil, which benefits the nitrogen-demanding cucumbers, promoting healthier growth and higher yields for both crops."
             },
             {
-                "name": "Radishes",
-                "description": "Radishes can be planted near cucumbers to help repel cucumber beetles and provide natural pest control in the garden."
-            }
-        ],
-        "badCompanionPlants": [
+              "name": "Corn",
+              "description": "Corn provides natural trellising for cucumbers to climb, maximizing vertical space in the garden. Additionally, cucumbers' dense foliage can shade the soil around corn plants, helping to retain moisture and suppress weeds."
+            },
             {
-                "name": "Potatoes",
-                "description": "Potatoes are not recommended to be planted near cucumbers as they may compete for space and nutrients."
+              "name": "Lettuce",
+              "description": "Lettuce has shallow roots and grows quickly, making it an ideal companion for cucumbers. Interplanting lettuce with cucumbers can help suppress weeds, retain soil moisture, and provide living mulch to cool the soil."
+            },
+            {
+              "name": "Radishes",
+              "description": "Radishes are fast-growing and can help break up compacted soil, making it easier for cucumber roots to penetrate. Interplanting radishes with cucumbers can improve soil aeration, drainage, and overall plant health."
+            },
+            {
+              "name": "Nasturtium",
+              "description": "Nasturtiums are known for their ability to repel pests such as aphids, cucumber beetles, and squash bugs. Planting nasturtiums near cucumbers can help protect them from common pests, reducing the need for chemical pesticides."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Cucumber Beetles",
-            "description": "Cucumber beetles are small, striped or spotted beetles that feed on cucumber plants, causing damage to leaves, stems, and fruits. They can also transmit bacterial wilt and other diseases. Control cucumber beetles by handpicking them off plants, using row covers to exclude them from cucumber beds, and applying organic insecticides as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that affects cucumbers, causing white powdery spots to appear on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, watering at the base of plants to avoid wetting foliage, and using fungicides as needed."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest cucumbers when they reach the desired size and color for the best flavor and texture.",
-        "Provide support for vining cucumber varieties with trellises, cages, or stakes to save space and improve air circulation.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed.",
-        "Water cucumber plants at the base to avoid wetting foliage and reduce the risk of disease."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Potatoes",
+              "description": "Potatoes and cucumbers are both susceptible to similar pests and diseases, including potato beetles and certain fungal infections. Planting them together may increase the risk of pest and disease infestations for both crops."
+            },
+            {
+              "name": "Aromatic Herbs",
+              "description": "Strongly scented herbs like sage, rosemary, and lavender can repel cucumber beetles and other pests. However, their aromatic compounds may also inhibit cucumber growth and affect flavor. It's best to keep cucumbers away from these herbs."
+            },
+            {
+              "name": "Melons",
+              "description": "Cucumbers and melons belong to the same plant family (Cucurbitaceae) and are susceptible to similar pests and diseases. Planting them too close together may increase the risk of cross-contamination and reduce overall plant health."
+            }
+          ]
+        },
+      "pests": [
+        "Cucumber Beetle",
+        "Aphids",
+        "Mite",
+        "Leafhopper",
+        "Whiteflies",
+        "Thrips",
+        "Caterpillar",
+        "Armyworm",
+        "Flea Beetle",
+        "Leafminer",
+        "Pickleworm"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
+      ],
+      "diseases": [
+        "Downy Mildew",
+        "Powdery Mildew",
+        "Anthracnose",
+        "Angular Leaf Spot",
+        "Bacterial Wilt",
+        "Curly Top",
+        "Ring Spot"
+      ],
+      "tipsAndTricks": [
+        "Plant cucumbers in well-drained soil with full sun exposure.",
+        "Provide support for cucumber vines to climb, such as trellises or stakes.",
+        "Space cucumber plants properly to allow good air circulation and prevent diseases.",
+        "Water cucumbers regularly, keeping the soil consistently moist but not waterlogged.",
+        "Apply mulch around the base of plants to retain moisture and suppress weeds.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+        "Harvest cucumbers when they reach the desired size and color, typically before they become overripe and bitter."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Cucumbers: Planting Guide",

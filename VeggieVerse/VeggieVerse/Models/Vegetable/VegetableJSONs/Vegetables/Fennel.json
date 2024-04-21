@@ -33,41 +33,98 @@
         "storageRecommendations": "Harvest fennel when the bulbs are firm, and the foliage is still green and healthy. Use a sharp knife to cut the bulbs from the base of the plant, leaving a short stem attached. Store harvested fennel in the refrigerator for up to a week. Wash and dry the bulbs before storing to remove any dirt or debris.",
         "harvestDescription": "Harvest fennel by cutting the bulbs from the base of the plant when they are mature and have reached the desired size. Remove any damaged or discolored foliage before storage."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [-6, -4],
+        "Transplant": [1, 2],
+        "Outdoors": [0, 2],
+        "LastSowDate": -11
+      },
+      "FallSowing": {
+        "Outdoors": [-13, -11],
+        "Transplant": [],
+        "DaysToMaturity": 80,
+        "FrostTolerance": "Tender"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Dill",
-                "description": "Dill is a good companion plant for fennel as it attracts beneficial insects like ladybugs and lacewings, which help control pests like aphids and caterpillars."
+              "name": "Dill",
+              "description": "Dill attracts beneficial insects such as ladybugs and lacewings, which prey on aphids and other pests that commonly affect fennel. Interplanting dill with fennel can help enhance pest control and promote overall plant health."
             },
             {
-                "name": "Chamomile",
-                "description": "Chamomile can be planted near fennel to improve its flavor and attract beneficial insects to the garden."
-            }
-        ],
-        "badCompanionPlants": [
+              "name": "Chamomile",
+              "description": "Chamomile has insect-repelling properties that can help deter pests like aphids, mosquitoes, and cabbage worms from attacking fennel. Planting chamomile near fennel can act as a natural pest deterrent, reducing the need for chemical pesticides."
+            },
             {
-                "name": "Sage",
-                "description": "Sage is not recommended to be planted near fennel as it may inhibit its growth and flavor."
+              "name": "Lavender",
+              "description": "Lavender attracts pollinators such as bees and butterflies, which can benefit nearby fennel plants by promoting better pollination and fruit set. Additionally, the aromatic oils in lavender may help repel certain pests that target fennel."
+            },
+            {
+              "name": "Mint",
+              "description": "Mint emits a strong scent that can confuse and deter pests like aphids, ants, and flea beetles, reducing the likelihood of infestations on fennel. Planting mint near fennel can provide natural pest control and improve overall plant health."
+            },
+            {
+              "name": "Nasturtium",
+              "description": "Nasturtiums are known for their ability to repel pests like aphids, whiteflies, and squash bugs. Interplanting nasturtiums with fennel can help protect the plants from common pests and reduce the need for chemical insecticides."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are small, soft-bodied insects that feed on fennel plants by sucking sap from leaves and stems. They reproduce rapidly and can cause distorted growth, yellowing, and wilting. Control aphids by spraying affected plants with water to dislodge them, introducing natural predators like ladybugs or lacewings, and using insecticidal soap or neem oil as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that affects fennel plants, causing white powdery spots to appear on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, watering at the base of plants to avoid wetting foliage, and using fungicides as needed."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest fennel bulbs when they reach the desired size and texture for the best flavor and tenderness.",
-        "Provide consistent moisture and fertility to fennel plants for optimal growth and development.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Cilantro",
+              "description": "Coriander and fennel are both members of the Apiaceae family and may attract similar pests. Planting them together may increase the risk of pest infestations and spread of diseases that affect both crops."
+            },
+            {
+              "name": "Potatoes",
+              "description": "Potatoes and fennel have different soil and nutrient requirements, and planting them together may lead to competition for resources like water and nutrients. Additionally, fennel may inhibit the growth of potatoes and reduce their yield."
+            },
+            {
+              "name": "Tomatoes",
+              "description": "Tomatoes and fennel are susceptible to some of the same pests and diseases, including aphids and fungal infections. Planting them together may increase the risk of pest infestations and spread of diseases that affect both crops."
+            },
+            {
+              "name": "Brassicas",
+              "description": "Brassicas such as cabbage, broccoli, and kale can attract pests like cabbage worms and flea beetles, which may also target fennel. Planting them together may increase the risk of pest infestations and damage to fennel crops."
+            },
+            {
+              "name": "Sunflower",
+              "description": "Sunflowers have dense root systems that may compete with fennel for water and nutrients. Planting them together may result in reduced growth and yield for fennel crops."
+            }
+          ]
+        },
+      "pests": [
+        "Aphids",
+        "Swallowtail Caterpillar",
+        "Thrips",
+        "Whiteflies",
+        "Leaf Beetle",
+        "Cabbage Worm",
+        "Leafhopper",
+        "Mite",
+        "Flea Beetle",
+        "Cutworm"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
+      ],
+      "diseases": [
+        "Rust",
+        "Downy Mildew",
+        "Powdery Mildew",
+        "Botrytis Rot",
+        "Root Rot"
+      ],
+      "tipsAndTricks": [
+        "Plant fennel in well-drained soil with full sun exposure.",
+        "Space fennel plants properly to allow good air circulation.",
+        "Water fennel regularly, keeping the soil consistently moist but not waterlogged.",
+        "Mulch around the base of plants to retain moisture and suppress weeds.",
+        "Harvest fennel bulbs when they are firm and fully formed, typically in late summer or fall.",
+        "Use fennel fronds and seeds as flavoring in culinary dishes, or allow the plant to flower to attract beneficial insects."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Fennel: Planting Guide",

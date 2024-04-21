@@ -33,6 +33,18 @@
        "storageRecommendations": "Harvest carrots when they reach the desired size and color. Gently loosen the soil around the roots and carefully pull the carrots from the ground. Remove excess soil, but do not wash the carrots until ready to use. Store harvested carrots in the refrigerator in a perforated plastic bag or container for up to several weeks. Carrots can also be stored in a cool, dark, and humid environment like a root cellar.",
        "harvestDescription": "Harvest carrots by gently pulling them from the ground when they reach the desired size. Be careful not to damage the roots. Cut off the tops of the carrots, leaving about an inch of stem attached, before storing."
      },
+     "SpringSowing": {
+       "Indoors": [],
+       "Transplant": [],
+       "Outdoors": [-4, -3],
+       "LastSowDate": -10
+     },
+     "FallSowing": {
+       "Outdoors": [-11, -10],
+       "Transplant": [],
+       "DaysToMaturity": 70,
+       "FrostTolerance": "Tolerant"
+     },
      "companionPlants": {
          "goodCompanionPlants": [
            {
@@ -90,29 +102,47 @@
              "description": "Potatoes and carrots have different soil pH and nutrient requirements. Planting them in close proximity may result in competition for resources and reduced yields for both crops."
            },
            {
-             "name": "Sunflowers",
+             "name": "Sunflower",
              "description": "Sunflowers can produce tall stalks that may shade out carrots and compete for water and nutrients. Additionally, sunflowers may attract pests like aphids and whiteflies."
            }
          ]
        },
-    "pests": [
-        {
-            "name": "Carrot Rust Fly",
-            "description": "Carrot rust fly larvae feed on carrot roots, causing tunnels and damage that can lead to stunted growth and poor yields. Control carrot rust flies by using floating row covers to exclude them from carrot beds, practicing crop rotation, and using traps or insecticides as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Root Knot Nematodes",
-            "description": "Root knot nematodes are microscopic roundworms that infect carrot roots, causing galls, swelling, and deformities. Practice crop rotation with non-host plants, maintain soil health and fertility, and use resistant carrot varieties to manage root knot nematodes."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest carrots when they reach the desired size and flavor for the best taste and texture.",
-        "Thin carrot seedlings to the appropriate spacing once they have several true leaves to prevent overcrowding and promote healthy root development.",
-        "Provide consistent moisture and fertility to carrot plants for optimal growth and development.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed."
-    ],
+     "pests": [
+         "Rust Fly",
+         "Weevil",
+         "Aphids",
+         "Leafminer",
+         "Caterpillar",
+         "Whiteflies",
+         "Wireworm",
+         "Root Maggot",
+         "Thrips",
+         "Armyworm"
+       ],
+       "beneficial_insects": [
+         "Ladybugs",
+         "Lacewings",
+         "Hoverflies",
+         "Parasitic Wasps",
+         "Predatory Mites"
+       ],
+       "diseases": [
+         "Powdery Mildew",
+         "Downy Mildew",
+         "Leaf Spot",
+         "Rust",
+         "Fusarium Wilt",
+         "Aster Yellows"
+       ],
+       "tipsAndTricks": [
+         "Plant carrots in loose, well-drained soil free from rocks and debris.",
+         "Thin out carrot seedlings to prevent overcrowding and promote proper root development.",
+         "Water carrots regularly, keeping the soil evenly moist but not waterlogged.",
+         "Apply a balanced fertilizer or compost to provide necessary nutrients for growth.",
+         "Mulch around the base of plants to retain moisture and suppress weeds.",
+         "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+         "Harvest carrots when they reach the desired size and color, typically when they are bright orange and firm to the touch."
+       ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Carrots: Planting Guide",

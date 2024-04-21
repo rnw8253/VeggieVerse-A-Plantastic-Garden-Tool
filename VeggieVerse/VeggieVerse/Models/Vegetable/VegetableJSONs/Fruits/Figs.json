@@ -7,8 +7,8 @@
       "sowingAndPlanting": {
         "sowingIndoorsDescription": "Figs are typically propagated from cuttings rather than seeds. Take 6-8 inch cuttings from healthy fig trees in late winter or early spring, and remove any leaves from the bottom half of the cutting. Dip the cut end in rooting hormone and plant it in a pot filled with well-draining potting mix. Keep the soil consistently moist and provide warmth and bright, indirect light until roots develop.",
         "sowingOutdoorsDescription": "Figs can also be propagated by layering. Select a healthy, flexible fig branch and gently bend it to the ground. Make a small incision in the branch and bury it in the soil, leaving the tip exposed. Keep the soil consistently moist, and roots should form within a few months. Once roots have developed, cut the branch from the parent plant and transplant it to its permanent location.",
-        "spaceBetweenPlants": "10\'-20\'",
-        "spaceBetweenRows": "10\'-20\'",
+        "spaceBetweenPlants": "10'-20'",
+        "spaceBetweenRows": "10'-20'",
         "squareFootPlantingRecommendationsMin": 0,
         "squareFootPlantingRecommendationsMax": 0,
         "lifeCycle": "Perennial",
@@ -32,6 +32,18 @@
         "storageRecommendations": "Harvest figs when they are fully ripe, usually when they have a slight softness and a rich color. Twist or cut the figs from the tree with a sharp pair of pruning shears. Store harvested figs at room temperature for up to a few days, or refrigerate them for longer storage.",
         "harvestDescription": "Harvest figs when they have reached their full size and have a rich color and aroma. Gently twist or cut the figs from the tree, taking care not to damage the fruit or the branch."
       },
+      "SpringSowing": {
+        "Indoors": [],
+        "Transplant": [],
+        "Outdoors": [8, 12],
+        "LastSowDate": null
+      },
+      "FallSowing": {
+        "Outdoors": [-4, 0],
+        "Transplant": [],
+        "DaysToMaturity": 730,
+        "FrostTolerance": "Tender"
+      },
       "companionPlants": {
          "goodCompanionPlants": [
            {
@@ -43,7 +55,7 @@
              "description": "Rosemary has aromatic foliage that can help repel pests like mosquitoes and flies from the fig garden. It also attracts beneficial insects like bees and butterflies."
            },
            {
-             "name": "Nasturtiums",
+             "name": "Nasturtium",
              "description": "Nasturtiums can be interplanted with fig trees to help repel pests like aphids and attract beneficial insects like ladybugs and lacewings. They also add color and beauty to the garden."
            },
            {
@@ -69,7 +81,7 @@
              "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including fig trees. Avoid planting fig trees near walnut trees."
            },
            {
-             "name": "Sunflowers",
+             "name": "Sunflower",
              "description": "Sunflowers can compete with fig trees for sunlight, water, and nutrients, potentially reducing fruit production. Additionally, sunflowers may attract birds that can damage fig crops."
            },
            {
@@ -78,31 +90,42 @@
            }
          ]
        },
-    "pests": [
-        {
-            "name": "Fig Beetle",
-            "description": "Fig beetles are common pests of fig trees, feeding on ripe fruit and causing damage. Control fig beetle populations by harvesting fruit promptly and using physical barriers like netting or bags to protect fruit from infestation."
-        },
-        {
-            "name": "Fig Midge",
-            "description": "Fig midges are small flies that lay their eggs inside developing figs, causing them to become infested with larvae. Prevent fig midge damage by harvesting fruit promptly and using physical barriers like netting or bags to protect fruit from infestation."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Fig Rust",
-            "description": "Fig rust is a fungal disease that affects fig trees, causing orange or yellow spots on leaves and premature defoliation. Prevent fig rust by providing good air circulation around trees, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        },
-        {
-            "name": "Fig Mosaic Virus",
-            "description": "Fig mosaic virus is a viral disease that affects fig trees, causing mottling and distortion of leaves, stunting of growth, and reduced fruit quality. Prevent fig mosaic virus by planting disease-free stock, controlling aphid vectors, and promptly removing and destroying infected plants."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest figs when fully ripe for the best flavor and sweetness.",
-        "Prune fig trees annually to remove dead, diseased, or damaged wood, improve airflow, and shape the tree.",
-        "Protect ripe figs from birds and other pests with physical barriers like netting or bags."
-    ],
+      "pests": [
+        "Fig Beetle",
+        "Midge",
+        "Moth",
+        "Fig Wax Scale",
+        "Whiteflies",
+        "Psyllid",
+        "Rust Mite",
+        "Aphids",
+        "Thrips",
+        "Leaf-footed Bug"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
+      ],
+      "diseases": [
+        "Rust",
+        "Mosaic Virus",
+        "Anthracnose",
+        "Leaf Spot",
+        "Root Rot"
+      ],
+      "tipsAndTricks": [
+        "Plant fig trees in well-drained soil with full sun exposure.",
+        "Provide regular watering, especially during the growing season.",
+        "Mulch around the base of trees to conserve moisture and suppress weeds.",
+        "Prune fig trees in late winter to remove dead or diseased wood and promote fruiting.",
+        "Protect fig trees from strong winds and frost during the winter months.",
+        "Monitor trees regularly for signs of pests and diseases, and take appropriate action.",
+        "Harvest figs when they are fully ripe and soft to the touch.",
+        "Store harvested figs in the refrigerator for short-term storage or dry them for longer-term preservation."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Figs: Planting Guide",

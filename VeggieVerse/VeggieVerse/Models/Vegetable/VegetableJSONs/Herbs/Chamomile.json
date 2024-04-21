@@ -33,50 +33,82 @@
         "storageRecommendations": "Harvest chamomile flowers when they are fully open and at their peak flavor and aroma. Cut the flower heads with clean scissors or pruners and dry them immediately to preserve their potency. Hang the harvested flowers upside down in a well-ventilated area out of direct sunlight to dry. Once dry, store the flowers in an airtight container in a cool, dark place.",
         "harvestDescription": "Harvest chamomile flowers by cutting the flower heads just above the foliage. Use fresh chamomile flowers immediately for teas or other culinary purposes, or dry them for later use."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [-8, -6],
+        "Transplant": [-4, -2],
+        "Outdoors": [0, 2],
+        "LastSowDate": null
+      },
+      "FallSowing": {
+        "Outdoors": [-10, -8],
+        "Transplant": [],
+        "DaysToMaturity": 60,
+        "FrostTolerance": "Tolerant"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Bee Balm",
-                "description": "Bee balm attracts beneficial insects like bees and butterflies to the garden, which can help pollinate chamomile flowers."
+              "name": "Basil",
+              "description": "Basil is a beneficial companion for chamomile, as it can enhance the flavor of chamomile tea when brewed together. Additionally, basil's strong aroma may help deter pests that could potentially harm chamomile plants. The two plants can be grown together in a mutually beneficial relationship."
             },
             {
-                "name": "Dill",
-                "description": "Dill is a good companion plant for chamomile, as it attracts beneficial insects and provides some shade to the soil."
-            }
-        ],
-        "badCompanionPlants": [
+              "name": "Mint",
+              "description": "Mint is a good companion for chamomile as it can help repel pests like aphids and ants that may damage chamomile plants. Additionally, both chamomile and mint are often used in herbal teas and can complement each other's flavors when brewed together. Planting mint near chamomile can attract beneficial insects and improve overall plant health."
+            },
             {
-                "name": "Mint",
-                "description": "Mint can be invasive and may compete with chamomile for space and nutrients. Keep mint planted in containers to prevent it from spreading."
+              "name": "Dill",
+              "description": "Dill can be a beneficial companion for chamomile as it attracts beneficial insects like hoverflies and parasitic wasps, which prey on pests that may harm chamomile plants. Additionally, dill's delicate foliage can provide shade and protection for young chamomile seedlings. Planting dill near chamomile can create a diverse and thriving ecosystem in the garden."
+            },
+            {
+              "name": "Chives",
+              "description": "Chives are a good companion for chamomile as they deter pests like aphids, spider mites, and thrips that may damage chamomile plants. Additionally, chives' pungent aroma can confuse and repel pests, reducing the need for chemical pesticides. Planting chives near chamomile can improve overall plant health and yield."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are small, sap-sucking insects that can infest chamomile plants, causing distorted growth and yellowing of leaves. Control aphids by spraying affected plants with a strong jet of water, introducing natural predators like ladybugs or lacewings, or using insecticidal soap or neem oil."
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Fennel",
+              "description": "Fennel is a bad companion for chamomile, as it can inhibit the growth of nearby plants due to its allelopathic properties. Fennel produces chemicals that can stunt the growth of chamomile and other neighboring plants, leading to reduced yields and overall health. It is best to avoid planting fennel near chamomile to prevent negative effects on plant growth."
+            },
+            {
+              "name": "Wormwood",
+              "description": "Wormwood is a bad companion for chamomile, as it can release allelopathic chemicals that inhibit the growth of nearby plants, including chamomile. Planting chamomile near wormwood may result in stunted growth and decreased productivity for both plants. It is advisable to keep wormwood away from chamomile to avoid detrimental effects on plant health."
+            },
+            {
+              "name": "Sunflower",
+              "description": "Sunflowers are not ideal companions for chamomile as they can compete for resources like water, nutrients, and sunlight. Sunflowers have large, dense root systems that can outcompete chamomile and other neighboring plants for essential resources, leading to reduced growth and yield. It is recommended to plant chamomile away from sunflowers to prevent competition and promote healthy growth."
+            }
+          ]
         },
-        {
-            "name": "Leafhoppers",
-            "description": "Leafhoppers are small, flying insects that feed on the sap of chamomile leaves, causing stippling and yellowing. They can transmit plant diseases. Control leafhoppers by removing weeds and debris that may harbor them, spraying affected plants with insecticidal soap or neem oil, or introducing natural predators like lacewings or ladybugs."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that affects chamomile plants, causing a white, powdery growth on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
-        },
-        {
-            "name": "Damping Off",
-            "description": "Damping off is a fungal disease that affects chamomile seedlings, causing them to wilt and collapse at the soil line. It is often caused by overwatering or poor soil drainage. Prevent damping off by using sterile seed starting mix, providing good air circulation, and avoiding overwatering."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest chamomile flowers in the morning when the essential oil content is highest.",
-        "Dry chamomile flowers by spreading them out in a single layer in a well-ventilated area away from direct sunlight.",
-        "Store dried chamomile flowers in an airtight container in a cool, dark place to preserve their flavor and aroma.",
-        "Deadhead spent flowers regularly to promote continuous blooming and prevent self-seeding."
-    ],
+      "pests": [
+        "Aphids",
+        "Spider Mite",
+        "Whiteflies",
+        "Thrips"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps"
+      ],
+      "diseases": [
+        "Powdery Mildew",
+        "Downy Mildew",
+        "Leaf Spot",
+        "Root Rot"
+      ],
+      "tipsAndTricks": [
+        "Choose a planting site with well-drained soil and full sun exposure.",
+        "Directly sow chamomile seeds outdoors in the spring after the last frost, or start seeds indoors 6-8 weeks before the last frost date.",
+        "Water chamomile regularly, providing about 1 inch of water per week, and mulch to conserve moisture and suppress weeds.",
+        "Fertilize chamomile with a balanced fertilizer or compost tea every 4-6 weeks during the growing season, following package instructions.",
+        "Deadhead spent flowers to encourage continuous blooming and prevent self-seeding.",
+        "Harvest chamomile flowers as needed for drying or fresh use by snipping them from the stem.",
+        "Monitor plants regularly for signs of pests such as aphids and spider mites. Use insecticidal soap or neem oil as needed.",
+        "Watch for symptoms of diseases like powdery mildew and leaf spot. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+        "Allow some chamomile flowers to go to seed to ensure a continuous supply of plants in subsequent seasons.",
+        "Use chamomile flowers to make herbal tea, sachets, or infused oils for various culinary and medicinal purposes."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Chamomile: Planting Guide",

@@ -33,37 +33,95 @@
         "storageRecommendations": "Harvest lemon balm leaves and stems as needed for culinary, medicinal, or ornamental use. Use fresh leaves and stems immediately, or dry them for later use. To dry lemon balm, hang the stems upside down in small bunches in a well-ventilated area out of direct sunlight. Once fully dried, store the leaves and stems in an airtight container in a cool, dark place.",
         "harvestDescription": "Harvest lemon balm leaves and stems when they are fully developed and at their peak flavor or fragrance. Snip the stems just above a leaf node for continuous growth and harvesting."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+          "Indoors": [-8, -6],
+          "Transplant": [-6, -4],
+          "Outdoors": [-4, -2],
+          "LastSowDate": null
+        },
+        "FallSowing": {
+          "Outdoors": [8, 10],
+          "Transplant": [],
+          "DaysToMaturity": 60,
+          "FrostTolerance": "Tolerant"
+        },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Basil",
-                "description": "Basil is a good companion for lemon balm, as it may help deter certain pests and complement its aromatic qualities."
+              "name": "Lemon Verbena",
+              "description": "Lemon verbena is a beneficial companion for lemon balm as both plants share a similar lemony fragrance and are attractive to pollinators like bees and butterflies. Lemon verbena's aromatic foliage can help deter pests like mosquitoes and whiteflies, while also providing visual interest and culinary uses in the garden."
             },
             {
-                "name": "Chives",
-                "description": "Chives can be planted near lemon balm as they may help repel aphids and complement its flavor."
+              "name": "Mint",
+              "description": "Mint is a suitable companion for lemon balm as both plants belong to the mint family and have similar cultural requirements. Mint's vigorous growth habit can help suppress weed growth and provide ground cover around lemon balm plants. Additionally, mint's strong aroma can help deter pests and mask the scent of nearby plants."
+            },
+            {
+              "name": "Lavender",
+              "description": "Lavender is a compatible companion for lemon balm as both plants have aromatic foliage and are attractive to pollinators. Lavender's upright growth habit can complement the spreading nature of lemon balm, creating a visually appealing garden bed. Additionally, lavender's insect-repelling properties can help protect lemon balm from pests."
+            },
+            {
+              "name": "Chamomile",
+              "description": "Chamomile makes a beneficial companion for lemon balm as it attracts beneficial insects like hoverflies and parasitic wasps, which prey on common garden pests. Chamomile's delicate flowers can provide a contrasting texture and visual interest in the garden bed, enhancing the overall aesthetic."
+            },
+            {
+              "name": "Bee Balm",
+              "description": "Bee balm, also known as Monarda, is a suitable companion for lemon balm as both plants are attractive to pollinators and have similar cultural requirements. Bee balm's vibrant flowers can provide a pop of color in the garden and attract beneficial insects like bees and butterflies, which can help improve pollination and pest control."
             }
-        ],
-        "badCompanionPlants": []
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids can sometimes infest lemon balm, feeding on the sap of the leaves and causing distortion or yellowing. Control aphids by spraying affected plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs, and applying insecticidal soap or neem oil as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect lemon balm, causing a white powdery growth on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest lemon balm leaves regularly to encourage new growth and prevent flowering.",
-        "Mulch around plants to retain moisture and suppress weeds.",
-        "Consider planting lemon balm in containers to prevent it from becoming invasive.",
-        "Dry lemon balm leaves for longer storage by hanging bundles of stems upside down in a dark, well-ventilated area."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Brassicas",
+              "description": "Cabbages and other brassicas are not recommended as companion plants for lemon balm as they may attract pests like cabbage worms and aphids, which can also affect the health of lemon balm plants. Additionally, cabbages and brassicas have different soil and water requirements, leading to potential competition for resources."
+            },
+            {
+              "name": "Parsley",
+              "description": "Parsley is not an ideal companion for lemon balm as it may compete for resources like sunlight, water, and nutrients in the garden bed. Additionally, parsley may attract pests like carrot flies and aphids, which can also affect the health and growth of lemon balm plants."
+            },
+            {
+              "name": "Sage",
+              "description": "Sage should be avoided as a companion for lemon balm as it may compete for space and resources in the garden bed. Additionally, sage's strong aroma may overpower the delicate lemony fragrance of lemon balm, diminishing its overall appeal. Furthermore, sage may attract pests like spider mites and cabbage moths."
+            },
+            {
+              "name": "Fennel",
+              "description": "Fennel is not recommended as a companion for lemon balm as it exudes allelopathic compounds that may inhibit the growth of neighboring plants, including lemon balm. Additionally, fennel's invasive root system can outcompete lemon balm for nutrients and water, leading to stunted growth and reduced vigor."
+            },
+            {
+              "name": "Tomatoes",
+              "description": "Tomatoes should be avoided as companion plants for lemon balm as they have different cultural requirements and may compete for resources like water and nutrients in the garden bed. Additionally, tomatoes are susceptible to certain pests and diseases that may also affect the health of lemon balm plants."
+            }
+          ]
+        },
+      "pests": [
+        "Aphids",
+        "Spider Mite",
+        "Whiteflies",
+        "Thrips",
+        "Leafminer"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps"
+      ],
+      "diseases": [
+        "Powdery Mildew",
+        "Downy Mildew",
+        "Root Rot",
+        "Botrytis Blight"
+      ],
+      "tipsAndTricks": [
+        "Select a planting site with well-drained soil and partial to full sun exposure.",
+        "Plant lemon balm in containers or raised beds to prevent its aggressive spreading.",
+        "Water lemon balm regularly, keeping the soil consistently moist but not waterlogged.",
+        "Mulch around lemon balm plants to retain soil moisture and suppress weeds.",
+        "Harvest lemon balm leaves as needed for culinary or medicinal use by snipping them from the plant.",
+        "Prune lemon balm regularly to control its growth and promote bushiness.",
+        "Monitor plants regularly for signs of pests such as aphids and spider mites. Use insecticidal soap or neem oil as needed.",
+        "Watch for symptoms of diseases like powdery mildew and root rot. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+        "Lemon balm self-seeds readily, so deadhead flowers if you don't want them to spread.",
+        "Lemon balm attracts bees and other pollinators, making it a beneficial addition to the garden."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Lemon Balm: Planting Guide",

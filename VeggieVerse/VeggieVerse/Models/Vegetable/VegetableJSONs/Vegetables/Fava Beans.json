@@ -33,66 +33,94 @@
       "storageRecommendations": "Harvest fava beans when the pods are plump and firm but still young, usually before they become tough and fibrous. Cut the pods from the plant using scissors or a sharp knife. Store harvested fava beans in the refrigerator for up to a week. Shell the beans just before using them.",
       "harvestDescription": "Harvest fava beans by cutting the pods from the plant when they are mature and plump. Remove the beans from the pods and discard any damaged or discolored beans. Fava beans can be eaten fresh, cooked, or dried for later use."
     },
+    "SpringSowing": {
+      "Indoors": [],
+      "Transplant": [],
+      "Outdoors": [-4, -3],
+      "LastSowDate": -22
+    },
+    "FallSowing": {
+      "Outdoors": [],
+      "Transplant": [],
+      "DaysToMaturity": 90,
+      "FrostTolerance": "Hardy"
+    },
     "companionPlants": {
         "goodCompanionPlants": [
-            {
-                "name": "Corn",
-                "description": "Corn provides support for tall fava bean plants and can help deter pests like aphids and bean beetles."
-            },
-            {
-                "name": "Lettuce",
-                "description": "Lettuce is a beneficial companion plant for fava beans, as it helps suppress weeds and conserve soil moisture."
-            },
-            {
-                "name": "Marigolds",
-                "description": "Marigolds attract beneficial insects like ladybugs and lacewings, which prey on pests that attack fava beans."
-            }
+          {
+            "name": "Corn",
+            "description": "Fava beans can benefit from planting alongside corn, as corn provides structural support for the beans to climb. Additionally, fava beans can fix nitrogen in the soil, benefiting nitrogen-demanding corn plants."
+          },
+          {
+            "name": "Tomatoes",
+            "description": "Tomatoes and fava beans can be mutually beneficial when interplanted. Tomatoes provide natural trellising for the beans to climb, while fava beans can improve soil fertility through nitrogen fixation, promoting healthier growth for tomatoes."
+          },
+          {
+            "name": "Cucumbers",
+            "description": "Cucumbers and fava beans can be grown together as companion plants. Fava beans can provide nitrogen to cucumbers, enhancing their growth and yield, while cucumbers can benefit from the shade provided by fava bean foliage during hot weather."
+          },
+          {
+            "name": "Lettuce",
+            "description": "Fava beans and lettuce can be interplanted to maximize space in the garden. Lettuce grows quickly and has shallow roots, making it compatible with fava beans. The dense foliage of fava beans can also provide shade and moisture retention for lettuce."
+          },
+          {
+            "name": "Peas",
+            "description": "Peas and fava beans are both legumes and can benefit from each other's presence. They can be interplanted to maximize nitrogen fixation in the soil and promote healthier growth for both crops."
+          }
         ],
         "badCompanionPlants": [
-            {
-                "name": "Onions",
-                "description": "Onions can stunt the growth of fava beans and may interfere with their nitrogen-fixing abilities."
-            },
-            {
-                "name": "Garlic",
-                "description": "Garlic has similar allelopathic effects as onions and is not recommended as a companion plant for fava beans."
-            },
-            {
-                "name": "Sunflowers",
-                "description": "Sunflowers produce chemicals that inhibit the growth of neighboring plants, including fava beans."
-            }
+          {
+            "name": "Onions",
+            "description": "Onions and fava beans are not good companions, as onions can inhibit the growth of fava beans. Onions release substances that may interfere with the nitrogen-fixing ability of fava beans, leading to reduced growth and yield."
+          },
+          {
+            "name": "Garlic",
+            "description": "Garlic and fava beans are not ideal companions, as garlic can inhibit the growth of fava beans. Garlic releases compounds that may interfere with nitrogen fixation in fava beans, leading to reduced nitrogen availability and stunted growth."
+          },
+          {
+            "name": "Chives",
+            "description": "Chives and fava beans are not recommended to be planted together. Chives have allelopathic properties that can inhibit the growth of nearby plants, including fava beans. Planting them together may lead to reduced growth and yield for fava beans."
+          }
         ]
-    },
+      },
     "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are common pests of fava beans, sucking sap from leaves and causing them to curl and distort. Control aphids by spraying affected plants with water to dislodge them, introducing natural predators like ladybugs or lacewings, and using insecticidal soap or neem oil."
-        },
-        {
-            "name": "Bean Beetles",
-            "description": "Bean beetles feed on the leaves and pods of fava beans, causing damage and reducing yields. Handpick beetles from plants and destroy them, or use row covers to protect plants from infestation."
-        },
-        {
-            "name": "Spider Mites",
-            "description": "Spider mites are tiny pests that feed on the undersides of fava bean leaves, sucking sap and causing stippling and discoloration. Control spider mites by spraying affected plants with water to dislodge them, applying insecticidal soap or neem oil, and maintaining proper plant hygiene."
-        }
+      "Aphids",
+      "Leaf Beetle",
+      "Leafhopper",
+      "Whiteflies",
+      "Thrips",
+      "Cutworm",
+      "Armyworm",
+      "Flea Beetle",
+      "Looper",
+      "Mite",
+      "Asian Lady Beetle",
+      "Blister Beetle",
+      "Tarnished Plant Bug"
+    ],
+    "beneficial_insects": [
+      "Ladybugs",
+      "Lacewings",
+      "Hoverflies",
+      "Parasitic Wasps",
+      "Predatory Mites"
     ],
     "diseases": [
-        {
-            "name": "Chocolate Spot",
-            "description": "Chocolate spot is a fungal disease that affects fava beans, causing dark brown lesions on leaves and pods. It thrives in cool, wet conditions and can spread rapidly in crowded or poorly ventilated areas. Control chocolate spot by planting disease-resistant varieties, providing good air circulation, and avoiding overhead watering."
-        },
-        {
-            "name": "Rust",
-            "description": "Rust is a fungal disease that affects fava beans, causing orange-brown pustules on leaves and stems. It can weaken plants and reduce yields if left untreated. Control rust by planting disease-resistant varieties, removing and destroying infected plant debris, and applying fungicidal sprays preventatively."
-        }
+      "Rust",
+      "Powdery Mildew",
+      "Anthracnose",
+      "Root Rot",
+      "Fusarium Wilt",
+      "Curly Top"
     ],
     "tipsAndTricks": [
-        "Sow fava beans directly outdoors in the garden as soon as the soil can be worked in early spring.",
-        "Provide support for tall fava bean plants to prevent lodging and protect them from strong winds.",
-        "Harvest fava beans when the pods are plump and firm, but before they become tough and fibrous.",
-        "Rotate fava bean crops annually to prevent soilborne diseases and nutrient depletion.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed to prevent damage."
+      "Plant fava beans in well-drained soil with full sun exposure.",
+      "Rotate crops to prevent the buildup of pests and diseases in the soil.",
+      "Provide support for fava bean plants if they become top-heavy.",
+      "Water fava beans regularly, especially during dry periods.",
+      "Apply mulch around the base of plants to retain moisture and suppress weeds.",
+      "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+      "Harvest fava beans when they are plump and firm, typically before they become too mature and tough."
     ],
     "linksToAdditionalResources": [
         {

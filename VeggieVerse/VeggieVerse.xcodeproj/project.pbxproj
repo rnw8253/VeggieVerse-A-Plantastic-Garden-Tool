@@ -11,6 +11,11 @@
 		9411F3772B8AFA69005DC3A1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9411F3762B8AFA69005DC3A1 /* ContentView.swift */; };
 		9411F3792B8AFA6D005DC3A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9411F3782B8AFA6D005DC3A1 /* Assets.xcassets */; };
 		9411F37C2B8AFA6D005DC3A1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9411F37B2B8AFA6D005DC3A1 /* Preview Assets.xcassets */; };
+		94139E6C2BC59D8200E0C6AD /* GardenBedTileDisplayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94139E6B2BC59D8200E0C6AD /* GardenBedTileDisplayView.swift */; };
+		94139E702BC5BE4F00E0C6AD /* Algorithms in Frameworks */ = {isa = PBXBuildFile; productRef = 94139E6F2BC5BE4F00E0C6AD /* Algorithms */; };
+		94139E722BC774AC00E0C6AD /* GardenBedVegetableSelection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94139E712BC774AC00E0C6AD /* GardenBedVegetableSelection.swift */; };
+		94139E742BCD7C5800E0C6AD /* Square.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94139E732BCD7C5800E0C6AD /* Square.swift */; };
+		94139E762BCD7C9D00E0C6AD /* Plant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94139E752BCD7C9D00E0C6AD /* Plant.swift */; };
 		94205D442B8BC01600D79647 /* data.realm in Resources */ = {isa = PBXBuildFile; fileRef = 94205D432B8BC00F00D79647 /* data.realm */; };
 		94205D502B8BCFF000D79647 /* LoadDataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94205D4F2B8BCFF000D79647 /* LoadDataModel.swift */; };
 		94205D542B8BD02500D79647 /* Route.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94205D532B8BD02500D79647 /* Route.swift */; };
@@ -19,7 +24,7 @@
 		94205D5D2B8BD25100D79647 /* AppState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94205D5C2B8BD25100D79647 /* AppState.swift */; };
 		94205D5F2B8BD2FD00D79647 /* RealmManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94205D5E2B8BD2FD00D79647 /* RealmManager.swift */; };
 		942782F52B990DE5003713F5 /* PestsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 942782F42B990DE5003713F5 /* PestsView.swift */; };
-		942782F72B992112003713F5 /* DiseaseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 942782F62B992112003713F5 /* DiseaseView.swift */; };
+		942782F72B992112003713F5 /* DiseasesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 942782F62B992112003713F5 /* DiseasesView.swift */; };
 		942782F92B9A86BE003713F5 /* CompanionPlantsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 942782F82B9A86BE003713F5 /* CompanionPlantsView.swift */; };
 		942782FE2B9ADCB8003713F5 /* Basil.json in Resources */ = {isa = PBXBuildFile; fileRef = 942782FD2B9ADCB8003713F5 /* Basil.json */; };
 		942783002B9B8EE6003713F5 /* Lettuce.json in Resources */ = {isa = PBXBuildFile; fileRef = 942782FF2B9B8EE6003713F5 /* Lettuce.json */; };
@@ -147,7 +152,6 @@
 		9427844B2B9CF857003713F5 /* Mizuna.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784382B9CF856003713F5 /* Mizuna.json */; };
 		9427844C2B9CF857003713F5 /* Fava Beans.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784392B9CF856003713F5 /* Fava Beans.json */; };
 		9427844D2B9CF857003713F5 /* Cardoon.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427843A2B9CF856003713F5 /* Cardoon.json */; };
-		9427844E2B9CF857003713F5 /* Loofah.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427843B2B9CF856003713F5 /* Loofah.json */; };
 		9427844F2B9CF857003713F5 /* Water Spinach.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427843C2B9CF856003713F5 /* Water Spinach.json */; };
 		942784502B9CF857003713F5 /* Napa Cabbage.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427843D2B9CF856003713F5 /* Napa Cabbage.json */; };
 		942784522B9CF857003713F5 /* Pole Beans.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427843F2B9CF857003713F5 /* Pole Beans.json */; };
@@ -156,18 +160,28 @@
 		942784552B9CF857003713F5 /* Chayote.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784422B9CF857003713F5 /* Chayote.json */; };
 		942784572B9CF857003713F5 /* Moringa.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784442B9CF857003713F5 /* Moringa.json */; };
 		942784592B9CF857003713F5 /* Tatsoi.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784462B9CF857003713F5 /* Tatsoi.json */; };
-		9427845A2B9CF857003713F5 /* Scallions (Green Onions).json in Resources */ = {isa = PBXBuildFile; fileRef = 942784472B9CF857003713F5 /* Scallions (Green Onions).json */; };
+		9427845A2B9CF857003713F5 /* Scallions.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784472B9CF857003713F5 /* Scallions.json */; };
 		9427845B2B9CF857003713F5 /* Shallot.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784482B9CF857003713F5 /* Shallot.json */; };
 		9427845C2B9CF857003713F5 /* Chinese Broccoli.json in Resources */ = {isa = PBXBuildFile; fileRef = 942784492B9CF857003713F5 /* Chinese Broccoli.json */; };
 		9427845D2B9CF857003713F5 /* Tomatillo.json in Resources */ = {isa = PBXBuildFile; fileRef = 9427844A2B9CF857003713F5 /* Tomatillo.json */; };
+		946034C32BAD245600563FC0 /* GardenBedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946034C22BAD245600563FC0 /* GardenBedView.swift */; };
+		946034C52BAD468D00563FC0 /* GardenBedListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946034C42BAD468D00563FC0 /* GardenBedListView.swift */; };
+		946034C72BADDC4300563FC0 /* realmManagerSquareFootBed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946034C62BADDC4300563FC0 /* realmManagerSquareFootBed.swift */; };
+		946034CA2BB1D13500563FC0 /* Marigold.json in Resources */ = {isa = PBXBuildFile; fileRef = 946034C92BB1D13500563FC0 /* Marigold.json */; };
+		946034CC2BB3269B00563FC0 /* PlantCategory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946034CB2BB3269B00563FC0 /* PlantCategory.swift */; };
+		946034CE2BB4794600563FC0 /* GardenBedLayoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946034CD2BB4794600563FC0 /* GardenBedLayoutView.swift */; };
+		946034D02BB4796A00563FC0 /* GenerateBed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946034CF2BB4796A00563FC0 /* GenerateBed.swift */; };
+		946034D32BB479C100563FC0 /* GardenBedTileContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946034D22BB479C100563FC0 /* GardenBedTileContainerView.swift */; };
+		946034D72BB65C3A00563FC0 /* GardenBedToDoListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946034D62BB65C3A00563FC0 /* GardenBedToDoListView.swift */; };
+		946034D92BB9C80800563FC0 /* Brain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 946034D82BB9C80800563FC0 /* Brain.swift */; };
+		94A210F22BAA303300D7E342 /* LazyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94A210F12BAA303300D7E342 /* LazyView.swift */; };
+		94A210F52BAA34AF00D7E342 /* SquareFootBed.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94A210F42BAA34AF00D7E342 /* SquareFootBed.swift */; };
 		94BEB1382B8CE91000754E01 /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB1372B8CE91000754E01 /* LocationModel.swift */; };
 		94BEB1472B8ED4DD00754E01 /* VegetableModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB1462B8ED4DD00754E01 /* VegetableModel.swift */; };
 		94BEB1492B8F964500754E01 /* CurvedSideRectangle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB1482B8F964500754E01 /* CurvedSideRectangle.swift */; };
 		94BEB14E2B8FA64500754E01 /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB14D2B8FA64500754E01 /* ColorExtension.swift */; };
 		94BEB1522B9013D500754E01 /* CustomNavBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB1512B9013D500754E01 /* CustomNavBarView.swift */; };
 		94BEB15A2B91658F00754E01 /* VegetableNavBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB1592B91658F00754E01 /* VegetableNavBarView.swift */; };
-		94BEB15C2B916E4600754E01 /* RoundVarietyCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB15B2B916E4600754E01 /* RoundVarietyCard.swift */; };
-		94BEB15E2B92589E00754E01 /* VarietyPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB15D2B92589E00754E01 /* VarietyPickerView.swift */; };
 		94BEB1622B957BF300754E01 /* PlantHardinessZone.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB1612B957BF300754E01 /* PlantHardinessZone.swift */; };
 		94BEB1662B9585AC00754E01 /* hardiness_zones.csv in Resources */ = {isa = PBXBuildFile; fileRef = 94BEB1652B9585AC00754E01 /* hardiness_zones.csv */; };
 		94BEB1682B958FF200754E01 /* PlantSowDates.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB1672B958FF200754E01 /* PlantSowDates.swift */; };
@@ -179,6 +193,14 @@
 		94BEB17D2B97CC1100754E01 /* CareAndMaintenanceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB17C2B97CC1100754E01 /* CareAndMaintenanceView.swift */; };
 		94BEB17F2B97E11000754E01 /* FullWidthTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB17E2B97E11000754E01 /* FullWidthTextView.swift */; };
 		94BEB1822B98274900754E01 /* HarvestingAndStorageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94BEB1812B98274900754E01 /* HarvestingAndStorageView.swift */; };
+		94DAF4572BA140B400EE4625 /* GeneralView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94DAF4562BA140B400EE4625 /* GeneralView.swift */; };
+		94F39A432BA37EEF000FD722 /* pests.json in Resources */ = {isa = PBXBuildFile; fileRef = 94F39A422BA37EEF000FD722 /* pests.json */; };
+		94F39A452BA37EFD000FD722 /* Pests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94F39A442BA37EFD000FD722 /* Pests.swift */; };
+		94F39A472BA3E545000FD722 /* Diseases.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94F39A462BA3E545000FD722 /* Diseases.swift */; };
+		94F39A4A2BA3E56E000FD722 /* diseases.json in Resources */ = {isa = PBXBuildFile; fileRef = 94F39A492BA3E56E000FD722 /* diseases.json */; };
+		94F39A4D2BA3EDE2000FD722 /* DiseaseDisplayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94F39A4C2BA3EDE2000FD722 /* DiseaseDisplayView.swift */; };
+		94F39A502BA4010F000FD722 /* PestDisplayView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94F39A4F2BA4010F000FD722 /* PestDisplayView.swift */; };
+		94F39A522BA402F9000FD722 /* beneficial_insects.json in Resources */ = {isa = PBXBuildFile; fileRef = 94F39A512BA402F9000FD722 /* beneficial_insects.json */; };
 		B354D617A92DD730D1951E9F /* Pods_VeggieVerse.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EC5AC6B380F7B61FADC25895 /* Pods_VeggieVerse.framework */; };
 /* End PBXBuildFile section */
 
@@ -190,6 +212,11 @@
 		9411F3762B8AFA69005DC3A1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		9411F3782B8AFA6D005DC3A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9411F37B2B8AFA6D005DC3A1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		94139E6B2BC59D8200E0C6AD /* GardenBedTileDisplayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GardenBedTileDisplayView.swift; sourceTree = "<group>"; };
+		94139E6D2BC5BDB700E0C6AD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		94139E712BC774AC00E0C6AD /* GardenBedVegetableSelection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GardenBedVegetableSelection.swift; sourceTree = "<group>"; };
+		94139E732BCD7C5800E0C6AD /* Square.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Square.swift; sourceTree = "<group>"; };
+		94139E752BCD7C9D00E0C6AD /* Plant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Plant.swift; sourceTree = "<group>"; };
 		94205D432B8BC00F00D79647 /* data.realm */ = {isa = PBXFileReference; lastKnownFileType = file; path = data.realm; sourceTree = "<group>"; };
 		94205D4F2B8BCFF000D79647 /* LoadDataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadDataModel.swift; sourceTree = "<group>"; };
 		94205D532B8BD02500D79647 /* Route.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Route.swift; sourceTree = "<group>"; };
@@ -198,7 +225,7 @@
 		94205D5C2B8BD25100D79647 /* AppState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppState.swift; sourceTree = "<group>"; };
 		94205D5E2B8BD2FD00D79647 /* RealmManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RealmManager.swift; sourceTree = "<group>"; };
 		942782F42B990DE5003713F5 /* PestsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PestsView.swift; sourceTree = "<group>"; };
-		942782F62B992112003713F5 /* DiseaseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiseaseView.swift; sourceTree = "<group>"; };
+		942782F62B992112003713F5 /* DiseasesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiseasesView.swift; sourceTree = "<group>"; };
 		942782F82B9A86BE003713F5 /* CompanionPlantsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompanionPlantsView.swift; sourceTree = "<group>"; };
 		942782FD2B9ADCB8003713F5 /* Basil.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Basil.json; sourceTree = "<group>"; };
 		942782FF2B9B8EE6003713F5 /* Lettuce.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Lettuce.json; sourceTree = "<group>"; };
@@ -326,7 +353,6 @@
 		942784382B9CF856003713F5 /* Mizuna.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Mizuna.json; sourceTree = "<group>"; };
 		942784392B9CF856003713F5 /* Fava Beans.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Fava Beans.json"; sourceTree = "<group>"; };
 		9427843A2B9CF856003713F5 /* Cardoon.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Cardoon.json; sourceTree = "<group>"; };
-		9427843B2B9CF856003713F5 /* Loofah.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Loofah.json; sourceTree = "<group>"; };
 		9427843C2B9CF856003713F5 /* Water Spinach.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Water Spinach.json"; sourceTree = "<group>"; };
 		9427843D2B9CF856003713F5 /* Napa Cabbage.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Napa Cabbage.json"; sourceTree = "<group>"; };
 		9427843F2B9CF857003713F5 /* Pole Beans.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Pole Beans.json"; sourceTree = "<group>"; };
@@ -335,18 +361,28 @@
 		942784422B9CF857003713F5 /* Chayote.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Chayote.json; sourceTree = "<group>"; };
 		942784442B9CF857003713F5 /* Moringa.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Moringa.json; sourceTree = "<group>"; };
 		942784462B9CF857003713F5 /* Tatsoi.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Tatsoi.json; sourceTree = "<group>"; };
-		942784472B9CF857003713F5 /* Scallions (Green Onions).json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Scallions (Green Onions).json"; sourceTree = "<group>"; };
+		942784472B9CF857003713F5 /* Scallions.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Scallions.json; sourceTree = "<group>"; };
 		942784482B9CF857003713F5 /* Shallot.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Shallot.json; sourceTree = "<group>"; };
 		942784492B9CF857003713F5 /* Chinese Broccoli.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "Chinese Broccoli.json"; sourceTree = "<group>"; };
 		9427844A2B9CF857003713F5 /* Tomatillo.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Tomatillo.json; sourceTree = "<group>"; };
+		946034C22BAD245600563FC0 /* GardenBedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GardenBedView.swift; sourceTree = "<group>"; };
+		946034C42BAD468D00563FC0 /* GardenBedListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GardenBedListView.swift; sourceTree = "<group>"; };
+		946034C62BADDC4300563FC0 /* realmManagerSquareFootBed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = realmManagerSquareFootBed.swift; sourceTree = "<group>"; };
+		946034C92BB1D13500563FC0 /* Marigold.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = Marigold.json; sourceTree = "<group>"; };
+		946034CB2BB3269B00563FC0 /* PlantCategory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantCategory.swift; sourceTree = "<group>"; };
+		946034CD2BB4794600563FC0 /* GardenBedLayoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GardenBedLayoutView.swift; sourceTree = "<group>"; };
+		946034CF2BB4796A00563FC0 /* GenerateBed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenerateBed.swift; sourceTree = "<group>"; };
+		946034D22BB479C100563FC0 /* GardenBedTileContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GardenBedTileContainerView.swift; sourceTree = "<group>"; };
+		946034D62BB65C3A00563FC0 /* GardenBedToDoListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GardenBedToDoListView.swift; sourceTree = "<group>"; };
+		946034D82BB9C80800563FC0 /* Brain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Brain.swift; sourceTree = "<group>"; };
+		94A210F12BAA303300D7E342 /* LazyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyView.swift; sourceTree = "<group>"; };
+		94A210F42BAA34AF00D7E342 /* SquareFootBed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SquareFootBed.swift; sourceTree = "<group>"; };
 		94BEB1372B8CE91000754E01 /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
 		94BEB1462B8ED4DD00754E01 /* VegetableModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VegetableModel.swift; sourceTree = "<group>"; };
 		94BEB1482B8F964500754E01 /* CurvedSideRectangle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurvedSideRectangle.swift; sourceTree = "<group>"; };
 		94BEB14D2B8FA64500754E01 /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
 		94BEB1512B9013D500754E01 /* CustomNavBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomNavBarView.swift; sourceTree = "<group>"; };
 		94BEB1592B91658F00754E01 /* VegetableNavBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VegetableNavBarView.swift; sourceTree = "<group>"; };
-		94BEB15B2B916E4600754E01 /* RoundVarietyCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundVarietyCard.swift; sourceTree = "<group>"; };
-		94BEB15D2B92589E00754E01 /* VarietyPickerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VarietyPickerView.swift; sourceTree = "<group>"; };
 		94BEB1612B957BF300754E01 /* PlantHardinessZone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantHardinessZone.swift; sourceTree = "<group>"; };
 		94BEB1652B9585AC00754E01 /* hardiness_zones.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = hardiness_zones.csv; sourceTree = "<group>"; };
 		94BEB1672B958FF200754E01 /* PlantSowDates.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlantSowDates.swift; sourceTree = "<group>"; };
@@ -358,6 +394,14 @@
 		94BEB17C2B97CC1100754E01 /* CareAndMaintenanceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CareAndMaintenanceView.swift; sourceTree = "<group>"; };
 		94BEB17E2B97E11000754E01 /* FullWidthTextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FullWidthTextView.swift; sourceTree = "<group>"; };
 		94BEB1812B98274900754E01 /* HarvestingAndStorageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HarvestingAndStorageView.swift; sourceTree = "<group>"; };
+		94DAF4562BA140B400EE4625 /* GeneralView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GeneralView.swift; sourceTree = "<group>"; };
+		94F39A422BA37EEF000FD722 /* pests.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = pests.json; sourceTree = "<group>"; };
+		94F39A442BA37EFD000FD722 /* Pests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pests.swift; sourceTree = "<group>"; };
+		94F39A462BA3E545000FD722 /* Diseases.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Diseases.swift; sourceTree = "<group>"; };
+		94F39A492BA3E56E000FD722 /* diseases.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = diseases.json; sourceTree = "<group>"; };
+		94F39A4C2BA3EDE2000FD722 /* DiseaseDisplayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DiseaseDisplayView.swift; sourceTree = "<group>"; };
+		94F39A4F2BA4010F000FD722 /* PestDisplayView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PestDisplayView.swift; sourceTree = "<group>"; };
+		94F39A512BA402F9000FD722 /* beneficial_insects.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = beneficial_insects.json; sourceTree = "<group>"; };
 		EC5AC6B380F7B61FADC25895 /* Pods_VeggieVerse.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_VeggieVerse.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -366,6 +410,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94139E702BC5BE4F00E0C6AD /* Algorithms in Frameworks */,
 				B354D617A92DD730D1951E9F /* Pods_VeggieVerse.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -413,9 +458,11 @@
 		9411F3732B8AFA69005DC3A1 /* VeggieVerse */ = {
 			isa = PBXGroup;
 			children = (
+				94139E6D2BC5BDB700E0C6AD /* Info.plist */,
 				9411F3742B8AFA69005DC3A1 /* VeggieVerseApp.swift */,
-				94BEB14C2B8FA62B00754E01 /* Resources */,
 				9411F3762B8AFA69005DC3A1 /* ContentView.swift */,
+				94BEB14C2B8FA62B00754E01 /* Resources */,
+				946034BF2BAD232B00563FC0 /* GardenViews */,
 				94205D552B8BD03C00D79647 /* VegetableViews */,
 				94205D452B8BC01F00D79647 /* Models */,
 				9411F3782B8AFA6D005DC3A1 /* Assets.xcassets */,
@@ -436,7 +483,12 @@
 		94205D452B8BC01F00D79647 /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				946034D82BB9C80800563FC0 /* Brain.swift */,
 				94205D4F2B8BCFF000D79647 /* LoadDataModel.swift */,
+				946034CB2BB3269B00563FC0 /* PlantCategory.swift */,
+				94A210F32BAA342000D7E342 /* SquareFootBed */,
+				94F39A482BA3E549000FD722 /* Diseases */,
+				94F39A412BA37EDA000FD722 /* Pests */,
 				94BEB1712B966EB400754E01 /* Location */,
 				94BEB1432B8ED49600754E01 /* Vegetable */,
 			);
@@ -450,8 +502,6 @@
 				94BEB1722B97A6A100754E01 /* VegetbaleView */,
 				94BEB1512B9013D500754E01 /* CustomNavBarView.swift */,
 				94BEB1592B91658F00754E01 /* VegetableNavBarView.swift */,
-				94BEB15D2B92589E00754E01 /* VarietyPickerView.swift */,
-				94BEB15B2B916E4600754E01 /* RoundVarietyCard.swift */,
 			);
 			path = VegetableViews;
 			sourceTree = "<group>";
@@ -499,7 +549,6 @@
 				942783532B9BA4E6003713F5 /* Kohlrabi.json */,
 				942783412B9BA4E5003713F5 /* Leeks.json */,
 				942782FF2B9B8EE6003713F5 /* Lettuce.json */,
-				9427843B2B9CF856003713F5 /* Loofah.json */,
 				942784382B9CF856003713F5 /* Mizuna.json */,
 				942784442B9CF857003713F5 /* Moringa.json */,
 				9427834A2B9BA4E5003713F5 /* Mustard Greens.json */,
@@ -515,7 +564,7 @@
 				9427834E2B9BA4E6003713F5 /* Radicchio.json */,
 				9427833C2B9BA4E5003713F5 /* Radishes.json */,
 				942783372B9BA4E4003713F5 /* Rutabagas.json */,
-				942784472B9CF857003713F5 /* Scallions (Green Onions).json */,
+				942784472B9CF857003713F5 /* Scallions.json */,
 				942784482B9CF857003713F5 /* Shallot.json */,
 				942783452B9BA4E5003713F5 /* Spinach.json */,
 				942783382B9BA4E5003713F5 /* Squash.json */,
@@ -527,6 +576,7 @@
 				942783552B9BA4E6003713F5 /* Turnips.json */,
 				9427843C2B9CF856003713F5 /* Water Spinach.json */,
 				942783352B9BA4E4003713F5 /* Zucchini.json */,
+				946034C92BB1D13500563FC0 /* Marigold.json */,
 			);
 			path = Vegetables;
 			sourceTree = "<group>";
@@ -626,6 +676,48 @@
 			path = Fruits;
 			sourceTree = "<group>";
 		};
+		946034BF2BAD232B00563FC0 /* GardenViews */ = {
+			isa = PBXGroup;
+			children = (
+				946034C42BAD468D00563FC0 /* GardenBedListView.swift */,
+				946034C22BAD245600563FC0 /* GardenBedView.swift */,
+				946034D62BB65C3A00563FC0 /* GardenBedToDoListView.swift */,
+				946034D12BB479AE00563FC0 /* GardenBedLayoutView */,
+			);
+			path = GardenViews;
+			sourceTree = "<group>";
+		};
+		946034C82BADDC4800563FC0 /* Realm Manager */ = {
+			isa = PBXGroup;
+			children = (
+				94205D5E2B8BD2FD00D79647 /* RealmManager.swift */,
+				946034C62BADDC4300563FC0 /* realmManagerSquareFootBed.swift */,
+			);
+			path = "Realm Manager";
+			sourceTree = "<group>";
+		};
+		946034D12BB479AE00563FC0 /* GardenBedLayoutView */ = {
+			isa = PBXGroup;
+			children = (
+				946034CD2BB4794600563FC0 /* GardenBedLayoutView.swift */,
+				946034D22BB479C100563FC0 /* GardenBedTileContainerView.swift */,
+				94139E6B2BC59D8200E0C6AD /* GardenBedTileDisplayView.swift */,
+				94139E712BC774AC00E0C6AD /* GardenBedVegetableSelection.swift */,
+			);
+			path = GardenBedLayoutView;
+			sourceTree = "<group>";
+		};
+		94A210F32BAA342000D7E342 /* SquareFootBed */ = {
+			isa = PBXGroup;
+			children = (
+				94A210F42BAA34AF00D7E342 /* SquareFootBed.swift */,
+				94139E732BCD7C5800E0C6AD /* Square.swift */,
+				94139E752BCD7C9D00E0C6AD /* Plant.swift */,
+				946034CF2BB4796A00563FC0 /* GenerateBed.swift */,
+			);
+			path = SquareFootBed;
+			sourceTree = "<group>";
+		};
 		94BEB1342B8CE8E300754E01 /* CurrentLocation */ = {
 			isa = PBXGroup;
 			children = (
@@ -648,7 +740,8 @@
 			children = (
 				94BEB1482B8F964500754E01 /* CurvedSideRectangle.swift */,
 				94BEB14D2B8FA64500754E01 /* ColorExtension.swift */,
-				94205D5E2B8BD2FD00D79647 /* RealmManager.swift */,
+				94A210F12BAA303300D7E342 /* LazyView.swift */,
+				946034C82BADDC4800563FC0 /* Realm Manager */,
 				94205D5C2B8BD25100D79647 /* AppState.swift */,
 				94205D532B8BD02500D79647 /* Route.swift */,
 			);
@@ -673,14 +766,52 @@
 				94BEB1782B97A72A00754E01 /* VegetableSectionHeaderView.swift */,
 				94BEB17E2B97E11000754E01 /* FullWidthTextView.swift */,
 				94BEB1752B97A6F600754E01 /* HalfWidthTextView.swift */,
+				94DAF4562BA140B400EE4625 /* GeneralView.swift */,
 				94BEB1732B97A6C800754E01 /* SowingAndPlantingView.swift */,
 				94BEB17C2B97CC1100754E01 /* CareAndMaintenanceView.swift */,
 				94BEB1812B98274900754E01 /* HarvestingAndStorageView.swift */,
-				942782F42B990DE5003713F5 /* PestsView.swift */,
-				942782F62B992112003713F5 /* DiseaseView.swift */,
+				94F39A4E2BA400FA000FD722 /* PestView */,
+				94F39A4B2BA3EBD6000FD722 /* DiseaseView */,
 				942782F82B9A86BE003713F5 /* CompanionPlantsView.swift */,
 			);
 			path = VegetbaleView;
+			sourceTree = "<group>";
+		};
+		94F39A412BA37EDA000FD722 /* Pests */ = {
+			isa = PBXGroup;
+			children = (
+				94F39A422BA37EEF000FD722 /* pests.json */,
+				94F39A512BA402F9000FD722 /* beneficial_insects.json */,
+				94F39A442BA37EFD000FD722 /* Pests.swift */,
+			);
+			path = Pests;
+			sourceTree = "<group>";
+		};
+		94F39A482BA3E549000FD722 /* Diseases */ = {
+			isa = PBXGroup;
+			children = (
+				94F39A492BA3E56E000FD722 /* diseases.json */,
+				94F39A462BA3E545000FD722 /* Diseases.swift */,
+			);
+			path = Diseases;
+			sourceTree = "<group>";
+		};
+		94F39A4B2BA3EBD6000FD722 /* DiseaseView */ = {
+			isa = PBXGroup;
+			children = (
+				942782F62B992112003713F5 /* DiseasesView.swift */,
+				94F39A4C2BA3EDE2000FD722 /* DiseaseDisplayView.swift */,
+			);
+			path = DiseaseView;
+			sourceTree = "<group>";
+		};
+		94F39A4E2BA400FA000FD722 /* PestView */ = {
+			isa = PBXGroup;
+			children = (
+				942782F42B990DE5003713F5 /* PestsView.swift */,
+				94F39A4F2BA4010F000FD722 /* PestDisplayView.swift */,
+			);
+			path = PestView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -701,6 +832,9 @@
 			dependencies = (
 			);
 			name = VeggieVerse;
+			packageProductDependencies = (
+				94139E6F2BC5BE4F00E0C6AD /* Algorithms */,
+			);
 			productName = VeggieVerse;
 			productReference = 9411F3712B8AFA69005DC3A1 /* VeggieVerse.app */;
 			productType = "com.apple.product-type.application";
@@ -717,6 +851,7 @@
 				TargetAttributes = {
 					9411F3702B8AFA69005DC3A1 = {
 						CreatedOnToolsVersion = 14.0;
+						LastSwiftMigration = 1420;
 					};
 				};
 			};
@@ -729,6 +864,9 @@
 				Base,
 			);
 			mainGroup = 9411F3682B8AFA69005DC3A1;
+			packageReferences = (
+				94139E6E2BC5BE4F00E0C6AD /* XCRemoteSwiftPackageReference "swift-algorithms" */,
+			);
 			productRefGroup = 9411F3722B8AFA69005DC3A1 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -760,6 +898,7 @@
 				942783DD2B9CF45B003713F5 /* Figs.json in Resources */,
 				942783302B9B9F24003713F5 /* Mint.json in Resources */,
 				942784242B9CF840003713F5 /* Bee Balm.json in Resources */,
+				946034CA2BB1D13500563FC0 /* Marigold.json in Resources */,
 				942784592B9CF857003713F5 /* Tatsoi.json in Resources */,
 				942784352B9CF840003713F5 /* Lemon Verbena.json in Resources */,
 				9427844D2B9CF857003713F5 /* Cardoon.json in Resources */,
@@ -787,7 +926,6 @@
 				942783642B9BA4E6003713F5 /* Carrots.json in Resources */,
 				942784222B9CF840003713F5 /* Nasturtium.json in Resources */,
 				9427836D2B9BA4E6003713F5 /* Kale.json in Resources */,
-				9427844E2B9CF857003713F5 /* Loofah.json in Resources */,
 				942783742B9BA4E6003713F5 /* Bok Choy.json in Resources */,
 				942784532B9CF857003713F5 /* Peanut.json in Resources */,
 				9427835C2B9BA4E6003713F5 /* Zucchini.json in Resources */,
@@ -808,9 +946,11 @@
 				942783612B9BA4E6003713F5 /* Cabbage.json in Resources */,
 				942783312B9B9F24003713F5 /* Oregano.json in Resources */,
 				9427835D2B9BA4E6003713F5 /* Pumpkins.json in Resources */,
+				94F39A432BA37EEF000FD722 /* pests.json in Resources */,
 				9427832D2B9B9F24003713F5 /* Dandelion Greens.json in Resources */,
 				942783DB2B9CF45B003713F5 /* Apples.json in Resources */,
 				942783E52B9CF45C003713F5 /* Cranberries.json in Resources */,
+				94F39A522BA402F9000FD722 /* beneficial_insects.json in Resources */,
 				942783722B9BA4E6003713F5 /* Brussels Sprouts.json in Resources */,
 				9427845B2B9CF857003713F5 /* Shallot.json in Resources */,
 				94205D442B8BC01600D79647 /* data.realm in Resources */,
@@ -829,7 +969,7 @@
 				942782FE2B9ADCB8003713F5 /* Basil.json in Resources */,
 				942783D22B9CF45B003713F5 /* Blackberries.json in Resources */,
 				9427835B2B9BA4E6003713F5 /* Onions.json in Resources */,
-				9427845A2B9CF857003713F5 /* Scallions (Green Onions).json in Resources */,
+				9427845A2B9CF857003713F5 /* Scallions.json in Resources */,
 				942784292B9CF840003713F5 /* Sunflower.json in Resources */,
 				942783782B9BA4E6003713F5 /* Sweet Potatoes.json in Resources */,
 				942784252B9CF840003713F5 /* Edamame.json in Resources */,
@@ -861,6 +1001,7 @@
 				942784502B9CF857003713F5 /* Napa Cabbage.json in Resources */,
 				9427841C2B9CF840003713F5 /* Watercress.json in Resources */,
 				942783022B9B8F15003713F5 /* Bell Peppers.json in Resources */,
+				94F39A4A2BA3E56E000FD722 /* diseases.json in Resources */,
 				942783682B9BA4E6003713F5 /* Leeks.json in Resources */,
 				942783F52B9CF5C4003713F5 /* Feverfew.json in Resources */,
 				9427841F2B9CF840003713F5 /* German Chamomile.json in Resources */,
@@ -938,35 +1079,53 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				94F39A4D2BA3EDE2000FD722 /* DiseaseDisplayView.swift in Sources */,
 				94BEB1492B8F964500754E01 /* CurvedSideRectangle.swift in Sources */,
+				946034D02BB4796A00563FC0 /* GenerateBed.swift in Sources */,
+				94F39A452BA37EFD000FD722 /* Pests.swift in Sources */,
 				94BEB1522B9013D500754E01 /* CustomNavBarView.swift in Sources */,
 				94BEB1742B97A6C800754E01 /* SowingAndPlantingView.swift in Sources */,
+				946034CC2BB3269B00563FC0 /* PlantCategory.swift in Sources */,
+				94DAF4572BA140B400EE4625 /* GeneralView.swift in Sources */,
 				942782F52B990DE5003713F5 /* PestsView.swift in Sources */,
 				9411F3772B8AFA69005DC3A1 /* ContentView.swift in Sources */,
+				946034C72BADDC4300563FC0 /* realmManagerSquareFootBed.swift in Sources */,
 				94205D572B8BD06200D79647 /* VegetableListView.swift in Sources */,
 				94BEB1792B97A72A00754E01 /* VegetableSectionHeaderView.swift in Sources */,
-				94BEB15C2B916E4600754E01 /* RoundVarietyCard.swift in Sources */,
 				94205D5D2B8BD25100D79647 /* AppState.swift in Sources */,
 				94BEB14E2B8FA64500754E01 /* ColorExtension.swift in Sources */,
+				946034C52BAD468D00563FC0 /* GardenBedListView.swift in Sources */,
+				94A210F22BAA303300D7E342 /* LazyView.swift in Sources */,
 				94205D5B2B8BD09000D79647 /* VegetableView.swift in Sources */,
 				94205D5F2B8BD2FD00D79647 /* RealmManager.swift in Sources */,
 				94BEB1702B966E7800754E01 /* AverageFrostDates.swift in Sources */,
+				94F39A502BA4010F000FD722 /* PestDisplayView.swift in Sources */,
+				94A210F52BAA34AF00D7E342 /* SquareFootBed.swift in Sources */,
 				94BEB17F2B97E11000754E01 /* FullWidthTextView.swift in Sources */,
-				942782F72B992112003713F5 /* DiseaseView.swift in Sources */,
+				942782F72B992112003713F5 /* DiseasesView.swift in Sources */,
+				94139E742BCD7C5800E0C6AD /* Square.swift in Sources */,
+				94139E6C2BC59D8200E0C6AD /* GardenBedTileDisplayView.swift in Sources */,
 				94BEB1622B957BF300754E01 /* PlantHardinessZone.swift in Sources */,
 				94BEB15A2B91658F00754E01 /* VegetableNavBarView.swift in Sources */,
 				94BEB1822B98274900754E01 /* HarvestingAndStorageView.swift in Sources */,
+				946034D72BB65C3A00563FC0 /* GardenBedToDoListView.swift in Sources */,
 				94BEB1472B8ED4DD00754E01 /* VegetableModel.swift in Sources */,
 				94BEB1682B958FF200754E01 /* PlantSowDates.swift in Sources */,
 				94205D502B8BCFF000D79647 /* LoadDataModel.swift in Sources */,
+				946034C32BAD245600563FC0 /* GardenBedView.swift in Sources */,
 				94BEB16E2B96637200754E01 /* UserLocationData.swift in Sources */,
 				94205D542B8BD02500D79647 /* Route.swift in Sources */,
 				94BEB17D2B97CC1100754E01 /* CareAndMaintenanceView.swift in Sources */,
-				94BEB15E2B92589E00754E01 /* VarietyPickerView.swift in Sources */,
+				94F39A472BA3E545000FD722 /* Diseases.swift in Sources */,
+				94139E722BC774AC00E0C6AD /* GardenBedVegetableSelection.swift in Sources */,
+				946034CE2BB4794600563FC0 /* GardenBedLayoutView.swift in Sources */,
+				946034D32BB479C100563FC0 /* GardenBedTileContainerView.swift in Sources */,
 				942782F92B9A86BE003713F5 /* CompanionPlantsView.swift in Sources */,
+				94139E762BCD7C9D00E0C6AD /* Plant.swift in Sources */,
 				94BEB1382B8CE91000754E01 /* LocationModel.swift in Sources */,
 				9411F3752B8AFA69005DC3A1 /* VeggieVerseApp.swift in Sources */,
 				94BEB1762B97A6F600754E01 /* HalfWidthTextView.swift in Sources */,
+				946034D92BB9C80800563FC0 /* Brain.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1093,12 +1252,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"VeggieVerse/Preview Content\"";
 				DEVELOPMENT_TEAM = 9UC4CG2772;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = VeggieVerse/Info.plist;
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "This app needs your location to get your weather information.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -1113,6 +1275,9 @@
 				PRODUCT_BUNDLE_IDENTIFIER = ryweb.VeggieVerse;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_PRECOMPILE_BRIDGING_HEADER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -1124,12 +1289,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"VeggieVerse/Preview Content\"";
 				DEVELOPMENT_TEAM = 9UC4CG2772;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = VeggieVerse/Info.plist;
 				INFOPLIST_KEY_NSLocationWhenInUseUsageDescription = "This app needs your location to get your weather information.";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -1144,6 +1312,8 @@
 				PRODUCT_BUNDLE_IDENTIFIER = ryweb.VeggieVerse;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "";
+				SWIFT_PRECOMPILE_BRIDGING_HEADER = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -1171,6 +1341,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		94139E6E2BC5BE4F00E0C6AD /* XCRemoteSwiftPackageReference "swift-algorithms" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/apple/swift-algorithms.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		94139E6F2BC5BE4F00E0C6AD /* Algorithms */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 94139E6E2BC5BE4F00E0C6AD /* XCRemoteSwiftPackageReference "swift-algorithms" */;
+			productName = Algorithms;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 9411F3692B8AFA69005DC3A1 /* Project object */;
 }

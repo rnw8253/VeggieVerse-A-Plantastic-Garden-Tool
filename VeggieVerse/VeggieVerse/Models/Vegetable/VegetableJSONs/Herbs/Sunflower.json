@@ -33,43 +33,95 @@
         "storageRecommendations": "Harvest sunflower heads when the back of the flower head turns yellow and the seeds are plump and developed. Cut the flower heads with a few inches of stem attached. Hang them upside down in a warm, dry location with good air circulation to dry. Once the seeds are fully dry, remove them from the flower head and store them in an airtight container in a cool, dry place.",
         "harvestDescription": "To harvest sunflower seeds, cut the flower heads when the back of the flower head turns yellow and the seeds are plump and developed. Rub the seeds out of the flower head with your hands or a stiff brush."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [],
+        "Transplant": [],
+        "Outdoors": [2, 4],
+        "LastSowDate": null
+      },
+      "FallSowing": {
+        "Outdoors": [],
+        "Transplant": [],
+        "DaysToMaturity": 60,
+        "FrostTolerance": "Tender"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Beans",
-                "description": "Beans and sunflowers make excellent companion plants, as sunflowers provide support for climbing bean vines while beans fix nitrogen in the soil, benefiting the sunflowers."
+              "name": "Cucumbers",
+              "description": "Sunflowers can provide shade and support for cucumber vines, while cucumbers can help deter pests like aphids and spider mites that may affect sunflowers. Additionally, planting sunflowers and cucumbers together can create a visually appealing garden and promote biodiversity."
             },
             {
-                "name": "Corn",
-                "description": "Sunflowers and corn are compatible companions in the garden. Sunflowers provide shade and support for young corn plants, while corn can help shade sunflower roots and conserve soil moisture."
-            }
-        ],
-        "badCompanionPlants": [
+              "name": "Pumpkins",
+              "description": "Sunflowers can provide structural support and shade for pumpkin vines, while pumpkins can help suppress weeds around sunflower roots and improve soil moisture retention. Planting sunflowers and pumpkins together can create a symbiotic relationship where each plant benefits from the presence of the other."
+            },
             {
-                "name": "Potatoes",
-                "description": "Sunflowers should not be planted near potatoes, as they can attract pests like Colorado potato beetles, which may also feed on sunflower leaves. Keep sunflowers and potatoes separated to avoid potential pest problems."
+              "name": "Beans",
+              "description": "Sunflowers can provide structural support for climbing bean vines, while beans can fix nitrogen in the soil, benefiting sunflowers' growth and overall health. Additionally, planting sunflowers and beans together can create a visually striking garden and enhance pollinator activity."
+            },
+            {
+              "name": "Corn",
+              "description": "Sunflowers can provide structural support and shade for corn plants, while corn can act as a windbreak for sunflowers and help conserve soil moisture. Additionally, planting sunflowers and corn together can create a diverse and productive garden ecosystem, attracting beneficial insects and wildlife."
+            },
+            {
+              "name": "Nasturtium",
+              "description": "Nasturtiums can attract beneficial insects like bees and predatory insects, which can help pollinate sunflowers and control pests like aphids and caterpillars. Additionally, planting nasturtiums near sunflowers can enhance the overall aesthetic appeal of the garden and promote biodiversity."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Sunflower Moth",
-            "description": "Sunflower moths are common pests of sunflowers, particularly during the flowering and seed-setting stages. Adult moths lay eggs on developing flower heads, and the larvae feed on developing seeds, causing damage and reducing seed yield. Control sunflower moths by monitoring plants regularly for signs of infestation and removing affected flower heads. Use row covers to protect plants from adult moths during the flowering period."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Downy Mildew",
-            "description": "Downy mildew is a fungal disease that can affect sunflowers, particularly in cool, humid conditions. It appears as fuzzy, grayish growth on the undersides of leaves and can cause leaf yellowing, wilting, and stunting. Improve air circulation around plants, avoid overhead watering, and apply fungicidal sprays as needed to control downy mildew."
-        }
-    ],
-    "tipsAndTricks": [
-        "Plant sunflower seeds directly outdoors after the last frost date in your area for best results.",
-        "Water sunflower seedlings regularly to keep the soil evenly moist, but avoid overwatering to prevent root rot.",
-        "Deadhead spent flowers regularly to promote continuous blooming and prevent self-seeding.",
-        "Harvest sunflower heads for seeds once the back of the flower begins to turn yellow and the seeds are plump and developed.",
-        "Use sunflower seeds for roasting, baking, or as a nutritious addition to salads, granola, and other dishes."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Potatoes",
+              "description": "Potatoes should be avoided as companions for sunflowers as they may compete for nutrients and water, leading to reduced growth and vigor for both plants. Additionally, potatoes may attract pests like potato beetles, which can also damage sunflower plants and reduce their overall health."
+            },
+            {
+              "name": "Wheat",
+              "description": "Wheat should be avoided as a companion for sunflowers as it may compete for resources like sunlight, water, and nutrients, leading to reduced growth and yield for both crops. Additionally, planting wheat near sunflowers may increase the risk of disease spread and pest infestations in the garden."
+            },
+            {
+              "name": "Chrysanthemums",
+              "description": "Chrysanthemums should be avoided as companions for sunflowers as they may compete for resources like water and nutrients, leading to reduced growth and vigor for both plants. Additionally, chrysanthemums may attract pests like aphids and spider mites, which can also affect sunflower plants."
+            }
+          ]
+        },
+      "pests": [
+        "Aphids",
+        "Moth",
+        "Head Moth",
+        "Maggot",
+        "Weevil",
+        "Thrips",
+        "Cutworm",
+        "Grasshopper",
+        "Spider Mite",
+        "Whiteflies"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Beetles"
+      ],
+      "diseases": [
+        "Powdery Mildew",
+        "Downy Mildew",
+        "Botrytis Blight",
+        "Fungal Leaf Spots",
+        "Rust",
+        "Sclerotinia Rot"
+      ],
+      "tipsAndTricks": [
+        "Plant sunflower seeds directly in well-drained soil with full sun exposure.",
+        "Sow seeds 1-2 inches deep and space them 6-18 inches apart, depending on the variety.",
+        "Water sunflowers regularly, especially during dry periods, but avoid overwatering to prevent root rot.",
+        "Apply a balanced fertilizer once a month during the growing season to promote healthy growth and blooming.",
+        "Mulch around sunflowers to retain moisture, suppress weeds, and protect the roots.",
+        "Support tall sunflower varieties with stakes or trellises to prevent them from toppling over in strong winds.",
+        "Monitor plants regularly for signs of pests such as aphids, moths, and caterpillars. Handpick pests or use insecticidal soap as needed.",
+        "Watch for symptoms of diseases like powdery mildew and downy mildew. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+        "Harvest sunflower heads when the seeds are plump and the back of the flower head turns brown. Hang them upside down in a well-ventilated area to dry before removing the seeds.",
+        "Use sunflower seeds as snacks, in baking, or for making sunflower oil. Save some seeds to plant next year or feed them to birds and wildlife."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Sunflowers: Tips and Techniques",

@@ -33,37 +33,85 @@
         "storageRecommendations": "Harvest St. John's Wort flowers and leaves as needed for medicinal use. Dry the harvested parts by hanging them upside down in a warm, well-ventilated area until they are completely dry. Store dried St. John's Wort in an airtight container in a cool, dark place.",
         "harvestDescription": "Harvest St. John's Wort flowers and leaves by snipping them from the plant as needed. Harvest flowers when they are in full bloom, and leaves when they are young and tender."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [],
+        "Transplant": [8, 10],
+        "Outdoors": [10, 12],
+        "LastSowDate": null
+      },
+      "FallSowing": {
+        "Outdoors": [],
+        "Transplant": [],
+        "DaysToMaturity": 90,
+        "FrostTolerance": "Tender"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Basil",
-                "description": "Basil is a good companion for stevia, as it may help deter certain pests and complement its aromatic qualities."
+              "name": "Lemon Balm",
+              "description": "Lemon balm is a beneficial companion for stevia as it can help repel pests like mosquitoes and whiteflies due to its strong aroma. Planting lemon balm near stevia can create a fragrant and visually appealing garden while providing natural pest control. Additionally, lemon balm attracts beneficial insects like bees and butterflies, which can help pollinate stevia flowers."
             },
             {
-                "name": "Mint",
-                "description": "Mint can be planted near stevia as it complements its fragrance and both have similar cultural requirements."
+              "name": "Chamomile",
+              "description": "Chamomile is a good companion for stevia as it can help improve soil health and attract beneficial insects like hoverflies and parasitic wasps. Planting chamomile near stevia can create a diverse and ecologically balanced garden while providing natural pest control and pollination services. Additionally, chamomile's delicate flowers and mild fragrance can enhance the overall aesthetics of the garden."
+            },
+            {
+              "name": "Lavender",
+              "description": "Lavender is a beneficial companion for stevia due to its aromatic foliage, which can help repel pests like aphids, mosquitoes, and moths. Planting lavender near stevia can create a visually appealing and fragrant garden while providing natural pest control. Additionally, lavender attracts beneficial insects like bees and butterflies, which can help pollinate stevia flowers."
+            },
+            {
+              "name": "Thyme",
+              "description": "Thyme is a good companion for stevia as it can help repel pests like whiteflies, aphids, and spider mites. Planting thyme near stevia can create a protective barrier against insect damage while providing a flavorful and aromatic addition to the garden. Additionally, thyme's low-growing habit can help suppress weeds and conserve soil moisture."
+            },
+            {
+              "name": "Sage",
+              "description": "Sage is a beneficial companion for stevia due to its aromatic foliage and ability to repel pests like cabbage moths and carrot flies. Planting sage near stevia can help protect the plants from insect damage while providing additional flavor and aroma to the garden. Additionally, sage and stevia have complementary medicinal properties and can be used together in herbal remedies."
             }
-        ],
-        "badCompanionPlants": []
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids can sometimes infest stevia, feeding on the sap of the leaves and causing distortion or yellowing. Control aphids by spraying affected plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs, and applying insecticidal soap or neem oil as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect stevia, causing a white powdery growth on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest stevia leaves as needed by snipping them with scissors or shears.",
-        "Pinch back flower stalks regularly to encourage leaf production and prevent flowering.",
-        "Mulch around plants to retain moisture and suppress weeds.",
-        "Consider planting stevia in containers to prevent it from spreading too vigorously."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Beans",
+              "description": "Beans should be avoided as companions for stevia as they have different soil and watering requirements. Planting beans near stevia can lead to competition for resources and space, resulting in reduced growth and vigor for both plants. Additionally, beans may attract pests and diseases that can also affect stevia."
+            },
+            {
+              "name": "Cabbage",
+              "description": "Cabbage is not an ideal companion for stevia as it may attract pests like cabbage worms and aphids that can also damage stevia plants. Additionally, cabbage and stevia have different soil and nutrient requirements, which can lead to competition for resources and reduced growth. Planting cabbage near stevia may also increase the risk of disease transmission between the two plants."
+            },
+            {
+              "name": "Fennel",
+              "description": "Fennel should be avoided as a companion for stevia as it can inhibit the growth of nearby plants, including stevia. Additionally, fennel may attract pests like aphids and caterpillars, which can also damage stevia plants. Planting fennel near stevia may lead to competition for resources and reduced overall health for both plants."
+            }
+          ]
+        },
+      "pests": [
+        "Aphids",
+        "Spider Mite",
+        "Whiteflies",
+        "Thrips"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps"
+      ],
+      "diseases": [
+        "Powdery Mildew",
+        "Root Rot"
+      ],
+      "tipsAndTricks": [
+        "Choose a planting location with well-drained soil and partial to full sun exposure for stevia.",
+        "Plant stevia in a raised bed or container with sandy, loamy soil to ensure good drainage.",
+        "Water stevia plants regularly, keeping the soil evenly moist but not waterlogged.",
+        "Avoid overwatering stevia, as it is susceptible to root rot in waterlogged conditions.",
+        "Prune stevia regularly to remove dead or diseased branches and encourage bushy growth.",
+        "Harvest stevia leaves when the plant is mature by snipping off the leaves with scissors. Leaves are sweetest just before the plant flowers.",
+        "Dry harvested stevia leaves by hanging them upside down in a warm, dry location or using a dehydrator. Once dry, crush the leaves into a fine powder for use as a natural sweetener.",
+        "Monitor plants regularly for signs of pests such as aphids and spider mites. Handpick pests or use insecticidal soap as needed.",
+        "Watch for symptoms of diseases like powdery mildew and root rot. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+        "Stevia is a tender perennial and may need protection from frost in colder climates. Consider bringing potted plants indoors during the winter months.",
+        "Use dried stevia leaves or stevia extract as a natural sweetener in beverages, baked goods, and other recipes. Stevia is much sweeter than sugar, so use sparingly."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Stevia: Planting Guide",

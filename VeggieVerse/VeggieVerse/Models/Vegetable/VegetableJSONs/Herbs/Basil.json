@@ -33,51 +33,96 @@
         "storageRecommendations": "Harvest basil regularly by pinching off individual leaves or cutting entire stems. Use fresh basil immediately or store it in the refrigerator wrapped in a damp paper towel and placed in a plastic bag for up to a week. Alternatively, you can freeze basil leaves by chopping them and placing them in ice cube trays filled with water or olive oil.",
         "harvestDescription": "Harvest basil by pinching off individual leaves or cutting entire stems just above a set of leaves. Regular harvesting encourages bushy growth and prolongs the harvest period. Rinse harvested basil leaves under cool water before using them in recipes."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [-6, -4],
+        "Transplant": [2, 4],
+        "Outdoors": [2, 4],
+        "LastSowDate": -6
+      },
+      "FallSowing": {
+        "Outdoors": [],
+        "Transplant": [],
+        "DaysToMaturity": 65,
+        "FrostTolerance": "Tender"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Tomatoes",
-                "description": "Basil is a beneficial companion plant for tomatoes, as it repels pests like aphids, spider mites, and hornworms. It also enhances the flavor of tomatoes when grown nearby."
+              "name": "Tomatoes",
+              "description": "Basil is an excellent companion for tomatoes. It repels pests like aphids, whiteflies, and tomato hornworms. Additionally, planting basil near tomatoes can improve their flavor and growth."
             },
             {
-                "name": "Peppers",
-                "description": "Basil is a good companion for peppers, helping to repel pests such as aphids and spider mites. It also improves the flavor of peppers when planted nearby."
-            }
-        ],
-        "badCompanionPlants": [
+              "name": "Peppers",
+              "description": "Basil is a beneficial companion for peppers. It can help repel pests like aphids, spider mites, and thrips, which may affect pepper plants. Additionally, the aromatic foliage of basil may enhance the flavor of nearby peppers."
+            },
             {
-                "name": "Sage",
-                "description": "Basil and sage are not recommended to be planted together as they may compete for space and nutrients."
+              "name": "Oregano",
+              "description": "Oregano is a good companion for basil. Both herbs have similar cultural requirements and can thrive when planted together. Additionally, oregano's strong scent can help repel pests and attract beneficial insects to the garden."
+            },
+            {
+              "name": "Chives",
+              "description": "Chives make good companions for basil. They can help deter pests like aphids, spider mites, and thrips, which may affect basil plants. Additionally, chives produce compounds that may enhance the flavor of nearby basil."
+            },
+            {
+              "name": "Lettuce",
+              "description": "Lettuce is a suitable companion for basil. Its shallow roots do not compete with basil for nutrients and water, making it a compatible companion. Additionally, lettuce provides ground cover, helping to retain soil moisture and suppress weeds."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are small, soft-bodied insects that feed on basil plants by sucking sap from leaves and stems. They can cause distorted growth and transmit plant diseases. Control aphids by spraying affected plants with a strong jet of water, introducing natural predators like ladybugs or lacewings, or using insecticidal soap or neem oil."
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Cilantro",
+              "description": "Cilantro may not be an ideal companion for basil. Some gardeners believe that planting cilantro near basil can negatively affect the flavor and growth of both herbs. It's best to separate them in the garden."
+            },
+            {
+              "name": "Sage",
+              "description": "Sage may not be the best companion for basil. While both herbs have similar cultural requirements, some gardeners believe that planting them together may result in overcrowding and competition for resources."
+            },
+            {
+              "name": "Rosemary",
+              "description": "Rosemary may not be an ideal companion for basil. Both herbs have strong flavors and aromas, which may compete with each other in the garden. Additionally, rosemary can be aggressive and may overshadow basil plants."
+            },
+            {
+              "name": "Dill",
+              "description": "Dill may not be the best companion for basil. Some gardeners believe that planting dill near basil can negatively affect the flavor and growth of both herbs. It's best to separate them in the garden."
+            },
+            {
+              "name": "Mint",
+              "description": "Mint may not be an ideal companion for basil. Mint is known for its aggressive growth habit and can quickly spread and overcrowd the garden. Additionally, mint may compete with basil for nutrients and water."
+            }
+          ]
         },
-        {
-            "name": "Whiteflies",
-            "description": "Whiteflies are tiny, flying insects that feed on the underside of basil leaves, sucking sap and causing yellowing, wilting, and stunted growth. They also excrete honeydew, leading to the growth of sooty mold. Control whiteflies using insecticidal soap, neem oil, or introducing natural predators like ladybugs or parasitic wasps."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Downy Mildew",
-            "description": "Downy mildew is a fungal disease that affects basil plants, causing yellowing of leaves and a fuzzy gray or white growth on the underside of leaves. It thrives in cool, humid conditions. Prevent downy mildew by providing good air circulation around plants, avoiding overhead watering, and removing and destroying infected plant material."
-        },
-        {
-            "name": "Fusarium Wilt",
-            "description": "Fusarium wilt is a soilborne fungal disease that affects basil plants, causing wilting, yellowing, and stunting of growth. It can lead to the death of the plant. Fusarium wilt is difficult to control once established in the soil. Prevent it by planting basil in well-drained soil, rotating crops, and avoiding overhead watering."
-        }
-    ],
-    "tipsAndTricks": [
-        "Pinch off flower buds to encourage bushy growth and prolong leaf production.",
-        "Harvest basil leaves regularly to encourage continued growth and prevent the plant from bolting.",
-        "Water basil plants consistently to keep the soil evenly moist, especially during hot weather.",
-        "Mulch around basil plants to retain moisture, suppress weeds, and regulate soil temperature.",
-        "Regularly inspect basil plants for signs of pests, diseases, or nutrient deficiencies, and take prompt action to address any issues."
-    ],
+      "pests": [
+         "Aphids",
+         "Whiteflies",
+         "Spider Mite",
+         "Cutworm",
+         "Slug",
+         "Snail"
+       ],
+       "beneficial_insects": [
+         "Ladybugs",
+         "Lacewings",
+         "Hoverflies",
+         "Parasitic Wasps"
+       ],
+       "diseases": [
+         "Downy Mildew",
+         "Fusarium Wilt",
+         "Powdery Mildew",
+         "Botrytis Rot",
+         "Gray Mold Rot"
+       ],
+       "tipsAndTricks": [
+         "Choose a planting site with well-drained soil and full sun exposure.",
+         "Plant basil seeds or transplants after the danger of frost has passed, spacing them 6-12 inches apart in rows or containers.",
+         "Water basil regularly, providing about 1 inch of water per week, and mulch to conserve moisture and suppress weeds.",
+         "Fertilize basil with a balanced fertilizer or compost tea every 4-6 weeks, following package instructions.",
+         "Pinch off flower buds as they form to encourage bushier growth and prolong the harvest period.",
+         "Harvest basil leaves regularly by snipping them from the stem, starting from the top of the plant and working down.",
+         "Monitor plants regularly for signs of pests such as aphids and spider mites. Use insecticidal soap or neem oil as needed.",
+         "Watch for symptoms of diseases like downy mildew and powdery mildew. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+         "Rotate basil with other crops to prevent soil-borne diseases, and avoid planting basil in the same location year after year."
+       ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Basil: Planting Guide",

@@ -7,8 +7,8 @@
      "sowingAndPlanting": {
        "sowingIndoorsDescription": "Banana plants are typically propagated from suckers, which are small offshoots that grow around the base of mature banana plants. Suckers can be carefully removed from the parent plant and replanted in well-draining soil. Keep the soil consistently moist and provide warm temperatures and bright, indirect light for optimal growth.",
        "sowingOutdoorsDescription": "Banana plants can also be propagated outdoors by planting suckers directly into the ground. Choose a sunny location with well-drained soil. Dig a hole large enough to accommodate the sucker's root ball and backfill with soil. Water the newly planted sucker thoroughly and continue to keep the soil moist.",
-       "spaceBetweenPlants": "10\'-12\'",
-       "spaceBetweenRows": "Varies based on planting scheme",
+       "spaceBetweenPlants": "10'-12'",
+       "spaceBetweenRows": "Varies",
        "squareFootPlantingRecommendationsMin": 0,
        "squareFootPlantingRecommendationsMax": 0,
        "lifeCycle": "Perennial",
@@ -32,18 +32,30 @@
        "storageRecommendations": "Bananas are typically harvested when the fruit is fully formed but still green. Once harvested, bananas can be ripened at room temperature. To extend the shelf life of ripe bananas, store them in the refrigerator, which slows down the ripening process. Alternatively, ripe bananas can be peeled, sliced, and frozen for later use in smoothies, baked goods, or as a natural sweetener.",
        "harvestDescription": "To harvest bananas, wait until the fruit reaches its full size and begins to develop a slight curve. Cut the entire bunch from the plant with a sharp knife or machete, taking care not to damage the remaining fruit or plant. Handle bananas carefully to avoid bruising."
      },
+     "SpringSowing": {
+       "Indoors": [],
+       "Transplant": [],
+       "Outdoors": [],
+       "LastSowDate": null
+     },
+     "FallSowing": {
+       "Outdoors": [-4, 0],
+       "Transplant": [],
+       "DaysToMaturity": 365,
+       "FrostTolerance": "None"
+     },
      "companionPlants": {
          "goodCompanionPlants": [
            {
-             "name": "Pineapple",
+             "name": "Pineapples",
              "description": "Pineapple plants can be good companions for bananas as they have similar soil and water requirements. Additionally, pineapple plants can help suppress weeds and conserve soil moisture around banana plants."
            },
            {
-             "name": "Sweet Potato",
+             "name": "Sweet Potatoes",
              "description": "Sweet potatoes can act as a living mulch around banana plants, suppressing weeds and conserving soil moisture. They also provide ground cover and can improve soil fertility when grown together with bananas."
            },
            {
-             "name": "Legumes (e.g., Beans, Peas)",
+             "name": "Legumes",
              "description": "Leguminous plants like beans and peas can fix nitrogen in the soil, which benefits banana plants. Interplanting legumes with bananas can improve soil fertility and provide additional nutrients for healthy growth."
            },
            {
@@ -65,11 +77,11 @@
              "description": "Grass and other ground covers that compete with banana plants for nutrients and water should be avoided. They can also provide habitat for pests and diseases that affect bananas."
            },
            {
-             "name": "Citrus Trees",
+             "name": "Citrus",
              "description": "Citrus trees can be poor companions for bananas as they may compete for nutrients and water. Additionally, some citrus trees are susceptible to pests and diseases that can also affect bananas."
            },
            {
-             "name": "Papaya",
+             "name": "Papayas",
              "description": "Papaya plants are not recommended to be grown near banana plants, as they can share common pests and diseases. Additionally, papaya plants may compete with bananas for nutrients and water."
            },
            {
@@ -86,23 +98,42 @@
            }
          ]
        },
-    "pests": [
-        {
-            "name": "Banana Aphid",
-            "description": "The banana aphid is a common pest of banana plants, feeding on sap and excreting honeydew, which attracts ants and promotes the growth of sooty mold. Monitor banana plants regularly for signs of aphid infestation, such as curled leaves and sticky honeydew. Control aphids by spraying affected plants with water to dislodge them, introducing natural predators like ladybugs or lacewings, and using insecticidal soap or neem oil as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Panama Disease",
-            "description": "Panama disease, also known as Fusarium wilt, is a fungal disease that affects banana plants, causing wilting, yellowing, and eventual death. It is caused by the soilborne fungus Fusarium oxysporum and is highly destructive to banana plantations. Prevent Panama disease by planting disease-resistant banana varieties, practicing good sanitation, and rotating crops."
-        }
-    ],
-    "tipsAndTricks": [
-        "Provide regular care and maintenance to banana plants, including watering, fertilizing, and pruning.",
-        "Protect banana plants from strong winds and provide support for heavy fruit bunches.",
-        "Monitor banana plants regularly for signs of pests and diseases, and take appropriate action as needed."
-    ],
+     "pests": [
+       "Aphids",
+       "Weevil",
+       "Stem Weevil",
+       "Root Borer",
+       "Banana Skipper",
+       "Moth",
+       "Thrips",
+       "Leaf Spot Mite",
+       "Rust Mite",
+       "Scale"
+     ],
+     "beneficial_insects": [
+       "Ladybugs",
+       "Lacewings",
+       "Hoverflies",
+       "Parasitic Wasps",
+       "Predatory Mites"
+     ],
+     "diseases": [
+       "Panama Disease",
+       "Black Sigatoka",
+       "Fusarium Wilt",
+       "Bunchy Top Virus",
+       "Yellow Sigatoka"
+     ],
+     "tipsAndTricks": [
+       "Plant banana trees in fertile, well-drained soil with good drainage.",
+       "Provide consistent moisture, but avoid waterlogging the soil.",
+       "Fertilize banana trees regularly with a balanced fertilizer.",
+       "Protect banana trees from strong winds and cold temperatures.",
+       "Remove dead or diseased leaves to promote air circulation and reduce disease pressure.",
+       "Monitor trees regularly for signs of pests and diseases, and take appropriate action.",
+       "Harvest bananas when they are fully ripe, typically when the fruit turns yellow with some brown spots.",
+       "Store harvested bananas at room temperature to ripen, then refrigerate to slow down ripening."
+     ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Bananas: Planting Guide",

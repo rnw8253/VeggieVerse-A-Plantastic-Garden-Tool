@@ -34,40 +34,89 @@
         "storageRecommendations": "Harvest Swiss chard when the leaves are young and tender, usually before they become tough and bitter. Use a sharp knife or scissors to cut the outer leaves, allowing the inner leaves to continue growing. Store harvested Swiss chard in the refrigerator for up to a week.",
         "harvestDescription": "Harvest Swiss chard when the leaves are large enough to use, usually when they are 6-8 inches long. Cut the outer leaves first, leaving the center leaves to continue growing. Rinse the Swiss chard thoroughly to remove any soil before storing or using it."
     },
-    "companionPlants": {
-        "goodCompanionPlants": [
-            {
-                "name": "Beets",
-                "description": "Beets can be planted near Swiss chard to help improve soil fertility and provide natural pest control in the garden."
-            },
-            {
-                "name": "Lettuce",
-                "description": "Lettuce can be interplanted with Swiss chard to provide natural ground cover and help suppress weeds."
-            }
-        ],
-        "badCompanionPlants": [
-            {
-                "name": "Kohlrabi",
-                "description": "Kohlrabi is not recommended to be planted near Swiss chard as it may compete for space and nutrients."
-            }
-        ]
+    "SpringSowing": {
+        "Indoors": [-6, -4],
+        "Transplant": [-2, 0],
+        "Outdoors": [-3, 0],
+        "LastSowDate": -22
     },
+    "FallSowing": {
+        "Outdoors": [-10, -8],
+        "Transplant": [],
+        "DaysToMaturity": 60,
+        "FrostTolerance": "Tolerant"
+    },
+    "companionPlants": {
+       "goodCompanionPlants": [
+         {
+           "name": "Beans",
+           "description": "Beans are excellent companions for Swiss chard. Beans fix nitrogen in the soil, which benefits Swiss chard, as they are heavy feeders. Additionally, the dense foliage of beans provides some shade for Swiss chard, helping to retain soil moisture and suppress weeds."
+         },
+         {
+           "name": "Lettuce",
+           "description": "Lettuce is a good companion for Swiss chard. Interplanting lettuce and Swiss chard can help maximize space in the garden, as lettuce grows close to the ground while Swiss chard grows upright. The shallow root systems of both plants allow for efficient use of soil nutrients and water."
+         },
+         {
+           "name": "Onions",
+           "description": "Onions make good companions for Swiss chard. Planting onions near Swiss chard can help deter pests like aphids and leafminers, as onions contain compounds that repel these insects. Additionally, onions have shallow root systems that complement the deep roots of Swiss chard, reducing competition for soil nutrients."
+         },
+         {
+           "name": "Radishes",
+           "description": "Radishes are beneficial companions for Swiss chard. Planting radishes near Swiss chard can help deter pests like flea beetles and cucumber beetles, as radishes emit compounds that repel these insects. Additionally, radishes have shallow root systems that complement the deep roots of Swiss chard."
+         }
+       ],
+       "badCompanionPlants": [
+         {
+           "name": "Brassicas",
+           "description": "Brassicas, such as cabbage, broccoli, and cauliflower, may not be the best companions for Swiss chard. Brassicas have different growth habits and nutrient needs compared to Swiss chard, which can result in competition for resources in the garden. Additionally, brassicas may attract pests like aphids and cabbage worms, which can damage Swiss chard foliage."
+         },
+         {
+           "name": "Potatoes",
+           "description": "Potatoes are not recommended as companions for Swiss chard. Potatoes have shallow root systems that may compete with Swiss chard for nutrients and space. Additionally, potatoes are susceptible to similar pests and diseases as Swiss chard, which may increase the risk of infestations and reduce yields for both crops."
+         },
+         {
+           "name": "Sunflower",
+           "description": "Sunflowers may not be ideal companions for Swiss chard. Sunflowers have deep taproots that may compete with Swiss chard for nutrients and water, especially in soils with limited resources. Additionally, the tall growth habit of sunflowers may overshadow Swiss chard, reducing its sunlight exposure."
+         },
+         {
+           "name": "Kohlrabi",
+           "description": "Kohlrabi may not be the best companion for Swiss chard. While some gardeners interplant kohlrabi with Swiss chard to deter pests, kohlrabi has shallow root systems that may compete with Swiss chard for nutrients and space. Planting them together may result in reduced yields for both crops."
+         }
+       ]
+     },
     "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are common pests of Swiss chard, feeding on the sap and causing distorted growth and yellowing of leaves. Control aphids by spraying affected plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs or lacewings, or using insecticidal soap or neem oil."
-        }
+      "Aphids",
+      "Leafminer",
+      "Flea Beetle",
+      "Cutworm",
+      "Slug",
+      "Snail"
+    ],
+    "beneficial_insects": [
+      "Ladybugs",
+      "Lacewings",
+      "Hoverflies",
+      "Parasitic Wasps",
+      "Predatory Mites"
     ],
     "diseases": [
-        {
-            "name": "Downy Mildew",
-            "description": "Downy mildew is a fungal disease that affects Swiss chard, causing yellowing, wilting, and fuzzy growth on the undersides of leaves. It thrives in cool, wet conditions and can lead to reduced plant vigor and yield. Prevent downy mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        }
+      "Powdery Mildew",
+      "Downy Mildew",
+      "Leaf Spot",
+      "Root Rot",
+      "Fusarium Wilt"
     ],
     "tipsAndTricks": [
-        "Harvest Swiss chard leaves when they are young and tender for the best flavor and texture.",
-        "Mulch around Swiss chard plants to suppress weeds, retain moisture, and regulate soil temperature.",
-        "Inspect plants regularly for signs of pests and diseases, and take appropriate action as needed."
+      "Choose a planting site with well-drained soil and partial shade to full sun exposure.",
+      "Prepare the soil by adding compost or aged manure to improve fertility and texture.",
+      "Sow Swiss chard seeds directly in the garden in early spring or late summer.",
+      "Sow seeds thinly in rows spaced 12-18 inches apart, covering them with a thin layer of soil and keeping them evenly moist until germination.",
+      "Thin seedlings to 6-8 inches apart once they have developed their first true leaves.",
+      "Water Swiss chard regularly, providing about 1 inch of water per week, and mulch to conserve moisture and suppress weeds.",
+      "Fertilize Swiss chard with a balanced fertilizer or compost tea every 3-4 weeks, following package instructions.",
+      "Monitor plants regularly for signs of pests such as aphids and leaf miners. Use row covers or insecticidal soap as needed.",
+      "Watch for symptoms of diseases like powdery mildew and downy mildew. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+      "Harvest Swiss chard when the leaves are large enough to use, typically 50-60 days after planting. Harvest outer leaves first, leaving the center leaves to continue growing."
     ],
     "linksToAdditionalResources": [
         {

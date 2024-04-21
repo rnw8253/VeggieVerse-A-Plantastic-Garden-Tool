@@ -32,41 +32,103 @@
        "storageRecommendations": "Harvest green beans when the pods are firm, crisp, and have reached the desired size. Use a sharp knife or scissors to cut the pods from the plant, being careful not to damage the vines. Store harvested green beans in the refrigerator for up to a week. Wash and dry the pods before storing to remove any dirt or debris.",
        "harvestDescription": "Harvest green beans regularly to encourage continuous production. Pick the pods when they are young and tender, usually before the seeds inside have fully developed. Avoid letting the pods become overripe, as they can become tough and fibrous."
      },
-    "companionPlants": {
-        "goodCompanionPlants": [
-            {
-                "name": "Carrots",
-                "description": "Carrots can be planted near green beans to help repel pests like carrot rust fly and provide natural pest control in the garden."
-            },
-            {
-                "name": "Radishes",
-                "description": "Radishes can be planted near green beans to help repel pests like aphids and provide natural pest control in the garden."
-            }
-        ],
-        "badCompanionPlants": [
-            {
-                "name": "Onions",
-                "description": "Onions are not recommended to be planted near green beans as they may compete for space and nutrients."
-            }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are small, soft-bodied insects that feed on green bean plants by sucking sap from leaves and stems. They reproduce rapidly and can cause distorted growth, yellowing, and wilting. Control aphids by spraying affected plants with water to dislodge them, introducing natural predators like ladybugs or lacewings, and using insecticidal soap or neem oil as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that affects green bean plants, causing white powdery spots to appear on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, watering at the base of plants to avoid wetting foliage, and using fungicides as needed."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest green beans when they are young and tender for the best flavor and texture.",
-        "Provide support for vining green bean varieties with trellises, cages, or stakes to save space and improve air circulation.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed."
-    ],
+     "SpringSowing": {
+       "Indoors": [],
+       "Transplant": [],
+       "Outdoors": [1, 4],
+       "LastSowDate": -10
+     },
+     "FallSowing": {
+       "Outdoors": [-11, -9],
+       "Transplant": [],
+       "DaysToMaturity": 55,
+       "FrostTolerance": "Tender"
+     },
+     "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Corn",
+             "description": "Corn provides natural support for pole beans to climb, while beans fix nitrogen in the soil, benefiting the nitrogen-demanding corn plants. Interplanting corn with green beans can improve soil fertility and promote healthier growth for both crops."
+           },
+           {
+             "name": "Carrots",
+             "description": "Carrots have a shallow root system that complements the deeper roots of green beans. Interplanting carrots with green beans can help maximize space in the garden and reduce competition for soil nutrients."
+           },
+           {
+             "name": "Lettuce",
+             "description": "Lettuce has shallow roots and grows well in the shade of taller plants like green beans. Interplanting lettuce with green beans can help conserve soil moisture, suppress weeds, and provide living mulch to cool the soil."
+           },
+           {
+             "name": "Radishes",
+             "description": "Radishes are fast-growing and can help break up compacted soil, making it easier for green bean roots to penetrate. Interplanting radishes with green beans can improve soil aeration, drainage, and overall plant health."
+           },
+           {
+             "name": "Potatoes",
+             "description": "Potatoes and green beans are compatible companions. Green beans can provide ground cover to help suppress weeds and conserve soil moisture, benefiting potato plants. Additionally, the nitrogen-fixing ability of beans can improve soil fertility for potatoes."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Onions",
+             "description": "Onions and other alliums may inhibit the growth of green beans if planted too closely together. Some studies suggest that alliums release substances that can interfere with bean growth and development."
+           },
+           {
+             "name": "Garlic",
+             "description": "Similar to onions, garlic may have an inhibitory effect on green beans if planted too closely together. Planting garlic near green beans may result in reduced growth and yield for bean crops."
+           },
+           {
+             "name": "Sunflower",
+             "description": "Sunflowers have dense root systems that may compete with green beans for water and nutrients. Planting them together may result in reduced growth and yield for green bean crops."
+           },
+           {
+             "name": "Brassicas",
+             "description": "Brassicas, such as cabbage, broccoli, and kale, may produce allelopathic compounds that inhibit the growth of nearby plants, including green beans. Planting brassicas near green beans may hinder bean growth and development."
+           },
+           {
+             "name": "Beets",
+             "description": "Beets and green beans are not ideal companions. While they can grow in the same garden bed, planting them too closely together may result in competition for nutrients and space, leading to reduced yields for both crops."
+           }
+         ]
+       },
+     "pests": [
+         "Aphids",
+         "Leafhopper",
+         "Whiteflies",
+         "Thrips",
+         "Cutworm",
+         "Armyworm",
+         "Flea Beetle",
+         "Leaf Beetle",
+         "Mite",
+         "Weevil",
+         "Asian Lady Beetle",
+         "Blister Beetle",
+         "Tarnished Plant Bug"
+       ],
+       "beneficial_insects": [
+         "Ladybugs",
+         "Lacewings",
+         "Hoverflies",
+         "Parasitic Wasps",
+         "Predatory Mites"
+       ],
+       "diseases": [
+         "Rust",
+         "Powdery Mildew",
+         "Anthracnose",
+         "Bacterial Blight",
+         "Fusarium Wilt",
+         "Curly Top"
+       ],
+       "tipsAndTricks": [
+         "Plant green beans in well-drained soil with full sun exposure.",
+         "Provide support for green bean vines, such as trellises or poles.",
+         "Water green beans regularly, especially during dry periods.",
+         "Mulch around the base of plants to retain moisture and suppress weeds.",
+         "Harvest green beans when they are young and tender, typically before the seeds inside the pods become large and tough.",
+         "Rotate crops to prevent the buildup of pests and diseases in the soil.",
+         "Monitor plants regularly for signs of pests and diseases, and take appropriate action."
+       ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Green Beans: Planting Guide",

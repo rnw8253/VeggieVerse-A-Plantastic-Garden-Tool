@@ -34,6 +34,18 @@
        "storageRecommendations": "Harvest broccoli when the heads are tight and firm, typically 4-8 inches in diameter. Cut the main head with a sharp knife, leaving a few inches of stem attached to the plant. Side shoots will continue to develop after the main head is harvested, providing additional harvests. Store harvested broccoli in the refrigerator for up to a week. Wash and dry the heads before storing to remove any dirt or debris.",
        "harvestDescription": "Harvest broccoli by cutting the main head when it is tight and firm, using a sharp knife to make a clean cut. Avoid letting the heads become loose or start to flower, as this can negatively affect flavor and texture."
      },
+     "SpringSowing": {
+         "Indoors": [-8, -6],
+         "Transplant": [-2, 0],
+         "Outdoors": [-4, -3],
+         "LastSowDate": -9
+     },
+     "FallSowing": {
+         "Outdoors": [-13, -12],
+         "Transplant": [-10, -8],
+         "DaysToMaturity": 60,
+         "FrostTolerance": "Tolerant"
+     },
     "companionPlants": {
         "goodCompanionPlants": [
             {
@@ -49,7 +61,7 @@
                 "description": "Spinach is a cool-season crop that complements broccoli well. It can be planted alongside broccoli to maximize garden space and provide additional leafy greens for harvesting."
             },
             {
-                "name": "Nasturtiums",
+                "name": "Nasturtium",
                 "description": "Nasturtiums deter aphids, whiteflies, and cabbage moths, common pests of broccoli. Their vibrant flowers also attract beneficial insects like ladybugs and hoverflies, which prey on garden pests."
             },
             {
@@ -105,87 +117,41 @@
         ]
     },
     "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are small, soft-bodied insects that feed on plant sap, causing distorted growth, yellowing, and wilting. They reproduce rapidly and can quickly infest plants. Control aphids by spraying affected plants with a strong stream of water, introducing natural predators like ladybugs, or using insecticidal soap or neem oil."
-        },
-        {
-            "name": "Caterpillars",
-            "description": "Caterpillars are the larval stage of moths and butterflies that feed on plant foliage, causing holes and damage. They can defoliate plants if left unchecked. Control caterpillars by handpicking them from plants, using row covers to protect crops, or applying biological insecticides containing Bacillus thuringiensis (Bt)."
-        },
-        {
-            "name": "Whiteflies",
-            "description": "Whiteflies are tiny, moth-like insects that feed on plant sap, causing yellowing, wilting, and the transmission of viral diseases. They produce honeydew, attracting ants and promoting the growth of sooty mold. Control whiteflies by using yellow sticky traps, introducing natural predators like parasitic wasps, or applying insecticidal soap or neem oil."
-        },
-        {
-            "name": "Thrips",
-            "description": "Thrips are small, slender insects that feed on plant sap, causing stippling, distortion, and silvering of leaves. They can transmit viral diseases and damage plant tissues. Control thrips by removing weeds and debris from the garden, introducing natural predators like minute pirate bugs, or applying insecticidal soap or neem oil."
-        },
-        {
-            "name": "Spider Mites",
-            "description": "Spider mites are tiny pests that feed on plant sap, causing stippling, yellowing, and webbing on leaves. They thrive in hot, dry conditions and can rapidly reproduce, leading to severe infestations. Control spider mites by increasing humidity around plants, using a strong stream of water to dislodge them, or applying insecticidal soap, neem oil, or horticultural oil."
-        },
-        {
-            "name": "Cutworms",
-            "description": "Cutworms are moth larvae that feed on plant stems near the soil surface, cutting through them and causing plants to wilt and die. They are active at night and hide during the day in soil or plant debris. Control cutworms by placing collars around plant stems, removing debris from the garden, and applying biological insecticides containing Bacillus thuringiensis (Bt)."
-        },
-        {
-            "name": "Japanese Beetles",
-            "description": "Japanese beetles are metallic green insects that feed on plant foliage, flowers, and fruits, causing skeletonized leaves and significant damage. They are attracted to a wide range of plants and can quickly defoliate entire plants if left unchecked. Control Japanese beetles by handpicking them from plants, using pheromone traps, or applying insecticides labeled for Japanese beetle control."
-        },
-        {
-            "name": "Leaf Miners",
-            "description": "Leaf miners are small larvae that tunnel through plant leaves, creating winding trails or blotches and causing aesthetic damage. They can infest a wide range of plants and are often difficult to control once established. Control leaf miners by removing and destroying infested leaves, using sticky traps to monitor activity, or applying insecticides labeled for leaf miner control."
-        },
-        {
-            "name": "Slugs and Snails",
-            "description": "Slugs and snails are mollusks that feed on plant foliage, leaving behind irregular holes and damage. They are most active at night and prefer moist, shady conditions. Control slugs and snails by handpicking them from plants, using beer traps, or applying iron phosphate-based baits."
-        }
+      "Aphids",
+      "Cabbage Worm",
+      "Diamondback Moth",
+      "Cutworm",
+      "Thrips",
+      "Armyworm",
+      "Leafhopper",
+      "Whiteflies",
+      "Flea Beetle",
+      "Looper",
+      "Harlequin Bug"
+    ],
+    "beneficial_insects": [
+      "Ladybugs",
+      "Lacewings",
+      "Hoverflies",
+      "Parasitic Wasps",
+      "Predatory Mites"
     ],
     "diseases": [
-        {
-            "name": "Clubroot",
-            "description": "Clubroot is a soilborne disease caused by the Plasmodiophora brassicae fungus, characterized by swollen, deformed roots and stunted growth. It thrives in acidic soil with poor drainage. Prevent clubroot by maintaining proper soil pH, improving soil drainage, and rotating crops."
-        },
-        {
-            "name": "Downy Mildew",
-            "description": "Downy mildew is a fungal disease caused by various species of the Peronospora genus, characterized by yellow patches on upper leaf surfaces and grayish-white fungal growth on lower leaf surfaces. It thrives in cool, humid conditions. Prevent downy mildew by providing good air circulation, avoiding overhead watering, and applying fungicides as needed."
-        },
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease caused by various species of fungi, characterized by white, powdery growth on plant surfaces. It thrives in warm, dry conditions. Prevent powdery mildew by providing good air circulation, avoiding overhead watering, and applying fungicides as needed."
-        },
-        {
-            "name": "Blight",
-            "description": "Blight is a general term for various fungal diseases that cause rapid browning and death of plant tissues. Examples include early blight, late blight, and bacterial blight. They thrive in warm, moist conditions. Prevent blight by practicing crop rotation, avoiding overhead watering, and applying fungicides as needed."
-        },
-        {
-            "name": "Anthracnose",
-            "description": "Anthracnose is a fungal disease caused by various species of fungi, characterized by dark, sunken lesions on plant tissues. It thrives in warm, humid conditions. Prevent anthracnose by removing and destroying infected plant parts, providing good air circulation, and applying fungicides as needed."
-        },
-        {
-            "name": "Verticillium Wilt",
-            "description": "Verticillium wilt is a fungal disease caused by Verticillium spp., characterized by wilting, yellowing, and vascular discoloration in plant tissues. It thrives in cool to warm temperatures. Prevent verticillium wilt by planting resistant varieties, practicing crop rotation, and improving soil drainage."
-        },
-        {
-            "name": "Fusarium Wilt",
-            "description": "Fusarium wilt is a soilborne fungal disease caused by Fusarium spp., characterized by wilting, yellowing, and vascular discoloration in plant tissues. It thrives in warm, moist conditions. Prevent fusarium wilt by planting resistant varieties, practicing crop rotation, and improving soil drainage."
-        },
-        {
-            "name": "Root Rot",
-            "description": "Root rot is a disease caused by various soilborne pathogens, characterized by rotting of plant roots and reduced plant vigor. It thrives in poorly drained, waterlogged soils. Prevent root rot by improving soil drainage, avoiding overwatering, and planting in well-drained locations."
-        }
+      "Downy Mildew",
+      "Clubroot",
+      "Fusarium Wilt",
+      "Alternaria Leaf Spot",
+      "Powdery Mildew",
+      "Gray Mold Rot"
     ],
     "tipsAndTricks": [
-        "Plant broccoli in well-drained, fertile soil rich in organic matter.",
-        "Provide consistent moisture throughout the growing season to promote healthy growth and development.",
-        "Harvest broccoli heads promptly to prevent overmaturity and bitterness.",
-        "Use row covers to protect young broccoli plants from pests like cabbage worms and flea beetles.",
-        "Mulch around broccoli plants to conserve soil moisture, suppress weeds, and regulate soil temperature.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action to control infestations.",
-        "Rotate broccoli crops with unrelated plants to prevent the buildup of pests and diseases in the soil.",
-        "Apply a balanced fertilizer high in nitrogen, phosphorus, and potassium to promote vigorous growth and abundant yields.",
-        "Plant broccoli in early spring or late summer for the best results, as it prefers cool weather and ample sunlight."
+      "Plant broccoli in well-drained soil with full sun exposure.",
+      "Space broccoli plants properly to allow good air circulation and prevent diseases.",
+      "Apply a balanced fertilizer or compost to provide necessary nutrients for growth.",
+      "Mulch around the base of plants to retain moisture and suppress weeds.",
+      "Water broccoli plants regularly, especially during dry periods.",
+      "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+      "Harvest broccoli when the heads are firm and compact, typically before the flower buds open."
     ],
     "linksToAdditionalResources": [
         {

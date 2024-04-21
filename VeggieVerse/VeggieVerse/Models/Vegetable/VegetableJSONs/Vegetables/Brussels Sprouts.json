@@ -33,6 +33,18 @@
         "storageRecommendations": "Harvest Brussels sprouts when the sprouts are firm, green, and about 1-2 inches in diameter. Start harvesting from the bottom of the stalk, working upward as the sprouts mature. Cut the sprouts from the stem with a sharp knife or scissors. Store harvested Brussels sprouts in the refrigerator for up to a week. Remove any yellowing or damaged outer leaves before storing.",
         "harvestDescription": "Harvest Brussels sprouts by cutting the sprouts from the stem with a sharp knife or scissors when they reach the desired size and firmness. Avoid letting the sprouts become loose or start to flower, as this can negatively affect flavor and texture."
       },
+      "SpringSowing": {
+          "Indoors": [-6, -4],
+          "Transplant": [-2, 0],
+          "Outdoors": [-4, -3],
+          "LastSowDate": -14
+      },
+      "FallSowing": {
+          "Outdoors": [-16, -14],
+          "Transplant": [],
+          "DaysToMaturity": 100,
+          "FrostTolerance": "Hardy"
+      },
       "companionPlants": {
           "goodCompanionPlants": [
             {
@@ -40,7 +52,7 @@
               "description": "Beets can help repel pests like aphids and cabbage worms when planted near Brussels sprouts. Their strong scent can mask the smell of the Brussels sprouts, making them less attractive to pests."
             },
             {
-              "name": "Nasturtiums",
+              "name": "Nasturtium",
               "description": "Nasturtiums can attract beneficial insects like ladybugs and hoverflies, which prey on pests that may affect Brussels sprouts. Additionally, their flowers add color and beauty to the garden."
             },
             {
@@ -70,7 +82,7 @@
               "description": "Pole beans and other legumes can fix nitrogen in the soil, which may result in excessive leafy growth at the expense of Brussels sprout development. Avoid planting pole beans near Brussels sprouts."
             },
             {
-              "name": "Sunflowers",
+              "name": "Sunflower",
               "description": "Sunflowers can produce tall stalks that may shade out Brussels sprouts and compete for water and nutrients. Additionally, sunflowers may attract pests like aphids and whiteflies."
             },
             {
@@ -79,24 +91,41 @@
             }
           ]
         },
-    "pests": [
-        {
-            "name": "Cabbage Worms",
-            "description": "Cabbage worms are the larvae of cabbage white butterflies and can damage Brussels sprouts by feeding on the foliage. Control cabbage worms by handpicking them off plants, applying organic insecticides like Bacillus thuringiensis (Bt), and using row covers to exclude adult butterflies."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Clubroot",
-            "description": "Clubroot is a soilborne disease that affects members of the Brassica family, including Brussels sprouts. It causes swelling and distortion of the roots, leading to stunted growth and poor yields. Prevent clubroot by practicing crop rotation, improving soil drainage, and using disease-resistant varieties."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest Brussels sprouts when the heads are firm, green, and about 1-2 inches in diameter for the best flavor and texture.",
-        "Prune lower leaves from Brussels sprouts plants as they grow to redirect energy to the development of sprouts.",
-        "Provide support for tall Brussels sprouts varieties by staking or using cages to prevent them from toppling over in windy conditions.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed."
-    ],
+      "pests": [
+        "Aphids",
+        "Cabbage Worm",
+        "Diamondback Moth",
+        "Cutworm",
+        "Thrips",
+        "Armyworm",
+        "Leafhopper",
+        "Whiteflies",
+        "Flea Beetle",
+        "Looper"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
+      ],
+      "diseases": [
+        "Downy Mildew",
+        "Clubroot",
+        "Fusarium Wilt",
+        "Alternaria Leaf Spot",
+        "Powdery Mildew"
+      ],
+      "tipsAndTricks": [
+        "Plant Brussels sprouts in well-drained soil with full sun exposure.",
+        "Space Brussels sprouts plants properly to allow good air circulation and prevent diseases.",
+        "Apply a balanced fertilizer or compost to provide necessary nutrients for growth.",
+        "Mulch around the base of plants to retain moisture and suppress weeds.",
+        "Water Brussels sprouts plants regularly, especially during dry periods.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+        "Harvest Brussels sprouts when the sprouts are firm and about 1-2 inches in diameter, starting from the bottom of the stalk and working upward."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Brussels Sprouts: Planting Guide",

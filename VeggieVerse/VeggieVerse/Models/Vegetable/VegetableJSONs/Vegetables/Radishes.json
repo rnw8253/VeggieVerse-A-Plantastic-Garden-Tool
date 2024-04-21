@@ -33,41 +33,91 @@
         "storageRecommendations": "Harvest radishes when they reach the desired size and have firm, smooth skin. Use a garden fork or trowel to loosen the soil around the roots and lift them gently from the ground. Remove any excess soil and trim off the tops. Store harvested radishes in the refrigerator for up to a week.",
         "harvestDescription": "Harvest radishes when they reach the desired size, usually 1-2 inches in diameter for most varieties. Pull them from the ground gently, taking care not to damage the roots. Rinse the radishes thoroughly to remove any soil before storing or using them."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [],
+        "Transplant": [],
+        "Outdoors": [-4, -3],
+        "LastSowDate": -8
+      },
+      "FallSowing": {
+        "Outdoors": [-6, -4],
+        "Transplant": [],
+        "DaysToMaturity": 25,
+        "FrostTolerance": "Tolerant"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Lettuce",
-                "description": "Lettuce can be interplanted with radishes to help suppress weeds and provide natural ground cover."
+              "name": "Carrots",
+              "description": "Carrots are excellent companions for radishes. Planting carrots alongside radishes helps deter pests like carrot rust flies and root maggots, as the strong aroma of radishes masks the scent of carrots. Additionally, radishes have shallow root systems that occupy different soil layers, reducing competition for nutrients and space."
             },
             {
-                "name": "Spinach",
-                "description": "Spinach can be planted near radishes to help improve soil fertility and provide natural pest control in the garden."
-            }
-        ],
-        "badCompanionPlants": [
+              "name": "Lettuce",
+              "description": "Lettuce makes a good companion for radishes. Interplanting lettuce and radishes can help maximize space in the garden, as radishes grow quickly and can be harvested before lettuce matures. The shallow root systems of both plants allow for efficient use of soil nutrients and water."
+            },
             {
-                "name": "Potatoes",
-                "description": "Potatoes are not recommended to be planted near radishes as they may compete for space and nutrients."
+              "name": "Spinach",
+              "description": "Spinach is a beneficial companion for radishes. Planting spinach near radishes provides shade and moisture retention, creating a microclimate that benefits both crops. Additionally, spinach and radishes have complementary nutrient needs, reducing competition for resources in the soil."
+            },
+            {
+              "name": "Peas",
+              "description": "Peas are good companions for radishes. Peas are nitrogen-fixing plants, which enrich the soil with nitrogen, benefiting the growth of radishes. Interplanting peas and radishes also helps maximize garden space and encourages biodiversity, which can help deter pests and improve overall soil health."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Flea Beetles",
-            "description": "Flea beetles are small, jumping insects that feed on radish leaves, causing tiny holes and damage. They can be controlled by using row covers to exclude them from plants, applying diatomaceous earth around the base of plants, and using insecticidal sprays or dusts as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Downy Mildew",
-            "description": "Downy mildew is a fungal disease that affects radish plants, causing yellowing and wilting of leaves. It thrives in cool, wet conditions and can lead to reduced plant vigor and yield. Prevent downy mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest radishes when they are young and tender for the best flavor and texture.",
-        "Thin radish seedlings to the proper spacing once they have emerged to avoid overcrowding and promote good air circulation.",
-        "Rotate radish crops annually to prevent the buildup of soilborne pests and diseases."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Hyssop",
+              "description": "Hyssop may not be an ideal companion for radishes. Hyssop produces allelopathic compounds that can inhibit the growth of nearby plants, including radishes. Planting radishes near hyssop may result in stunted growth and reduced yields."
+            },
+            {
+              "name": "Kohlrabi",
+              "description": "Kohlrabi is not recommended as a companion for radishes. Both plants belong to the brassica family and may attract similar pests and diseases. Planting them together may increase the risk of pest infestations and disease outbreaks, leading to reduced yields for both crops."
+            },
+            {
+              "name": "Potatoes",
+              "description": "Potatoes may not be the best companion for radishes. Both plants have different growth habits and nutrient requirements, which can lead to competition for resources like water and nutrients in the soil. Planting them together may result in reduced yields for both crops."
+            },
+            {
+              "name": "Turnips",
+              "description": "Turnips are not recommended as companions for radishes. Both plants belong to the brassica family and may attract similar pests and diseases. Planting them together may increase the risk of pest infestations and disease outbreaks, leading to reduced yields for both crops."
+            }
+          ]
+        },
+      "pests": [
+          "Aphids",
+          "Flea Beetle",
+          "Cabbage Maggot",
+          "Root Maggot",
+          "Cutworm",
+          "Wireworm",
+          "Thrips",
+          "Leafminer",
+          "Slug",
+      "Snail"
+        ],
+        "beneficial_insects": [
+          "Ladybugs",
+          "Lacewings",
+          "Hoverflies",
+          "Parasitic Wasps",
+          "Predatory Mites"
+        ],
+        "diseases": [
+          "Downy Mildew",
+          "Powdery Mildew",
+          "Clubroot",
+          "Root Rot",
+          "Leaf Spot"
+        ],
+        "tipsAndTricks": [
+          "Plant radishes in loose, well-drained soil with full sun exposure.",
+          "Sow radish seeds thinly to avoid overcrowding.",
+          "Water radishes regularly, keeping the soil consistently moist but not waterlogged.",
+          "Mulch around radish plants to retain moisture and suppress weeds.",
+          "Harvest radishes when they reach the desired size, typically 3-4 weeks after planting.",
+          "Rotate crops to prevent the buildup of pests and diseases in the soil.",
+          "Monitor plants regularly for signs of pests and diseases, and take appropriate action."
+        ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Radishes: Planting Guide",

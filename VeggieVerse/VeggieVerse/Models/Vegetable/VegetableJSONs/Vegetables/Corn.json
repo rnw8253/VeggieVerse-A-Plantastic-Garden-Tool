@@ -32,42 +32,94 @@
        "storageRecommendations": "Harvest corn when the kernels are plump and milky, typically 20 days after the silks appear. Peel back the husks and press a kernel with your fingernail to check for milkiness. Harvest immediately before cooking for the best flavor. Store harvested corn in the refrigerator for up to a few days or blanch and freeze for longer storage.",
        "harvestDescription": "Harvest corn by pulling back the husks and twisting the ears downward to snap them off the stalk. Remove the silks and husks before cooking."
      },
-    "companionPlants": {
-        "goodCompanionPlants": [
-            {
-                "name": "Beans",
-                "description": "Beans can be planted near corn to help fix nitrogen in the soil and provide support for climbing corn plants."
-            },
-            {
-                "name": "Squash",
-                "description": "Squash can be planted near corn to help suppress weeds, conserve soil moisture, and provide ground cover."
-            }
-        ],
-        "badCompanionPlants": [
-            {
-                "name": "Tomatoes",
-                "description": "Tomatoes are not recommended to be planted near corn as they may compete for space and nutrients."
-            }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Corn Earworm",
-            "description": "Corn earworms are the larvae of a moth species that feed on corn kernels, causing damage and reducing yields. Control corn earworms by handpicking them off plants, applying organic insecticides like Bacillus thuringiensis (Bt), and using pheromone traps to monitor and reduce populations."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Corn Smut",
-            "description": "Corn smut is a fungal disease that affects corn plants, causing swollen, gray-black galls on ears, stalks, and tassels. Prevent corn smut by practicing crop rotation, removing and destroying infected plant material, and planting disease-resistant varieties."
-        }
-    ],
-    "tipsAndTricks": [
-        "Plant corn seeds in blocks rather than single rows to ensure good pollination.",
-        "Hill soil around the base of corn plants when they are 8-12 inches tall to provide additional support and promote root development.",
-        "Harvest corn when the kernels are plump and fully formed for the best flavor and texture.",
-        "Store harvested corn in the refrigerator for up to one week. For longer storage, blanch and freeze corn kernels."
-    ],
+     "SpringSowing": {
+       "Indoors": [],
+       "Transplant": [],
+       "Outdoors": [2, 4],
+       "LastSowDate": -11
+     },
+     "FallSowing": {
+       "Outdoors": [],
+       "Transplant": [],
+       "DaysToMaturity": 55,
+       "FrostTolerance": "Tender"
+     },
+     "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Beans",
+             "description": "Beans, such as pole beans or bush beans, can be planted alongside corn to provide natural trellising and support for the beans. In return, beans fix nitrogen in the soil, benefiting the nitrogen-demanding corn plants."
+           },
+           {
+             "name": "Squash",
+             "description": "Squash, including zucchini and pumpkin, can be interplanted with corn to provide ground cover, suppress weeds, and conserve soil moisture. Additionally, their broad leaves can shade the soil, reducing evaporation and maintaining soil temperature."
+           },
+           {
+             "name": "Cucumbers",
+             "description": "Cucumbers can be planted near corn to benefit from the corn's tall stalks, which provide natural trellising for the cucumbers to climb. This symbiotic relationship maximizes space in the garden and increases overall productivity."
+           },
+           {
+             "name": "Melons",
+             "description": "Melons, such as watermelons and cantaloupes, can be grown alongside corn to occupy the same space and benefit from similar soil and sunlight conditions. Interplanting them can maximize space and yield in the garden."
+           },
+           {
+             "name": "Pole Beans",
+             "description": "Pole beans can be grown with corn as they climb up the corn stalks, utilizing them as natural trellises. This companion planting method maximizes vertical space in the garden and promotes efficient use of garden space."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Tomatoes",
+             "description": "Tomatoes and corn are both heavy feeders, competing for nutrients in the soil. Planting them together may result in nutrient deficiencies and reduced growth and yield for both crops."
+           },
+           {
+             "name": "Potatoes",
+             "description": "Potatoes and corn have similar soil and nutrient requirements, leading to competition for resources. Additionally, planting potatoes near corn may increase the risk of pest and disease infestations."
+           },
+           {
+             "name": "Sunflower",
+             "description": "Sunflowers have dense root systems that may compete with corn for water and nutrients. Planting them together may result in reduced growth and yield for both crops."
+           }
+         ]
+       },
+     "pests": [
+       "Corn Earworm",
+       "Rootworm",
+       "Borer",
+       "Aphids",
+       "Leafhopper",
+       "Flea Beetle",
+       "Wireworm",
+       "Sap Beetle",
+       "Cutworm",
+       "Thrips",
+       "Bollworm",
+       "Earwig"
+     ],
+     "beneficial_insects": [
+       "Ladybugs",
+       "Lacewings",
+       "Hoverflies",
+       "Parasitic Wasps",
+       "Predatory Mites"
+     ],
+     "diseases": [
+       "Corn Smut",
+       "Rust",
+       "Leaf Blight",
+       "Stalk Rot",
+       "Ear Rot"
+     ],
+     "tipsAndTricks": [
+       "Plant corn in blocks rather than single rows to promote better pollination.",
+       "Ensure proper spacing between corn plants to prevent overcrowding.",
+       "Plant corn in well-drained soil with full sun exposure.",
+       "Apply fertilizer rich in nitrogen when the plants are knee-high.",
+       "Water corn plants regularly, especially during dry periods.",
+       "Mulch around the base of plants to retain moisture and suppress weeds.",
+       "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+       "Harvest corn when the kernels are plump and release a milky liquid when punctured."
+     ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Corn: Planting Guide",

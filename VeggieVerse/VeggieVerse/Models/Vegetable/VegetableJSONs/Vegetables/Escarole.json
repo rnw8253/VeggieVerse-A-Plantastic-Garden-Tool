@@ -33,42 +33,98 @@
         "storageRecommendations": "Harvest escarole when the leaves are young and tender, usually before they become bitter. Cut the outer leaves from the plant using scissors or a sharp knife, allowing the inner leaves to continue growing. Store harvested escarole in the refrigerator for up to a week. Wash and dry the leaves before storing to remove any dirt or debris.",
         "harvestDescription": "Harvest escarole by cutting the outer leaves from the plant as needed. Leave the inner leaves to continue growing, and harvest them as they reach the desired size."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [-5, -4],
+        "Transplant": [-4, -2],
+        "Outdoors": [-4, -2],
+        "LastSowDate": -12
+      },
+      "FallSowing": {
+        "Outdoors": [-14, -12],
+        "Transplant": [],
+        "DaysToMaturity": 90,
+        "FrostTolerance": "Tolerant"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Lettuce",
-                "description": "Lettuce can be planted near escarole to provide shade and help retain soil moisture."
+              "name": "Beans",
+              "description": "Beans, such as bush beans or pole beans, can enrich the soil with nitrogen through nitrogen fixation, benefiting escarole plants. Interplanting beans with escarole can improve soil fertility and promote healthier growth."
             },
             {
-                "name": "Onions",
-                "description": "Onions can be planted near escarole to help repel pests like aphids and carrot flies."
-            }
-        ],
-        "badCompanionPlants": [
+              "name": "Lettuce",
+              "description": "Lettuce has shallow roots and grows well in the shade of taller plants like escarole. Interplanting lettuce with escarole can help conserve soil moisture, suppress weeds, and provide living mulch to cool the soil."
+            },
             {
-                "name": "Tomatoes",
-                "description": "Tomatoes are not recommended to be planted near escarole as they may compete for space and nutrients."
+              "name": "Radishes",
+              "description": "Radishes are fast-growing and can help break up compacted soil, making it easier for escarole roots to penetrate. Interplanting radishes with escarole can improve soil aeration, drainage, and overall plant health."
+            },
+            {
+              "name": "Carrots",
+              "description": "Carrots and escarole have complementary root structures, with carrots growing deeper while escarole grows shallower. Interplanting them can maximize space in the garden and reduce competition for soil nutrients."
+            },
+            {
+              "name": "Chives",
+              "description": "Chives can repel aphids, which are common pests of escarole. Interplanting chives with escarole can help protect them from aphid infestations, reducing the need for chemical pesticides."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are small, soft-bodied insects that feed on the sap of escarole plants, causing distorted growth and yellowing leaves. Control aphids by spraying plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs, or applying insecticidal soap."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Downy Mildew",
-            "description": "Downy mildew is a fungal disease that affects escarole, causing yellow spots on leaves that may eventually turn brown. It thrives in cool, humid conditions. Prevent downy mildew by providing good air circulation around plants, avoiding overhead watering, and using fungicides as needed."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest escarole leaves when they reach the desired size and texture for the best flavor and tenderness.",
-        "Remove any yellowing or damaged leaves from escarole plants throughout the growing season to promote air circulation and reduce the risk of disease.",
-        "Provide consistent moisture and fertility to escarole plants for optimal growth and development.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Beans",
+              "description": "While beans are generally good companions for escarole, certain types of beans, such as lima beans, can release substances that inhibit the growth of escarole. It's best to avoid planting lima beans near escarole."
+            },
+            {
+              "name": "Dill",
+              "description": "Dill can attract pests like aphids and spider mites, which may also affect nearby escarole plants. Planting dill near escarole may increase the risk of pest infestations and damage to escarole crops."
+            },
+            {
+              "name": "Fennel",
+              "description": "Fennel contains compounds that can inhibit the growth of nearby plants, including escarole. Planting escarole near fennel may result in stunted growth and reduced yield for escarole crops."
+            },
+            {
+              "name": "Kale",
+              "description": "Kale and escarole have similar cultural requirements and may compete for resources like sunlight, water, and nutrients. Planting them too close together may lead to overcrowding and reduced growth for both crops."
+            },
+            {
+              "name": "Sunflower",
+              "description": "Sunflowers have dense root systems that may compete with escarole for water and nutrients. Planting them together may result in reduced growth and yield for escarole crops."
+            }
+          ]
+        },
+      "pests": [
+        "Aphids",
+        "Leafhopper",
+        "Whiteflies",
+        "Thrips",
+        "Cutworm",
+        "Armyworm",
+        "Flea Beetle",
+        "Looper",
+        "Cabbage Worm",
+        "Mite"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
+      ],
+      "diseases": [
+        "Downy Mildew",
+        "Powdery Mildew",
+        "Anthracnose",
+        "Rust",
+        "Botrytis"
+      ],
+      "tipsAndTricks": [
+        "Plant escarole in well-drained soil with full sun to partial shade exposure.",
+        "Space escarole plants properly to allow good air circulation and prevent diseases.",
+        "Water escarole regularly, keeping the soil consistently moist but not waterlogged.",
+        "Apply mulch around the base of plants to retain moisture and suppress weeds.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+        "Harvest escarole leaves when they reach the desired size, typically when they are young and tender."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Escarole: Planting Guide",

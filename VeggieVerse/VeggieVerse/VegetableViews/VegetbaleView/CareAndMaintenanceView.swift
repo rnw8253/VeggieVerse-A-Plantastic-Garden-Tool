@@ -9,7 +9,6 @@ import SwiftUI
 
 struct CareAndMaintenanceView: View {
     var vegetable: Vegetable
-//    private let adaptiveColumn = [ GridItem(.adaptive(minimum: 150)) ]
     let columns = [ GridItem(.flexible()), GridItem(.flexible()) ]
     var body: some View {
         VStack(spacing: 10) {
@@ -24,13 +23,13 @@ struct CareAndMaintenanceView: View {
             FullWidthTextView(imageName: "trellis", text: "Support", value: vegetable.careAndMaintenance!.supportRequirements, imageWidth: 45)
         }
         .padding(.top, 30)
+        .foregroundColor(.black)
     }
 }
 
 struct CareAndMaintenanceView_Previews: PreviewProvider {
-    static let data = LoadDataModel()
     static var previews: some View {
-        CareAndMaintenanceView(vegetable: data.vegetables[2])
+        CareAndMaintenanceView(vegetable: LoadDataModel.shared.vegetables[2])
     }
 }
 

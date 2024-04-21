@@ -33,43 +33,86 @@
        "storageRecommendations": "Harvest chives as needed for culinary use. Use fresh chives immediately for the best flavor. Store any unused portions in the refrigerator wrapped in a damp paper towel and placed in a plastic bag for up to a week.",
        "harvestDescription": "Harvest chives by cutting the leaves from the base of the plant with scissors or shears. Avoid cutting more than one-third of the plant at a time to ensure continued growth."
      },
-    "companionPlants": {
-        "goodCompanionPlants": [
-            {
-                "name": "Carrots",
-                "description": "Chives are beneficial when planted near carrots, as they help deter carrot flies and other pests."
-            },
-            {
-                "name": "Tomatoes",
-                "description": "Chives are a good companion for tomatoes, as they repel aphids and other pests."
-            }
-        ],
-        "badCompanionPlants": [
-            {
-                "name": "Beans",
-                "description": "Avoid planting chives near beans, as they may inhibit their growth."
-            }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Onion Thrips",
-            "description": "Onion thrips are small, slender insects that feed on chive leaves, causing stippling, wilting, and reduced growth. They may also transmit plant diseases. Control thrips by spraying affected plants with insecticidal soap or neem oil, and introducing natural predators like ladybugs or lacewings."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Downy Mildew",
-            "description": "Downy mildew is a fungal disease that affects chive plants, causing yellowing, wilting, and a fuzzy growth on leaves. It thrives in cool, humid conditions. Prevent downy mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest chives regularly to encourage new growth and prevent flowering.",
-        "Trim back chive foliage to the base of the plant as needed.",
-        "Water chives regularly to keep the soil evenly moist, especially during dry periods.",
-        "Mulch around chive plants to conserve moisture, suppress weeds, and regulate soil temperature.",
-        "Fertilize lightly with a balanced fertilizer in early spring to promote healthy growth."
-    ],
+     "SpringSowing": {
+       "Indoors": [-8, -6],
+       "Transplant": [-3, -2],
+       "Outdoors": [-3, -2],
+       "LastSowDate": -8
+     },
+     "FallSowing": {
+       "Outdoors": [-12, -8],
+       "Transplant": [],
+       "DaysToMaturity": 70,
+       "FrostTolerance": "Tolerant"
+     },
+     "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Carrots",
+             "description": "Chives are excellent companion plants for carrots as they deter carrot flies with their strong scent, reducing the likelihood of pest infestations. Additionally, chives attract beneficial insects such as hoverflies and parasitic wasps, which prey on common carrot pests like aphids and caterpillars."
+           },
+           {
+             "name": "Tomatoes",
+             "description": "Chives make good companions for tomatoes as they help repel aphids, spider mites, and other common tomato pests. Their strong aroma can confuse pests and mask the scent of tomatoes, reducing the risk of infestations. Additionally, chives attract pollinators like bees, which can enhance tomato fruit set and yield."
+           },
+           {
+             "name": "Broccoli",
+             "description": "Chives are beneficial companions for broccoli as they repel pests like aphids, cabbage worms, and cabbage moths with their pungent aroma. Planting chives near broccoli can help protect the plants from pest damage and improve overall crop health. Additionally, chives attract beneficial insects that prey on broccoli pests, further enhancing pest control."
+           },
+           {
+             "name": "Lettuce",
+             "description": "Chives can be planted alongside lettuce to help deter aphids and other common lettuce pests. Their strong scent may confuse pests and reduce pest populations, promoting healthier lettuce plants. Additionally, chives attract beneficial insects such as ladybugs and lacewings, which feed on aphids and other harmful pests, contributing to natural pest control in the lettuce patch."
+           },
+           {
+             "name": "Potatoes",
+             "description": "Chives can serve as beneficial companions for potatoes by repelling common pests like aphids, potato beetles, and spider mites. Planting chives near potato crops can help protect the plants from pest damage and reduce the need for chemical pesticides. Additionally, chives attract beneficial insects such as predatory beetles and parasitic wasps, which prey on potato pests, contributing to integrated pest management in potato cultivation."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Beans",
+             "description": "Chives may inhibit the growth of beans when planted nearby due to their allelopathic effects, which can hinder bean germination and growth. Beans are sensitive to competition from other plants, and the presence of chives may negatively impact their development. It is best to keep chives away from bean crops to avoid potential growth inhibition."
+           },
+           {
+             "name": "Peas",
+             "description": "Chives are not recommended as companion plants for peas as they may inhibit pea growth and development due to their allelopathic effects. Chives release chemicals into the soil that can hinder pea germination and root development, leading to stunted growth and reduced yields. It is advisable to plant chives away from pea crops to avoid interference with pea growth."
+           },
+           {
+             "name": "Sage",
+             "description": "Sage and chives are not ideal companions as they both compete for nutrients and space in the garden. While both herbs have beneficial properties, planting them together may lead to overcrowding and reduced growth. It is best to provide separate growing areas for sage and chives to ensure optimal growth and harvest."
+           }
+         ]
+       },
+     "pests": [
+         "Aphids",
+         "Thrips",
+         "Leafminer",
+         "Onion Maggot"
+       ],
+       "beneficial_insects": [
+         "Ladybugs",
+         "Lacewings",
+         "Hoverflies",
+         "Parasitic Wasps"
+       ],
+       "diseases": [
+         "Downy Mildew",
+         "Botrytis Rot",
+         "Smut",
+         "Pink Root"
+       ],
+       "tipsAndTricks": [
+         "Select a planting site with well-drained soil and full sun exposure.",
+         "Plant chive seeds or divisions in the early spring, spacing them 6-8 inches apart in rows or clusters.",
+         "Water chives regularly, providing about 1 inch of water per week, and avoid overwatering to prevent rot.",
+         "Fertilize chives with a balanced fertilizer or compost tea in early spring and again after harvesting.",
+         "Mulch around chive plants to conserve moisture, suppress weeds, and maintain soil temperature.",
+         "Harvest chive leaves as needed for culinary use by snipping them from the base of the plant.",
+         "Monitor plants regularly for signs of pests such as aphids and thrips. Use insecticidal soap or neem oil as needed.",
+         "Watch for symptoms of diseases like downy mildew and botrytis rot. Avoid overhead watering and provide good air circulation to reduce humidity around plants.",
+         "Chives can be divided every 2-3 years to rejuvenate the plants and maintain vigor.",
+         "Use chives fresh or dried as a flavorful addition to salads, soups, sauces, and garnishes."
+       ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Chives: Planting Guide",

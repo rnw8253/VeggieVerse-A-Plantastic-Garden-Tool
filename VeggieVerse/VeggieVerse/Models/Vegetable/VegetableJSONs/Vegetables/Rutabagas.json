@@ -33,41 +33,95 @@
        "storageRecommendations": "Harvest rutabagas when they reach the desired size and have developed a firm, smooth skin. Use a garden fork or shovel to loosen the soil around the roots and lift them gently from the ground. Remove any excess soil and trim off the tops. Store harvested rutabagas in a cool, dark place with good ventilation, such as a root cellar or refrigerator, for up to several months.",
        "harvestDescription": "Harvest rutabagas when they reach the desired size, usually 3-5 inches in diameter for most varieties. Pull them from the ground gently, taking care not to damage the roots. Rinse the rutabagas thoroughly to remove any soil before storing or using them."
      },
-    "companionPlants": {
-        "goodCompanionPlants": [
-            {
-                "name": "Beets",
-                "description": "Beets can be planted near rutabagas to help improve soil structure and provide natural pest control in the garden."
-            },
-            {
-                "name": "Lettuce",
-                "description": "Lettuce can be interplanted with rutabagas to help suppress weeds and provide natural ground cover."
-            }
-        ],
-        "badCompanionPlants": [
-            {
-                "name": "Brassicas",
-                "description": "Brassicas, such as cabbage, broccoli, and cauliflower, are not recommended to be planted near rutabagas as they may compete for space and nutrients."
-            }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Root Maggots",
-            "description": "Root maggots are common pests of rutabagas, feeding on the roots and causing damage to the plants. To control root maggots, use row covers to prevent adult flies from laying eggs on the plants, and apply insecticidal sprays or dusts as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Clubroot",
-            "description": "Clubroot is a soilborne disease that affects rutabagas and other brassica crops, causing swollen, deformed roots and stunted growth. It thrives in acidic soil conditions and can persist in the soil for many years. Prevent clubroot by maintaining proper soil pH, practicing crop rotation, and using resistant varieties when available."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest rutabagas when they have reached the desired size for optimal flavor and tenderness.",
-        "Store harvested rutabagas in a cool, dark place with high humidity to prolong their storage life.",
-        "Rotate rutabaga crops annually to prevent the buildup of soilborne pests and diseases."
-    ],
+     "SpringSowing": {
+       "Indoors": [],
+       "Transplant": [],
+       "Outdoors": [],
+       "LastSowDate": -13
+     },
+     "FallSowing": {
+       "Outdoors": [-20, -16],
+       "Transplant": [],
+       "DaysToMaturity": 90,
+       "FrostTolerance": "Hardy"
+     },
+     "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Peas",
+             "description": "Peas are excellent companions for rutabagas. As nitrogen-fixing plants, peas enrich the soil with nitrogen, which promotes healthy growth and development of rutabagas. Interplanting peas and rutabagas also helps maximize garden space and encourages biodiversity, which can help deter pests and improve overall soil health."
+           },
+           {
+             "name": "Lettuce",
+             "description": "Lettuce makes a good companion for rutabagas. Interplanting lettuce and rutabagas can help maximize space in the garden, as rutabagas have a deep root system while lettuce grows close to the surface. The shallow root systems of lettuce allow for efficient use of soil nutrients and water."
+           },
+           {
+             "name": "Spinach",
+             "description": "Spinach is a beneficial companion for rutabagas. Planting spinach near rutabagas provides shade and moisture retention, creating a microclimate that benefits both crops. Additionally, spinach and rutabagas have complementary nutrient needs, reducing competition for resources in the soil."
+           },
+           {
+             "name": "Beets",
+             "description": "Beets are good companions for rutabagas. Interplanting beets and rutabagas helps maximize garden space and encourages biodiversity. Both crops have shallow root systems that occupy different soil layers, reducing competition for nutrients and space."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Turnips",
+             "description": "Turnips are not recommended as companions for rutabagas. Both plants belong to the brassica family and may attract similar pests and diseases. Planting them together may increase the risk of pest infestations and disease outbreaks, leading to reduced yields for both crops."
+           },
+           {
+             "name": "Kohlrabi",
+             "description": "Kohlrabi is not recommended as a companion for rutabagas. Both plants belong to the brassica family and may attract similar pests and diseases. Planting them together may increase the risk of pest infestations and disease outbreaks, leading to reduced yields for both crops."
+           },
+           {
+             "name": "Potatoes",
+             "description": "Potatoes may not be the best companion for rutabagas. Both plants have different growth habits and nutrient requirements, which can lead to competition for resources like water and nutrients in the soil. Planting them together may result in reduced yields for both crops."
+           },
+           {
+             "name": "Beans",
+             "description": "Beans may not be ideal companions for rutabagas. Beans are legumes that fix nitrogen in the soil, which may lead to excessive nitrogen levels for rutabagas. Additionally, beans have different growth habits and nutrient needs, which can result in competition for resources in the garden."
+           }
+         ]
+       },
+     "pests": [
+       "Aphids",
+       "Flea Beetle",
+       "Cabbage Maggot",
+       "Root Maggot",
+       "Cutworm",
+       "Wireworm",
+       "Thrips",
+       "Leafminer",
+       "Slug",
+      "Snail"
+     ],
+     "beneficial_insects": [
+       "Ladybugs",
+       "Lacewings",
+       "Hoverflies",
+       "Parasitic Wasps",
+       "Predatory Mites"
+     ],
+     "diseases": [
+       "Downy Mildew",
+       "Powdery Mildew",
+       "Leaf Spot",
+       "Rhizoctonia Root Rot",
+       "Fusarium Wilt"
+     ],
+     "tipsAndTricks": [
+       "Choose a planting site with well-drained, fertile soil and full sun exposure for best growth.",
+       "Prepare the soil by loosening it to a depth of 12-15 inches and incorporating organic matter like compost.",
+       "Sow rutabaga seeds directly into the garden about 1/2 inch deep and 1 inch apart, in rows spaced 12-18 inches apart.",
+       "Keep the soil consistently moist but not waterlogged during germination, which usually takes 7-14 days.",
+       "Thin seedlings to 4-6 inches apart when they have 2-3 true leaves to allow for proper root development.",
+       "Apply a balanced fertilizer when seedlings are about 4 weeks old, following package instructions.",
+       "Mulch around rutabaga plants to retain soil moisture, suppress weeds, and maintain even soil temperatures.",
+       "Monitor for pests such as aphids, flea beetles, and cabbage maggots regularly. Use row covers or insecticidal soap as needed.",
+       "Watch for signs of diseases like downy mildew and alternaria leaf spot. Remove and destroy infected plants to prevent spread.",
+       "Harvest rutabagas when they reach a diameter of 3-5 inches, usually 90-100 days after planting. Use a garden fork to loosen the soil and gently lift the roots.",
+       "Store harvested rutabagas in a cool, humid place such as a root cellar or refrigerator to prolong freshness."
+     ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Rutabagas: Planting Guide",

@@ -33,37 +33,90 @@
         "storageRecommendations": "Harvest rosemary sprigs as needed for culinary use. Use fresh rosemary immediately for the best flavor. Alternatively, you can dry rosemary sprigs by hanging them upside down in a warm, well-ventilated area until the leaves are dry and brittle. Store dried rosemary in an airtight container in a cool, dark place.",
         "harvestDescription": "Harvest rosemary sprigs by snipping them from the plant as needed. Avoid harvesting more than one-third of the plant at a time to ensure healthy growth."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [-12, -10],
+        "Transplant": [2, 3],
+        "Outdoors": [],
+        "LastSowDate": -8
+      },
+      "FallSowing": {
+        "Outdoors": [],
+        "Transplant": [],
+        "DaysToMaturity": 90,
+        "FrostTolerance": "Hardy"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Sage",
-                "description": "Sage is a good companion for rosemary, as it may help deter certain pests and complement its aromatic qualities."
+              "name": "Sage",
+              "description": "Sage is a beneficial companion for rosemary as it shares similar cultural requirements and can help deter pests. Planting sage near rosemary can provide a visually appealing and aromatic herb garden while attracting beneficial insects like bees and butterflies. Additionally, both sage and rosemary have antimicrobial properties that can help protect each other from soil-borne diseases."
             },
             {
-                "name": "Thyme",
-                "description": "Thyme can be planted near rosemary as it complements its fragrance and both have similar cultural requirements."
+              "name": "Thyme",
+              "description": "Thyme is a good companion for rosemary as it shares similar growing conditions and complements its flavor in culinary applications. Planting thyme near rosemary can create a fragrant and attractive herb garden while providing additional culinary herbs for cooking. Thyme also attracts beneficial insects like bees and predatory insects that can help control pests."
+            },
+            {
+              "name": "Lavender",
+              "description": "Lavender is a beneficial companion for rosemary as it shares similar cultural requirements and can help repel pests. Planting lavender near rosemary can create a visually stunning and fragrant garden while attracting pollinators like bees and butterflies. Additionally, both lavender and rosemary have aromatic oils that can deter pests and provide natural pest control."
+            },
+            {
+              "name": "Oregano",
+              "description": "Oregano is a good companion for rosemary as it has similar growth habits and cultural requirements. Planting oregano near rosemary can create a lush and aromatic herb garden while providing additional culinary herbs for cooking. Oregano also has antimicrobial properties that can help protect rosemary from soil-borne diseases."
+            },
+            {
+              "name": "Chives",
+              "description": "Chives are a beneficial companion for rosemary as they help deter pests and attract beneficial insects. Planting chives near rosemary can provide a natural pest control barrier while adding a mild onion flavor to culinary dishes. Chives also produce attractive purple flowers that attract bees and other pollinators."
             }
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Basil",
+              "description": "Basil should be avoided as a companion for rosemary as it may compete for resources and space. Planting basil near rosemary can lead to overcrowding and reduced growth for both plants. Additionally, basil is susceptible to some of the same pests and diseases as rosemary, increasing the risk of infestation and infection."
+            },
+            {
+              "name": "Cilantro",
+              "description": "Cilantro is not recommended as a companion for rosemary as it has different cultural requirements and may attract pests. Planting cilantro near rosemary can lead to competition for resources and space, resulting in reduced growth and vigor for both plants. Additionally, cilantro is susceptible to certain pests and diseases that may also affect rosemary."
+            },
+            {
+              "name": "Mint",
+              "description": "Mint should be avoided as a companion for rosemary as it is a vigorous grower and may become invasive. Planting mint near rosemary can lead to aggressive spreading and overtake the garden bed, crowding out other plants including rosemary. Additionally, mint has different cultural requirements and may outcompete rosemary for water and nutrients in the soil."
+            },
+            {
+              "name": "Parsley",
+              "description": "Parsley is not recommended as a companion for rosemary as it has different cultural requirements and may compete for resources. Planting parsley near rosemary can lead to overcrowding and reduced growth for both plants. Additionally, parsley attracts certain pests and diseases that may also affect rosemary."
+            }
+          ]
+        },
+      "pests": [
+          "Aphids",
+          "Spider Mite",
+          "Whiteflies",
+          "Thrips",
+          "Rosemary Beetle"
         ],
-        "badCompanionPlants": []
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids can sometimes infest rosemary, feeding on the sap of the leaves and causing distortion or yellowing. Control aphids by spraying affected plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs, and applying insecticidal soap or neem oil as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect rosemary, causing a white powdery growth on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest rosemary sprigs as needed by snipping them with scissors or shears.",
-        "Prune rosemary regularly to maintain its shape and encourage bushy growth.",
-        "Mulch around plants to retain moisture and suppress weeds.",
-        "Consider planting rosemary in containers to prevent it from spreading too vigorously."
-    ],
+        "beneficial_insects": [
+          "Ladybugs",
+          "Lacewings",
+          "Hoverflies",
+          "Parasitic Wasps"
+        ],
+        "diseases": [
+          "Powdery Mildew",
+          "Root Rot",
+          "Botrytis Blight"
+        ],
+        "tipsAndTricks": [
+          "Choose a planting location with well-drained soil and full sun exposure.",
+          "Plant rosemary in a raised bed or container with sandy, loamy soil to ensure good drainage.",
+          "Water rosemary plants sparingly, allowing the soil to dry out between waterings.",
+          "Avoid overwatering rosemary, as it is susceptible to root rot in waterlogged conditions.",
+          "Prune rosemary regularly to maintain its shape and promote bushy growth. Pruning also helps improve air circulation around the plant.",
+          "Harvest rosemary sprigs as needed for culinary use by cutting them from the plant. Harvest in the morning when the oils are most concentrated.",
+          "Monitor plants regularly for signs of pests such as aphids and spider mites. Handpick pests or use insecticidal soap as needed.",
+          "Watch for symptoms of diseases like powdery mildew and botrytis blight. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+          "Rosemary is drought-tolerant once established and prefers slightly dry conditions. Avoid over-fertilizing, as this can reduce the flavor of the leaves.",
+          "Use fresh or dried rosemary leaves to flavor a variety of dishes, including meats, vegetables, soups, and sauces."
+        ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Rosemary: Planting Guide",

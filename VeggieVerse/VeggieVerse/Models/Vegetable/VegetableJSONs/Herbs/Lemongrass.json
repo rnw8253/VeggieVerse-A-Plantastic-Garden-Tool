@@ -8,8 +8,8 @@
       "sowingAndPlanting": {
         "sowingIndoorsDescription": "Lemongrass can be propagated indoors from stalks purchased at the grocery store or from nursery-bought divisions. Place the stalks in a container filled with water and allow them to develop roots. Once roots have formed, transplant the stalks into pots filled with well-draining potting mix. Provide bright, indirect light and keep the soil consistently moist until the plant establishes.",
         "sowingOutdoorsDescription": "Lemongrass can also be directly planted outdoors in the garden once the threat of frost has passed. Choose a sunny location with well-drained soil. Plant divisions or rooted stalks in the ground, spacing them 2-3 feet apart. Keep the soil consistently moist until the plant establishes.",
-        "spaceBetweenPlants": "2\'-3\'",
-        "spaceBetweenRows": "3\'-4\'",
+        "spaceBetweenPlants": "2'-3'",
+        "spaceBetweenRows": "3'-4'",
         "squareFootPlantingRecommendationsMin": 1,
         "squareFootPlantingRecommendationsMax": 4,
         "lifeCycle": "Perennial",
@@ -33,37 +33,95 @@
         "storageRecommendations": "Harvest lemongrass leaves and stalks as needed for culinary use. Use fresh leaves and stalks immediately, or freeze them for longer storage. To freeze lemongrass, chop the stalks into smaller pieces and store them in an airtight container or freezer bag.",
         "harvestDescription": "Harvest lemongrass leaves and stalks by cutting them close to the base of the plant. Use a sharp knife or scissors to avoid damaging the plant. Remove any damaged or discolored leaves before use."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+          "Indoors": [-10, -8],
+          "Transplant": [-8, -6],
+          "Outdoors": [-6, -4],
+          "LastSowDate": null
+        },
+        "FallSowing": {
+          "Outdoors": [8, 10],
+          "Transplant": [],
+          "DaysToMaturity": 90,
+          "FrostTolerance": "Tender"
+        },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Basil",
-                "description": "Basil is a good companion for lemongrass, as it may help deter certain pests and complement its aromatic qualities."
+              "name": "Lemon Balm",
+              "description": "Lemon balm is a beneficial companion for lemon grass as it shares a similar lemony fragrance and can help deter pests like mosquitoes and aphids. Additionally, lemon balm's dense foliage can provide shade and moisture retention for lemon grass roots, promoting healthier growth."
             },
             {
-                "name": "Mint",
-                "description": "Mint can be planted near lemongrass as it complements its fragrance and both have similar cultural requirements."
+              "name": "Lemongrass",
+              "description": "Lemongrass can be interplanted with other lemon grass plants to create a dense barrier that deters pests like mosquitoes and flies due to its strong lemon scent. Additionally, the dense growth of lemon grass can help suppress weed growth and prevent soil erosion, improving overall garden health."
+            },
+            {
+              "name": "Basil",
+              "description": "Basil makes a suitable companion for lemon grass as it can help repel pests like mosquitoes and flies with its strong aroma. Additionally, basil's aromatic foliage can enhance the overall fragrance of the garden and complement the lemony scent of lemon grass."
+            },
+            {
+              "name": "Marigolds",
+              "description": "Marigolds are beneficial companion plants for lemon grass as they can help repel pests like nematodes and aphids with their strong fragrance. Additionally, marigolds' bright flowers can attract pollinators like bees and butterflies, enhancing biodiversity in the garden."
+            },
+            {
+              "name": "Lavender",
+              "description": "Lavender is a suitable companion for lemon grass as it shares a similar aromatic fragrance and can help repel pests like mosquitoes and moths. Additionally, lavender's drought-tolerant nature and low water requirements make it an ideal companion for lemon grass in hot and dry climates."
             }
-        ],
-        "badCompanionPlants": []
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids can sometimes infest lemongrass, feeding on the sap of the leaves and causing distortion or yellowing. Control aphids by spraying affected plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs, and applying insecticidal soap or neem oil as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Rust",
-            "description": "Rust is a fungal disease that can affect lemongrass, causing orange or yellow pustules on leaves. It thrives in humid conditions. Remove and destroy infected plant parts and ensure good air circulation to prevent rust."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest lemongrass stalks as needed by cutting them close to the base of the plant.",
-        "Mulch around plants to retain moisture and suppress weeds.",
-        "Consider planting lemongrass in containers to prevent it from becoming invasive.",
-        "Freeze lemongrass stalks for longer storage by chopping them finely and freezing in ice cube trays."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Peas",
+              "description": "Peas should be avoided as companion plants for lemon grass as they have different soil and water requirements. Peas prefer cool, moist conditions, while lemon grass thrives in well-drained, sandy soil with moderate watering. Additionally, peas may attract pests like aphids and caterpillars, which can also affect the health of lemon grass plants."
+            },
+            {
+              "name": "Cabbage",
+              "description": "Cabbage and other brassicas are not recommended as companion plants for lemon grass as they may attract pests like cabbage worms and aphids, which can also affect the health of lemon grass plants. Additionally, cabbage and brassicas have different soil and water requirements, leading to potential competition for resources."
+            },
+            {
+              "name": "Tomatoes",
+              "description": "Tomatoes should be avoided as companion plants for lemon grass as they have different cultural requirements and may compete for resources like water and nutrients in the garden bed. Additionally, tomatoes are susceptible to certain pests and diseases that may also affect the health of lemon grass plants."
+            },
+            {
+              "name": "Sage",
+              "description": "Sage should be avoided as a companion for lemon grass as it may compete for space and resources in the garden bed. Additionally, sage's strong aroma may overpower the delicate lemony fragrance of lemon grass, diminishing its overall appeal. Furthermore, sage may attract pests like spider mites and cabbage moths."
+            },
+            {
+              "name": "Fennel",
+              "description": "Fennel is not recommended as a companion for lemon grass as it exudes allelopathic compounds that may inhibit the growth of neighboring plants, including lemon grass. Additionally, fennel's invasive root system can outcompete lemon grass for nutrients and water, leading to stunted growth and reduced vigor."
+            }
+          ]
+        },
+      "pests": [
+        "Aphids",
+        "Spider Mite",
+        "Whiteflies",
+        "Thrips",
+        "Borer"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps"
+      ],
+      "diseases": [
+        "Root Rot",
+        "Leaf Blight",
+        "Rust",
+        "Leaf Spot"
+      ],
+      "tipsAndTricks": [
+        "Select a planting site with well-drained soil and full sun exposure.",
+        "Plant lemongrass in containers or raised beds to control its growth and prevent it from spreading.",
+        "Water lemongrass regularly, keeping the soil consistently moist but not waterlogged.",
+        "Mulch around lemongrass plants to retain soil moisture and suppress weeds.",
+        "Divide lemongrass clumps every few years to rejuvenate the plants and control their size.",
+        "Harvest lemongrass stalks by cutting them close to the base when they are about 1/2 to 3/4 inch thick.",
+        "Monitor plants regularly for signs of pests such as aphids and spider mites. Use insecticidal soap or neem oil as needed.",
+        "Watch for symptoms of diseases like root rot and leaf blight. Avoid overwatering and provide good air circulation to prevent these issues.",
+        "Lemongrass is a tender perennial that may need protection from frost in cooler climates. Consider bringing potted plants indoors for the winter.",
+        "Use fresh or dried lemongrass stalks to add flavor to soups, curries, teas, and other dishes."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Lemongrass: Planting Guide",

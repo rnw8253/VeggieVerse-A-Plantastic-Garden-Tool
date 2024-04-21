@@ -33,43 +33,90 @@
         "storageRecommendations": "Harvest salvia flowers or leaves as needed for ornamental or medicinal use. Use fresh salvia immediately for the best results. Alternatively, you can dry salvia flowers or leaves by hanging them upside down in a warm, well-ventilated area until they are dry and brittle. Store dried salvia in an airtight container in a cool, dark place.",
         "harvestDescription": "Harvest salvia flowers or leaves by snipping them from the plant as needed. Avoid harvesting more than one-third of the plant at a time to ensure healthy growth."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
-            {
-                "name": "Lavender",
-                "description": "Lavender and salvia make excellent companion plants, as they share similar growing conditions and complement each other's fragrant foliage and flowers. Interplanting lavender with salvia can create a visually appealing garden display and attract beneficial pollinators."
-            },
-            {
-                "name": "Rosemary",
-                "description": "Rosemary is another suitable companion plant for salvia, as both herbs prefer full sun and well-drained soil. Planting rosemary near salvia can enhance the aromatic qualities of the garden and provide additional culinary herbs for cooking."
-            }
-        ],
-        "badCompanionPlants": [
-            {
-                "name": "Basil",
-                "description": "Basil is not an ideal companion plant for salvia, as it has different water and nutrient requirements and may compete with salvia for resources. Avoid planting basil near salvia to prevent overcrowding and potential issues with moisture retention."
-            }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are common pests of salvia, feeding on the tender young growth and sucking sap from the leaves. They reproduce rapidly and can cause distortion, yellowing, and stunting of the plant. Control aphids by spraying affected plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs or lacewings, or using insecticidal soap or neem oil."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect salvia, particularly in humid or crowded conditions. It appears as a white, powdery coating on the leaves and can inhibit plant growth and flowering. Improve air circulation around plants, avoid overhead watering, and apply fungicidal sprays as needed to control powdery mildew."
-        }
-    ],
-    "tipsAndTricks": [
-        "Plant salvia in well-drained soil and full sun for best growth and flowering.",
-        "Water salvia regularly to keep the soil evenly moist, especially during hot, dry weather.",
-        "Prune salvia regularly to maintain shape and encourage new growth.",
-        "Harvest salvia leaves and flowers as needed for culinary or medicinal use.",
-        "Monitor plants regularly for signs of pests and diseases, and take prompt action to prevent damage."
-    ],
+      "SpringSowing": {
+        "Indoors": [-8, -6],
+        "Transplant": [-6, -4],
+        "Outdoors": [-4, -2],
+        "LastSowDate": null
+      },
+      "FallSowing": {
+        "Outdoors": [8, 10],
+        "Transplant": [],
+        "DaysToMaturity": 90,
+        "FrostTolerance": "Tolerant"
+      },
+      "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Lavender",
+             "description": "Lavender is a beneficial companion for salvia as it shares similar cultural requirements and can help deter pests. Planting lavender near salvia can provide a visually appealing and aromatic garden while attracting beneficial insects like bees and butterflies. Additionally, both lavender and salvia have aromatic oils that repel certain pests and promote overall plant health."
+           },
+           {
+             "name": "Rosemary",
+             "description": "Rosemary pairs well with salvia in the garden as both herbs have similar growth habits and cultural requirements. Planting rosemary and salvia together can create a lush and aromatic herb garden while providing a variety of culinary and ornamental benefits. Additionally, rosemary and salvia have antimicrobial properties that can help protect each other from soil-borne diseases."
+           },
+           {
+             "name": "Thyme",
+             "description": "Thyme complements salvia well in the garden as both herbs have aromatic foliage and similar cultural requirements. Planting thyme and salvia together can create a fragrant and visually appealing garden while providing culinary and ornamental benefits. Additionally, thyme and salvia have natural pest-repelling qualities that can help protect each other from common garden pests."
+           },
+           {
+             "name": "Oregano",
+             "description": "Oregano is a good companion for salvia as both herbs have similar growth habits and cultural requirements. Planting oregano and salvia together can create a lush and aromatic herb garden while providing culinary and ornamental benefits. Additionally, oregano and salvia have antimicrobial properties that can help protect each other from soil-borne diseases."
+           },
+           {
+             "name": "Sage",
+             "description": "Sage pairs well with salvia in the garden as both herbs have aromatic foliage and similar cultural requirements. Planting sage and salvia together can create a visually stunning and aromatic herb garden while providing culinary and ornamental benefits. Additionally, sage and salvia have natural pest-repelling qualities that can help protect each other from common garden pests."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Basil",
+             "description": "Basil is not recommended as a companion for salvia as it has different cultural requirements and may compete for resources. Planting basil near salvia can lead to overcrowding and reduced growth for both plants. Additionally, basil is susceptible to certain pests and diseases that may also affect salvia."
+           },
+           {
+             "name": "Cilantro",
+             "description": "Cilantro should be avoided as a companion for salvia as it has different cultural requirements and may attract pests. Planting cilantro near salvia can lead to competition for resources and space, resulting in reduced growth and vigor for both plants. Additionally, cilantro is susceptible to certain pests and diseases that may also affect salvia."
+           },
+           {
+             "name": "Mint",
+             "description": "Mint is not recommended as a companion for salvia as it is a vigorous grower and may become invasive. Planting mint near salvia can lead to aggressive spreading and overtake the garden bed, crowding out other plants including salvia. Additionally, mint has different cultural requirements and may outcompete salvia for water and nutrients in the soil."
+           },
+           {
+             "name": "Parsley",
+             "description": "Parsley is not recommended as a companion for salvia as it has different cultural requirements and may compete for resources. Planting parsley near salvia can lead to overcrowding and reduced growth for both plants. Additionally, parsley attracts certain pests and diseases that may also affect salvia."
+           }
+         ]
+       },
+      "pests": [
+        "Aphids",
+        "Spider Mite",
+        "Whiteflies",
+        "Thrips",
+        "Leafhopper"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps"
+      ],
+      "diseases": [
+        "Powdery Mildew",
+        "Root Rot",
+        "Botrytis Blight"
+      ],
+      "tipsAndTricks": [
+        "Choose a planting location with well-drained soil and full sun exposure for salvia.",
+        "Plant salvia in a raised bed or container with sandy, loamy soil to ensure good drainage.",
+        "Water salvia plants sparingly, allowing the soil to dry out between waterings.",
+        "Avoid overwatering salvia, as it is susceptible to root rot in waterlogged conditions.",
+        "Prune salvia regularly to maintain its shape and promote bushy growth. Pruning also helps improve air circulation around the plant.",
+        "Harvest salvia leaves as needed for culinary use by cutting them from the plant. Harvest in the morning when the oils are most concentrated.",
+        "Monitor plants regularly for signs of pests such as aphids and spider mites. Handpick pests or use insecticidal soap as needed.",
+        "Watch for symptoms of diseases like powdery mildew and botrytis blight. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+        "Salvia is drought-tolerant once established and prefers slightly dry conditions. Avoid over-fertilizing, as this can reduce the flavor of the leaves.",
+        "Use fresh or dried salvia leaves to flavor a variety of dishes, including meats, poultry, stuffing, and soups."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Salvia: Tips and Techniques",

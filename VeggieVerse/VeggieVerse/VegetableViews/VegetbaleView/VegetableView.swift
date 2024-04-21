@@ -11,20 +11,19 @@ import SwiftUI
 struct VegetableView: View {
     let vegetable: Vegetable
     let curveVal: CGFloat = 50
-    @EnvironmentObject var realmManager: RealmManager
     @State private var currentHeader = CurrentVegetableHeaderView.sowingAndPlanting
     var body: some View {
         VStack(spacing: 0) {
             VStack(spacing: 0) {
-                VegetableNavBarView(title: "", titleColor: .white, shadowColor: .black, openColor: .white, height: 170, curveVal: curveVal, backgroundImage: vegetable.backgroundImageUrl)
-                    .frame(height: 110)
+                VegetableNavBarView(title: vegetable.name, titleColor: .white, shadowColor: .black, openColor: .white, height: 130, curveVal: curveVal, backgroundImage: vegetable.backgroundImageUrl)
+                    .frame(height: 40)
                 VStack {
                     ZStack {
                         VStack {
                             Image("seeds2")
                                 .resizable()
                                 .aspectRatio(contentMode: .fill)
-                                .frame(height: 60)
+                                .frame(height: 30)
                             Spacer()
                         }
                         VStack(spacing: 0) {
@@ -33,22 +32,6 @@ struct VegetableView: View {
                                     .fill(Color.themeBackground)
                                     .shadow(color: .gray, radius: 20)
                                     .frame(height: 60)
-//                                CurveSidedRectangle(curveHeightTop: curveVal, curveHeightBottom: curveVal)
-//                                    .fill(Color.themeForeground)
-//                                    .frame(height: 60)
-//                                    .padding(.horizontal,20)
-//                                    .overlay(
-//                                        VStack {
-//                                            Text(vegetable.name)
-//                                                .font(Font.custom("AmericanTypewriter", size: 40))
-//                                                .padding(.top, 40)
-//                                                .foregroundColor(.black)
-//                                            Text("Seed")
-//                                                .font(Font.custom("AmericanTypewriter", size: 15))
-//                                                .foregroundColor(.black)
-//                                        }
-//                                    )
-//
                             }
                             ZStack {
                                 CurveSidedRectangle(curveHeightTop: curveVal, curveHeightBottom: 0)
@@ -57,43 +40,12 @@ struct VegetableView: View {
                                     .overlay(
                                         ScrollView {
                                             VStack {
-                                                CurveSidedRectangle(curveHeightTop: curveVal, curveHeightBottom: curveVal)
-                                                    .fill(Color.themeForeground)
-                                                    .frame(height: 80)
-                                                    .padding(.horizontal,20)
-                                                    .overlay(
-                                                        VStack {
-                                                            Text(vegetable.name)
-                                                                .font(Font.custom("AmericanTypewriter", size: 40))
-                                                                .padding(.top, 40)
-                                                                .foregroundColor(.black)
-                                                            Text("Seed")
-                                                                .font(Font.custom("AmericanTypewriter", size: 15))
-                                                                .foregroundColor(.black)
-                                                        }
-                                                    )
-//                                                NavigationLink(destination: VarietyPickerView(selectedVariety: $selectedVariety, varieties: Array(vegetable.varieties))) {
-//                                                    CurveSidedRectangle(curveHeightTop: curveVal-10, curveHeightBottom: curveVal-15)
-//                                                        .fill(Color.themeTertiary)
-//                                                        .frame(height: 60)
-//                                                        .padding(.horizontal,40)
-//                                                        .padding(.vertical, 5)
-//                                                        .overlay(
-//                                                            VStack {
-//                                                                Text(selectedVariety?.name ?? "Unselected")
-//                                                                    .font(Font.custom("AmericanTypewriter", size: 25))
-//                                                                    .padding(.top, 30)
-//                                                                    .foregroundColor(.black)
-//                                                                Text("Variety")
-//                                                                    .font(Font.custom("AmericanTypewriter", size: 15))
-//                                                                    .foregroundColor(.black)
-//                                                            }
-//                                                        )
-//                                                }
                                                 VegetableSectionHeaderView(currentHeader: $currentHeader, curveVal: curveVal, fillColor: Color.gradColor2)
                                                 switch currentHeader {
+                                                case .general:
+                                                    GeneralView(vegetable: vegetable)
                                                 case .sowingAndPlanting:
-                                                    SowingAndPlantingView(vegetable: vegetable, userLocation: realmManager.loadUserLocation())
+                                                    SowingAndPlantingView(vegetable: vegetable)
                                                 case .careAndMaintenance:
                                                     CareAndMaintenanceView(vegetable: vegetable)
                                                 case .harvestAndStorage:
@@ -105,41 +57,66 @@ struct VegetableView: View {
                                                 case .companions:
                                                     CompanionPlantsView(vegetable: vegetable)
                                                 }
-    
+         
                                                 Text("")
                                                     .frame(height: 50)
-
+                                                
                                             }
                                             
                                             
                                         }
-                                        .padding(.top, 20)
+                                            .padding(.top, 20)
                                     )
                                     .edgesIgnoringSafeArea(.bottom)
                             }
                         }
                     }
                 }
-                
+                RoundedRectangle(cornerRadius: 20)
+                    .fill(Color.themeAccent)
+                    .overlay(
+                        HStack {
+                            Spacer()
+                            ForEach(CurrentVegetableHeaderView.allCases, id: \.self) { val in
+                                Button {
+                                    withAnimation(.easeIn(duration: 0.1)) {
+                                        currentHeader = val
+                                    }
+                                } label: {
+                                    VStack {
+                                        if currentHeader == val {
+                                            Image(val.image)
+                                                .resizable()
+                                                .aspectRatio(contentMode: .fill)
+                                                .frame(width: 60, height: 60)
+                                        } else {
+                                            Image(val.image)
+                                                .resizable()
+                                                .aspectRatio(contentMode: .fill)
+                                                .frame(width: 40, height: 40)
+                                        }
+                                    }
+                                    .padding(.top)
+                                }
+                                Spacer()
+                            }
+   
+                        }
+                    )
+                    .frame(height: 50)
             }
         }
         .background(Color.themeAccent)
-        .navigationBarHidden(true)
+//        .navigationBarHidden(true)
     }
 }
 
 
 
 struct VegetableView_Previews: PreviewProvider {
-    static let data = LoadDataModel()
     static var previews: some View {
-        let mockRealmManager = RealmManager() // Create an instance of the mock realm manager
-//        mockRealmManager.createUserLocationIfNeeded(zipcode: "73301")
-//        mockRealmManager.updateUserLocationWithDates(zipcode: "10001")
-        return NavigationView {
-            // Pass the mock realm manager to the environment
-            VegetableView(vegetable: data.vegetables[2])
-                .environmentObject(mockRealmManager)
+        NavigationView {
+            VegetableView(vegetable: LoadDataModel.shared.vegetables[46])
         }
     }
 }
@@ -147,11 +124,52 @@ struct VegetableView_Previews: PreviewProvider {
 
 
 
-enum CurrentVegetableHeaderView: String, Equatable {
+enum CurrentVegetableHeaderView: String, Equatable, CaseIterable {
+    case general = "General"
     case sowingAndPlanting = "Sowing and Planting"
     case careAndMaintenance = "Care and Maintenance"
     case harvestAndStorage = "Harvest and Storage"
     case pests = "Pests"
     case disease = "Diseases"
     case companions = "Companion Planting"
+}
+
+extension CurrentVegetableHeaderView {
+    var label: String {
+        switch self {
+        case .general:
+            return "General"
+        case .sowingAndPlanting:
+            return "Sow"
+        case .careAndMaintenance:
+            return "Care"
+        case .harvestAndStorage:
+            return "Harvest"
+        case .pests:
+            return "Pest"
+        case .disease:
+            return "Disease"
+        case .companions:
+            return "Companion"
+        }
+    }
+    
+    var image: String {
+        switch self {
+        case .general:
+            return "general"
+        case .sowingAndPlanting:
+            return "seedSpacing"
+        case .careAndMaintenance:
+            return "pruning"
+        case .harvestAndStorage:
+            return "harvest"
+        case .pests:
+            return "pest"
+        case .disease:
+            return "disease"
+        case .companions:
+            return "goodCompanion"
+        }
+    }
 }

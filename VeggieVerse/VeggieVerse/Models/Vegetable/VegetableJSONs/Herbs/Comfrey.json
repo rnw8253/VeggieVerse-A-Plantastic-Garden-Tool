@@ -33,45 +33,73 @@
         "storageRecommendations": "Harvest comfrey leaves as needed for use in various applications. Use fresh leaves immediately, or dry them for later use. To dry comfrey leaves, hang them upside down in a well-ventilated area out of direct sunlight until fully dried. Store dried leaves in an airtight container in a cool, dark place.",
         "harvestDescription": "Harvest comfrey leaves by cutting them close to the base of the plant. Avoid harvesting more than one-third of the plant's leaves at a time to allow for continued growth."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [],
+        "Transplant": [-8, -6],
+        "Outdoors": [-6, -4],
+        "LastSowDate": null
+      },
+      "FallSowing": {
+        "Outdoors": [],
+        "Transplant": [],
+        "DaysToMaturity": 90,
+        "FrostTolerance": "Hardy"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Borage",
-                "description": "Borage is a beneficial companion plant for comfrey, as it attracts pollinators and provides shelter for beneficial insects. Planting them together can create a diverse and productive garden ecosystem."
+              "name": "Fruit Trees",
+              "description": "Comfrey is a beneficial companion plant for fruit trees as its deep root system can mine nutrients from the soil, making them available to fruit trees. Comfrey leaves can be used as mulch or chopped and added to compost to enrich the soil around fruit trees, promoting their growth and productivity."
             },
             {
-                "name": "Yarrow",
-                "description": "Yarrow is also a good companion plant for comfrey, as it has deep roots that can help improve soil structure and nutrient availability. Planting them together can enhance overall soil health and plant vigor."
-            }
-        ],
-        "badCompanionPlants": [
-            {
-                "name": "Potatoes",
-                "description": "Potatoes are not recommended as companion plants for comfrey, as they may compete for space and nutrients in the soil. It's best to plant them in separate areas to avoid potential problems."
+              "name": "Vegetables",
+              "description": "Comfrey can benefit vegetable crops by improving soil fertility and overall plant health. When grown as a companion plant, comfrey accumulates nutrients like potassium, nitrogen, and phosphorus in its leaves. These nutrients can be released into the soil as the comfrey leaves decompose, providing a natural fertilizer for nearby vegetable crops."
             },
             {
-                "name": "Tomatoes",
-                "description": "Tomatoes are also not recommended as companion plants for comfrey, as they have deep root systems and may compete for water and nutrients. It's best to plant them in separate areas to avoid potential problems."
+              "name": "Nitrogen-Fixing Plants",
+              "description": "Comfrey can be grown as a companion plant alongside nitrogen-fixing species such as legumes. While comfrey itself does not fix nitrogen, it can benefit from the nitrogen-rich soil created by nitrogen-fixing plants. The deep taproots of comfrey also help break up compacted soil, improving aeration and water infiltration for nitrogen-fixing plants."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Slugs and Snails",
-            "description": "Slugs and snails can feed on comfrey leaves, causing damage to young plants and reducing overall plant vigor. Control slugs and snails by handpicking them from the garden, using traps or barriers, and applying organic slug and snail baits sparingly."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a common fungal disease that can affect comfrey plants, causing white powdery patches to form on the leaves. It thrives in warm, humid conditions and can spread rapidly in crowded plantings. Control powdery mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest comfrey leaves regularly to promote continuous growth and prevent plants from becoming too large and woody.",
-        "Use comfrey leaves fresh or dried as a nutrient-rich mulch, compost activator, or fertilizer for other plants.",
-        "Avoid planting comfrey in areas where it may become invasive, as it can spread rapidly under the right conditions."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Shallow-Rooted Plants",
+              "description": "Comfrey has deep, vigorous roots that can compete with shallow-rooted plants for water and nutrients. Therefore, it's not recommended to plant shallow-rooted crops close to comfrey, as they may struggle to access essential resources due to competition from comfrey roots."
+            },
+            {
+              "name": "Plants Prone to Overcrowding",
+              "description": "Comfrey has a vigorous growth habit and can spread rapidly in favorable conditions. As such, it's not suitable to plant alongside crops that are prone to overcrowding, as comfrey may outcompete them for space and resources, leading to reduced growth and yields."
+            }
+          ]
+        },
+      "pests": [
+         "Aphids",
+         "Spider Mite",
+         "Slug",
+         "Snail"
+       ],
+       "beneficial_insects": [
+         "Ladybugs",
+         "Lacewings",
+         "Hoverflies",
+         "Parasitic Wasps"
+       ],
+       "diseases": [
+         "Powdery Mildew",
+         "Leaf Spot",
+         "Rust"
+       ],
+       "tipsAndTricks": [
+         "Choose a planting site with well-drained soil and partial to full sun exposure.",
+         "Plant comfrey crowns or root divisions in the early spring or fall.",
+         "Water comfrey regularly, keeping the soil consistently moist, especially during the first growing season.",
+         "Mulch around comfrey plants to retain soil moisture and suppress weeds.",
+         "Harvest comfrey leaves as needed for medicinal or compost purposes by cutting them back to the base of the plant.",
+         "Monitor plants regularly for signs of pests such as aphids and spider mites. Use insecticidal soap or neem oil as needed.",
+         "Watch for symptoms of diseases like powdery mildew and leaf spot. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+         "Comfrey can be used as a nutrient-rich mulch or added to compost to enhance soil fertility.",
+         "Avoid planting comfrey near water bodies, as its deep roots can absorb toxins and heavy metals from the soil.",
+         "Comfrey can spread vigorously, so consider planting it in containers or in areas where its spreading habit is not a concern."
+       ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Comfrey: A Permaculture Favorite",

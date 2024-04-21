@@ -33,42 +33,95 @@
         "storageRecommendations": "Harvest mullein leaves and flowers as needed for medicinal use. Dry leaves and flowers thoroughly by hanging them upside down in small bunches in a well-ventilated area out of direct sunlight. Once fully dried, store in an airtight container in a cool, dark place.",
         "harvestDescription": "Harvest mullein leaves by snipping them from the plant as needed. For flowers, wait until they are fully open and harvest the entire flower spike."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
-            {
-                "name": "Lavender",
-                "description": "Lavender is a good companion plant for mullein, as it shares similar growing conditions and can complement its tall flower spikes with its own shorter blooms. Interplanting mullein with lavender can create a visually appealing and fragrant garden bed."
-            },
-            {
-                "name": "Yarrow",
-                "description": "Yarrow is another suitable companion plant for mullein, as it attracts beneficial insects and helps to improve soil health. Planting yarrow near mullein can enhance pollination and overall garden biodiversity."
-            }
-        ],
-        "badCompanionPlants": [
-            {
-                "name": "Potatoes",
-                "description": "Potatoes are not recommended as companion plants for mullein, as they may compete for resources and inhibit the growth of mullein. Avoid planting potatoes near mullein to prevent potential issues with soil fertility and moisture."
-            }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are common pests that may infest mullein plants, especially during periods of new growth. They feed on the sap of the plant and can cause stunted growth and distorted foliage. Control aphids by spraying the affected plants with a strong jet of water to dislodge them or applying insecticidal soap or neem oil."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect mullein plants, especially in humid or crowded growing conditions. It appears as a white, powdery growth on the leaves and stems and can lead to leaf distortion and reduced plant vigor. Control powdery mildew by improving air circulation around the plants, avoiding overhead watering, and applying fungicidal treatments as needed."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest mullein leaves and flowers for medicinal use, including teas, tinctures, and poultices.",
-        "Dry mullein flowers for use in herbal preparations or decorative arrangements.",
-        "Monitor mullein plants regularly for signs of pests and diseases, and take prompt action to address any issues.",
-        "Avoid overwatering mullein plants, as they prefer well-drained soil and can be susceptible to root rot in waterlogged conditions."
-    ],
+      "SpringSowing": {
+          "Indoors": [],
+          "Transplant": [],
+          "Outdoors": [-8, -6],
+          "LastSowDate": null
+        },
+        "FallSowing": {
+          "Outdoors": [-12, -10],
+          "Transplant": [],
+          "DaysToMaturity": 365,
+          "FrostTolerance": "Tolerant"
+        },
+      "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Tomatoes",
+             "description": "Mullein can attract beneficial insects like ladybugs and lacewings, which prey on common tomato pests such as aphids, whiteflies, and spider mites. Additionally, mullein's tall stature can provide shade and shelter for tomato plants, reducing stress and conserving soil moisture during hot weather."
+           },
+           {
+             "name": "Echinacea",
+             "description": "Echinacea is a beneficial companion for mullein as it can attract pollinators like bees and butterflies to the garden, enhancing pollination and fruit set in nearby plants. Additionally, echinacea's deep root system can help improve soil structure and nutrient uptake, benefiting mullein and other plants in the vicinity."
+           },
+           {
+             "name": "Yarrow",
+             "description": "Yarrow is an excellent companion for mullein as it can attract beneficial insects like parasitic wasps and hoverflies, which prey on common garden pests like aphids, caterpillars, and whiteflies. Additionally, yarrow's aromatic foliage can help repel pests and improve overall garden health."
+           },
+           {
+             "name": "Sunflower",
+             "description": "Sunflowers make suitable companions for mullein as they can attract pollinators like bees and butterflies to the garden, enhancing pollination and fruit set in nearby plants. Additionally, sunflowers' tall stature can provide support and structure for mullein plants, preventing them from bending or breaking in strong winds."
+           },
+           {
+             "name": "Nasturtium",
+             "description": "Nasturtiums are beneficial companions for mullein as they can attract predatory insects like ladybugs and hoverflies, which prey on common garden pests such as aphids, caterpillars, and whiteflies. Additionally, nasturtiums' bright flowers and pungent foliage can help deter pests and improve overall garden health."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Potatoes",
+             "description": "Potatoes are not recommended as companions for mullein as they may compete for nutrients and space in the garden bed. Additionally, mullein's tall stature can shade out low-growing potato plants, reducing their access to sunlight and hindering tuber development. Furthermore, potatoes are susceptible to certain diseases that mullein may harbor."
+           },
+           {
+             "name": "Carrots",
+             "description": "Carrots should be avoided as companions for mullein as they may compete for nutrients and space in the garden bed. Additionally, mullein's deep taproot system can interfere with carrot root development, resulting in stunted growth and irregularly shaped roots. Furthermore, carrots are susceptible to certain pests and diseases that mullein may attract."
+           },
+           {
+             "name": "Lettuce",
+             "description": "Lettuce is not recommended as a companion for mullein as it may compete for nutrients, water, and space in the garden bed. Additionally, mullein's tall stature can shade out low-growing lettuce plants, reducing their access to sunlight and hindering leaf development. Furthermore, lettuce is susceptible to certain pests and diseases that mullein may harbor."
+           },
+           {
+             "name": "Beans",
+             "description": "Beans should be avoided as companions for mullein as they may compete for nutrients and space in the garden bed. Additionally, mullein's tall stature can overshadow low-growing bean plants, reducing their access to sunlight and hindering growth and productivity. Furthermore, beans are susceptible to certain pests and diseases that mullein may attract."
+           },
+           {
+             "name": "Peas",
+             "description": "Peas are not recommended as companions for mullein as they may compete for nutrients and space in the garden bed. Additionally, mullein's tall stature can shade out low-growing pea plants, reducing their access to sunlight and hindering growth and productivity. Furthermore, peas are susceptible to certain pests and diseases that mullein may harbor."
+           }
+         ]
+       },
+      "pests": [
+         "Aphids",
+         "Spider Mite",
+         "Whiteflies",
+         "Thrips",
+         "Moth"
+       ],
+       "beneficial_insects": [
+         "Ladybugs",
+         "Lacewings",
+         "Hoverflies",
+         "Parasitic Wasps"
+       ],
+       "diseases": [
+         "Powdery Mildew",
+         "Downy Mildew",
+         "Root Rot",
+         "Botrytis Blight"
+       ],
+       "tipsAndTricks": [
+         "Select a planting site with well-drained soil and full sun to partial shade exposure.",
+         "Plant mullein in an area with good air circulation to help prevent fungal diseases.",
+         "Water mullein plants regularly, especially during dry periods, but avoid overwatering to prevent root rot.",
+         "Apply a layer of mulch around mullein plants to retain soil moisture and suppress weeds.",
+         "Prune mullein plants after flowering to remove spent flower spikes and encourage new growth.",
+         "Harvest mullein leaves and flowers as needed for medicinal use by cutting them from the plant.",
+         "Monitor plants regularly for signs of pests such as aphids and spider mites. Use insecticidal soap or neem oil as needed.",
+         "Watch for symptoms of diseases like powdery mildew and root rot. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+         "Mullein is a biennial plant, meaning it completes its life cycle in two years. Allow some plants to go to seed to encourage self-seeding for future growth.",
+         "Use dried mullein leaves and flowers to make herbal teas, tinctures, or infused oils for various medicinal purposes."
+       ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Mullein: Tips and Techniques",

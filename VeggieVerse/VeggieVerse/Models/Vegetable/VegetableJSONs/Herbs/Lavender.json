@@ -5,7 +5,7 @@
     "thumbnailImageUrl": "Lavender_thumbnail",
     "backgroundImageUrl": "Lavender_background",
     "varieties": "Lavender, scientifically known as Lavandula, encompasses several species and cultivars, each with its unique characteristics. Common species include Lavandula angustifolia (English Lavender), Lavandula stoechas (Spanish Lavender), Lavandula x intermedia (Lavandin), and Lavandula dentata (French Lavender). Within each species, there are numerous cultivars offering variations in flower color, fragrance, and growth habit. Some popular cultivars include 'Hidcote', 'Munstead', 'Provence', 'Grosso', and 'Goodwin Creek Grey'.",
-      "sowingAndPlanting": {
+    "sowingAndPlanting": {
         "sowingIndoorsDescription": "Lavender seeds can be started indoors in pots or trays filled with well-draining potting mix. Sow seeds on the soil surface and lightly press them into the soil. Keep the soil consistently moist and provide bright, indirect light or supplemental grow lights. Transplant seedlings outdoors after the last frost date in your area.",
         "sowingOutdoorsDescription": "Lavender seeds can also be directly sown outdoors in the garden after the last frost date. Choose a location with full sun and well-drained soil. Scatter seeds over the soil surface and lightly rake them in. Keep the soil consistently moist until seedlings emerge.",
         "spaceBetweenPlants": "12\"-24\"",
@@ -17,8 +17,8 @@
         "pHRange": "6.5 - 7.5",
         "germinationSoilTemp": "70-80°F",
         "season": "Lavender should be planted outdoors after the last frost date in your area. It prefers warm temperatures and well-drained soil."
-      },
-      "careAndMaintenance": {
+    },
+    "careAndMaintenance": {
         "optimalSun": "Full Sun",
         "growingSoilTemp": "70-80°F",
         "growingDescription": "Lavender thrives in full sun and well-drained, slightly alkaline soil. Once established, it is drought-tolerant and requires minimal water. Water young plants regularly until they are established, then water only during extended periods of drought. Avoid overwatering to prevent root rot. Lavender is a low-maintenance plant and does not require frequent fertilization.",
@@ -26,52 +26,101 @@
         "soilFertility": "Lavender prefers lean soil and does not require fertilization. However, incorporating some compost or well-aged manure into the soil before planting can provide some nutrients.",
         "pruningRequirements": "Prune lavender lightly after flowering to promote bushier growth and maintain its shape. Remove spent flower spikes to encourage continuous blooming. In late winter or early spring, prune back about one-third of the plant to stimulate new growth and prevent legginess.",
         "supportRequirements": "Established lavender plants generally do not require support."
-      },
-      "harvestingAndStorage": {
+    },
+    "harvestingAndStorage": {
         "daysToHarvest": "60-90 days from planting",
         "timeToMaturity": "Lavender typically matures and is ready for harvest 60-90 days after planting, depending on growing conditions.",
         "storageRecommendations": "Harvest lavender flowers when they are fully open and at their peak fragrance. Cut flower spikes just above the foliage using sharp scissors or pruning shears. Use fresh flowers immediately, or dry them for later use. To dry lavender, hang the stems upside down in small bunches in a warm, well-ventilated area out of direct sunlight. Once fully dried, store the flowers in an airtight container in a cool, dark place.",
         "harvestDescription": "Harvest lavender flowers in the morning when the oils are most concentrated. Snip flower spikes just above the foliage, taking care not to remove too much of the plant's growth."
-      },
+    },
+    "SpringSowing": {
+      "Indoors": [-10, -8],
+      "Transplant": [-8, -6],
+      "Outdoors": [-6, -4],
+      "LastSowDate": null
+    },
+    "FallSowing": {
+      "Outdoors": [8, 10],
+      "Transplant": [],
+      "DaysToMaturity": 365,
+      "FrostTolerance": "Tolerant"
+    },
     "companionPlants": {
         "goodCompanionPlants": [
             {
                 "name": "Rosemary",
-                "description": "Rosemary is a good companion plant for lavender, as it has similar growing requirements and may help repel certain pests."
+                "description": "Rosemary is a beneficial companion for lavender, as both plants have similar soil and sunlight requirements. Rosemary's aromatic foliage can help deter pests like mosquitoes and carrot flies, while also attracting beneficial insects like bees and butterflies to the garden."
             },
             {
                 "name": "Thyme",
-                "description": "Thyme can be planted near lavender as it complements its fragrance and both have similar cultural requirements."
+                "description": "Thyme complements lavender well as it shares similar growth habits and preferences. Thyme's low-growing foliage can provide ground cover, conserving soil moisture and suppressing weed growth around lavender plants. Additionally, thyme attracts beneficial insects and has antimicrobial properties that can aid in disease prevention."
+            },
+            {
+                "name": "Sage",
+                "description": "Sage is a suitable companion for lavender as both herbs prefer well-drained soil and full sunlight. Sage's aromatic foliage can help repel pests like cabbage moths and carrot flies, while also attracting beneficial insects to the garden. The combination of sage and lavender creates a visually appealing and fragrant garden space."
+            },
+            {
+                "name": "Oregano",
+                "description": "Oregano is a beneficial companion for lavender due to its aromatic foliage, which can help deter pests like aphids and whiteflies. Both plants thrive in sunny, well-drained soil and attract pollinators like bees and butterflies. Additionally, oregano's culinary uses make it a functional and visually appealing addition to the garden."
+            },
+            {
+                "name": "Chives",
+                "description": "Chives make excellent companions for lavender as they have similar growth habits and preferences. Chives' upright foliage can provide a contrasting texture to the garden bed, while also deterring pests like aphids and carrot flies. Chive flowers attract beneficial insects like hoverflies and parasitic wasps, which prey on garden pests."
             }
         ],
         "badCompanionPlants": [
             {
-                "name": "Basil",
-                "description": "Basil is not a suitable companion for lavender, as it requires different growing conditions and may compete for resources."
+                "name": "Fennel",
+                "description": "Fennel should be avoided as a companion for lavender as it exudes allelopathic compounds that may inhibit the growth of neighboring plants, including lavender. Additionally, fennel can attract pests like aphids and caterpillars, posing a risk to the health of lavender plants."
+            },
+            {
+                "name": "Cabbage",
+                "description": "Cabbage is not recommended as a companion for lavender as it may compete for resources such as water, nutrients, and space in the garden. Furthermore, cabbage is susceptible to some of the same pests and diseases as lavender, which can increase the likelihood of infestation and spread."
+            },
+            {
+                "name": "Brussels Sprouts",
+                "description": "Brussels sprouts should be avoided as companion plants for lavender as they have similar cultural requirements and may compete for resources. Additionally, both plants are susceptible to aphid infestations, and planting them together can attract a larger population of these pests."
+            },
+            {
+                "name": "Kale",
+                "description": "Kale is not an ideal companion for lavender as it may attract pests like cabbage worms and aphids, which can also affect the health of lavender. Furthermore, kale and lavender have different growth habits and may compete for sunlight and nutrients in the garden."
+            },
+            {
+                "name": "Beans",
+                "description": "Beans, such as pole beans and bush beans, are not suitable companion plants for lavender as they have different soil and water requirements. Beans prefer fertile, well-draining soil with consistent moisture, while lavender thrives in leaner soil conditions with less frequent watering."
             }
         ]
     },
     "pests": [
-        {
-            "name": "Lavender Aphid",
-            "description": "Lavender aphids are small, soft-bodied insects that feed on lavender leaves and stems, causing distortion and yellowing. They can also transmit plant diseases. Control lavender aphids by spraying affected plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs, and applying insecticidal soap or neem oil as needed."
-        }
+        "Aphids",
+        "Spider Mite",
+        "Whiteflies",
+        "Thrips",
+        "Leafroller"
+    ],
+    "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps"
     ],
     "diseases": [
-        {
-            "name": "Root Rot",
-            "description": "Root rot is a fungal disease that affects lavender plants grown in poorly draining soil or overwatered conditions. Symptoms include wilting, yellowing, and eventual death of the plant. Improve soil drainage and avoid overwatering to prevent root rot."
-        },
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that affects lavender plants, causing a white powdery growth on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
-        }
+        "Root Rot",
+        "Powdery Mildew",
+        "Gray Mold",
+        "Fusarium Wilt"
     ],
     "tipsAndTricks": [
-        "Prune lavender plants regularly to promote bushy growth and prevent woody stems.",
-        "Harvest lavender flowers when they are fully open but before they begin to fade for the best fragrance.",
-        "Dry lavender flowers by hanging them upside down in a dark, well-ventilated area.",
-        "Avoid overwatering lavender plants to prevent root rot and fungal diseases."
+        "Choose a planting site with well-drained soil and full sun exposure.",
+        "Plant lavender in raised beds or containers if your soil is heavy or poorly draining.",
+        "Water lavender plants deeply but infrequently, allowing the soil to dry out between waterings to prevent root rot.",
+        "Mulch around lavender plants with gravel or sand to improve drainage and suppress weeds.",
+        "Prune lavender plants lightly after flowering to promote bushy growth and prevent legginess.",
+        "Harvest lavender flowers just before they are fully open for the best fragrance and oil content.",
+        "Dry harvested lavender flowers by hanging them upside down in a dark, well-ventilated area.",
+        "Monitor plants regularly for signs of pests such as aphids and spider mites. Use insecticidal soap or neem oil as needed.",
+        "Watch for symptoms of diseases like powdery mildew and gray mold. Avoid overhead watering and provide good air circulation to prevent these issues.",
+        "Lavender is drought tolerant once established and does not require frequent fertilization. Avoid heavy nitrogen fertilizers, as they can cause excessive leaf growth at the expense of flowers."
     ],
     "linksToAdditionalResources": [
         {

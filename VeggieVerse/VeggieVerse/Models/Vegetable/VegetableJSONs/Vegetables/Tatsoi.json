@@ -4,73 +4,122 @@
     "description": "Tatsoi, also known as spoon mustard or rosette bok choy, is a leafy green vegetable native to Asia. It belongs to the Brassicaceae family, which includes cabbage, kale, and broccoli. Tatsoi forms compact, rosette-shaped heads with dark green, spoon-shaped leaves. It has a mild, mustard-like flavor and is commonly used in salads, stir-fries, soups, and other Asian dishes. Tatsoi is easy to grow and can be harvested as baby greens or allowed to mature into full-size plants.",
     "thumbnailImageUrl": "Tatsoi_thumbnail",
     "backgroundImageUrl": "Tatsoi_background",
-    "varieties": [],
-    "sowingAndPlanting": {
-        "sowingIndoorsDescription": "Tatsoi can be started indoors 4-6 weeks before the last frost date. Sow seeds in seed trays or pots filled with well-draining potting mix. Plant seeds 1/4 inch deep and keep the soil consistently moist until germination, which typically takes 7-14 days. Once the seedlings have developed several sets of true leaves, they can be transplanted outdoors.",
-        "sowingOutdoorsDescription": "Tatsoi is typically directly sown outdoors in the garden. Choose a sunny to partially shaded location with well-draining soil. Plant seeds 1/4 inch deep and space them 6-8 inches apart in rows spaced 12-18 inches apart. Keep the soil consistently moist until germination.",
-        "spaceBetweenPlants": "6\" - 8\"",
-        "spaceBetweenRows": "12\" - 18\"",
+    "varieties": "Tatsoi, also known as spoon mustard or rosette bok choy, is available in various varieties, each with its unique leaf shape, color, and flavor. Common tatsoi varieties include 'Tatsoi Rosette', known for its compact rosette shape and tender, dark green leaves; 'Tatsoi Red', which offers a striking reddish-purple coloration in its leaves; and 'Tatsoi Baby', prized for its small, delicate leaves ideal for salads and garnishes. These varieties provide options suited for different culinary preferences and growing conditions.",
+      "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Tatsoi is best sown directly outdoors rather than started indoors. However, if you wish to start tatsoi seeds indoors, you can do so in biodegradable pots or trays filled with seed-starting mix. Plant seeds 1/4 inch deep and space them 2-3 inches apart. Keep the soil consistently moist and warm (65-75°F). Transplant tatsoi seedlings outdoors once they have developed several true leaves and the weather has warmed up.",
+        "sowingOutdoorsDescription": "Tatsoi seeds should be sown directly outdoors as soon as the soil can be worked in the spring or late summer. Choose a location with well-drained soil and partial shade. Plant seeds 1/4 inch deep and space them 6-8 inches apart in rows spaced 12-18 inches apart. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "6\"-8\"",
+        "spaceBetweenRows": "12\"-18\"",
+        "squareFootPlantingRecommendationsMin": 9,
+        "squareFootPlantingRecommendationsMax": 9,
+        "lifeCycle": "Annual",
         "seedDepth": "1/4\"",
-        "pHRange": "6.0 - 7.5",
-        "germinationSoilTemp": "50-75°F",
-        "season": "Tatsoi can be planted in early spring for a spring harvest or in late summer for a fall harvest. It prefers cooler temperatures and can tolerate light frost."
-    },
-    "careAndMaintenance": {
-        "optimalSun": "Full Sun to Partial Shade",
-        "growingSoilTemp": "50-70°F",
-        "growingDescription": "Tatsoi prefers full sun to partial shade, especially in warmer climates. It requires well-draining soil rich in organic matter. Keep the soil consistently moist but not waterlogged, as tatsoi does not tolerate standing water. Mulch around plants to conserve moisture, suppress weeds, and keep the soil temperature consistent.",
-        "wateringNeeds": "Regular watering, 1-2 inches per week.",
-        "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress with a balanced fertilizer once the plants are established.",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "65-75°F",
+        "season": "Tatsoi prefers cool weather and should be planted in the early spring or late summer for a fall harvest. It can tolerate light frosts but may bolt in hot weather."
+      },
+      "careAndMaintenance": {
+        "optimalSun": "Partial Shade to Full Sun",
+        "growingSoilTemp": "65-75°F",
+        "growingDescription": "Tatsoi prefers partial shade but can tolerate full sun in cooler climates. It grows best in well-drained, fertile soil with a pH of 6.0-7.0. Tatsoi requires regular watering to keep the soil consistently moist, especially during dry periods. Mulch around plants to retain moisture and suppress weeds.",
+        "wateringNeeds": "Regular watering, aiming to keep the soil consistently moist but not waterlogged.",
+        "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress tatsoi with a balanced fertilizer once it begins actively growing.",
         "pruningRequirements": "Tatsoi does not require pruning.",
         "supportRequirements": "Tatsoi does not require support."
-    },
-    "harvestingAndStorage": {
-        "timeToMaturity": "Tatsoi can be harvested 40-50 days after planting, depending on the variety.",
-        "storageRecommendations": "Harvest tatsoi when the leaves are young and tender, typically when they are 4-6 inches tall. Cut the outer leaves with sharp scissors or pruning shears, leaving the inner leaves to continue growing. Store harvested tatsoi in the refrigerator for up to one week in a plastic bag or container lined with paper towels to absorb excess moisture.",
-        "harvestDescription": "Harvest tatsoi when the leaves are young and tender, typically when they are 4-6 inches tall. Cut the outer leaves with sharp scissors or pruning shears, leaving the inner leaves to continue growing."
-    },
+      },
+      "harvestingAndStorage": {
+        "daysToHarvest": "35-45 days from planting",
+        "timeToMaturity": "Tatsoi typically matures and is ready for harvest 35-45 days after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest tatsoi when the leaves are young and tender, usually before they become overly mature and bitter. Use a sharp knife or scissors to cut the outer leaves, allowing the inner leaves to continue growing. Store harvested tatsoi in the refrigerator for up to a week.",
+        "harvestDescription": "Harvest tatsoi when the leaves are large enough to use, typically when they are 4-6 inches long. Cut the outer leaves first, leaving the center leaves to continue growing. Rinse the tatsoi thoroughly to remove any soil before storing or using it."
+      },
+      "SpringSowing": {
+        "Indoors": [-6, -4],
+        "Transplant": [-2, 0],
+        "Outdoors": [-2, 0],
+        "LastSowDate": -6
+      },
+      "FallSowing": {
+        "Outdoors": [-8, -6],
+        "Transplant": [],
+        "DaysToMaturity": 45,
+        "FrostTolerance": "Tolerant"
+      },
     "companionPlants": {
         "goodCompanionPlants": [
             {
                 "name": "Lettuce",
-                "description": "Lettuce and tatsoi can be interplanted to provide a diverse and attractive garden bed. Lettuce helps shade the soil and retain moisture, while tatsoi provides a contrasting texture and flavor."
+                "description": "Lettuce is a good companion for tatsoi. Interplanting lettuce and tatsoi can help maximize space in the garden, as both plants have compact growth habits. Additionally, they have similar soil and water requirements, making them compatible companions."
             },
             {
                 "name": "Radishes",
-                "description": "Radishes are quick-growing and can be interplanted with tatsoi to maximize space in the garden. Their shallow roots help break up compacted soil and improve air circulation around tatsoi plants."
+                "description": "Radishes are beneficial companions for tatsoi. Planting radishes near tatsoi can help deter pests like flea beetles and aphids, as radishes emit compounds that repel these insects. Additionally, radishes have shallow root systems that complement the shallow roots of tatsoi."
             },
             {
-                "name": "Carrots",
-                "description": "Carrots and tatsoi make excellent companions, as they have similar growing requirements and can be interplanted to maximize space in the garden."
+                "name": "Beans",
+                "description": "Beans make good companions for tatsoi. Beans fix nitrogen in the soil, which benefits tatsoi, as they are heavy feeders. Additionally, the dense foliage of beans provides some shade for tatsoi, helping to retain soil moisture and suppress weeds."
+            },
+            {
+                "name": "Spinach",
+                "description": "Spinach is a compatible companion for tatsoi. Both plants have similar growing requirements and can be interplanted to maximize space in the garden. Additionally, spinach can help shade the soil, retain moisture, and suppress weeds around tatsoi plants."
+            },
+            {
+                "name": "Chives",
+                "description": "Chives are good companions for tatsoi. Planting chives near tatsoi can help deter pests like aphids, carrot rust flies, and cabbage worms. Chives also produce compounds that may improve the flavor of nearby plants, including tatsoi."
             }
         ],
         "badCompanionPlants": [
             {
                 "name": "Brassicas",
-                "description": "Other brassicas like cabbage, broccoli, and cauliflower can attract pests that may affect tatsoi. It's best to keep them separate in the garden."
+                "description": "Brassicas, such as cabbage, broccoli, and cauliflower, may not be the best companions for tatsoi. Brassicas have different growth habits and nutrient needs compared to tatsoi, which can result in competition for resources in the garden. Additionally, brassicas may attract pests like flea beetles and cabbage worms, which can damage tatsoi foliage."
             },
             {
-                "name": "Beans",
-                "description": "Beans and other legumes can compete with tatsoi for water and nutrients, so it's best to avoid planting them too close together."
+                "name": "Sunflower",
+                "description": "Sunflowers may not be ideal companions for tatsoi. Sunflowers have deep taproots that may compete with tatsoi for nutrients and water, especially in soils with limited resources. Additionally, the tall growth habit of sunflowers may overshadow tatsoi, reducing its sunlight exposure."
+            },
+            {
+                "name": "Potatoes",
+                "description": "Potatoes are not recommended as companions for tatsoi. Potatoes have shallow root systems that may compete with tatsoi for nutrients and space. Additionally, potatoes are susceptible to similar pests and diseases as tatsoi, which may increase the risk of infestations and reduce yields for both crops."
+            },
+            {
+                "name": "Fennel",
+                "description": "Fennel may not be an ideal companion for tatsoi. Fennel produces chemicals that inhibit the growth of nearby plants, which can negatively affect the growth and yield of tatsoi."
             }
         ]
     },
     "pests": [
-        {
-            "name": "Flea Beetles",
-            "description": "Flea beetles are small, jumping insects that feed on tatsoi leaves, leaving behind small holes and pits. Control flea beetles by covering young plants with floating row covers, applying neem oil or insecticidal soap, and practicing good garden hygiene."
-        }
+      "Flea Beetle",
+      "Aphids",
+      "Looper",
+      "Cabbage Worm",
+      "Cutworm",
+      "Slug",
+      "Snail"
+    ],
+    "beneficial_insects": [
+      "Ladybugs",
+      "Lacewings",
+      "Hoverflies",
+      "Parasitic Wasps",
+      "Predatory Mites"
     ],
     "diseases": [
-        {
-            "name": "Downy Mildew",
-            "description": "Downy mildew is a fungal disease that can affect tatsoi, causing yellowing and wilting of leaves, along with grayish-white fuzzy growth on the undersides of leaves. Control downy mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        }
+      "Downy Mildew",
+      "Powdery Mildew",
+      "Fusarium Wilt",
+      "Clubroot"
     ],
     "tipsAndTricks": [
-        "Harvest tatsoi when the leaves are young and tender for the best flavor and texture. Avoid letting them grow too large, as they can become tough and bitter.",
-        "Rotate tatsoi to a new location in the garden each year to prevent soilborne diseases and pest buildup.",
-        "Inspect plants regularly for signs of pests and diseases, and take appropriate action as needed to prevent damage."
+      "Choose a planting site with well-drained soil and partial shade to full sun exposure.",
+      "Prepare the soil by adding compost or aged manure to improve fertility and texture.",
+      "Sow tatsoi seeds directly in the garden in early spring or late summer.",
+      "Sow seeds thinly in rows spaced 6-12 inches apart, covering them with a thin layer of soil and keeping them evenly moist until germination.",
+      "Thin seedlings to 6-8 inches apart once they have developed their first true leaves.",
+      "Water tatsoi regularly, providing about 1 inch of water per week, and mulch to conserve moisture and suppress weeds.",
+      "Fertilize tatsoi with a balanced fertilizer or compost tea every 3-4 weeks, following package instructions.",
+      "Monitor plants regularly for signs of pests such as flea beetles and aphids. Use row covers or insecticidal soap as needed.",
+      "Watch for symptoms of diseases like downy mildew and powdery mildew. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+      "Harvest tatsoi when the leaves are large enough to use, typically 30-40 days after planting. Harvest outer leaves first, leaving the center leaves to continue growing."
     ],
     "linksToAdditionalResources": [
         {

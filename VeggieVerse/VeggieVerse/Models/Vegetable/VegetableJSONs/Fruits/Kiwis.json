@@ -8,8 +8,8 @@
       "sowingAndPlanting": {
         "sowingIndoorsDescription": "Kiwis are typically propagated from seeds or cuttings. To grow from seeds, rinse kiwi seeds to remove any fruit flesh and dry them thoroughly. Plant seeds in pots filled with well-draining potting mix and keep them warm and moist. Germination may take several weeks.",
         "sowingOutdoorsDescription": "Kiwis can also be propagated by cuttings. Take 6-8 inch cuttings from healthy kiwi vines in late winter or early spring. Remove the lower leaves and dip the cut end in rooting hormone. Plant cuttings in pots filled with well-draining potting mix and keep them warm and moist until roots develop.",
-        "spaceBetweenPlants": "10\'-15\'",
-        "spaceBetweenRows": "Varies based on planting scheme",
+        "spaceBetweenPlants": "10'-15'",
+        "spaceBetweenRows": "Varies",
         "squareFootPlantingRecommendationsMin": 1,
         "squareFootPlantingRecommendationsMax": 2,
         "lifeCycle": "Perennial",
@@ -32,6 +32,18 @@
         "timeToMaturity": "Kiwis typically begin producing fruit 3-5 years after planting, depending on the variety and growing conditions.",
         "storageRecommendations": "Harvest kiwis when they are fully ripe, usually in late summer or early fall. Kiwis are ripe when they yield to gentle pressure and have a slight give. Store harvested kiwis at room temperature for up to one week, or refrigerate them for longer storage.",
         "harvestDescription": "Harvest kiwis when they have reached their full size and have a slightly soft texture. Use a sharp knife to cut the fruit from the vine, leaving a short stem attached."
+      },
+      "SpringSowing": {
+        "Indoors": [-16, -12],
+        "Transplant": [16, 20],
+        "Outdoors": [20, 24],
+        "LastSowDate": null
+      },
+      "FallSowing": {
+        "Outdoors": [],
+        "Transplant": [],
+        "DaysToMaturity": 365,
+        "FrostTolerance": "Tender"
       },
       "companionPlants": {
           "goodCompanionPlants": [
@@ -66,7 +78,7 @@
               "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including kiwi vines. Avoid planting kiwi vines near walnut trees."
             },
             {
-              "name": "Sunflowers",
+              "name": "Sunflower",
               "description": "Sunflowers can compete with kiwi vines for sunlight, water, and nutrients, potentially reducing fruit production. Additionally, sunflowers may attract birds that can damage kiwi crops."
             },
             {
@@ -79,31 +91,42 @@
             }
           ]
         },
-    "pests": [
-        {
-            "name": "Kiwifruit Vine Borer",
-            "description": "Kiwifruit vine borers are common pests of kiwi vines, laying their eggs on stems and causing damage to the plant. Monitor vines regularly for signs of vine borer activity, such as wilting or dieback, and apply insecticidal sprays or use biological controls as needed."
-        },
-        {
-            "name": "Kiwifruit Leafroller",
-            "description": "Kiwifruit leafrollers are small, green caterpillars that feed on the leaves of kiwi vines, causing defoliation and reduced vigor. Control leafroller populations with insecticidal sprays or biological controls as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Botrytis Rot",
-            "description": "Botrytis rot is a fungal disease that affects kiwi vines, causing gray mold on fruit and foliage. It thrives in cool, humid conditions and can lead to fruit decay and reduced yields. Prevent botrytis rot by providing good air circulation around vines, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        },
-        {
-            "name": "Crown Gall",
-            "description": "Crown gall is a bacterial disease that affects kiwi vines, causing swollen, tumor-like growths on stems and roots. It can lead to reduced vigor and yield in affected plants. Prevent crown gall by planting disease-free stock, practicing good sanitation, and avoiding mechanical injury to plants."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest kiwis when fully ripe for the best flavor and sweetness.",
-        "Monitor vines regularly for signs of pests and diseases, and take prompt action to control infestations.",
-        "Prune kiwi vines annually to remove dead or diseased wood, improve airflow, and shape the vine."
-    ],
+      "pests": [
+        "Vine Moth",
+        "Bud Moth",
+        "Thrips",
+        "Leafroller",
+        "Leaf Spot Beetle",
+        "Root Knot Nematode",
+        "Pollen Beetle",
+        "Spider Mite",
+        "Weevil",
+        "Borer"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
+      ],
+      "diseases": [
+        "Bacterial Canker",
+        "Root Rot",
+        "Crown Rot",
+        "Anthracnose",
+        "Leaf Spot"
+      ],
+      "tipsAndTricks": [
+        "Plant kiwi vines in well-drained soil with full sun exposure.",
+        "Provide sturdy support structures such as trellises or pergolas for kiwi vines to climb.",
+        "Water kiwi vines regularly, especially during dry periods.",
+        "Apply a balanced fertilizer during the growing season to promote healthy growth.",
+        "Prune kiwi vines in late winter to remove old wood and promote fruiting spurs.",
+        "Monitor vines regularly for signs of pests and diseases, and take appropriate action.",
+        "Harvest kiwis when they are fully ripe but still firm to the touch.",
+        "Store harvested kiwis in the refrigerator for extended freshness."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Kiwis: Planting Guide",

@@ -33,48 +33,80 @@
        "storageRecommendations": "Harvest ginger rhizomes when they have fully matured and the leaves have begun to turn yellow and die back. Carefully dig up the rhizomes, being careful not to damage them. Rinse off excess soil and allow the rhizomes to air dry for a few days. Store harvested ginger rhizomes in a cool, dry place away from direct sunlight.",
        "harvestDescription": "To harvest ginger, carefully dig around the base of the plant to unearth the rhizomes. Cut off the desired amount of rhizome, leaving some in the ground to continue growing. Rinse off any soil and trim off any attached foliage before storage."
      },
-    "companionPlants": {
-        "goodCompanionPlants": [
-            {
-                "name": "Turmeric",
-                "description": "Turmeric is a good companion plant for ginger, as both are tropical herbs with similar growing requirements. Interplanting ginger with turmeric can create a visually appealing and aromatic garden bed while maximizing space and resources."
-            },
-            {
-                "name": "Garlic",
-                "description": "Garlic is also a good companion plant for ginger, as it may help repel pests like aphids, whiteflies, and spider mites. Interplanting ginger with garlic can provide natural pest control and enhance overall garden health."
-            }
-        ],
-        "badCompanionPlants": [
-            {
-                "name": "Potatoes",
-                "description": "Potatoes are not recommended as companion plants for ginger, as they have different soil and water requirements. Planting ginger near potatoes may result in competition for resources and reduced yields for both crops."
-            },
-            {
-                "name": "Beans",
-                "description": "Beans are also not recommended as companion plants for ginger, as they may fix nitrogen in the soil, which can affect the growth and flavor of ginger. It's best to plant them in separate areas to avoid potential problems."
-            }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Ginger Root Knot Nematode",
-            "description": "The ginger root knot nematode (Meloidogyne spp.) is a soilborne pest that can affect ginger plants, causing swollen, knotty growths or galls on the roots. Infected plants may exhibit stunted growth, wilting, and nutrient deficiencies. Control nematodes by practicing crop rotation, using nematode-resistant ginger varieties, and maintaining healthy soil with adequate organic matter."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Rhizome Rot",
-            "description": "Rhizome rot is a fungal disease that can affect ginger plants, causing soft, mushy lesions on the rhizomes and eventually leading to plant collapse. It thrives in wet, poorly drained soil and can spread rapidly in humid conditions. Control rhizome rot by improving soil drainage, avoiding overwatering, and applying fungicidal treatments preventatively."
-        }
-    ],
-    "tipsAndTricks": [
-        "Plant ginger rhizomes with the buds facing upward to encourage sprouting and growth.",
-        "Provide consistent moisture to ginger plants, especially during the growing season, to promote healthy rhizome development.",
-        "Mulch around ginger plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
-        "Fertilize ginger plants regularly with a balanced fertilizer to provide essential nutrients for growth and development.",
-        "Harvest ginger rhizomes carefully to avoid damaging the delicate roots and buds, and handle them gently to prevent bruising.",
-        "Inspect ginger plants regularly for signs of pests and diseases, and take appropriate action to prevent damage and spread."
-    ],
+     "SpringSowing": {
+       "Indoors": [],
+       "Transplant": [],
+       "Outdoors": [12, 16],
+       "LastSowDate": null
+     },
+     "FallSowing": {
+       "Outdoors": [],
+       "Transplant": [],
+       "DaysToMaturity": 240,
+       "FrostTolerance": "Tender"
+     },
+     "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Basil",
+             "description": "Basil can be planted near ginger to help repel pests like aphids, spider mites, and mosquitoes."
+           },
+           {
+             "name": "Mint",
+             "description": "Mint is a good companion for ginger as it can help deter pests like aphids, ants, and cabbage worms. Additionally, the strong scent of mint can mask the smell of ginger, making it less attractive to pests."
+           },
+           {
+             "name": "Nasturtium",
+             "description": "Nasturtiums can be interplanted with ginger to help repel pests like aphids, spider mites, and whiteflies. They can also attract beneficial insects such as predatory beetles and parasitic wasps."
+           },
+           {
+             "name": "Turmeric",
+             "description": "Turmeric is a good companion for ginger as they have similar growing requirements and can be planted together to maximize space utilization. Both plants can benefit from similar soil conditions and cultural practices."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Potatoes",
+             "description": "Potatoes are not recommended as companion plants for ginger as they can attract pests like potato beetles and wireworms, which may also attack ginger."
+           },
+           {
+             "name": "Tomatoes",
+             "description": "Tomatoes are not ideal companions for ginger as they have different soil and watering requirements. Additionally, tomatoes are susceptible to similar pests and diseases as ginger, which can increase the risk of infestation and spread."
+           }
+         ]
+       },
+     "pests": [
+       "Aphids",
+       "Mealybug",
+       "Spider Mite",
+       "Root Knot Nematode",
+       "Fungus Gnat"
+     ],
+     "beneficial_insects": [
+       "Ladybugs",
+       "Lacewings",
+       "Hoverflies",
+       "Predatory Mites"
+     ],
+     "diseases": [
+       "Root Rot",
+       "Pythium Rot",
+       "Fusarium Wilt",
+       "Rhizome Rot"
+     ],
+     "tipsAndTricks": [
+       "Choose a planting site with well-draining soil and partial to full shade.",
+       "Obtain ginger rhizomes from a reputable source for planting, ensuring they are firm and healthy-looking.",
+       "Plant ginger rhizomes in spring or early summer, about 2-4 inches deep with the buds facing upward.",
+       "Water ginger regularly, keeping the soil consistently moist but not waterlogged.",
+       "Mulch around ginger plants to retain soil moisture and suppress weeds.",
+       "Fertilize ginger plants with a balanced fertilizer every few weeks during the growing season.",
+       "Harvest ginger when the leaves start to turn yellow and die back, typically 8-10 months after planting.",
+       "Cure harvested ginger by allowing it to air dry for a few days, then store it in a cool, dry place.",
+       "Monitor plants regularly for signs of pests such as aphids and mealybugs. Use insecticidal soap or neem oil as needed.",
+       "Watch for symptoms of diseases like root rot and rhizome rot. Avoid overwatering and provide good air circulation to prevent these issues.",
+       "Ginger can be grown in containers indoors in colder climates, but it requires high humidity and warmth."
+     ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Ginger: A Complete Guide",

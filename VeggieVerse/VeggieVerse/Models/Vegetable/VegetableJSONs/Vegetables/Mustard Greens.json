@@ -33,41 +33,99 @@
        "storageRecommendations": "Harvest mustard greens by cutting outer leaves from the plant as needed, allowing the inner leaves to continue growing. Wash harvested leaves thoroughly to remove any dirt or debris. Store mustard greens in the refrigerator for up to a week, loosely wrapped in a damp paper towel or plastic bag to maintain moisture.",
        "harvestDescription": "Harvest mustard greens by cutting outer leaves from the plant with a sharp knife or scissors. Leave the inner leaves to continue growing for future harvests."
      },
-    "companionPlants": {
-        "goodCompanionPlants": [
-            {
-                "name": "Beets",
-                "description": "Beets can be planted near mustard greens to help repel pests like leafminers and provide natural pest control in the garden."
-            },
-            {
-                "name": "Nasturtiums",
-                "description": "Nasturtiums can be planted near mustard greens to help repel pests like aphids and provide natural pest control in the garden."
-            }
-        ],
-        "badCompanionPlants": [
-            {
-                "name": "Strawberries",
-                "description": "Strawberries are not recommended to be planted near mustard greens as they may compete for space and nutrients."
-            }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Flea Beetles",
-            "description": "Flea beetles are small, jumping insects that feed on mustard green leaves, causing tiny holes and damage to foliage. They can be particularly problematic in the early stages of growth. Control flea beetles by using floating row covers to exclude them, applying organic insecticides like neem oil or pyrethrin, and maintaining good garden hygiene."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Downy Mildew",
-            "description": "Downy mildew is a fungal disease that affects mustard green plants, causing yellow spots on leaves and a fuzzy gray growth on the undersides. It thrives in cool, moist conditions. Prevent downy mildew by providing good air circulation around plants, watering at the base of plants to avoid wetting foliage, and using fungicides as needed."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest mustard green leaves when they are young and tender for the best flavor and texture.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed.",
-        "Rotate mustard green crops annually to prevent the buildup of soilborne pests and diseases."
-    ],
+     "SpringSowing": {
+       "Indoors": [],
+       "Transplant": [],
+       "Outdoors": [],
+       "LastSowDate": -6
+     },
+     "FallSowing": {
+       "Outdoors": [-9, -6],
+       "Transplant": [],
+       "DaysToMaturity": 45,
+       "FrostTolerance": "Tender"
+     },
+     "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Lettuce",
+             "description": "Lettuce and mustard greens make good companions in the garden. They have similar growing requirements and can be interplanted to maximize space and diversity. Lettuce's shallow root system complements the deeper roots of mustard greens, allowing for efficient use of soil nutrients and water. Additionally, planting them together can help suppress weeds and provide mutual protection from pests."
+           },
+           {
+             "name": "Radishes",
+             "description": "Radishes are beneficial companion plants for mustard greens. They mature quickly and can be interplanted between rows of mustard greens to utilize space efficiently. Radishes also help break up compacted soil with their root growth, improving soil aeration and nutrient uptake for mustard greens. Furthermore, radishes can act as a sacrificial crop, attracting pests away from mustard greens."
+           },
+           {
+             "name": "Nasturtium",
+             "description": "Nasturtiums are excellent companion plants for mustard greens. Their bright flowers attract beneficial insects like hoverflies and ladybugs, which prey on aphids and other pests that may affect mustard greens. Nasturtiums also have a peppery scent that can repel pests like cabbage moths and whiteflies. Additionally, their sprawling growth can help shade the soil, reducing moisture loss and weed growth."
+           },
+           {
+             "name": "Basil",
+             "description": "Basil is a versatile herb that makes a great companion for mustard greens. Its strong aroma can help repel pests like aphids, whiteflies, and mosquitoes. Interplanting basil with mustard greens can confuse pests and deter them from attacking the crops. Furthermore, basil's aromatic foliage adds flavor to dishes and enhances biodiversity in the garden."
+           },
+           {
+             "name": "Spinach",
+             "description": "Spinach and mustard greens are compatible companions in the garden. They have similar growing requirements and can be interplanted to maximize space and yield. Spinach's shade-tolerant nature makes it a suitable understory crop for mustard greens, especially in areas with intense sunlight. Interplanting them also helps diversify the garden and provides a continuous harvest of leafy greens."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Brassicas",
+             "description": "Other brassicas, such as cabbage, broccoli, and cauliflower, may not be ideal companions for mustard greens. They belong to the same plant family and may attract similar pests and diseases, increasing the risk of infestation or disease spread. Additionally, brassicas have similar cultural requirements and may compete with mustard greens for resources like water and nutrients."
+           },
+           {
+             "name": "Onions",
+             "description": "Onions and other alliums may not be suitable companions for mustard greens. Alliums have strong odors that may repel pests, but they can also deter beneficial insects needed for pollination and pest control in the garden. Additionally, the shallow root systems of alliums may compete with mustard greens for soil nutrients and water."
+           },
+           {
+             "name": "Sunflower",
+             "description": "Sunflowers have dense root systems that may compete with mustard greens for water and nutrients. Planting them together may result in reduced growth and yield for mustard greens. Additionally, sunflowers may cast shade on mustard greens, affecting their growth and development."
+           },
+           {
+             "name": "Potatoes",
+             "description": "Potatoes may not be the best companions for mustard greens. They have different cultural requirements and may compete with mustard greens for resources like water and nutrients. Additionally, planting potatoes near mustard greens may increase the risk of disease transmission, as both crops are susceptible to certain soil-borne pathogens."
+           },
+           {
+             "name": "Fennel",
+             "description": "Fennel contains compounds that can inhibit the growth of nearby plants, including mustard greens. Planting mustard greens near fennel may result in stunted growth and reduced yield. It's best to keep them separate in the garden."
+           }
+         ]
+       },
+     "pests": [
+        "Aphids",
+        "Leafhopper",
+        "Whiteflies",
+        "Thrips",
+        "Cutworm",
+        "Armyworm",
+        "Flea Beetle",
+        "Leaf Beetle",
+        "Mite",
+        "Looper"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
+      ],
+      "diseases": [
+        "Downy Mildew",
+        "Powdery Mildew",
+        "Anthracnose",
+        "Fusarium Wilt",
+        "Leaf Spot"
+      ],
+      "tipsAndTricks": [
+        "Plant mustard greens in well-drained soil with full sun to partial shade exposure.",
+        "Space mustard plants properly to allow good air circulation.",
+        "Water mustard greens regularly, keeping the soil consistently moist but not waterlogged.",
+        "Mulch around the base of plants to retain moisture and suppress weeds.",
+        "Harvest mustard leaves when they are young and tender, typically before they become too mature and bitter.",
+        "Rotate crops to prevent the buildup of pests and diseases in the soil.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Mustard Greens: Planting Guide",

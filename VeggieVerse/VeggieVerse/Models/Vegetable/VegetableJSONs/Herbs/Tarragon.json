@@ -5,7 +5,7 @@
     "thumbnailImageUrl": "Tarragon_thumbnail",
     "backgroundImageUrl": "Tarragon_background",
     "varieties": "Tarragon (Artemisia dracunculus) primarily exists in two main varieties: French tarragon (Artemisia dracunculus var. sativa) and Russian tarragon (Artemisia dracunculus var. inodora). French tarragon is the preferred culinary variety due to its superior flavor, while Russian tarragon tends to have a coarser taste and is less aromatic. There are also other cultivars and hybrids of tarragon available.",
-      "sowingAndPlanting": {
+    "sowingAndPlanting": {
         "sowingIndoorsDescription": "Tarragon is best propagated from stem cuttings rather than seeds. Take stem cuttings in the spring or fall from established plants. Remove the lower leaves from the cutting and place it in a container of water or well-draining potting mix. Keep the soil consistently moist and provide bright, indirect light until roots develop.",
         "sowingOutdoorsDescription": "If planting from seed, sow tarragon seeds directly into the garden after the danger of frost has passed. Choose a location with well-draining soil and full sun. Sow seeds shallowly, barely covering them with soil, and keep the soil consistently moist until seeds germinate.",
         "spaceBetweenPlants": "12\"-18\"",
@@ -17,8 +17,8 @@
         "pHRange": "6.5 - 7.5",
         "germinationSoilTemp": "70-75°F",
         "season": "Tarragon can be planted outdoors in the spring after the danger of frost has passed."
-      },
-      "careAndMaintenance": {
+    },
+    "careAndMaintenance": {
         "optimalSun": "Full Sun to Partial Shade",
         "growingSoilTemp": "60-70°F",
         "growingDescription": "Tarragon prefers well-draining soil and full sun to partial shade. It is relatively low-maintenance once established. Water regularly, especially during dry periods, to keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
@@ -26,43 +26,99 @@
         "soilFertility": "Tarragon is not a heavy feeder and can thrive in poor to moderately fertile soil. However, incorporating compost or well-aged manure into the soil before planting can provide some nutrients.",
         "pruningRequirements": "Prune tarragon regularly to encourage bushy growth and prevent legginess. Pinch off the growing tips to encourage branching. Remove any dead or yellowing leaves as needed.",
         "supportRequirements": "Tarragon generally does not require support."
-      },
-      "harvestingAndStorage": {
+    },
+    "harvestingAndStorage": {
         "daysToHarvest": "60-90 days from planting",
         "timeToMaturity": "Tarragon can be harvested for culinary use once the plants are well-established, usually within 60-90 days after planting.",
         "storageRecommendations": "Harvest tarragon leaves as needed for culinary use. Use fresh leaves immediately for the best flavor. Alternatively, you can dry tarragon leaves by hanging them upside down in a warm, well-ventilated area until they are completely dry. Store dried tarragon leaves in an airtight container in a cool, dark place.",
         "harvestDescription": "Harvest tarragon leaves by snipping them from the plant as needed. Harvest leaves when they are young and tender for the best flavor."
-      },
+    },
+    "SpringSowing": {
+      "Indoors": [-8, -6],
+      "Transplant": [-6, -4],
+      "Outdoors": [-4, -2],
+      "LastSowDate": null
+    },
+    "FallSowing": {
+      "Outdoors": [-10, -8],
+      "Transplant": [],
+      "DaysToMaturity": 60,
+      "FrostTolerance": "Tolerant"
+    },
     "companionPlants": {
         "goodCompanionPlants": [
             {
                 "name": "Basil",
-                "description": "Basil is a good companion for tarragon, as it may help deter certain pests and complement its aromatic qualities."
+                "description": "Basil makes an excellent companion for tarragon due to its ability to repel pests like mosquitoes and flies. It also shares similar soil and sunlight preferences, making them compatible in the garden. Additionally, planting basil near tarragon can enhance the flavor of both herbs when used together in culinary dishes."
+            },
+            {
+                "name": "Chives",
+                "description": "Chives are beneficial companions for tarragon as they help deter aphids and other garden pests. They also attract beneficial insects like hoverflies and parasitic wasps, which can help control pest populations. The onion-like scent of chives may also mask the aroma of tarragon, making it less attractive to pests."
+            },
+            {
+                "name": "Lemon Balm",
+                "description": "Lemon balm can be planted alongside tarragon to attract pollinators like bees and butterflies, which are essential for the reproduction of both plants. Lemon balm's citrusy aroma may also help deter pests like aphids and mosquitoes, benefiting the overall health of tarragon."
+            },
+            {
+                "name": "Marigolds",
+                "description": "Marigolds are beneficial companions for tarragon as they help repel nematodes and other soil-borne pests. Their bright flowers also attract beneficial insects like ladybugs and lacewings, which prey on aphids and other tarragon pests. Planting marigolds near tarragon can improve soil health and deter harmful pests."
+            },
+            {
+                "name": "Thyme",
+                "description": "Thyme is a compatible companion for tarragon as it helps repel pests like cabbage worms and spider mites. Its low-growing habit can also serve as a living mulch, suppressing weeds and conserving soil moisture around tarragon plants. Thyme's aromatic foliage adds visual interest to the garden and complements the flavor of tarragon in culinary dishes."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Fennel",
+                "description": "Fennel should be avoided as a companion for tarragon as it may compete for nutrients and water in the soil, leading to reduced growth and vigor for both plants. Additionally, fennel's strong scent may overpower the delicate aroma of tarragon leaves."
             },
             {
                 "name": "Lavender",
-                "description": "Lavender can be planted near tarragon as it complements its fragrance and both have similar cultural requirements."
+                "description": "Lavender may not be an ideal companion for tarragon as it prefers drier soil conditions, while tarragon prefers consistently moist soil. Planting lavender near tarragon may create unfavorable growing conditions for both plants and lead to reduced health and growth."
+            },
+            {
+                "name": "Mint",
+                "description": "Mint can be invasive and may compete aggressively with tarragon for space and resources in the garden. Its spreading root system can quickly overtake nearby plants, including tarragon, leading to stunted growth and reduced yields. Additionally, mint's vigorous growth habit may overshadow the delicate foliage of tarragon."
+            },
+            {
+                "name": "Dill",
+                "description": "Dill should be avoided as a companion for tarragon as it attracts pests like aphids and spider mites. Planting dill near tarragon may increase the risk of pest infestations, negatively impacting the health and productivity of tarragon plants. Additionally, dill's tall, floppy stems may shade out or crowd neighboring plants."
+            },
+            {
+                "name": "Oregano",
+                "description": "Oregano can be aggressive in the garden and may compete with tarragon for space, nutrients, and water. Its spreading habit can quickly overrun nearby plants, including tarragon, leading to reduced growth and vigor. Additionally, oregano's pungent aroma may overpower the delicate scent of tarragon."
             }
-        ],
-        "badCompanionPlants": []
+        ]
     },
     "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids can sometimes infest tarragon, feeding on the sap of the leaves and causing distortion or yellowing. Control aphids by spraying affected plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs, and applying insecticidal soap or neem oil as needed."
-        }
+        "Aphids",
+        "Spider Mite",
+        "Whiteflies",
+        "Thrips"
+    ],
+    "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps"
     ],
     "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect tarragon, causing a white powdery growth on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
-        }
+        "Powdery Mildew",
+        "Root Rot"
     ],
     "tipsAndTricks": [
-        "Harvest tarragon leaves as needed by snipping them with scissors or shears.",
-        "Pinch back flower stalks regularly to encourage leaf production and prevent bolting.",
-        "Mulch around plants to retain moisture and suppress weeds.",
-        "Consider planting tarragon in containers to prevent it from spreading too vigorously."
+        "Plant tarragon in well-drained soil with full sun exposure.",
+        "Water tarragon regularly, keeping the soil consistently moist but not waterlogged.",
+        "Avoid overwatering, as it can lead to root rot.",
+        "Fertilize tarragon with a balanced fertilizer in the spring and summer months.",
+        "Mulch around tarragon plants to retain moisture and suppress weeds.",
+        "Prune tarragon regularly to remove dead or diseased branches and promote bushy growth.",
+        "Harvest tarragon leaves as needed for culinary use by snipping them from the plant. Use fresh or dried leaves to flavor sauces, dressings, and other dishes.",
+        "Monitor plants regularly for signs of pests such as aphids and spider mites. Handpick pests or use insecticidal soap as needed.",
+        "Watch for symptoms of diseases like powdery mildew and root rot. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+        "Tarragon can be grown in containers indoors or outdoors. Bring potted plants indoors before the first frost in colder climates.",
+        "Use dried tarragon leaves to make herbal teas or infuse vinegar for culinary use. Store dried leaves in an airtight container away from light and moisture."
     ],
     "linksToAdditionalResources": [
         {

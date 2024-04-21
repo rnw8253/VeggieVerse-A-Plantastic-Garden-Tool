@@ -4,69 +4,118 @@
     "description": "Sweet potatoes are warm-season vegetables known for their sweet flavor and nutritious orange flesh. They belong to the morning glory family and are often grown for their edible tuberous roots. Sweet potatoes come in various colors, including orange, purple, and white, and they can be prepared in a variety of ways, such as roasting, baking, boiling, or mashing. They are rich in vitamins, minerals, fiber, and antioxidants, making them a healthy addition to any diet.",
     "thumbnailImageUrl": "Sweet Potatoes_thumbnail",
     "backgroundImageUrl": "Sweet Potatoes_background",
-    "varieties": "Squash encompasses various species and cultivars, including summer squash and winter squash, each with its unique shape, color, and flavor. Common varieties of summer squash include 'Zucchini', known for its cylindrical shape and mild flavor; 'Yellow Crookneck', prized for its curved neck and buttery taste; and 'Pattypan', which offers a unique scalloped shape and tender texture. Winter squash varieties include 'Butternut', known for its sweet, nutty flavor and pear-like shape; 'Acorn', prized for its small size and sweet, nutty taste; and 'Spaghetti', which produces long, stringy flesh resembling spaghetti when cooked. These varieties provide options suited for different culinary preferences and growing conditions.",
-      "sowingAndPlanting": {
-        "sowingIndoorsDescription": "Squash seeds can be started indoors in biodegradable pots or trays filled with seed-starting mix. Plant seeds 1 inch deep and keep the soil consistently moist and warm (70-85°F). Transplant seedlings outdoors once they have developed several true leaves and the weather has warmed up.",
-        "sowingOutdoorsDescription": "Squash seeds should be sown directly outdoors once the soil has warmed up in the spring. Choose a sunny location with well-drained soil. Plant seeds 1 inch deep and space them 12-48 inches apart, depending on the variety. Keep the soil consistently moist until seedlings emerge.",
-        "spaceBetweenPlants": "12\"-48\"",
-        "spaceBetweenRows": "36\"-72\"",
+    "varieties": "Sweet potatoes encompass various cultivars, each with its unique flavor, texture, and color. Common varieties include 'Beauregard', known for its sweet taste and orange flesh; 'Jewel', prized for its deep orange flesh and moist texture; and 'Garnet', which offers a vibrant reddish-orange flesh and sweet flavor. These varieties provide options suited for different culinary preferences and growing conditions.",
+    "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Sweet potato slips (rooted sprouts) can be started indoors in containers filled with potting mix. Plant slips 3 inches deep with the sprouts above the soil surface. Keep the soil consistently moist and warm (70-80°F). Transplant the slips outdoors once the soil has warmed up and all danger of frost has passed.",
+        "sowingOutdoorsDescription": "Sweet potatoes are typically grown from slips planted directly outdoors. Choose a sunny location with loose, well-drained soil. Plant slips 3 inches deep and space them 12-18 inches apart in rows spaced 3 feet apart. Keep the soil consistently moist until the slips establish roots.",
+        "spaceBetweenPlants": "12\"-18\"",
+        "spaceBetweenRows": "36\"",
         "squareFootPlantingRecommendationsMin": 1,
         "squareFootPlantingRecommendationsMax": 4,
         "lifeCycle": "Annual",
-        "seedDepth": "1\"",
-        "pHRange": "6.0 - 7.0",
-        "germinationSoilTemp": "70-85°F",
-        "season": "Squash prefers warm weather and should be planted after the danger of frost has passed in the spring. Summer squash can be harvested throughout the summer, while winter squash is typically harvested in the fall."
-      },
-      "careAndMaintenance": {
+        "seedDepth": "3\"",
+        "pHRange": "5.8 - 6.2",
+        "germinationSoilTemp": "70-80°F",
+        "season": "Sweet potatoes prefer warm weather and should be planted after the danger of frost has passed in the spring. They require a long growing season, typically 90-170 days depending on the variety, and are harvested in the fall."
+    },
+    "careAndMaintenance": {
         "optimalSun": "Full Sun",
-        "growingSoilTemp": "70-85°F",
-        "growingDescription": "Squash plants thrive in full sun and well-drained, fertile soil with a pH of 6.0-7.0. They require regular watering to keep the soil consistently moist, especially during dry periods. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
-        "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
-        "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress squash plants with a balanced fertilizer once they start producing fruits.",
-        "pruningRequirements": "Prune squash plants to remove any dead or diseased foliage and improve air circulation. Pinch off the growing tips of vines to encourage branching and increase fruit production.",
-        "supportRequirements": "Some vining varieties of squash may benefit from support to keep the fruits off the ground and prevent rot. Use trellises or cages to support the vines."
-      },
-      "harvestingAndStorage": {
-        "daysToHarvest": "40-60 days for summer squash, 80-120 days for winter squash",
-        "timeToMaturity": "Summer squash typically matures and is ready for harvest 40-60 days after planting, while winter squash may take 80-120 days, depending on the variety.",
-        "storageRecommendations": "Harvest summer squash when the fruits are young and tender, usually 6-8 inches long for most varieties. Use a sharp knife to cut the fruits from the vines. Winter squash should be harvested when the fruits reach full maturity and the rinds are hard and cannot be punctured with a fingernail. Leave a few inches of stem attached to the fruits. Store harvested squash in a cool, dry place with good ventilation. Summer squash can be stored in the refrigerator for up to a week, while winter squash can be stored for several months.",
-        "harvestDescription": "Harvest summer squash regularly to encourage continuous production. Cut the fruits from the vines using a sharp knife, taking care not to damage the plants. Winter squash should be harvested before the first frost. Use a sharp knife to cut the fruits from the vines, leaving a few inches of stem attached."
-      },
+        "growingSoilTemp": "70-80°F",
+        "growingDescription": "Sweet potatoes thrive in full sun and well-drained, sandy loam soil with a pH of 5.8-6.2. They require regular watering to keep the soil consistently moist, especially during the first few months of growth. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1-1.5 inches per week.",
+        "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Avoid high-nitrogen fertilizers, as they can promote excessive foliage growth at the expense of tuber development.",
+        "pruningRequirements": "Sweet potato vines do not require pruning; however, removing any dead or diseased foliage can help prevent the spread of diseases and pests.",
+        "supportRequirements": "Sweet potato vines typically spread along the ground and do not require support structures."
+    },
+    "harvestingAndStorage": {
+        "daysToHarvest": "90-170 days",
+        "timeToMaturity": "Sweet potatoes are typically ready for harvest 90-170 days after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest sweet potatoes before the first frost by carefully digging them up with a fork or shovel. Handle them gently to avoid bruising or damaging the skins. Cure freshly harvested sweet potatoes by storing them in a warm (80-85°F), humid environment for 7-10 days to allow the skins to toughen and sugars to develop. After curing, store sweet potatoes in a cool (55-60°F), dark, and well-ventilated location. Properly cured and stored sweet potatoes can last several months.",
+        "harvestDescription": "Harvest sweet potatoes carefully to avoid bruising or damaging the skins. Use a fork or shovel to gently loosen the soil around the plants, then lift the tubers out of the ground. Handle them with care to prevent any cuts or bruises."
+    },
+    "SpringSowing": {
+        "Indoors": [],
+        "Transplant": [],
+        "Outdoors": [3, 4],
+        "LastSowDate": -14
+    },
+    "FallSowing": {
+        "Outdoors": [],
+        "Transplant": [],
+        "DaysToMaturity": 95,
+        "FrostTolerance": "Tender"
+    },
     "companionPlants": {
         "goodCompanionPlants": [
             {
                 "name": "Beans",
-                "description": "Beans can be planted near sweet potatoes to help improve soil fertility by fixing nitrogen and providing natural pest control in the garden."
+                "description": "Beans are excellent companions for sweet potatoes. Beans fix nitrogen in the soil, which benefits sweet potatoes, as they are heavy feeders. Additionally, the dense foliage of beans provides some shade for sweet potato vines, helping to retain soil moisture and suppress weeds."
             },
             {
                 "name": "Lettuce",
-                "description": "Lettuce can be interplanted with sweet potatoes to provide natural ground cover and help suppress weeds."
+                "description": "Lettuce is a good companion for sweet potatoes. Interplanting lettuce and sweet potatoes can help maximize space in the garden, as lettuce grows close to the ground while sweet potatoes vine outwards. The shallow root systems of both plants allow for efficient use of soil nutrients and water."
+            },
+            {
+                "name": "Corn",
+                "description": "Corn makes a good companion for sweet potatoes. Interplanting corn and sweet potatoes can create a symbiotic relationship known as the 'three sisters' method, where corn provides support for climbing sweet potato vines, while sweet potatoes act as a living mulch, suppressing weeds and conserving soil moisture."
+            },
+            {
+                "name": "Radishes",
+                "description": "Radishes are beneficial companions for sweet potatoes. Planting radishes near sweet potatoes can help deter pests like cucumber beetles and squash bugs, as radishes emit compounds that repel these insects. Additionally, radishes have shallow root systems that complement the deep roots of sweet potatoes."
             }
         ],
         "badCompanionPlants": [
             {
-                "name": "Irish Potatoes",
-                "description": "Irish potatoes are not recommended to be planted near sweet potatoes as they may compete for space and nutrients."
+                "name": "Potatoes",
+                "description": "Irish potatoes are not recommended as companions for sweet potatoes. Both plants belong to the same botanical family, Solanaceae, and may attract similar pests and diseases. Planting them together may increase the risk of pest infestations and disease outbreaks, leading to reduced yields for both crops."
+            },
+            {
+                "name": "Brassicas",
+                "description": "Brassicas, such as cabbage, broccoli, and cauliflower, may not be the best companions for sweet potatoes. Brassicas have different growth habits and nutrient needs compared to sweet potatoes, which can result in competition for resources in the garden. Additionally, brassicas may attract pests like flea beetles, which can damage sweet potato foliage."
+            },
+            {
+                "name": "Sunflower",
+                "description": "Sunflowers may not be ideal companions for sweet potatoes. Sunflowers have deep taproots that may compete with sweet potatoes for nutrients and water, especially in soils with limited resources. Additionally, the tall growth habit of sunflowers may overshadow sweet potato vines, reducing their sunlight exposure."
+            },
+            {
+                "name": "Garlic",
+                "description": "Garlic may not be an ideal companion for sweet potatoes. Both garlic and sweet potatoes belong to the same botanical family, Alliaceae, and may attract similar pests and diseases. Planting them together may increase the risk of pest infestations and disease outbreaks, leading to reduced yields for both crops."
             }
         ]
     },
     "pests": [
-        {
-            "name": "Sweet Potato Weevil",
-            "description": "The sweet potato weevil is a common pest of sweet potatoes, feeding on the tubers and causing damage and decay. Prevent sweet potato weevils by planting certified disease-free slips, inspecting plants regularly for signs of infestation, and promptly removing and destroying affected tubers."
-        }
+        "Weevil",
+        "Flea Beetle",
+        "Wireworm",
+        "Cutworm",
+        "Slug",
+        "Snail"
+    ],
+    "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
     ],
     "diseases": [
-        {
-            "name": "Fusarium Root Rot",
-            "description": "Fusarium root rot is a fungal disease that affects sweet potatoes, causing yellowing, wilting, and decay of roots and tubers. It thrives in warm, moist conditions and can lead to reduced plant vigor and yield. Prevent fusarium root rot by planting disease-resistant sweet potato varieties, practicing crop rotation, and maintaining good soil drainage."
-        }
+        "Fusarium Wilt",
+        "Rhizoctonia Root Rot",
+        "Powdery Mildew",
+        "Scab",
+        "Southern Blight",
+        "Black Rot"
     ],
     "tipsAndTricks": [
-        "Harvest sweet potatoes when the vines have started to die back for optimal flavor and storage.",
-        "Cure harvested sweet potatoes in a warm, humid location to toughen the skins and heal wounds before storage.",
-        "Store cured sweet potatoes in a cool, dark, well-ventilated location with low humidity to prevent sprouting and spoilage."
+        "Choose a planting site with loose, well-drained soil and full sun exposure.",
+        "Prepare the soil by tilling to a depth of 8-10 inches and incorporating compost or aged manure for fertility.",
+        "Plant sweet potato slips (rooted cuttings) or slips directly in the garden after the last frost date, when the soil has warmed up.",
+        "Plant slips 12-18 inches apart in rows spaced 3-4 feet apart.",
+        "Water sweet potatoes regularly, providing about 1-2 inches of water per week, and mulch to conserve moisture and suppress weeds.",
+        "Fertilize sweet potatoes with a balanced fertilizer or compost tea every 3-4 weeks, following package instructions.",
+        "Monitor plants regularly for signs of pests such as sweet potato weevils and flea beetles. Use row covers or insecticidal soap as needed.",
+        "Watch for symptoms of diseases like fusarium wilt and powdery mildew. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+        "Harvest sweet potatoes when the leaves begin to turn yellow or die back, typically 90-120 days after planting. Gently dig up tubers with a fork or trowel, being careful not to bruise or damage them."
     ],
     "linksToAdditionalResources": [
         {

@@ -33,41 +33,98 @@
         "storageRecommendations": "Harvest okra pods when they are young and tender, usually 2-4 inches long. Use a sharp knife or scissors to cut the pods from the plant, being careful not to damage the stem. Store harvested okra in the refrigerator for up to a week.",
         "harvestDescription": "Harvest okra pods when they are young and tender, as older pods become tough and fibrous. Check plants daily for ripe pods and harvest them promptly to encourage continued production."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [-4, -2],
+        "Transplant": [2, 3],
+        "Outdoors": [2, 4],
+        "LastSowDate": -10
+      },
+      "FallSowing": {
+        "Outdoors": [],
+        "Transplant": [],
+        "DaysToMaturity": 65,
+        "FrostTolerance": "Tolerant"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Basil",
-                "description": "Basil is a good companion plant for okra because it can help repel pests like aphids, beetles, and spider mites. Its aromatic foliage also enhances the flavor of okra when grown nearby."
+              "name": "Basil",
+              "description": "Basil is a beneficial companion for okra. Planting basil near okra can help repel pests like aphids, mosquitoes, and spider mites. Basil's strong aroma can mask the scent of okra, making it less attractive to pests. Additionally, basil attracts beneficial insects like bees and predatory insects, which can help control pest populations."
             },
             {
-                "name": "Marigolds",
-                "description": "Marigolds can be planted near okra to help repel pests like nematodes and provide natural pest control in the garden."
-            }
-        ],
-        "badCompanionPlants": [
+              "name": "Nasturtium",
+              "description": "Nasturtiums make good companions for okra. They can attract beneficial insects like predatory bugs and parasitic wasps, which help control pests like aphids and caterpillars. Nasturtiums also deter pests with their pungent scent, reducing the likelihood of infestation on okra plants. Additionally, their vibrant flowers can enhance the aesthetics of the garden."
+            },
             {
-                "name": "Potatoes",
-                "description": "Potatoes are not recommended to be planted near okra as they may compete for space and nutrients."
+              "name": "Marigolds",
+              "description": "Marigolds are beneficial companions for okra. They emit a strong scent that repels pests like nematodes, aphids, and whiteflies, protecting okra plants from infestation. Marigolds also attract beneficial insects like ladybugs and hoverflies, which prey on harmful pests. Planting marigolds near okra can help improve soil health and enhance overall garden biodiversity."
+            },
+            {
+              "name": "Peppers",
+              "description": "Peppers are compatible companions for okra. Both plants have similar cultural requirements and can thrive in the same growing conditions. Interplanting peppers with okra can help maximize garden space and increase crop diversity. Additionally, peppers can attract pollinators like bees, benefiting both crops' fruit set and yield. However, avoid overcrowding to prevent competition for resources."
+            },
+            {
+              "name": "Eggplant",
+              "description": "Eggplant is a good companion for okra. Both plants belong to the same family (Solanaceae) and share similar growing conditions. Interplanting eggplant with okra can help deter pests like flea beetles and aphids. Additionally, eggplant's upright growth habit can provide some shade to okra during hot summer days, helping to reduce heat stress."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are small, soft-bodied insects that feed on okra plants by sucking sap from leaves, stems, and buds. They reproduce rapidly and can cause distorted growth, yellowing, and wilting. Aphids secrete honeydew, promoting the growth of sooty mold and attracting ants. To control aphids, spray affected plants with water to dislodge them, introduce natural predators like ladybugs or lacewings, and use insecticidal soap or neem oil as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Fusarium Wilt",
-            "description": "Fusarium wilt is a fungal disease that affects okra plants, causing wilting, yellowing, and stunting of growth. It is soilborne and can persist in the soil for several years. Prevent fusarium wilt by selecting disease-resistant varieties, practicing crop rotation, and maintaining good soil drainage."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest okra pods when they are young and tender for the best flavor and texture.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed.",
-        "Rotate okra crops annually to prevent the buildup of soilborne pests and diseases."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Beans",
+              "description": "Beans may not be ideal companions for okra. Okra plants have deep taproots, while beans have shallow root systems. Planting them together may result in competition for soil nutrients and water, affecting the growth and yield of both crops. Additionally, okra can overshadow beans, reducing their access to sunlight and hindering their growth."
+            },
+            {
+              "name": "Potatoes",
+              "description": "Potatoes are not recommended companions for okra. Both crops have different cultural requirements and may compete for space and resources in the garden. Potatoes require hilling, which can disturb the roots of okra plants. Additionally, planting them together may increase the risk of disease spread, as both crops are susceptible to certain soil-borne pathogens."
+            },
+            {
+              "name": "Sunflower",
+              "description": "Sunflowers may not be suitable companions for okra. While sunflowers can attract beneficial insects and provide shade, their large size and dense foliage may overshadow okra plants, reducing their access to sunlight. Additionally, sunflowers have extensive root systems that may compete with okra for soil nutrients and water, leading to stunted growth."
+            },
+            {
+              "name": "Lettuce",
+              "description": "Lettuce may not be the best companion for okra. Lettuce has shallow roots and thrives in cool, moist conditions, while okra prefers warm, well-drained soil. Planting them together may result in competition for water and space, as well as increased susceptibility to diseases like damping-off. It's best to keep them separate in the garden."
+            },
+            {
+              "name": "Tomatoes",
+              "description": "Tomatoes may not be suitable companions for okra. Both crops have different cultural requirements and growth habits. Tomatoes are heavy feeders that require ample sunlight and water, which may overshadow or compete with okra. Additionally, planting tomatoes near okra may increase the risk of disease transmission, as both crops are susceptible to certain soil-borne pathogens."
+            }
+          ]
+        },
+      "pests": [
+        "Aphids",
+        "Leafhopper",
+        "Whiteflies",
+        "Thrips",
+        "Cutworm",
+        "Armyworm",
+        "Flea Beetle",
+        "Leaf Beetle",
+        "Mite",
+        "Looper"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
+      ],
+      "diseases": [
+        "Downy Mildew",
+        "Powdery Mildew",
+        "Anthracnose",
+        "Fusarium Wilt",
+      ],
+      "tipsAndTricks": [
+        "Plant okra in well-drained soil with full sun exposure.",
+        "Space okra plants properly to allow good air circulation.",
+        "Water okra regularly, keeping the soil consistently moist but not waterlogged.",
+        "Mulch around the base of plants to retain moisture and suppress weeds.",
+        "Harvest okra pods when they are young and tender, typically when they are 2-3 inches long.",
+        "Rotate crops to prevent the buildup of pests and diseases in the soil.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Okra: Planting Guide",

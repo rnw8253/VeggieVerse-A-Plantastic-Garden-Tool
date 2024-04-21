@@ -33,6 +33,18 @@
         "storageRecommendations": "Harvest bok choy when the leaves are young and tender, typically 6-8 inches tall. Cut the entire plant at ground level using a sharp knife or scissors. Store harvested bok choy in the refrigerator for up to a week. Wash and dry the leaves before storing to remove any dirt or debris.",
         "harvestDescription": "Harvest bok choy by cutting the entire plant at ground level when the leaves are young and tender. Avoid letting the plant bolt or develop flowers, as this can negatively affect flavor and texture."
       },
+      "SpringSowing": {
+          "Indoors": [-6, -4],
+          "Transplant": [2, 3],
+          "Outdoors": [2, 3],
+          "LastSowDate": -18
+      },
+      "FallSowing": {
+          "Outdoors": [-10, -7],
+          "Transplant": [],
+          "DaysToMaturity": 50,
+          "FrostTolerance": "Tolerant"
+      },
       "companionPlants": {
           "goodCompanionPlants": [
             {
@@ -79,24 +91,41 @@
             }
           ]
         },
-    "pests": [
-        {
-            "name": "Flea Beetles",
-            "description": "Flea beetles are small, jumping insects that feed on bok choy foliage, causing small holes and damage to leaves. Control flea beetles by covering plants with floating row covers, applying organic insecticides like neem oil or diatomaceous earth, and practicing good garden hygiene."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Downy Mildew",
-            "description": "Downy mildew is a fungal disease that affects bok choy, causing yellow or brown patches on leaves, fuzzy growth on the undersides of leaves, and overall decline in plant health. It thrives in cool, moist conditions. Prevent downy mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest bok choy leaves when they are young and tender for the best flavor and texture.",
-        "Mulch around plants to retain moisture, suppress weeds, and regulate soil temperature.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed.",
-        "Consider succession planting to extend the harvest period and ensure a continuous supply of fresh bok choy."
-    ],
+      "pests": [
+        "Flea Beetle",
+        "Aphids",
+        "Cabbage Looper",
+        "Diamondback Moth",
+        "Cutworm",
+        "Thrips",
+        "Leafhopper",
+        "Armyworm",
+        "Leafminer",
+        "Whiteflies"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
+      ],
+      "diseases": [
+        "Downy Mildew",
+        "Clubroot",
+        "Fusarium Wilt",
+        "Alternaria Leaf Spot",
+        "Powdery Mildew"
+      ],
+      "tipsAndTricks": [
+        "Plant bok choy in well-drained soil with partial shade to full sun exposure.",
+        "Space bok choy plants properly to allow good air circulation and prevent diseases.",
+        "Apply a balanced fertilizer or compost to provide necessary nutrients for growth.",
+        "Mulch around the base of plants to retain moisture and suppress weeds.",
+        "Water bok choy plants regularly, especially during dry periods.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+        "Harvest bok choy when the leaves are young and tender, typically around 6-8 inches in height."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Bok Choy: Planting Guide",

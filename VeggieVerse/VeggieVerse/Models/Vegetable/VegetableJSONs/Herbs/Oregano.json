@@ -33,37 +33,95 @@
        "storageRecommendations": "Harvest oregano leaves as needed for culinary use. Use fresh leaves immediately, or dry them for longer storage. To dry oregano, bundle stems together and hang them upside down in a warm, well-ventilated area until leaves are crisp. Once dry, store leaves in an airtight container in a cool, dark place.",
        "harvestDescription": "Harvest oregano leaves by snipping them from the plant as needed. For the best flavor, harvest leaves before the plant flowers."
      },
-    "companionPlants": {
-        "goodCompanionPlants": [
-            {
-                "name": "Basil",
-                "description": "Basil is a good companion for oregano, as it may help deter certain pests and complement its aromatic qualities."
-            },
-            {
-                "name": "Thyme",
-                "description": "Thyme can be planted near oregano as it complements its fragrance and both have similar cultural requirements."
-            }
-        ],
-        "badCompanionPlants": []
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids can sometimes infest oregano, feeding on the sap of the leaves and causing distortion or yellowing. Control aphids by spraying affected plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs, and applying insecticidal soap or neem oil as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect oregano, causing a white powdery growth on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest oregano leaves as needed by snipping them with scissors or shears.",
-        "Pinch back growing tips regularly to encourage bushy growth.",
-        "Mulch around plants to retain moisture and suppress weeds.",
-        "Consider planting oregano in containers to prevent it from spreading too vigorously."
-    ],
+     "SpringSowing": {
+       "Indoors": [-10, -8],
+       "Transplant": [1, 3],
+       "Outdoors": [],
+       "LastSowDate": -10
+     },
+     "FallSowing": {
+       "Outdoors": [],
+       "Transplant": [],
+       "DaysToMaturity": 85,
+       "FrostTolerance": "Tender"
+     },
+     "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Broccoli",
+             "description": "Oregano is a beneficial companion for broccoli as it can help repel pests like cabbage worms and aphids. The strong fragrance of oregano can deter these pests from infesting broccoli plants, reducing the need for chemical pesticides."
+           },
+           {
+             "name": "Cabbage",
+             "description": "Oregano makes a good companion for cabbage as it can help repel pests like cabbage moths and cabbage loopers. The strong aroma of oregano can deter these pests from laying eggs on cabbage plants, reducing the risk of infestation and damage."
+           },
+           {
+             "name": "Cucumbers",
+             "description": "Oregano is a beneficial companion for cucumbers as it can help repel pests like cucumber beetles and spider mites. The aromatic oils in oregano plants can deter these pests, reducing the risk of damage to cucumber plants."
+           },
+           {
+             "name": "Tomatoes",
+             "description": "Oregano makes a good companion for tomatoes as it can help repel pests like aphids, spider mites, and tomato hornworms. The strong scent of oregano can deter these pests from attacking tomato plants, reducing the need for chemical pesticides."
+           },
+           {
+             "name": "Peppers",
+             "description": "Oregano is a beneficial companion for peppers as it can help repel pests like aphids and spider mites. The aromatic oils in oregano plants can deter these pests, reducing the risk of damage to pepper plants."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Beans",
+             "description": "Oregano is not recommended as a companion for beans as it may inhibit bean growth due to its allelopathic effects. Oregano produces chemicals that can hinder the germination and growth of beans, leading to reduced yields."
+           },
+           {
+             "name": "Lettuce",
+             "description": "Oregano should be avoided as a companion for lettuce as it may inhibit lettuce growth. Oregano plants can spread aggressively and compete with lettuce for space, nutrients, and water in the garden bed, leading to reduced lettuce yields."
+           },
+           {
+             "name": "Spinach",
+             "description": "Oregano is not recommended as a companion for spinach as it may inhibit spinach growth. Oregano plants can spread vigorously and compete with spinach for resources in the garden bed, leading to reduced spinach yields."
+           },
+           {
+             "name": "Radishes",
+             "description": "Oregano should be avoided as a companion for radishes as it may inhibit radish growth. Oregano plants can spread aggressively and compete with radishes for space, nutrients, and water in the garden bed, leading to reduced radish yields."
+           },
+           {
+             "name": "Carrots",
+             "description": "Oregano is not recommended as a companion for carrots as it may inhibit carrot growth. Oregano plants can spread vigorously and compete with carrots for resources in the garden bed, leading to reduced carrot yields."
+           }
+         ]
+       },
+     "pests": [
+       "Aphids",
+       "Spider Mite",
+       "Whiteflies",
+       "Thrips"
+     ],
+     "beneficial_insects": [
+       "Ladybugs",
+       "Lacewings",
+       "Hoverflies",
+       "Parasitic Wasps"
+     ],
+     "diseases": [
+       "Powdery Mildew",
+       "Downy Mildew",
+       "Root Rot",
+       "Botrytis Blight",
+       "Gray Mold Rot"
+     ],
+     "tipsAndTricks": [
+       "Choose a well-drained location with full sun for planting oregano.",
+       "Space oregano plants about 8 to 10 inches apart.",
+       "Water oregano plants deeply but infrequently, allowing the soil to dry out slightly between watering.",
+       "Avoid over-fertilizing oregano, as it can reduce the flavor of the leaves.",
+       "Harvest oregano leaves as needed for culinary use by snipping them from the plant.",
+       "Prune oregano regularly to promote bushy growth and prevent it from becoming leggy.",
+       "Monitor plants regularly for signs of pests such as aphids and spider mites. Use insecticidal soap or neem oil as needed.",
+       "Watch for symptoms of diseases like powdery mildew and root rot. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+       "Oregano is a perennial herb that can be propagated by division or stem cuttings. Divide plants every few years to rejuvenate them.",
+       "Use fresh or dried oregano leaves to flavor a variety of dishes, including pasta sauces, soups, salads, and meats."
+     ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Oregano: Planting Guide",

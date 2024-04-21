@@ -33,45 +33,86 @@
         "storageRecommendations": "Harvest chickweed leaves and stems as needed for culinary or medicinal use. Use fresh chickweed immediately, as it does not store well. Store any unused portions in the refrigerator wrapped in a damp paper towel and placed in a plastic bag for up to a few days.",
         "harvestDescription": "Harvest chickweed leaves and stems by cutting them close to the ground. Avoid harvesting chickweed from areas that may have been treated with herbicides or other chemicals."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [],
+        "Transplant": [],
+        "Outdoors": [-8, -6],
+        "LastSowDate": null
+      },
+      "FallSowing": {
+        "Outdoors": [-10, -8],
+        "Transplant": [],
+        "DaysToMaturity": 30,
+        "FrostTolerance": "Tolerant"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Lettuce",
-                "description": "Lettuce is a good companion plant for chickweed, as it shares similar growing conditions and can help suppress weed growth when planted densely. The shallow root systems of both plants allow them to coexist without competing for resources."
+              "name": "Chervil",
+              "description": "Chervil is a beneficial companion for chickweed as it attracts beneficial insects like ladybugs and lacewings, which prey on pests that may harm chickweed plants. Additionally, chervil's delicate foliage can provide shade and moisture retention for chickweed, creating a more favorable microclimate for growth."
             },
             {
-                "name": "Radishes",
-                "description": "Radishes are also good companions for chickweed, as they grow quickly and can help suppress weed growth while providing a food source for beneficial insects. Planting them together can create a diverse and productive garden ecosystem."
-            }
-        ],
-        "badCompanionPlants": [
-            {
-                "name": "Basil",
-                "description": "Basil is not recommended as a companion plant for chickweed, as it prefers warmer temperatures and may compete with chickweed for space and resources. It's best to plant them in separate areas to avoid potential problems."
+              "name": "Dandelion Greens",
+              "description": "Dandelions can serve as a beneficial companion for chickweed as they help improve soil health by aerating the soil and adding organic matter when their leaves decompose. Additionally, dandelions have deep taproots that can break up compacted soil, making it easier for chickweed to establish and grow."
             },
             {
-                "name": "Tomatoes",
-                "description": "Tomatoes are also not recommended as companion plants for chickweed, as they have deep root systems and may compete with chickweed for water and nutrients. It's best to plant them in separate areas to avoid potential problems."
+              "name": "Clover",
+              "description": "Clover is an excellent companion for chickweed as it fixes nitrogen in the soil, making it more available to nearby plants like chickweed. The dense foliage of clover also helps suppress weed growth, including chickweed, by shading the soil and preventing sunlight from reaching weed seeds."
+            },
+            {
+              "name": "Comfrey",
+              "description": "Comfrey is a dynamic accumulator that draws up nutrients from deep within the soil and makes them available to other plants, including chickweed. By planting comfrey alongside chickweed, you can improve soil fertility and provide additional nutrients to support chickweed growth."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are common pests of chickweed, feeding on the sap of leaves and stems and causing distortion and stunted growth. Control aphids by spraying plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs and lacewings, or applying insecticidal soap or neem oil."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect chickweed, causing white powdery patches to form on the leaves. It thrives in warm, humid conditions and can spread rapidly in crowded plantings. Control powdery mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest chickweed regularly to prevent it from becoming invasive in the garden.",
-        "Avoid planting chickweed in areas where it may become a nuisance or compete with desired plants.",
-        "Use chickweed fresh in salads, sandwiches, or as a garnish for soups and stews, or dry it for later use in teas or herbal remedies."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Tomatoes",
+              "description": "Tomatoes are not recommended as companion plants for chickweed as they may compete for resources such as water, nutrients, and space. Tomatoes have vigorous growth habits and may overshadow and outcompete chickweed, leading to reduced growth and yield. Additionally, planting tomatoes near chickweed may increase the risk of diseases and pests that affect both plants."
+            },
+            {
+              "name": "Carrots",
+              "description": "Carrots are not suitable companions for chickweed as they have similar growth requirements and may compete for resources such as water, nutrients, and sunlight. Carrots have shallow root systems that can easily intermingle with chickweed roots, leading to competition and reduced growth for both plants. It is best to keep carrots away from chickweed to prevent competition and ensure optimal growth."
+            },
+            {
+              "name": "Onions",
+              "description": "Onions are not ideal companions for chickweed as they have shallow root systems that may compete with chickweed for water and nutrients in the soil. Additionally, onions are susceptible to certain pests and diseases that may also affect chickweed if planted nearby. To avoid competition and potential pest and disease issues, it is recommended to plant onions away from chickweed."
+            },
+            {
+              "name": "Potatoes",
+              "description": "Potatoes are not recommended as companion plants for chickweed as they have similar growth habits and may compete for resources such as water, nutrients, and space. Both potatoes and chickweed prefer loose, well-draining soil, which can lead to competition for root space. Additionally, potatoes are susceptible to certain pests and diseases that may also affect chickweed if planted nearby."
+            }
+          ]
+        },
+      "pests": [
+        "Aphids",
+        "Spider Mite",
+        "Whiteflies",
+        "Thrips",
+        "Leafminer"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps"
+      ],
+      "diseases": [
+        "Powdery Mildew",
+        "Downy Mildew",
+        "Leaf Spot",
+        "Root Rot"
+      ],
+      "tipsAndTricks": [
+        "Choose a planting site with moist, well-drained soil and partial shade exposure.",
+        "Sow chickweed seeds directly into the soil in early spring or fall, as it prefers cooler temperatures.",
+        "Keep the soil consistently moist during germination and early growth stages.",
+        "Mulch around chickweed plants to retain soil moisture and suppress weeds.",
+        "Harvest chickweed leaves and stems as needed for culinary use by snipping them from the plant.",
+        "Monitor plants regularly for signs of pests such as aphids and spider mites. Use insecticidal soap or neem oil as needed.",
+        "Watch for symptoms of diseases like powdery mildew and leaf spot. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+        "Chickweed self-seeds readily, so deadhead flowers to prevent excessive spreading if desired.",
+        "Use chickweed fresh in salads, sandwiches, and soups, or as a nutritious garnish for various dishes."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Chickweed: Edible Weed",

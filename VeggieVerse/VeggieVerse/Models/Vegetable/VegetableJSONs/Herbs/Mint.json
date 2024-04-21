@@ -33,37 +33,96 @@
        "storageRecommendations": "Harvest mint leaves as needed for culinary or medicinal use. Use fresh leaves immediately for cooking, or dry them for later use. To dry mint, hang the stems upside down in small bunches in a well-ventilated area out of direct sunlight. Once fully dried, store the leaves in an airtight container in a cool, dark place.",
        "harvestDescription": "Harvest mint leaves by snipping the stems just above a leaf node. Avoid harvesting more than one-third of the plant's leaves at a time to allow for continued growth and health of the plant."
      },
-    "companionPlants": {
-        "goodCompanionPlants": [
-            {
-                "name": "Basil",
-                "description": "Basil is a good companion for mint, as it may help deter certain pests and complement its aromatic qualities."
-            },
-            {
-                "name": "Rosemary",
-                "description": "Rosemary can be planted near mint as it complements its fragrance and both have similar cultural requirements."
-            }
-        ],
-        "badCompanionPlants": []
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids can sometimes infest mint, feeding on the sap of the leaves and causing distortion or yellowing. Control aphids by spraying affected plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs, and applying insecticidal soap or neem oil as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect mint, causing a white powdery growth on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest mint leaves as needed by snipping them with scissors or shears.",
-        "Pinch back growing tips regularly to encourage bushy growth.",
-        "Mulch around plants to retain moisture and suppress weeds.",
-        "Consider planting mint in containers to prevent it from spreading too vigorously."
-    ],
+     "SpringSowing": {
+       "Indoors": [-8, -6],
+       "Transplant": [-6, -4],
+       "Outdoors": [-4, -2],
+       "LastSowDate": null
+     },
+     "FallSowing": {
+       "Outdoors": [8, 10],
+       "Transplant": [],
+       "DaysToMaturity": 60,
+       "FrostTolerance": "Tolerant"
+     },
+     "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Basil",
+             "description": "Basil is an excellent companion for mint as it can help repel pests like mosquitoes, aphids, and whiteflies. Additionally, both basil and mint belong to the same plant family (Lamiaceae), and their aromatic foliage complements each other, creating a pleasant and fragrant garden environment. Basil's strong aroma can also mask the scent of mint, helping to confuse pests that may otherwise be attracted to mint plants."
+           },
+           {
+             "name": "Chamomile",
+             "description": "Chamomile is a beneficial companion for mint as it can attract beneficial insects like ladybugs and hoverflies, which prey on pests like aphids and whiteflies. Additionally, chamomile's delicate flowers add visual interest to the garden bed, enhancing the overall aesthetic. Chamomile's shallow root system also helps to prevent soil erosion and improve soil structure, benefiting nearby mint plants."
+           },
+           {
+             "name": "Dill",
+             "description": "Dill makes a suitable companion for mint as it can attract beneficial insects like parasitic wasps, which prey on pest larvae like caterpillars and aphids. Additionally, dill's tall, feathery foliage provides shade and shelter for mint plants, helping to reduce stress and conserve soil moisture. Dill's strong aroma can also help mask the scent of mint, deterring pests that may otherwise be attracted to mint plants."
+           },
+           {
+             "name": "Lemon Balm",
+             "description": "Lemon balm is a compatible companion for mint as both plants belong to the same plant family (Lamiaceae) and share similar growth habits. Lemon balm's lemon-scented foliage complements the mint's aroma, creating a refreshing and aromatic garden bed. Additionally, lemon balm's shallow root system can help prevent soil erosion and improve soil structure, benefiting nearby mint plants."
+           },
+           {
+             "name": "Oregano",
+             "description": "Oregano is a beneficial companion for mint as both plants belong to the same plant family (Lamiaceae) and share similar cultural requirements. Oregano's strong aroma can help repel pests like aphids, spider mites, and whiteflies, reducing the risk of infestations on mint plants. Additionally, oregano's attractive flowers can attract beneficial insects like bees and butterflies, promoting pollination."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Parsley",
+             "description": "Parsley is not recommended as a companion for mint as it may compete for resources like sunlight, water, and nutrients in the garden bed. Additionally, parsley may attract pests like carrot flies and aphids, which can also affect the health and growth of mint plants."
+           },
+           {
+             "name": "Sage",
+             "description": "Sage should be avoided as a companion for mint as it may compete for space and resources in the garden bed. Additionally, sage's strong aroma may overpower the delicate fragrance of mint, diminishing its overall appeal. Furthermore, sage may attract pests like spider mites and cabbage moths."
+           },
+           {
+             "name": "Fennel",
+             "description": "Fennel is not recommended as a companion for mint as it exudes allelopathic compounds that may inhibit the growth of neighboring plants, including mint. Additionally, fennel's invasive root system can outcompete mint for nutrients and water, leading to stunted growth and reduced vigor."
+           },
+           {
+             "name": "Cilantro",
+             "description": "Cilantro should be avoided as a companion for mint as it may compete for resources like water, sunlight, and nutrients in the garden bed. Additionally, cilantro's tall, upright growth habit may shade out mint plants, reducing their access to sunlight and hindering their growth. Furthermore, cilantro may attract pests like aphids and spider mites, which can also affect the health of mint plants."
+           },
+           {
+             "name": "Rosemary",
+             "description": "Rosemary is not recommended as a companion for mint as it may compete for space and resources in the garden bed. Additionally, rosemary's strong aroma may overpower the delicate fragrance of mint, diminishing its overall appeal. Furthermore, rosemary may attract pests like spider mites and whiteflies, which can also affect the health and growth of mint plants."
+           }
+         ]
+       },
+     "pests": [
+       "Aphids",
+       "Spider Mite",
+       "Whiteflies",
+       "Thrips",
+       "Leafhopper"
+     ],
+     "beneficial_insects": [
+       "Ladybugs",
+       "Lacewings",
+       "Hoverflies",
+       "Parasitic Wasps"
+     ],
+     "diseases": [
+       "Powdery Mildew",
+       "Downy Mildew",
+       "Root Rot",
+       "Botrytis Blight",
+       "Gray Mold Rot"
+     ],
+     "tipsAndTricks": [
+       "Select a planting site with well-drained soil and partial to full sun exposure.",
+       "Consider planting mint in containers or raised beds to prevent its aggressive spreading.",
+       "Water mint regularly to keep the soil consistently moist, but avoid overwatering to prevent root rot.",
+       "Mulch around mint plants to retain soil moisture and suppress weeds.",
+       "Regularly pinch back mint stems to promote bushy growth and prevent legginess.",
+       "Harvest mint leaves as needed for culinary or medicinal use by snipping them from the plant.",
+       "Monitor plants regularly for signs of pests such as aphids and spider mites. Use insecticidal soap or neem oil as needed.",
+       "Watch for symptoms of diseases like powdery mildew and root rot. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+       "Mint is a vigorous grower and may become invasive in the garden. Consider planting it in containers or using root barriers to control its spread.",
+       "Use fresh or dried mint leaves to add flavor to teas, salads, desserts, and other dishes."
+     ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Mint: Planting Guide",

@@ -33,55 +33,102 @@
         "storageRecommendations": "Harvest pole beans when they are young and tender, usually 4-6 inches long. Use a sharp knife or scissors to cut the pods from the plant. Store harvested pole beans in the refrigerator for up to a week.",
         "harvestDescription": "Harvest pole beans regularly to encourage continued production. Pick the pods when they are firm and bright green, before the seeds inside have fully developed."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [],
+        "Transplant": [],
+        "Outdoors": [0, 2],
+        "LastSowDate": null
+      },
+      "FallSowing": {
+        "Outdoors": [-12, -10],
+        "Transplant": [],
+        "DaysToMaturity": 60,
+        "FrostTolerance": "Tender"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Carrots",
-                "description": "Carrots are beneficial companion plants for pole beans, as they help loosen the soil and provide support for the bean vines to climb."
+              "name": "Corn",
+              "description": "Corn is an excellent companion for pole beans. This combination, known as the Three Sisters planting method, has been practiced by indigenous peoples for centuries. Corn provides a sturdy support structure for pole beans to climb, while pole beans fix nitrogen in the soil, benefiting the corn plants. Additionally, pole beans can use the corn stalks as a trellis, maximizing vertical space in the garden."
             },
             {
-                "name": "Lettuce",
-                "description": "Lettuce can be interplanted with pole beans to provide shade and moisture retention for the soil, as well as to maximize space in the garden."
+              "name": "Lettuce",
+              "description": "Lettuce is a good companion for pole beans. Interplanting lettuce with pole beans can help maximize garden space and reduce weed competition. Lettuce has shallow roots that complement the deeper root systems of pole beans, allowing them to grow together without competing for nutrients. Additionally, lettuce provides some shade to pole bean plants during hot weather, preventing excessive heat stress and promoting healthier growth."
             },
             {
-                "name": "Radishes",
-                "description": "Radishes are good companion plants for pole beans, as they deter pests like cucumber beetles and aphids with their strong scent."
-            }
-        ],
-        "badCompanionPlants": [
+              "name": "Radishes",
+              "description": "Radishes are beneficial companions for pole beans. Planting radishes near pole beans can help deter pests like aphids and flea beetles, which may affect pole bean crops. Radishes have a faster growth rate and can be harvested earlier, which helps break up soil crusts and improve soil aeration, creating better growing conditions for pole beans. Additionally, radishes act as a trap crop, attracting pests away from pole beans and providing natural pest control."
+            },
             {
-                "name": "Onions",
-                "description": "Onions are not recommended as companion plants for pole beans, as they can inhibit the growth of beans and other legumes."
+              "name": "Potatoes",
+              "description": "Potatoes are good companions for pole beans. When interplanted with pole beans, potatoes can help suppress weeds and provide shade to the soil, creating a more favorable environment for pole bean growth. Additionally, pole beans fix nitrogen in the soil, which benefits potato plants. This combination can maximize space utilization in the garden and promote healthier crops."
+            },
+            {
+              "name": "Cucumbers",
+              "description": "Cucumbers are beneficial companions for pole beans. Planting cucumbers near pole beans can help improve soil moisture retention and create a microclimate that benefits both crops. Pole beans can climb the trellised cucumber vines, maximizing vertical space in the garden. Additionally, cucumber plants can help suppress weeds and provide some shade to the soil, promoting healthier growth for pole beans."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Bean Beetles",
-            "description": "Bean beetles are common pests of pole beans, feeding on foliage and causing damage to plants. Control bean beetle populations by handpicking them from plants, applying insecticidal soap or neem oil, and using floating row covers to exclude them."
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Garlic",
+              "description": "Garlic may not be the best companion for pole beans. While garlic can deter some pests, planting it near pole beans may interfere with pole bean growth. Garlic has strong allelopathic properties that can inhibit the growth of other plants, including pole beans. This competition for resources may negatively impact pole bean yields."
+            },
+            {
+              "name": "Onions",
+              "description": "Onions may not be ideal companions for pole beans. While onions can deter some pests, planting them near pole beans may result in competition for resources. Onions have shallow root systems that can compete with pole beans for nutrients and water, potentially reducing pole bean yields. Additionally, onions may attract pests that could also affect pole bean crops."
+            },
+            {
+              "name": "Chives",
+              "description": "Chives may not be suitable companions for pole beans. While chives can deter some pests, planting them near pole beans may result in competition for resources. Chives have shallow root systems that can compete with pole beans for nutrients and water, potentially reducing pole bean yields. Additionally, chives may attract pests that could also affect pole bean crops."
+            },
+            {
+              "name": "Turnips",
+              "description": "Turnips may not be the best companions for pole beans. While turnips can help suppress weeds and provide shade to the soil, planting them near pole beans may result in competition for resources. Turnips have deep root systems that can compete with pole beans for nutrients and water, potentially reducing pole bean yields. Additionally, turnips may attract pests that could also affect pole bean crops."
+            },
+            {
+              "name": "Beets",
+              "description": "Beets may not be ideal companions for pole beans. While beets can help suppress weeds and provide shade to the soil, planting them near pole beans may result in competition for resources. Beets have deep root systems that can compete with pole beans for nutrients and water, potentially reducing pole bean yields. Additionally, beets may attract pests that could also affect pole bean crops."
+            }
+          ]
         },
-        {
-            "name": "Aphids",
-            "description": "Aphids can infest pole bean plants, feeding on sap and causing distorted growth and yellowing of leaves. Control aphids by spraying affected plants with water to dislodge them, introducing natural predators like ladybugs or lacewings, and using insecticidal soap or neem oil."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that affects pole bean plants, causing a white, powdery growth on leaves and stems. It thrives in humid conditions and can lead to reduced plant vigor and yield. Control powdery mildew by improving air circulation around plants, watering at the base of plants to avoid wetting foliage, and applying fungicidal sprays as needed."
-        },
-        {
-            "name": "Anthracnose",
-            "description": "Anthracnose is a fungal disease that affects pole bean plants, causing dark, sunken lesions on leaves, stems, and pods. It can lead to premature defoliation and reduced yields. Control anthracnose by removing and destroying infected plant material, improving air circulation around plants, and applying fungicidal sprays preventatively."
-        }
-    ],
-    "tipsAndTricks": [
-        "Provide sturdy support structures such as poles, trellises, or A-frames for pole beans to climb.",
-        "Harvest pole beans regularly to encourage continued production throughout the growing season.",
-        "Rotate pole bean crops annually to prevent soilborne diseases and nutrient depletion.",
-        "Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed."
-    ],
+      "pests": [
+        "Aphids",
+        "Leafhopper",
+        "Whiteflies",
+        "Thrips",
+        "Cutworm",
+        "Armyworm",
+        "Flea Beetle",
+        "Leaf Beetle",
+        "Mite",
+        "Looper",
+        "Asian Lady Beetle",
+        "Blister Beetle"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
+      ],
+      "diseases": [
+        "Powdery Mildew",
+        "Downy Mildew",
+        "Rust",
+        "Fusarium Wilt",
+        "Root Rot",
+        "Curly Top"
+      ],
+      "tipsAndTricks": [
+        "Plant pole beans in well-drained soil with full sun exposure.",
+        "Provide sturdy support structures for pole bean vines to climb.",
+        "Water pole beans regularly, keeping the soil consistently moist but not waterlogged.",
+        "Mulch around pole bean plants to retain moisture and suppress weeds.",
+        "Harvest pole beans regularly when they are young and tender to encourage continuous production.",
+        "Rotate crops to prevent the buildup of pests and diseases in the soil.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Beans: Planting Guide",

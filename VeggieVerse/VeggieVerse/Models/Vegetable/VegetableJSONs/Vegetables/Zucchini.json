@@ -5,68 +5,125 @@
     "thumbnailImageUrl": "Zucchini_thumbnail",
     "backgroundImageUrl": "Zucchini_background",
     "varieties": "Zucchini, also known as courgette, comes in various varieties, each with its unique flavor, texture, and size. Common zucchini varieties include 'Black Beauty', known for its dark green skin and prolific fruit production; 'Golden', which offers bright yellow skin and a mild flavor; and 'Cocozelle', prized for its striped appearance and tender flesh. These varieties provide options suited for different culinary preferences and growing conditions.",
-     "sowingAndPlanting": {
-       "sowingIndoorsDescription": "Zucchini seeds are best sown directly outdoors, as they do not transplant well. However, if you want to start seeds indoors to get a head start on the growing season, you can plant them in biodegradable pots or trays filled with seed-starting mix. Sow seeds 1 inch deep and keep the soil consistently moist and warm (70-85°F). Transplant seedlings outdoors once all danger of frost has passed and the soil has warmed up.",
-       "sowingOutdoorsDescription": "Zucchini seeds should be sown directly outdoors after all danger of frost has passed and the soil has warmed up. Choose a sunny location with well-drained soil. Sow seeds 1 inch deep and space them 2-3 feet apart in rows spaced 3-4 feet apart. Keep the soil consistently moist until seedlings emerge.",
-       "spaceBetweenPlants": "2\'-3\'",
-       "spaceBetweenRows": "3\'-4\'",
-       "squareFootPlantingRecommendationsMin": 1,
-       "squareFootPlantingRecommendationsMax": 4,
-       "lifeCycle": "Annual",
-       "seedDepth": "1\"",
-       "pHRange": "6.0 - 7.5",
-       "germinationSoilTemp": "70-85°F",
-       "season": "Zucchini should be planted after the last frost date in your area when the soil has warmed up. They prefer warm temperatures and require a long growing season, so planting them early ensures a good harvest."
+    "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Zucchini seeds are best sown directly outdoors, as they do not transplant well. However, if you want to start seeds indoors to get a head start on the growing season, you can plant them in biodegradable pots or trays filled with seed-starting mix. Sow seeds 1 inch deep and keep the soil consistently moist and warm (70-85°F). Transplant seedlings outdoors once all danger of frost has passed and the soil has warmed up.",
+        "sowingOutdoorsDescription": "Zucchini seeds should be sown directly outdoors after all danger of frost has passed and the soil has warmed up. Choose a sunny location with well-drained soil. Sow seeds 1 inch deep and space them 2-3 feet apart in rows spaced 3-4 feet apart. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "2'-3'",
+        "spaceBetweenRows": "3'-4'",
+        "squareFootPlantingRecommendationsMin": 1,
+        "squareFootPlantingRecommendationsMax": 4,
+        "lifeCycle": "Annual",
+        "seedDepth": "1\"",
+        "pHRange": "6.0 - 7.5",
+        "germinationSoilTemp": "70-85°F",
+        "season": "Zucchini should be planted after the last frost date in your area when the soil has warmed up. They prefer warm temperatures and require a long growing season, so planting them early ensures a good harvest."
+    },
+    "careAndMaintenance": {
+        "optimalSun": "Full Sun",
+        "growingSoilTemp": "70-85°F",
+        "growingDescription": "Zucchini thrives in full sun and well-drained soil with a pH of 6.0-7.5. They require regular watering to keep the soil consistently moist, especially during dry periods. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
+        "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress zucchini with a balanced fertilizer once they start flowering.",
+        "pruningRequirements": "Zucchini plants do not require pruning.",
+        "supportRequirements": "Zucchini plants do not require support."
+    },
+    "harvestingAndStorage": {
+        "daysToHarvest": "45-55 days from planting",
+        "timeToMaturity": "Zucchini typically matures and is ready for harvest 45-55 days after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest zucchini when the fruits are young and tender, usually 6-8 inches long for most varieties. Use a sharp knife or scissors to cut the fruits from the plant, leaving a short stem attached. Store harvested zucchini in the refrigerator for up to one week.",
+        "harvestDescription": "Harvest zucchini when the fruits are still small and tender, usually when they are 6-8 inches long. Cut them from the plant using a sharp knife or scissors, taking care not to damage the stems or leaves. Rinse the zucchini thoroughly before storing or using them."
+    },
+    "SpringSowing": {
+       "Indoors": [-3, -2],
+       "Transplant": [1, 3],
+       "Outdoors": [2, 3],
+       "LastSowDate": -9
      },
-     "careAndMaintenance": {
-       "optimalSun": "Full Sun",
-       "growingSoilTemp": "70-85°F",
-       "growingDescription": "Zucchini thrives in full sun and well-drained soil with a pH of 6.0-7.5. They require regular watering to keep the soil consistently moist, especially during dry periods. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
-       "wateringNeeds": "Regular watering, aiming for 1-2 inches per week.",
-       "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress zucchini with a balanced fertilizer once they start flowering.",
-       "pruningRequirements": "Zucchini plants do not require pruning.",
-       "supportRequirements": "Zucchini plants do not require support."
-     },
-     "harvestingAndStorage": {
-       "daysToHarvest": "45-55 days from planting",
-       "timeToMaturity": "Zucchini typically matures and is ready for harvest 45-55 days after planting, depending on the variety and growing conditions.",
-       "storageRecommendations": "Harvest zucchini when the fruits are young and tender, usually 6-8 inches long for most varieties. Use a sharp knife or scissors to cut the fruits from the plant, leaving a short stem attached. Store harvested zucchini in the refrigerator for up to one week.",
-       "harvestDescription": "Harvest zucchini when the fruits are still small and tender, usually when they are 6-8 inches long. Cut them from the plant using a sharp knife or scissors, taking care not to damage the stems or leaves. Rinse the zucchini thoroughly before storing or using them."
+     "FallSowing": {
+       "Outdoors": [],
+       "Transplant": [],
+       "DaysToMaturity": 50,
+       "FrostTolerance": "Tender"
      },
     "companionPlants": {
         "goodCompanionPlants": [
             {
-                "name": "Basil",
-                "description": "Basil can be planted near zucchini to help repel pests like aphids and mosquitoes."
+                "name": "Nasturtium",
+                "description": "Nasturtiums are excellent companions for zucchini. They help repel pests like aphids, cucumber beetles, and squash bugs with their pungent scent. Additionally, nasturtiums attract beneficial insects like predatory beetles and parasitic wasps, which prey on pests that may affect zucchini plants."
             },
             {
-                "name": "Nasturtiums",
-                "description": "Nasturtiums can be interplanted with zucchini to help attract beneficial insects and repel pests."
+                "name": "Beans",
+                "description": "Beans are beneficial companions for zucchini. They help fix nitrogen in the soil, which can improve the overall health and growth of zucchini plants. Additionally, the dense foliage of beans provides some shade for zucchini, helping to protect them from excessive heat and sunburn."
+            },
+            {
+                "name": "Radishes",
+                "description": "Radishes make good companions for zucchini. Planting radishes near zucchini can help deter pests like cucumber beetles and squash bugs, as radishes emit compounds that repel these insects. Additionally, radishes have shallow root systems that complement the shallow roots of zucchini plants."
+            },
+            {
+                "name": "Marigolds",
+                "description": "Marigolds are beneficial companions for zucchini. They emit a strong scent that can help deter pests like aphids, nematodes, and squash bugs. Planting marigolds around zucchini can help create a barrier against these pests, reducing the likelihood of infestations."
+            },
+            {
+                "name": "Corn",
+                "description": "Corn can be interplanted with zucchini. The tall stalks of corn provide some shade for zucchini plants, helping to protect them from excessive heat and sunburn. Additionally, zucchini plants can benefit from the nitrogen-fixing capabilities of corn, which can improve soil fertility."
             }
         ],
         "badCompanionPlants": [
             {
                 "name": "Potatoes",
-                "description": "Potatoes are not recommended to be planted near zucchini as they may compete for space and nutrients."
+                "description": "Potatoes are not recommended as companions for zucchini. Potatoes have shallow root systems that may compete with zucchini for nutrients and space. Additionally, both plants are susceptible to similar pests and diseases, which may increase the risk of infestations and reduce yields for both crops."
+            },
+            {
+                "name": "Pumpkins",
+                "description": "Pumpkins may not be ideal companions for zucchini. Both plants belong to the same genus, Cucurbita, and may attract similar pests and diseases. Planting them together may increase the risk of infestations and reduce yields for both crops."
+            },
+            {
+                "name": "Sunflower",
+                "description": "Sunflowers may not be ideal companions for zucchini. Sunflowers have deep taproots that may compete with zucchini for nutrients and water, especially in soils with limited resources. Additionally, the tall growth habit of sunflowers may overshadow zucchini, reducing their sunlight exposure."
+            },
+            {
+                "name": "Fennel",
+                "description": "Fennel may not be an ideal companion for zucchini. Fennel produces chemicals that inhibit the growth of nearby plants, which can negatively affect the growth and yield of zucchini."
             }
         ]
     },
     "pests": [
-        {
-            "name": "Squash Bugs",
-            "description": "Squash bugs are common pests of zucchini plants, feeding on the sap and causing wilting, yellowing, and stunting. Handpick adult bugs and their egg masses and destroy them. Use row covers to exclude adult bugs from plants, and apply insecticidal sprays or dusts as needed."
-        }
+        "Aphids",
+        "Squash Bug",
+        "Cucumber Beetle",
+        "Cutworm",
+        "Squash Vine Borer",
+        "Slug",
+        "Snail",
+        "Pickleworm",
+        "Asian Lady Beetle",
+        "Melonworm"
+    ],
+    "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
     ],
     "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that affects zucchini plants, causing a white, powdery growth on leaves, stems, and fruits. It thrives in warm, humid conditions and can lead to reduced plant vigor and yield. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        }
+        "Powdery Mildew",
+        "Downy Mildew",
+        "Blossom End Rot",
+        "Yellow Mosaic Virus",
+        "Bacterial Wilt",
+        "Curly Top",
+        "Ring Spot"
     ],
     "tipsAndTricks": [
-        "Harvest zucchini when they are young and tender for the best flavor and texture.",
-        "Keep the soil consistently moist to promote healthy growth and fruit production.",
-        "Inspect plants regularly for signs of pests and diseases, and take appropriate action as needed."
+        "Choose a planting site with well-drained soil and full sun exposure.",
+        "Prepare the soil by adding compost or aged manure to improve fertility and texture.",
+        "Plant zucchini seeds or transplants in hills or mounds spaced 3-4 feet apart, with 2-3 plants per hill.",
+        "Water zucchini regularly, providing about 1-2 inches of water per week, and mulch to conserve moisture and suppress weeds.",
+        "Fertilize zucchini with a balanced fertilizer or compost tea every 3-4 weeks, following package instructions.",
+        "Monitor plants regularly for signs of pests such as aphids and squash bugs. Use row covers or insecticidal soap as needed.",
+        "Watch for symptoms of diseases like powdery mildew and blossom end rot. Provide good air circulation and avoid overhead watering to reduce disease problems.",
+        "Harvest zucchini when they are young and tender, typically 4-8 inches long. Cut them from the vine using a sharp knife or pruning shears."
     ],
     "linksToAdditionalResources": [
         {

@@ -5,97 +5,127 @@
     "thumbnailImageUrl": "Beets_thumbnail",
     "backgroundImageUrl": "Beets_background",
     "varieties": "Beets come in various shapes, sizes, and colors, with each variety offering unique flavors and culinary uses. Some popular beet varieties include 'Detroit Dark Red', known for its deep red color and sweet, earthy flavor; 'Chioggia', valued for its candy-striped flesh and mild taste; 'Golden', prized for its bright yellow color and sweet flavor; and 'Cylindra', recognized for its cylindrical shape and tender texture. These varieties, among others, offer a range of options suited for different culinary preferences and growing conditions.",
-     "sowingAndPlanting": {
-       "sowingIndoorsDescription": "Beets are best sown directly into the garden, but if starting indoors, use biodegradable pots to avoid disturbing the roots during transplanting. Plant seeds 1/2 inch deep in moist, well-draining soil. Keep the soil consistently moist and provide bright, indirect light. Transplant seedlings outdoors once they have developed a few true leaves.",
-       "sowingOutdoorsDescription": "Beets should be directly sown into the garden in early spring for a spring harvest or in late summer for a fall harvest. Prepare a seedbed with loose, fertile soil and sow seeds 1/2 inch deep, spacing them according to the desired size of the mature beets. Keep the soil consistently moist until seedlings emerge.",
-       "spaceBetweenPlants": "2\"-4\"",
-       "spaceBetweenRows": "12\"-18\"",
-       "squareFootPlantingRecommendationsMin": 9,
-       "squareFootPlantingRecommendationsMax": 16,
-       "lifeCycle": "Annual",
-       "seedDepth": "1/2\"",
-       "pHRange": "6.0 - 7.0",
-       "germinationSoilTemp": "50-85°F",
-       "season": "Beets can be planted as soon as the soil can be worked in early spring or in late summer for a fall harvest. They prefer cooler temperatures and are hardy to frost."
-     },
-     "careAndMaintenance": {
-       "optimalSun": "Full Sun to Partial Shade",
-       "growingSoilTemp": "50-75°F",
-       "growingDescription": "Beets prefer full sun but can tolerate partial shade, especially in warmer climates. They grow best in loose, well-draining soil rich in organic matter. Keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
-       "wateringNeeds": "Regular watering, aiming for 1 inch per week.",
-       "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress with a balanced fertilizer once the plants are established.",
-       "pruningRequirements": "Thin beet seedlings to the appropriate spacing once they have developed true leaves to avoid overcrowding and promote healthy growth. Remove weeds regularly to prevent competition for nutrients and water.",
-       "supportRequirements": "Beets generally do not require support."
-     },
-     "harvestingAndStorage": {
-       "daysToHarvest": "50-70 days from planting",
-       "timeToMaturity": "Beets can be harvested as soon as 50-70 days after planting, depending on the variety and growing conditions.",
-       "storageRecommendations": "Harvest beets when they reach the desired size, typically 1-3 inches in diameter for baby beets or 2-4 inches for mature beets. Use a garden fork to gently lift the beets from the soil, taking care not to damage the roots. Trim off the tops, leaving about an inch of stem, and store beets in the refrigerator for up to a few weeks.",
-       "harvestDescription": "Harvest beets by gently lifting them from the soil using a garden fork when they reach the desired size. Twist off the tops, leaving about an inch of stem attached, to prevent bleeding during cooking."
-     },
-     "companionPlants": {
-         "goodCompanionPlants": [
-           {
-             "name": "Lettuce",
-             "description": "Lettuce can provide shade and help conserve moisture for beet roots while also acting as a living mulch to suppress weeds. Additionally, planting lettuce near beets can attract beneficial insects like ladybugs and lacewings."
-           },
-           {
-             "name": "Spinach",
-             "description": "Spinach and beets have similar growing requirements and can be interplanted to maximize space in the garden. Their shallow root systems also make them compatible companions."
-           },
-           {
-             "name": "Onions",
-             "description": "Onions can help deter pests like aphids and beet leafhoppers when planted near beets. Their strong scent can mask the smell of the beets, making them less attractive to pests."
-           },
-           {
-             "name": "Garlic",
-             "description": "Garlic can help repel pests like aphids and beet leafhoppers when planted near beets. Its strong aroma can mask the smell of the beets, making them less attractive to pests."
-           },
-           {
-             "name": "Cabbage",
-             "description": "Cabbage can help deter pests like cabbage worms and flea beetles when planted near beets. Additionally, cabbage and beets have compatible growth habits and can be interplanted to maximize space in the garden."
-           }
-         ],
-         "badCompanionPlants": [
-           {
-             "name": "Pole Beans",
-             "description": "Pole beans and other legumes can fix nitrogen in the soil, which may result in excessive leafy growth at the expense of beet root development. Avoid planting pole beans near beets."
-           },
-           {
-             "name": "Mustard Greens",
-             "description": "Mustard greens and other brassicas can release compounds that inhibit the growth of beets. Avoid planting mustard greens near beets to prevent competition and reduced yields."
-           },
-           {
-             "name": "Fennel",
-             "description": "Fennel can inhibit the growth of nearby plants, including beets, due to the release of chemicals from its roots. Avoid planting fennel near beets to prevent competition and reduced yields."
-           },
-           {
-             "name": "Kohlrabi",
-             "description": "Kohlrabi and other brassicas can compete with beets for nutrients, water, and space in the garden. Additionally, they may attract pests and diseases that can affect beets."
-           },
-           {
-             "name": "Tomatoes",
-             "description": "Tomatoes and beets are susceptible to similar pests and diseases. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
-           }
-         ]
-       },
+    "sowingAndPlanting": {
+        "sowingIndoorsDescription": "Beets are best sown directly into the garden, but if starting indoors, use biodegradable pots to avoid disturbing the roots during transplanting. Plant seeds 1/2 inch deep in moist, well-draining soil. Keep the soil consistently moist and provide bright, indirect light. Transplant seedlings outdoors once they have developed a few true leaves.",
+        "sowingOutdoorsDescription": "Beets should be directly sown into the garden in early spring for a spring harvest or in late summer for a fall harvest. Prepare a seedbed with loose, fertile soil and sow seeds 1/2 inch deep, spacing them according to the desired size of the mature beets. Keep the soil consistently moist until seedlings emerge.",
+        "spaceBetweenPlants": "2\"-4\"",
+        "spaceBetweenRows": "12\"-18\"",
+        "squareFootPlantingRecommendationsMin": 9,
+        "squareFootPlantingRecommendationsMax": 16,
+        "lifeCycle": "Annual",
+        "seedDepth": "1/2\"",
+        "pHRange": "6.0 - 7.0",
+        "germinationSoilTemp": "50-85°F",
+        "season": "Beets can be planted as soon as the soil can be worked in early spring or in late summer for a fall harvest. They prefer cooler temperatures and are hardy to frost."
+    },
+    "careAndMaintenance": {
+        "optimalSun": "Full Sun to Partial Shade",
+        "growingSoilTemp": "50-75°F",
+        "growingDescription": "Beets prefer full sun but can tolerate partial shade, especially in warmer climates. They grow best in loose, well-draining soil rich in organic matter. Keep the soil consistently moist but not waterlogged. Mulch around plants to conserve moisture, suppress weeds, and maintain even soil temperature.",
+        "wateringNeeds": "Regular watering, aiming for 1 inch per week.",
+        "soilFertility": "Incorporate compost or well-aged manure into the soil before planting to improve fertility and soil structure. Side-dress with a balanced fertilizer once the plants are established.",
+        "pruningRequirements": "Thin beet seedlings to the appropriate spacing once they have developed true leaves to avoid overcrowding and promote healthy growth. Remove weeds regularly to prevent competition for nutrients and water.",
+        "supportRequirements": "Beets generally do not require support."
+    },
+    "harvestingAndStorage": {
+        "daysToHarvest": "50-70 days from planting",
+        "timeToMaturity": "Beets can be harvested as soon as 50-70 days after planting, depending on the variety and growing conditions.",
+        "storageRecommendations": "Harvest beets when they reach the desired size, typically 1-3 inches in diameter for baby beets or 2-4 inches for mature beets. Use a garden fork to gently lift the beets from the soil, taking care not to damage the roots. Trim off the tops, leaving about an inch of stem, and store beets in the refrigerator for up to a few weeks.",
+        "harvestDescription": "Harvest beets by gently lifting them from the soil using a garden fork when they reach the desired size. Twist off the tops, leaving about an inch of stem attached, to prevent bleeding during cooking."
+    },
+    "SpringSowing": {
+      "Indoors": [],
+      "Transplant": [-2, 0],
+      "Outdoors": [-4, -3],
+      "LastSowDate": -22
+    },
+    "FallSowing": {
+      "Outdoors": [-10, -6],
+      "Transplant": [],
+      "DaysToMaturity": 50,
+      "FrostTolerance": "Tolerant"
+    },
+    "companionPlants": {
+        "goodCompanionPlants": [
+            {
+                "name": "Lettuce",
+                "description": "Lettuce can provide shade and help conserve moisture for beet roots while also acting as a living mulch to suppress weeds. Additionally, planting lettuce near beets can attract beneficial insects like ladybugs and lacewings."
+            },
+            {
+                "name": "Spinach",
+                "description": "Spinach and beets have similar growing requirements and can be interplanted to maximize space in the garden. Their shallow root systems also make them compatible companions."
+            },
+            {
+                "name": "Onions",
+                "description": "Onions can help deter pests like aphids and beet leafhoppers when planted near beets. Their strong scent can mask the smell of the beets, making them less attractive to pests."
+            },
+            {
+                "name": "Garlic",
+                "description": "Garlic can help repel pests like aphids and beet leafhoppers when planted near beets. Its strong aroma can mask the smell of the beets, making them less attractive to pests."
+            },
+            {
+                "name": "Cabbage",
+                "description": "Cabbage can help deter pests like cabbage worms and flea beetles when planted near beets. Additionally, cabbage and beets have compatible growth habits and can be interplanted to maximize space in the garden."
+            }
+        ],
+        "badCompanionPlants": [
+            {
+                "name": "Pole Beans",
+                "description": "Pole beans and other legumes can fix nitrogen in the soil, which may result in excessive leafy growth at the expense of beet root development. Avoid planting pole beans near beets."
+            },
+            {
+                "name": "Mustard Greens",
+                "description": "Mustard greens and other brassicas can release compounds that inhibit the growth of beets. Avoid planting mustard greens near beets to prevent competition and reduced yields."
+            },
+            {
+                "name": "Fennel",
+                "description": "Fennel can inhibit the growth of nearby plants, including beets, due to the release of chemicals from its roots. Avoid planting fennel near beets to prevent competition and reduced yields."
+            },
+            {
+                "name": "Kohlrabi",
+                "description": "Kohlrabi and other brassicas can compete with beets for nutrients, water, and space in the garden. Additionally, they may attract pests and diseases that can affect beets."
+            },
+            {
+                "name": "Tomatoes",
+                "description": "Tomatoes and beets are susceptible to similar pests and diseases. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
+            }
+        ]
+    },
     "pests": [
-        {
-            "name": "Flea Beetles",
-            "description": "Flea beetles are small, jumping insects that feed on beet foliage, causing small holes and damage to leaves. Control flea beetles by covering plants with floating row covers, applying organic insecticides like neem oil or diatomaceous earth, and practicing good garden hygiene."
-        }
+      "Leafhopper",
+      "Armyworm",
+      "Flea Beetle",
+      "Root Maggot",
+      "Webworm",
+      "Wireworm",
+      "Cutworm",
+      "Leafminer",
+      "Weevil",
+      "Midge"
+    ],
+    "beneficial_insects": [
+      "Ladybugs",
+      "Lacewings",
+      "Hoverflies",
+      "Parasitic Wasps",
+      "Predatory Mites"
     ],
     "diseases": [
-        {
-            "name": "Cercospora Leaf Spot",
-            "description": "Cercospora leaf spot is a fungal disease that affects beet plants, causing circular, dark lesions on the leaves. It thrives in warm, humid conditions and can spread rapidly in crowded plantings. Prevent cercospora leaf spot by spacing plants properly, watering at the base of plants to avoid wetting foliage, and applying fungicides as needed."
-        }
+      "Powdery Mildew",
+      "Downy Mildew",
+      "Cercospora Leaf Spot",
+      "Rhizoctonia Root Rot",
+      "Fusarium Wilt",
+      "Curly Top"
     ],
     "tipsAndTricks": [
-        "Harvest beets when they reach the desired size for the best flavor and texture.",
-        "Thin seedlings to the appropriate spacing once they have several true leaves to prevent overcrowding and promote healthy root development.",
-        "Mulch around plants to retain moisture, suppress weeds, and regulate soil temperature.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed."
+      "Plant beets in well-drained soil with full sun exposure.",
+      "Thin out beet seedlings to avoid overcrowding and promote healthy growth.",
+      "Apply a balanced fertilizer or compost to provide necessary nutrients for growth.",
+      "Mulch around the base of plants to retain moisture and suppress weeds.",
+      "Water beet plants regularly, especially during dry periods.",
+      "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+      "Harvest beets when they reach a desirable size, typically around 1-3 inches in diameter."
     ],
     "linksToAdditionalResources": [
         {

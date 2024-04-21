@@ -5,7 +5,7 @@
     "thumbnailImageUrl": "Marjoram_thumbnail",
     "backgroundImageUrl": "Marjoram_background",
     "varieties": "Marjoram, scientifically known as Origanum majorana, is a tender perennial herb in the mint family Lamiaceae. There are several cultivars of marjoram available, each with its own unique characteristics. Common varieties include Sweet Marjoram (Origanum majorana), Pot Marjoram (Origanum onites), and Knotted Marjoram (Origanum majorana 'Compactum'). These varieties may vary slightly in flavor, fragrance, and growth habit.",
-      "sowingAndPlanting": {
+    "sowingAndPlanting": {
         "sowingIndoorsDescription": "Marjoram seeds can be started indoors in pots or trays filled with well-draining potting mix. Sow seeds on the soil surface and lightly press them into the soil. Keep the soil consistently moist and provide bright, indirect light or supplemental grow lights. Transplant seedlings outdoors after the last frost date in your area.",
         "sowingOutdoorsDescription": "Marjoram seeds can also be directly sown outdoors in the garden after the last frost date. Choose a location with full sun and well-drained soil. Scatter seeds over the soil surface and lightly rake them in. Keep the soil consistently moist until seedlings emerge.",
         "spaceBetweenPlants": "12\"-18\"",
@@ -17,8 +17,8 @@
         "pHRange": "6.0 - 7.0",
         "germinationSoilTemp": "70-80°F",
         "season": "Marjoram should be planted outdoors after the last frost date in your area. It prefers warm temperatures and well-drained soil."
-      },
-      "careAndMaintenance": {
+    },
+    "careAndMaintenance": {
         "optimalSun": "Full Sun to Partial Shade",
         "growingSoilTemp": "70-80°F",
         "growingDescription": "Marjoram prefers full sun to partial shade and well-drained, moderately fertile soil. Keep the soil consistently moist, especially during dry periods. Mulch around plants to retain moisture and suppress weeds. Marjoram is a low-maintenance herb and does not require frequent fertilization.",
@@ -26,43 +26,101 @@
         "soilFertility": "Marjoram is not a heavy feeder and does not require fertilization. However, incorporating compost or well-aged manure into the soil before planting can provide some nutrients.",
         "pruningRequirements": "Marjoram benefits from regular pruning to encourage bushy growth and prevent legginess. Pinch back the growing tips regularly to promote branching and harvest leaves as needed for culinary use.",
         "supportRequirements": "Marjoram generally does not require support."
-      },
-      "harvestingAndStorage": {
+    },
+    "harvestingAndStorage": {
         "daysToHarvest": "60-90 days from planting",
         "timeToMaturity": "Marjoram typically matures and is ready for harvest 60-90 days after planting, depending on growing conditions.",
         "storageRecommendations": "Harvest marjoram leaves as needed for culinary or medicinal use. Use fresh leaves immediately for cooking, or dry them for later use. To dry marjoram, hang the stems upside down in small bunches in a well-ventilated area out of direct sunlight. Once fully dried, store the leaves in an airtight container in a cool, dark place.",
         "harvestDescription": "Harvest marjoram leaves by snipping the stems just above a leaf node. Avoid harvesting more than one-third of the plant's leaves at a time to allow for continued growth and health of the plant."
-      },
+    },
+    "SpringSowing": {
+      "Indoors": [-8, -6],
+      "Transplant": [-6, -4],
+      "Outdoors": [-4, -2],
+      "LastSowDate": null
+    },
+    "FallSowing": {
+      "Outdoors": [8, 10],
+      "Transplant": [],
+      "DaysToMaturity": 90,
+      "FrostTolerance": "Tolerant"
+    },
     "companionPlants": {
         "goodCompanionPlants": [
             {
+                "name": "Lemongrass",
+                "description": "Lemongrass is an excellent companion for marjoram as it shares similar growth requirements and can help repel pests like mosquitoes and aphids. Lemongrass's aromatic foliage complements the fragrance of marjoram, creating a pleasant environment in the garden. Additionally, lemongrass can provide a natural barrier against certain pests, protecting nearby marjoram plants."
+            },
+            {
                 "name": "Basil",
-                "description": "Basil is a good companion for marjoram, as it may help deter certain pests and complement its aromatic qualities."
+                "description": "Basil is a beneficial companion for marjoram as both plants belong to the mint family and have similar cultural requirements. Basil's strong aroma can help deter pests like aphids, whiteflies, and mosquitoes, reducing the risk of infestations on marjoram plants. Additionally, basil's attractive foliage can provide visual interest in the garden bed, enhancing the overall aesthetic."
             },
             {
                 "name": "Thyme",
-                "description": "Thyme can be planted near marjoram as it complements its fragrance and both have similar cultural requirements."
+                "description": "Thyme makes a suitable companion for marjoram as both plants have aromatic foliage and can help repel pests like cabbage moths and aphids. Thyme's low-growing habit can complement the upright growth of marjoram, creating a visually appealing garden bed. Additionally, thyme's creeping stems can provide ground cover, suppressing weed growth and conserving soil moisture."
+            },
+            {
+                "name": "Oregano",
+                "description": "Oregano is an ideal companion for marjoram as both plants belong to the mint family and have similar growth habits and cultural requirements. Oregano's strong aroma can help deter pests like aphids, spider mites, and cabbage moths, protecting nearby marjoram plants from infestations. Additionally, oregano's attractive flowers can attract beneficial insects like bees and butterflies, promoting pollination."
+            },
+            {
+                "name": "Lavender",
+                "description": "Lavender is a suitable companion for marjoram as both plants have aromatic foliage and are attractive to pollinators like bees and butterflies. Lavender's upright growth habit can complement the sprawling nature of marjoram, creating a visually appealing garden bed. Additionally, lavender's insect-repelling properties can help protect marjoram from pests, enhancing overall plant health."
             }
         ],
-        "badCompanionPlants": []
+        "badCompanionPlants": [
+            {
+                "name": "Cabbage",
+                "description": "Cabbage and other brassicas are not recommended as companion plants for marjoram as they may attract pests like cabbage moths and aphids, which can also affect the health of marjoram plants. Additionally, cabbage and brassicas have different soil and water requirements, leading to potential competition for resources."
+            },
+            {
+                "name": "Parsley",
+                "description": "Parsley is not an ideal companion for marjoram as it may compete for resources like sunlight, water, and nutrients in the garden bed. Additionally, parsley may attract pests like carrot flies and aphids, which can also affect the health and growth of marjoram plants."
+            },
+            {
+                "name": "Sage",
+                "description": "Sage should be avoided as a companion for marjoram as it may compete for space and resources in the garden bed. Additionally, sage's strong aroma may overpower the delicate fragrance of marjoram, diminishing its overall appeal. Furthermore, sage may attract pests like spider mites and cabbage moths."
+            },
+            {
+                "name": "Fennel",
+                "description": "Fennel is not recommended as a companion for marjoram as it exudes allelopathic compounds that may inhibit the growth of neighboring plants, including marjoram. Additionally, fennel's invasive root system can outcompete marjoram for nutrients and water, leading to stunted growth and reduced vigor."
+            },
+            {
+                "name": "Tomatoes",
+                "description": "Tomatoes should be avoided as companion plants for marjoram as they have different cultural requirements and may compete for resources like water and nutrients in the garden bed. Additionally, tomatoes are susceptible to certain pests and diseases that may also affect the health of marjoram plants."
+            }
+        ]
     },
     "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids can sometimes infest marjoram, feeding on the sap of the leaves and causing distortion or yellowing. Control aphids by spraying affected plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs, and applying insecticidal soap or neem oil as needed."
-        }
+      "Aphids",
+      "Spider Mite",
+      "Whiteflies",
+      "Thrips",
+      "Leafhopper"
+    ],
+    "beneficial_insects": [
+      "Ladybugs",
+      "Lacewings",
+      "Hoverflies",
+      "Parasitic Wasps"
     ],
     "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect marjoram, causing a white powdery growth on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
-        }
+      "Powdery Mildew",
+      "Downy Mildew",
+      "Root Rot",
+      "Botrytis Blight"
     ],
     "tipsAndTricks": [
-        "Harvest marjoram leaves as needed by snipping them with scissors or shears.",
-        "Pinch back growing tips regularly to encourage bushy growth.",
-        "Mulch around plants to retain moisture and suppress weeds.",
-        "Consider planting marjoram in containers to prevent it from spreading too vigorously."
+      "Choose a planting site with well-drained soil and full sun exposure.",
+      "Plant marjoram in containers or raised beds if your soil is heavy or poorly draining.",
+      "Water marjoram regularly, keeping the soil consistently moist but not waterlogged.",
+      "Mulch around marjoram plants to retain soil moisture and suppress weeds.",
+      "Prune marjoram regularly to maintain its shape and promote bushy growth.",
+      "Harvest marjoram leaves as needed for culinary or medicinal use by snipping them from the plant.",
+      "Monitor plants regularly for signs of pests such as aphids and spider mites. Use insecticidal soap or neem oil as needed.",
+      "Watch for symptoms of diseases like powdery mildew and root rot. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+      "Marjoram is a tender perennial that may not survive harsh winters. Consider bringing potted plants indoors for the winter or replanting new ones in the spring.",
+      "Marjoram leaves can be used fresh or dried to add flavor to soups, stews, sauces, and other dishes."
     ],
     "linksToAdditionalResources": [
         {

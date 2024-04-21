@@ -33,43 +33,86 @@
         "storageRecommendations": "Harvest summer savory leaves as needed for culinary use. Use fresh leaves immediately for the best flavor. Alternatively, you can dry summer savory leaves by hanging them upside down in a warm, well-ventilated area until they are completely dry. Store dried summer savory leaves in an airtight container in a cool, dark place.",
         "harvestDescription": "Harvest summer savory leaves by snipping them from the plant as needed. Harvest leaves when they are young and tender for the best flavor."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [-8, -6],
+        "Transplant": [-6, -4],
+        "Outdoors": [-4, -2],
+        "LastSowDate": null
+      },
+      "FallSowing": {
+        "Outdoors": [-8, -6],
+        "Transplant": [],
+        "DaysToMaturity": 70,
+        "FrostTolerance": "Tolerant"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Beans",
-                "description": "Summer savory is a beneficial companion plant for beans, as it is believed to improve the growth and flavor of bean crops while deterring pests. Interplanting summer savory with beans can enhance overall garden health and productivity."
+              "name": "Beans",
+              "description": "Summer savory is a beneficial companion for beans as it can help repel pests like bean beetles and improve their growth and flavor. Planting summer savory near beans can attract beneficial insects like bees and parasitic wasps, which can help pollinate the flowers and control pests. Additionally, the aromatic foliage of summer savory can enhance the overall flavor of beans when grown together."
             },
             {
-                "name": "Tomatoes",
-                "description": "Tomatoes and summer savory make compatible companions, as they have similar cultural requirements and can benefit from each other's presence in the garden. Interplanting summer savory with tomatoes may help improve tomato flavor and deter pests."
-            }
-        ],
-        "badCompanionPlants": [
+              "name": "Onions",
+              "description": "Summer savory is a good companion for onions as it can help deter pests like onion flies and improve their growth and flavor. Planting summer savory near onions can create a fragrant and visually appealing garden while providing natural pest control. Additionally, the aromatic foliage of summer savory can complement the taste of onions when used together in culinary dishes."
+            },
             {
-                "name": "Kohlrabi",
-                "description": "Summer savory may not thrive when planted near kohlrabi, as they have different cultural requirements and may compete for space and resources. Avoid planting summer savory near kohlrabi to prevent potential issues with reduced growth and vigor."
+              "name": "Tomatoes",
+              "description": "Summer savory is a beneficial companion for tomatoes as it can help repel pests like aphids, spider mites, and tomato hornworms. Planting summer savory near tomatoes can attract beneficial insects like predatory beetles and parasitic wasps, which can help control pests and reduce the need for chemical pesticides. Additionally, the aromatic foliage of summer savory can enhance the flavor of tomatoes when grown together."
+            },
+            {
+              "name": "Lettuce",
+              "description": "Summer savory is a good companion for lettuce as it can help repel pests like aphids, slugs, and snails. Planting summer savory near lettuce can create a protective barrier against insect damage while providing additional flavor and aroma to the garden. Additionally, the aromatic foliage of summer savory can complement the taste of lettuce when used together in salads and other dishes."
+            },
+            {
+              "name": "Cabbage",
+              "description": "Summer savory is a beneficial companion for cabbage as it can help deter pests like cabbage moths and cabbage worms. Planting summer savory near cabbage can create a fragrant and visually appealing garden while providing natural pest control. Additionally, the aromatic foliage of summer savory can enhance the overall flavor of cabbage when grown together."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are common pests of summer savory, feeding on the tender young growth and sucking sap from the leaves and stems. They reproduce rapidly and can cause distortion, yellowing, and stunting of the plant. Control aphids by spraying affected plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs or lacewings, or using insecticidal soap or neem oil."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect summer savory, particularly in humid or crowded conditions. It appears as a white, powdery coating on the leaves and can inhibit plant growth and flowering. Improve air circulation around plants, avoid overhead watering, and apply fungicidal sprays as needed to control powdery mildew."
-        }
-    ],
-    "tipsAndTricks": [
-        "Plant summer savory in well-drained soil and full sun for best growth and flavor.",
-        "Water newly planted seedlings regularly to help establish a strong root system, then reduce watering as the plants mature.",
-        "Harvest summer savory leaves as needed for fresh use or drying.",
-        "Prune summer savory plants regularly to encourage bushy growth and prevent them from becoming leggy.",
-        "Interplant summer savory with compatible companion plants to enhance garden health and productivity."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Fennel",
+              "description": "Fennel should be avoided as a companion for summer savory as it may inhibit the growth of nearby plants, including summer savory. Additionally, fennel may attract pests like aphids and caterpillars, which can also damage summer savory plants. Planting fennel near summer savory may lead to competition for resources and reduced overall health for both plants."
+            },
+            {
+              "name": "Beans",
+              "description": "While summer savory is beneficial for beans, planting beans near summer savory may not be ideal as it can lead to competition for resources like water and nutrients. Both plants have similar soil and watering requirements, which may result in reduced growth and vigor if grown together. Additionally, beans and summer savory may attract the same pests, leading to increased pest pressure on both plants."
+            },
+            {
+              "name": "Peas",
+              "description": "Peas should be avoided as companions for summer savory as they may compete for resources like water, nutrients, and space. Planting peas near summer savory can lead to reduced growth and vigor for both plants due to competition. Additionally, peas and summer savory may attract similar pests, increasing the risk of pest infestations in the garden."
+            }
+          ]
+        },
+      "pests": [
+          "Aphids",
+          "Spider Mite",
+          "Whiteflies",
+          "Thrips",
+          "Leafhopper"
+        ],
+        "beneficial_insects": [
+          "Ladybugs",
+          "Lacewings",
+          "Hoverflies",
+          "Parasitic Wasps"
+        ],
+        "diseases": [
+          "Powdery Mildew",
+          "Root Rot",
+          "Botrytis Blight"
+        ],
+        "tipsAndTricks": [
+          "Choose a planting location with well-drained soil and full sun exposure for summer savory.",
+          "Plant summer savory seeds directly in the garden or start them indoors and transplant after the last frost.",
+          "Water summer savory plants regularly, keeping the soil consistently moist but not waterlogged.",
+          "Mulch around summer savory plants to retain moisture and suppress weeds.",
+          "Fertilize summer savory plants with a balanced fertilizer every 4-6 weeks during the growing season.",
+          "Harvest summer savory leaves as needed for culinary use by cutting them from the plant. Harvest before the plant flowers for the best flavor.",
+          "Monitor plants regularly for signs of pests such as aphids and spider mites. Handpick pests or use insecticidal soap as needed.",
+          "Watch for symptoms of diseases like powdery mildew and botrytis blight. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+          "Summer savory can be harvested throughout the growing season. Cut back plants by one-third to encourage bushy growth and prolong the harvest.",
+          "Use fresh or dried summer savory leaves to flavor a variety of dishes, including meats, poultry, soups, stews, and bean dishes."
+        ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Summer Savory: Tips and Techniques",

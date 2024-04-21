@@ -33,45 +33,94 @@
         "storageRecommendations": "Fresh bee balm flowers can be harvested as needed for culinary or medicinal use. To preserve bee balm flowers, you can dry them by hanging them upside down in a cool, dark place with good air circulation. Store dried bee balm flowers in an airtight container away from light and moisture.",
         "harvestDescription": "Harvest bee balm flowers when they are fully open and at their peak of fragrance and color. Cut stems with sharp pruners or scissors, leaving a few inches of stem attached. Rinse harvested flowers under cool water to remove any debris before using them."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
-            {
-                "name": "Lavender",
-                "description": "Lavender is a beneficial companion plant for bee balm, as it attracts pollinators like bees and butterflies while also repelling pests like aphids and whiteflies. Planting them together can create a diverse and harmonious garden ecosystem."
-            },
-            {
-                "name": "Catnip",
-                "description": "Catnip is another beneficial companion plant for bee balm, as it helps repel pests like flea beetles and mosquitoes while also attracting beneficial insects like ladybugs and lacewings."
-            }
-        ],
-        "badCompanionPlants": [
-            {
-                "name": "Tomatoes",
-                "description": "Tomatoes are not recommended as companion plants for bee balm, as they have different cultural requirements and may compete for resources in the garden. It's best to plant them in separate areas to avoid overcrowding and competition."
-            },
-            {
-                "name": "Potatoes",
-                "description": "Potatoes are also not recommended as companion plants for bee balm, as they are both vining crops that require space to spread out. Planting them together can lead to overcrowding and competition for sunlight, water, and nutrients."
-            }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are small, soft-bodied insects that feed on the sap of bee balm plants, causing distorted growth and yellowing of leaves. They can also transmit viral diseases. Control aphids by spraying plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs and lacewings, or applying insecticidal soap or neem oil."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect bee balm plants, especially in warm, humid conditions. It appears as a white, powdery coating on leaves and stems and can inhibit plant growth and flower production. Control powdery mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        }
-    ],
-    "tipsAndTricks": [
-        "Provide consistent moisture and avoid letting the soil dry out completely, especially during hot, dry weather.",
-        "Deadhead spent flowers regularly to encourage continuous blooming and prevent self-seeding.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action to control them before they become a problem."
-    ],
+      "SpringSowing": {
+        "Indoors": [-10, -8],
+        "Transplant": [-2, 0],
+        "Outdoors": [0, 2],
+        "LastSowDate": -17
+      },
+      "FallSowing": {
+        "Outdoors": [-10, -8],
+        "Transplant": [],
+        "DaysToMaturity": 115,
+        "FrostTolerance": "Tolerant"
+      },
+      "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Basil",
+             "description": "Bee balm is a good companion for basil. It attracts beneficial insects like bees and butterflies, which can help pollinate basil flowers and improve overall garden biodiversity."
+           },
+           {
+             "name": "Lavender",
+             "description": "Bee balm is a beneficial companion for lavender. Both plants attract pollinators like bees and butterflies, enhancing each other's ability to attract beneficial insects to the garden."
+           },
+           {
+             "name": "Oregano",
+             "description": "Bee balm is a suitable companion for oregano. It attracts beneficial insects like bees, butterflies, and predatory wasps, which can help control pests and improve pollination in the garden."
+           },
+           {
+             "name": "Thyme",
+             "description": "Bee balm is a good companion for thyme. It attracts pollinators like bees and butterflies, which can enhance the pollination of thyme flowers and improve overall garden biodiversity."
+           },
+           {
+             "name": "Sage",
+             "description": "Bee balm is a beneficial companion for sage. It attracts pollinators like bees and butterflies, which can help improve the pollination of sage flowers and increase seed production."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Garlic",
+             "description": "Garlic may not be an ideal companion for bee balm. Some gardeners believe that planting garlic near bee balm can negatively affect the growth and flavor of both plants. It's best to separate them in the garden."
+           },
+           {
+             "name": "Onions",
+             "description": "Onions may not be suitable companions for bee balm. Some gardeners believe that planting onions near bee balm can negatively affect the growth and flavor of both plants. It's best to separate them in the garden."
+           },
+           {
+             "name": "Chives",
+             "description": "Chives may not be ideal companions for bee balm. Some gardeners believe that planting chives near bee balm can negatively affect the growth and flavor of both plants. It's best to separate them in the garden."
+           },
+           {
+             "name": "Fennel",
+             "description": "Fennel may not be a suitable companion for bee balm. Some gardeners believe that planting fennel near bee balm can negatively affect the growth and flavor of both plants. It's best to separate them in the garden."
+           },
+           {
+             "name": "Mint",
+             "description": "Mint may not be an ideal companion for bee balm. Mint is known for its aggressive growth habit and can quickly spread and overshadow nearby plants like bee balm. It's best to keep them separate in the garden."
+           }
+         ]
+       },
+      "pests": [
+        "Aphids",
+        "Spider Mite",
+        "Whiteflies",
+        "Leafhopper"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps"
+      ],
+      "diseases": [
+        "Powdery Mildew",
+        "Downy Mildew",
+        "Leaf Spot",
+        "Root Rot"
+      ],
+      "tipsAndTricks": [
+        "Choose a planting site with well-drained soil and partial to full sun exposure.",
+        "Plant bee balm in the spring after the last frost, spacing them 18-24 inches apart.",
+        "Water bee balm regularly, providing about 1 inch of water per week, and mulch to conserve moisture and suppress weeds.",
+        "Fertilize bee balm with a balanced fertilizer or compost tea every 4-6 weeks during the growing season, following package instructions.",
+        "Deadhead spent flowers to encourage continuous blooming and prevent self-seeding.",
+        "Prune bee balm stems in early spring to remove dead or diseased growth and promote new growth.",
+        "Harvest bee balm flowers as needed for culinary or medicinal use by snipping them from the stem.",
+        "Monitor plants regularly for signs of pests such as aphids and spider mites. Use insecticidal soap or neem oil as needed.",
+        "Watch for symptoms of diseases like powdery mildew and leaf spot. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+        "Divide bee balm clumps every 2-3 years to maintain plant vigor and prevent overcrowding."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Bee Balm",

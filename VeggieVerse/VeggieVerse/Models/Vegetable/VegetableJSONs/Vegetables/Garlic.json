@@ -33,42 +33,98 @@
         "storageRecommendations": "Harvest garlic when the tops begin to yellow and fall over. Carefully dig up the bulbs using a garden fork, being careful not to damage them. Allow the bulbs to dry in a well-ventilated area out of direct sunlight for 2-3 weeks. Once dry, trim the roots and tops, leaving about an inch of stem attached. Store garlic bulbs in a cool, dry place with good air circulation.",
         "harvestDescription": "Harvest garlic by gently loosening the soil around the bulbs and lifting them from the ground. Allow the bulbs to cure before storing them."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
-            {
-                "name": "Lettuce",
-                "description": "Lettuce can be planted near garlic to help repel pests like aphids and provide natural pest control in the garden."
-            },
-            {
-                "name": "Carrots",
-                "description": "Carrots can be planted near garlic to help repel pests like carrot rust fly and provide natural pest control in the garden."
-            }
+      "SpringSowing": {
+        "Indoors": [],
+        "Transplant": [],
+        "Outdoors": [],
+        "LastSowDate": null
+      },
+      "FallSowing": {
+        "Outdoors": [2, 4],
+        "Transplant": [],
+        "DaysToMaturity": 120,
+        "FrostTolerance": "Hardy"
+      },
+      "companionPlants": {
+         "goodCompanionPlants": [
+           {
+             "name": "Carrots",
+             "description": "Carrots can help deter pests such as carrot rust flies when interplanted with garlic. Additionally, garlic can repel carrot rust flies, which can benefit neighboring carrot plants."
+           },
+           {
+             "name": "Lettuce",
+             "description": "Lettuce can be grown near garlic as a living mulch to suppress weeds and conserve soil moisture. The shallow roots of lettuce and garlic complement each other, allowing them to coexist without competing for soil nutrients."
+           },
+           {
+             "name": "Tomatoes",
+             "description": "Garlic can help repel pests like aphids and spider mites, which are common tomato pests. Planting garlic near tomatoes may help reduce pest infestations and promote healthier tomato plants."
+           },
+           {
+             "name": "Beets",
+             "description": "Beets and garlic can be planted together as they have complementary growth habits. Garlic's strong scent may also help deter pests that commonly affect beets, such as aphids and leafminers."
+           },
+           {
+             "name": "Onions",
+             "description": "Garlic and onions belong to the same plant family (Allium), and they can benefit from each other's presence. Interplanting garlic with onions can help deter pests and improve overall plant health."
+           }
+         ],
+         "badCompanionPlants": [
+           {
+             "name": "Beans",
+             "description": "Garlic may inhibit the growth of beans if planted too closely together. Some studies suggest that garlic produces allelopathic compounds that can interfere with bean growth and development."
+           },
+           {
+             "name": "Peas",
+             "description": "Garlic may have a similar inhibitory effect on peas as it does on beans. Planting garlic near peas may result in reduced growth and yield for pea crops."
+           },
+           {
+             "name": "Asparagus",
+             "description": "Garlic and asparagus have different soil and nutrient requirements, and they may compete for resources if planted together. Additionally, garlic's strong scent may affect the flavor of nearby asparagus."
+           },
+           {
+             "name": "Sage",
+             "description": "Sage is known for inhibiting the growth of nearby plants, including garlic. Planting garlic near sage may result in reduced growth and yield for garlic crops."
+           },
+           {
+             "name": "Brassicas",
+             "description": "Garlic may deter beneficial insects like pollinators, which are important for the pollination of brassica crops such as cabbage, broccoli, and kale. Planting garlic near brassicas may hinder pollination and reduce crop yield."
+           }
+         ]
+       },
+      "pests": [
+          "Aphids",
+          "Leafminer",
+          "Thrips",
+          "Maggot",
+          "Bulb Mite",
+          "Stem Nematode",
+          "Wireworm",
+          "Leaf Nematode",
+          "Eelworm"
         ],
-        "badCompanionPlants": [
-            {
-                "name": "Beans",
-                "description": "Beans are not recommended to be planted near garlic as they may compete for space and nutrients."
-            }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Garlic Root Maggot",
-            "description": "Garlic root maggots are small, white larvae that feed on the roots of garlic plants, causing stunted growth and reduced yields. Control garlic root maggots by practicing crop rotation, using floating row covers to exclude flies, and applying beneficial nematodes to the soil."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "White Rot",
-            "description": "White rot is a fungal disease that affects garlic plants, causing white, fluffy growth on bulbs and foliage. It thrives in wet, poorly-drained soil. Prevent white rot by planting garlic in well-draining soil, practicing crop rotation, and avoiding overhead watering."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest garlic bulbs when the lower leaves turn yellow and begin to dry out for the best flavor and storage quality.",
-        "Cure harvested garlic bulbs by hanging them in a warm, dry, well-ventilated area for 2-4 weeks to improve storage quality.",
-        "Practice crop rotation to prevent the buildup of soilborne pests and diseases in garlic beds.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed."
-    ],
+        "beneficial_insects": [
+          "Ladybugs",
+          "Lacewings",
+          "Hoverflies",
+          "Parasitic Wasps",
+          "Predatory Mites"
+        ],
+        "diseases": [
+          "White Rot",
+          "Downy Mildew",
+          "Rust",
+          "Fusarium Wilt",
+          "Botrytis Rot"
+        ],
+        "tipsAndTricks": [
+          "Plant garlic in well-drained soil with full sun exposure.",
+          "Space garlic cloves properly to allow good air circulation.",
+          "Water garlic regularly, keeping the soil consistently moist but not waterlogged.",
+          "Mulch around the base of plants to retain moisture and suppress weeds.",
+          "Harvest garlic bulbs when the tops begin to dry and yellow, typically in mid to late summer.",
+          "Cure harvested garlic bulbs by drying them in a warm, well-ventilated area for a few weeks.",
+          "Store cured garlic bulbs in a cool, dry place with good air circulation to prevent molding or sprouting."
+        ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Garlic: Planting Guide",

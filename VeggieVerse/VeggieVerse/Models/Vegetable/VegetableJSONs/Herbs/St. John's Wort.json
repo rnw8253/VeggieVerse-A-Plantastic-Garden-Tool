@@ -32,43 +32,84 @@
         "storageRecommendations": "Harvest St. John's Wort flowers and leaves as needed for medicinal use. Dry the harvested parts by hanging them upside down in a warm, well-ventilated area until they are completely dry. Store dried St. John's Wort in an airtight container in a cool, dark place.",
         "harvestDescription": "Harvest St. John's Wort flowers and leaves by snipping them from the plant as needed. Harvest flowers when they are in full bloom, and leaves when they are young and tender."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [-10, -8],
+        "Transplant": [-8, -6],
+        "Outdoors": [-6, -4],
+        "LastSowDate": null
+      },
+      "FallSowing": {
+        "Outdoors": [8, 10],
+        "Transplant": [],
+        "DaysToMaturity": 365,
+        "FrostTolerance": "Tolerant"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Lavender",
-                "description": "Lavender and St. John's Wort make excellent companion plants, as they both prefer similar growing conditions and complement each other's aromatic qualities. Interplanting lavender with St. John's Wort can create a visually appealing garden display and attract beneficial pollinators."
+              "name": "Lavender",
+              "description": "Lavender is a beneficial companion for St. John's Wort due to its aromatic foliage, which can help repel pests like aphids, mosquitoes, and moths. Planting lavender near St. John's Wort can create a visually appealing and fragrant garden while providing natural pest control. Additionally, lavender attracts beneficial insects like bees and butterflies, which can help pollinate St. John's Wort flowers."
             },
             {
-                "name": "Chamomile",
-                "description": "Chamomile is another suitable companion plant for St. John's Wort, as both herbs have calming properties and can be used in herbal teas and remedies. Planting chamomile near St. John's Wort can enhance the overall health and vitality of the garden."
-            }
-        ],
-        "badCompanionPlants": [
+              "name": "Chamomile",
+              "description": "Chamomile is a good companion for St. John's Wort as it shares similar cultural requirements and can help improve soil health. Planting chamomile near St. John's Wort can attract beneficial insects like hoverflies and parasitic wasps, which prey on aphids and other harmful pests. Additionally, chamomile's delicate flowers and mild fragrance can enhance the overall aesthetics of the garden."
+            },
             {
-                "name": "Black Walnut",
-                "description": "St. John's Wort may not thrive when planted near black walnut trees, as black walnut roots release juglone, a natural chemical that can inhibit the growth of certain plants. Avoid planting St. John's Wort near black walnut trees to prevent potential issues with reduced vigor and growth."
+              "name": "Yarrow",
+              "description": "Yarrow is a beneficial companion for St. John's Wort as it can help improve soil fertility and attract beneficial insects like ladybugs and predatory wasps. Planting yarrow near St. John's Wort can create a diverse and ecologically balanced garden while providing natural pest control and pollination services. Additionally, yarrow's feathery foliage and colorful flowers can add visual interest to the garden."
+            },
+            {
+              "name": "Sage",
+              "description": "Sage is a good companion for St. John's Wort due to its aromatic foliage and ability to repel pests like cabbage moths and carrot flies. Planting sage near St. John's Wort can help protect the plants from insect damage while providing additional flavor and aroma to the garden. Additionally, sage and St. John's Wort have complementary medicinal properties and can be used together in herbal remedies."
+            },
+            {
+              "name": "Thyme",
+              "description": "Thyme is a beneficial companion for St. John's Wort as it can help repel pests like cabbage worms, aphids, and spider mites. Planting thyme near St. John's Wort can create a protective barrier against insect damage while providing a flavorful and aromatic addition to the garden. Additionally, thyme's low-growing habit can help suppress weeds and conserve soil moisture."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are common pests of St. John's Wort, feeding on the tender young growth and sucking sap from the leaves and stems. They reproduce rapidly and can cause distortion, yellowing, and stunting of the plant. Control aphids by spraying affected plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs or lacewings, or using insecticidal soap or neem oil."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect St. John's Wort, particularly in humid or crowded conditions. It appears as a white, powdery coating on the leaves and can inhibit plant growth and flowering. Improve air circulation around plants, avoid overhead watering, and apply fungicidal sprays as needed to control powdery mildew."
-        }
-    ],
-    "tipsAndTricks": [
-        "Plant St. John's Wort in well-drained soil and full sun to partial shade for best growth and flowering.",
-        "Water newly planted seedlings regularly to help establish a strong root system, then reduce watering as the plants mature.",
-        "Deadhead spent flowers to encourage continuous blooming throughout the growing season.",
-        "Harvest St. John's Wort flowers in the morning when the dew has dried and the essential oils are most concentrated.",
-        "Monitor plants regularly for signs of pests and diseases, and take prompt action to prevent damage."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Beans",
+              "description": "Beans should be avoided as companions for St. John's Wort as they have different soil and watering requirements. Planting beans near St. John's Wort can lead to competition for resources and space, resulting in reduced growth and vigor for both plants. Additionally, beans may attract pests and diseases that can also affect St. John's Wort."
+            },
+            {
+              "name": "Cabbage",
+              "description": "Cabbage is not an ideal companion for St. John's Wort as it may attract pests like cabbage worms and aphids that can also damage St. John's Wort plants. Additionally, cabbage and St. John's Wort have different soil and nutrient requirements, which can lead to competition for resources and reduced growth. Planting cabbage near St. John's Wort may also increase the risk of disease transmission between the two plants."
+            },
+            {
+              "name": "Fennel",
+              "description": "Fennel should be avoided as a companion for St. John's Wort as it can inhibit the growth of nearby plants, including St. John's Wort. Additionally, fennel may attract pests like aphids and caterpillars, which can also damage St. John's Wort plants. Planting fennel near St. John's Wort may lead to competition for resources and reduced overall health for both plants."
+            }
+          ]
+        },
+      "pests": [
+          "Aphids",
+          "Spider Mite",
+          "Whiteflies",
+          "Thrips"
+        ],
+        "beneficial_insects": [
+          "Ladybugs",
+          "Lacewings",
+          "Hoverflies",
+          "Parasitic Wasps"
+        ],
+        "diseases": [
+          "Powdery Mildew",
+          "Root Rot"
+        ],
+        "tipsAndTricks": [
+          "Choose a planting location with well-drained soil and full sun exposure for St. John's Wort.",
+          "Plant St. John's Wort in a raised bed or container with sandy, loamy soil to ensure good drainage.",
+          "Water St. John's Wort plants regularly, keeping the soil evenly moist but not waterlogged.",
+          "Avoid overwatering St. John's Wort, as it is susceptible to root rot in waterlogged conditions.",
+          "Prune St. John's Wort regularly to remove dead or diseased branches and promote bushy growth.",
+          "Harvest St. John's Wort flowers when they are in full bloom for medicinal use. Dry the flowers and leaves for teas, tinctures, or infusions.",
+          "Monitor plants regularly for signs of pests such as aphids and spider mites. Handpick pests or use insecticidal soap as needed.",
+          "Watch for symptoms of diseases like powdery mildew and root rot. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+          "St. John's Wort is drought-tolerant once established and prefers slightly dry conditions. Avoid over-fertilizing, as this can reduce the potency of the plant's medicinal properties.",
+          "Use dried St. John's Wort flowers and leaves to make herbal remedies for depression, anxiety, and other ailments. Consult a healthcare professional before using."
+        ],
     "linksToAdditionalResources": [
         {
             "title": "Growing St. John's Wort: Tips and Techniques",

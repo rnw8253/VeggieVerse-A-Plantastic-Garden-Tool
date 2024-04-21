@@ -16,12 +16,12 @@ struct HarvestingAndStorageView: View {
             FullWidthTextView(imageName: "storage", text: "Storage", value: vegetable.harvestingAndStorage!.storageRecommendations, imageWidth: 45)
         }
         .padding(.top, 30)
+        .foregroundColor(.black)
     }
 }
 
 struct HarvestingAndStorageView_Previews: PreviewProvider {
-    static let data = LoadDataModel()
     static var previews: some View {
-        HarvestingAndStorageView(vegetable: data.vegetables[0])
+        HarvestingAndStorageView(vegetable: LoadDataModel.shared.vegetables[0])
     }
 }

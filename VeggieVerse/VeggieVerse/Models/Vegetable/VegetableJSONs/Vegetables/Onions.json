@@ -33,40 +33,80 @@
         "storageRecommendations": "Harvest onions when the tops have fallen over and started to dry. Carefully dig up the bulbs with a garden fork, being careful not to bruise or damage them. Cure harvested onions by laying them in a warm, dry place with good air circulation for 2-3 weeks. Once cured, trim the tops and roots and store onions in a cool, dry place with good ventilation.",
         "harvestDescription": "Harvest onions when the tops have fallen over and started to dry. Gently lift the bulbs from the soil and allow them to cure before storing. Use a garden fork or shovel to loosen the soil around the bulbs and lift them carefully to avoid bruising."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
-            {
-                "name": "Carrots",
-                "description": "Carrots can be planted near onions to help repel pests like onion flies and provide natural pest control in the garden."
-            },
-            {
-                "name": "Lettuce",
-                "description": "Lettuce can be planted near onions to help suppress weeds and provide natural ground cover."
-            }
-        ],
-        "badCompanionPlants": [
-            {
-                "name": "Beans",
-                "description": "Beans are not recommended to be planted near onions as they may compete for space and nutrients."
-            }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Onion Thrips",
-            "description": "Onion thrips are tiny, slender insects that feed on onion leaves, causing silvering, stippling, and distortion of foliage. Heavy infestations can lead to reduced plant vigor and yield. Control onion thrips by using row covers to exclude them, applying insecticidal soap or neem oil, and practicing good garden hygiene."
-        }
+      "SpringSowing": {
+        "Indoors": [],
+        "Transplant": [-4, -2],
+        "Outdoors": [],
+        "LastSowDate": -14
+      },
+      "FallSowing": {
+        "Outdoors": [],
+        "Transplant": [],
+        "DaysToMaturity": 110,
+        "FrostTolerance": "Tolerant"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
+              {
+                  "name": "Carrots",
+                  "description": "Carrots make excellent companions for onions. They can be planted near onions to help repel pests like onion flies and provide natural pest control in the garden. Additionally, the two plants complement each other's growth habits and root systems."
+              },
+              {
+                  "name": "Lettuce",
+                  "description": "Lettuce is a beneficial companion plant for onions. Planting lettuce near onions helps suppress weeds and provides natural ground cover, which can help retain soil moisture and maintain a healthier garden environment."
+              },
+              {
+                  "name": "Beets",
+                  "description": "Beets are compatible with onions and can be planted nearby. They have similar growing requirements and do not compete with onions for space or nutrients. Additionally, beets may help deter pests like onion flies and provide aesthetic diversity to the garden."
+              }
+          ],
+          "badCompanionPlants": [
+              {
+                  "name": "Beans",
+                  "description": "Beans are not recommended to be planted near onions. They may compete for space and nutrients, leading to reduced growth and yield for both plants. Additionally, beans and onions have different soil and watering requirements, making them incompatible companions in the garden."
+              },
+              {
+                  "name": "Peas",
+                  "description": "Peas should be avoided as companions for onions. Like beans, peas compete with onions for resources such as water, nutrients, and sunlight. This competition can negatively impact the growth and development of both plants, resulting in reduced yields and overall plant health."
+              }
+          ]
+      },
+      "pests": [
+      "Thrips",
+      "Onion Maggot",
+      "Onion Fly",
+      "Bulb Mite",
+      "Root Maggot",
+      "Leafminer",
+      "Armyworm",
+      "Cutworm",
+      "Flea Beetle",
+      "Leaf Beetle"
+    ],
+    "beneficial_insects": [
+      "Ladybugs",
+      "Lacewings",
+      "Hoverflies",
+      "Parasitic Wasps",
+      "Predatory Mites"
     ],
     "diseases": [
-        {
-            "name": "Onion White Rot",
-            "description": "Onion white rot is a fungal disease that affects onion plants, causing yellowing and wilting of foliage and rotting of bulbs. It thrives in cool, moist conditions and can persist in the soil for several years. Prevent onion white rot by selecting disease-resistant varieties, practicing crop rotation, and improving soil drainage."
-        }
+      "Downy Mildew",
+      "Powdery Mildew",
+      "Rust",
+      "Smut",
+      "White Rot",
+      "Aster Yellows",
+      "Spotted Wilt"
     ],
     "tipsAndTricks": [
-        "Harvest onions when the tops have fallen over and started to dry for optimal storage and flavor.",
-        "Cure harvested onions in a warm, dry location with good air circulation for 1-2 weeks before storing.",
-        "Store cured onions in a cool, dry, well-ventilated location with low humidity to prevent spoilage."
+      "Plant onions in well-drained soil with full sun exposure.",
+      "Space onion sets properly to allow for bulb development.",
+      "Water onions regularly, keeping the soil consistently moist but not waterlogged.",
+      "Mulch around onion rows to retain moisture and suppress weeds.",
+      "Harvest onions when the tops have fallen over and started to dry, typically in late summer.",
+      "Rotate crops to prevent the buildup of pests and diseases in the soil.",
+      "Monitor plants regularly for signs of pests and diseases, and take appropriate action."
     ],
     "linksToAdditionalResources": [
         {

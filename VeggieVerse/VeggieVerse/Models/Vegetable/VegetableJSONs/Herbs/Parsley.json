@@ -33,37 +33,88 @@
         "storageRecommendations": "Harvest parsley leaves as needed for culinary use. Use fresh leaves immediately, or dry them for longer storage. To dry parsley, bundle stems together and hang them upside down in a warm, well-ventilated area until leaves are crisp. Once dry, store leaves in an airtight container in a cool, dark place.",
         "harvestDescription": "Harvest parsley leaves by snipping them from the plant as needed. For the best flavor, harvest leaves before the plant flowers."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [-10, -8],
+        "Transplant": [1, 3],
+        "Outdoors": [-4, 1],
+        "LastSowDate": -11
+      },
+      "FallSowing": {
+        "Outdoors": [],
+        "Transplant": [],
+        "DaysToMaturity": 95,
+        "FrostTolerance": "Hardy"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Basil",
-                "description": "Basil is a good companion for parsley, as it may help deter certain pests and complement its aromatic qualities."
+              "name": "Basil",
+              "description": "Basil is a beneficial companion for parsley as it can help improve parsley's flavor and growth. Planting basil near parsley can attract beneficial insects like bees and hoverflies, which can help pollinate parsley flowers and deter pests such as aphids and caterpillars."
             },
             {
-                "name": "Tomatoes",
-                "description": "Tomatoes can be planted near parsley as they have similar cultural requirements and complement each other in the garden."
+              "name": "Chives",
+              "description": "Chives make good companions for parsley as they can help improve parsley's flavor and deter pests. Chives emit a strong scent that can help repel pests like aphids, spider mites, and whiteflies, reducing the risk of pest damage to parsley plants."
+            },
+            {
+              "name": "Marigolds",
+              "description": "Marigolds are beneficial companions for parsley as they can help repel pests and improve soil health. Planting marigolds near parsley can deter pests like nematodes, aphids, and whiteflies, reducing the risk of pest damage to parsley plants. Additionally, marigolds can attract beneficial insects like ladybugs and parasitic wasps, which prey on common parsley pests."
+            },
+            {
+              "name": "Thyme",
+              "description": "Thyme is a good companion for parsley as it can help improve parsley's flavor and deter pests. Thyme emits a strong scent that can help repel pests like aphids, spider mites, and whiteflies, reducing the risk of pest damage to parsley plants. Additionally, thyme can attract beneficial insects like bees and hoverflies, which can help pollinate parsley flowers and control pest populations."
             }
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Potatoes",
+              "description": "Parsley should be avoided as a companion for potatoes as it may inhibit potato growth. Parsley produces chemicals that can hinder the growth of potatoes and reduce their yields. Additionally, parsley can compete with potatoes for nutrients and water in the garden bed, leading to reduced potato yields."
+            },
+            {
+              "name": "Cabbage",
+              "description": "Parsley is not recommended as a companion for cabbage as it may inhibit cabbage growth. Parsley plants can spread vigorously and compete with cabbage for space, nutrients, and water in the garden bed, leading to reduced cabbage yields."
+            },
+            {
+              "name": "Broccoli",
+              "description": "Parsley should be avoided as a companion for broccoli as it may inhibit broccoli growth. Parsley plants can spread aggressively and compete with broccoli for resources in the garden bed, leading to reduced broccoli yields."
+            },
+            {
+              "name": "Lettuce",
+              "description": "Parsley is not recommended as a companion for lettuce as it may inhibit lettuce growth. Parsley plants can spread vigorously and compete with lettuce for space, nutrients, and water in the garden bed, leading to reduced lettuce yields."
+            }
+          ]
+        },
+      "pests": [
+          "Aphids",
+          "Spider Mite",
+          "Whiteflies",
+          "Thrips",
+          "Caterpillar"
         ],
-        "badCompanionPlants": []
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids can sometimes infest parsley, feeding on the sap of the leaves and causing distortion or yellowing. Control aphids by spraying affected plants with a strong jet of water to dislodge them, introducing natural predators like ladybugs, and applying insecticidal soap or neem oil as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect parsley, causing a white powdery growth on leaves and stems. It thrives in warm, humid conditions. Prevent powdery mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicides as needed."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest parsley leaves as needed by snipping them with scissors or shears.",
-        "Pinch back flower stalks regularly to encourage leaf production and prevent bolting.",
-        "Mulch around plants to retain moisture and suppress weeds.",
-        "Consider planting parsley in containers to prevent it from spreading too vigorously."
-    ],
+        "beneficial_insects": [
+          "Ladybugs",
+          "Lacewings",
+          "Hoverflies",
+          "Parasitic Wasps"
+        ],
+        "diseases": [
+          "Powdery Mildew",
+          "Downy Mildew",
+          "Root Rot",
+          "Botrytis Blight",
+          "Aster Yellows"
+        ],
+        "tipsAndTricks": [
+          "Select a planting site with well-drained soil and full sun to partial shade exposure.",
+          "Start parsley from seeds or transplants. Soak seeds in warm water overnight before sowing to improve germination rates.",
+          "Water parsley regularly, keeping the soil consistently moist but not waterlogged.",
+          "Mulch around parsley plants to retain soil moisture and suppress weeds.",
+          "Harvest parsley leaves as needed for culinary use by cutting them from the outer edges of the plant.",
+          "Prune parsley regularly to encourage new growth and prevent flowering, which can affect leaf flavor.",
+          "Monitor plants regularly for signs of pests such as aphids and caterpillars. Handpick pests or use insecticidal soap as needed.",
+          "Watch for symptoms of diseases like powdery mildew and root rot. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+          "Parsley is a biennial plant but is often grown as an annual. Replace plants every year or allow some plants to overwinter for a second year of growth.",
+          "Use fresh parsley leaves as a garnish or to flavor a variety of dishes, including salads, soups, stews, and sauces."
+        ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Parsley: Planting Guide",

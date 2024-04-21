@@ -33,47 +33,88 @@
         "storageRecommendations": "Harvest fenugreek leaves as needed for fresh use. Use fresh leaves immediately for culinary purposes, or dry them for later use. To dry fenugreek leaves, hang them upside down in a well-ventilated area out of direct sunlight until fully dried. Store dried leaves in an airtight container in a cool, dark place.",
         "harvestDescription": "Harvest fenugreek leaves by snipping them off the plants as needed. Avoid harvesting more than one-third of the plant's leaves at a time to allow for continued growth."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [],
+        "Transplant": [],
+        "Outdoors": [4, 6],
+        "LastSowDate": null
+      },
+      "FallSowing": {
+        "Outdoors": [],
+        "Transplant": [],
+        "DaysToMaturity": 45,
+        "FrostTolerance": "Tolerant"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Tomatoes",
-                "description": "Tomatoes are good companion plants for fenugreek, as they have similar soil and water requirements and can help shade the fenugreek plants during hot weather. Interplanting fenugreek with tomatoes can also help deter pests and improve overall garden health."
+              "name": "Cilantro",
+              "description": "Fenugreek and cilantro can be planted together as they have similar growth requirements and can benefit from each other's presence. Cilantro attracts beneficial insects like hoverflies and parasitic wasps, which can help control pests that may affect fenugreek."
             },
             {
-                "name": "Lettuce",
-                "description": "Lettuce is also a good companion plant for fenugreek, as it has shallow roots and can benefit from the shade provided by the fenugreek plants. Interplanting fenugreek with lettuce can help conserve moisture and extend the harvest period for both crops."
-            }
-        ],
-        "badCompanionPlants": [
-            {
-                "name": "Garlic",
-                "description": "Garlic is not recommended as a companion plant for fenugreek, as it may compete for space and nutrients in the soil. It's best to plant them in separate areas to avoid potential problems."
+              "name": "Lettuce",
+              "description": "Lettuce is a good companion for fenugreek due to its shallow root system and low-growing habit. It can help provide shade and moisture retention for fenugreek plants, especially during hot weather. Additionally, interplanting lettuce with fenugreek can maximize space in the garden."
             },
             {
-                "name": "Onions",
-                "description": "Onions are also not recommended as companion plants for fenugreek, as they may compete for space and nutrients and may not provide any specific benefits when grown together. It's best to plant them in separate areas to avoid potential problems."
+              "name": "Peas",
+              "description": "Peas are nitrogen-fixing legumes, which can benefit fenugreek by enriching the soil with nitrogen. Interplanting peas with fenugreek can improve soil fertility and promote healthier growth for both crops. Additionally, peas can help suppress weeds and provide support for fenugreek plants."
+            },
+            {
+              "name": "Spinach",
+              "description": "Spinach and fenugreek can be interplanted to maximize space and diversity in the garden. Spinach grows quickly and can be harvested before the fenugreek matures fully. Additionally, spinach's shallow root system helps prevent soil erosion and improves soil structure, benefiting fenugreek."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are common pests of fenugreek, feeding on the sap of leaves and stems and causing distortion and stunted growth. Control aphids by spraying plants with a strong stream of water to dislodge them, introducing natural predators like ladybugs and lacewings, or applying insecticidal soap or neem oil."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Powdery Mildew",
-            "description": "Powdery mildew is a fungal disease that can affect fenugreek plants, causing white powdery patches to form on the leaves. It thrives in warm, humid conditions and can spread rapidly in crowded plantings. Control powdery mildew by improving air circulation around plants, avoiding overhead watering, and applying fungicidal sprays preventatively."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest fenugreek leaves regularly to promote continuous growth and prevent plants from becoming too leggy.",
-        "Use fresh fenugreek leaves as a flavorful addition to salads, soups, stews, and curries, or dry them for later use in spice blends and herbal teas.",
-        "Harvest fenugreek seeds once the pods turn yellow and begin to dry out. Remove the seeds from the pods and store them in an airtight container in a cool, dry place for later use.",
-        "Rotate fenugreek crops annually to prevent soilborne diseases and nutrient depletion.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed to prevent damage."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Basil",
+              "description": "Basil may not be an ideal companion for fenugreek as it can compete for resources such as water, nutrients, and space in the garden. Additionally, basil's strong aroma may attract pests that could potentially affect fenugreek plants negatively."
+            },
+            {
+              "name": "Parsley",
+              "description": "Parsley is not recommended as a companion for fenugreek due to potential competition for resources and space. Both fenugreek and parsley have similar growth requirements and may not thrive when planted together. It's best to keep them separated in the garden."
+            },
+            {
+              "name": "Brassicas",
+              "description": "Brassicas, including cabbage and broccoli, are not recommended companions for fenugreek. They may compete for similar soil nutrients and space in the garden, potentially leading to reduced yields for both crops. It's best to rotate fenugreek with non-brassica crops to maintain soil health."
+            },
+            {
+              "name": "Alliums",
+              "description": "Alliums, such as onions and garlic, may not be suitable companions for fenugreek. They can potentially inhibit the growth of fenugreek due to their allelopathic properties, which may interfere with the growth and development of neighboring plants. It's best to keep them separated in the garden."
+            }
+          ]
+        },
+      "pests": [
+        "Aphids",
+        "Leafhopper",
+        "Whiteflies",
+        "Spider Mite",
+        "Thrips"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps"
+      ],
+      "diseases": [
+        "Powdery Mildew",
+        "Downy Mildew",
+        "Root Rot",
+        "Fusarium Wilt"
+      ],
+      "tipsAndTricks": [
+        "Select a planting site with well-drained soil and full sun exposure.",
+        "Directly sow fenugreek seeds in the garden in early spring or fall, after the last frost date.",
+        "Sow seeds about 1/4 to 1/2 inch deep and space them about 2 to 4 inches apart in rows spaced 12 to 18 inches apart.",
+        "Water fenugreek regularly, keeping the soil evenly moist but not waterlogged.",
+        "Mulch around fenugreek plants to conserve moisture and suppress weeds.",
+        "Harvest fenugreek leaves as needed for culinary use by snipping them from the plant.",
+        "Harvest fenugreek seeds when they turn brown and the pods begin to dry and split open.",
+        "Monitor plants regularly for signs of pests such as aphids and leafhoppers. Use insecticidal soap or neem oil as needed.",
+        "Watch for symptoms of diseases like powdery mildew and root rot. Provide good air circulation and avoid overhead watering to reduce humidity around plants.",
+        "Rotate crops annually to prevent disease buildup in the soil.",
+        "Use fenugreek leaves fresh in salads, soups, and curries, and use seeds as a spice in cooking."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Fenugreek: A Complete Guide",

@@ -8,8 +8,8 @@
       "sowingAndPlanting": {
         "sowingIndoorsDescription": "Plums are typically propagated from pits or grafted onto rootstock. To grow from pits, collect pits from ripe plums and remove any fruit flesh. Plant pits in pots filled with well-draining potting mix and keep them moist. Germination may take several weeks. Alternatively, purchase grafted plum trees from nurseries for faster fruit production.",
         "sowingOutdoorsDescription": "Plum trees should be planted in well-draining soil in a sunny location. Dig a hole twice as wide and deep as the root ball of the tree. Place the tree in the hole, backfill with soil, and water thoroughly. Space trees according to their mature size, typically 10-20 feet apart.",
-        "spaceBetweenPlants": "10\'-20\'",
-        "spaceBetweenRows": "Varies based on planting scheme",
+        "spaceBetweenPlants": "10'-20'",
+        "spaceBetweenRows": "Varies",
         "squareFootPlantingRecommendationsMin": 1,
         "squareFootPlantingRecommendationsMax": 2,
         "lifeCycle": "Perennial",
@@ -33,6 +33,18 @@
         "storageRecommendations": "Harvest plums when they are fully ripe, usually when they have reached their mature color and size. Plums should be slightly soft to the touch but not mushy. Twist or cut the fruit from the tree with a sharp knife. Store harvested plums at room temperature for a few days, or refrigerate them for longer storage.",
         "harvestDescription": "Harvest plums by twisting or cutting the fruit from the tree with a sharp knife when they are fully ripe. Handle the fruit carefully to avoid bruising."
       },
+      "SpringSowing": {
+        "Indoors": [],
+        "Transplant": [],
+        "Outdoors": [4, 6],
+        "LastSowDate": null
+      },
+      "FallSowing": {
+        "Outdoors": [-8, -6],
+        "Transplant": [-8, -6],
+        "DaysToMaturity": 150,
+        "FrostTolerance": "Hardy"
+      },
       "companionPlants": {
           "goodCompanionPlants": [
             {
@@ -48,7 +60,7 @@
               "description": "Lavender attracts pollinators like bees and butterflies, which can help improve fruit set in plum trees. Its strong scent can also deter pests like aphids and moths."
             },
             {
-              "name": "Nasturtiums",
+              "name": "Nasturtium",
               "description": "Nasturtiums can be interplanted with plum trees to help repel pests like aphids and plum curculio beetles. They also attract beneficial insects like ladybugs and lacewings."
             },
             {
@@ -66,44 +78,56 @@
               "description": "Walnut trees produce juglone, a chemical compound that inhibits the growth of many plants, including plum trees. Avoid planting plum trees near walnut trees."
             },
             {
-              "name": "Cherry",
+              "name": "Cherries",
               "description": "Plum and cherry trees are susceptible to similar pests and diseases. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
             },
             {
-              "name": "Peach",
+              "name": "Peaches",
               "description": "Plum and peach trees are susceptible to similar pests and diseases. Planting them in close proximity may increase the risk of cross-contamination and make pest management more challenging."
             },
             {
-              "name": "Potatoes",
+              "name": "Nightshades",
               "description": "Potatoes and other members of the nightshade family can host pests and diseases that may affect plum trees. Additionally, they may compete with plum trees for water and nutrients."
             }
           ]
         },
-    "pests": [
-        {
-            "name": "Plum Curculio",
-            "description": "Plum curculio is a common pest of plum trees, feeding on the fruit and causing damage like scarring and dimpling. Larvae of the plum curculio burrow into the fruit, leading to rotting and premature dropping. Control plum curculio populations with insecticidal sprays or by introducing natural predators like parasitic wasps."
-        },
-        {
-            "name": "Plum Moth",
-            "description": "Plum moth is a common pest of plum trees, laying eggs on the fruit. The larvae feed on the fruit flesh, causing damage and reducing fruit quality. Control plum moth populations with insecticidal sprays or by using pheromone traps to monitor and reduce adult populations."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Brown Rot",
-            "description": "Brown rot is a fungal disease that affects plum trees, causing brown, sunken lesions on fruit and foliage. It can lead to fruit rot and reduced yields. Control brown rot by removing and destroying infected plant material, improving air circulation around trees, and applying fungicidal sprays preventatively."
-        },
-        {
-            "name": "Plum Leaf Curl",
-            "description": "Plum leaf curl is a fungal disease that affects plum trees, causing distorted, curled leaves that may turn yellow or red. It can lead to reduced fruit production and overall tree vigor. Control plum leaf curl by applying fungicidal sprays preventatively in early spring before bud break."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest plums when fully ripe for the best flavor and sweetness.",
-        "Monitor trees regularly for signs of pests and diseases, and take prompt action to control infestations.",
-        "Prune plum trees annually to remove dead or diseased wood, improve airflow, and shape the tree."
-    ],
+      "pests": [
+        "Curculio",
+        "Fruit Moth",
+        "Aphids",
+        "Leafhopper",
+        "Sawfly",
+        "Leafroller",
+        "Fruitworm",
+        "Weevil",
+        "Scale",
+        "Twig Borer"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
+      ],
+      "diseases": [
+        "Plum Pox Virus",
+        "Rust",
+        "Black Knot",
+        "Brown Rot",
+        "Leaf Curl",
+        "Gummosis"
+      ],
+      "tipsAndTricks": [
+        "Plant plum trees in well-drained soil with full sun exposure.",
+        "Prune plum trees in late winter to remove dead or diseased branches and maintain an open canopy.",
+        "Apply a balanced fertilizer during the growing season to promote healthy growth and fruiting.",
+        "Water plum trees regularly, especially during dry periods.",
+        "Mulch around the base of trees to retain moisture and suppress weeds.",
+        "Monitor trees regularly for signs of pests and diseases, and take appropriate action.",
+        "Thin out excess fruit in early summer to improve fruit size and reduce disease pressure.",
+        "Harvest plums when they are fully ripe and have developed their characteristic color and yield to gentle pressure."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Plums: Planting Guide",

@@ -33,41 +33,95 @@
         "storageRecommendations": "Harvest radicchio when the heads are firm and compact. Use a sharp knife to cut the heads at the base. Store harvested radicchio in the refrigerator for up to a week.",
         "harvestDescription": "Harvest radicchio when the heads are firm and compact. Use a sharp knife to cut the heads at the base. Handle radicchio carefully to avoid bruising or damaging the leaves."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [-8, -6],
+        "Transplant": [-4, -2],
+        "Outdoors": [0, 2],
+        "LastSowDate": -10
+      },
+      "FallSowing": {
+        "Outdoors": [-12, -10],
+        "Transplant": [],
+        "DaysToMaturity": 80,
+        "FrostTolerance": "Tolerant"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Lettuce",
-                "description": "Lettuce can be interplanted with radicchio to help suppress weeds and provide natural ground cover."
+              "name": "Beans",
+              "description": "Beans are beneficial companions for radicchio. As nitrogen-fixing plants, beans enrich the soil with nitrogen, which promotes healthy growth and development of radicchio. Interplanting beans and radicchio helps improve soil fertility and overall plant health."
             },
             {
-                "name": "Herbs (such as dill, cilantro, or basil)",
-                "description": "Herbs can be planted near radicchio to help attract beneficial insects and improve overall garden health."
-            }
-        ],
-        "badCompanionPlants": [
+              "name": "Carrots",
+              "description": "Carrots make good companions for radicchio. Planting carrots near radicchio can help deter pests like carrot rust flies, as the strong aroma of radicchio confuses and repels these pests. Additionally, carrots have shallow root systems that occupy different soil layers, reducing competition for nutrients and space."
+            },
             {
-                "name": "Tomatoes",
-                "description": "Tomatoes are not recommended to be planted near radicchio as they are susceptible to similar diseases, such as early blight."
+              "name": "Chicory",
+              "description": "Chicory is a close relative of radicchio and makes an excellent companion plant. Planting chicory near radicchio can enhance the flavor of both plants. Chicory's deep taproots help break up compacted soil, improving soil structure and nutrient absorption for radicchio."
+            },
+            {
+              "name": "Dill",
+              "description": "Dill is a beneficial companion for radicchio. It attracts beneficial insects like parasitic wasps and hoverflies, which prey on common pests that may affect radicchio. Additionally, dill's feathery foliage provides shade and shelter for radicchio, helping to conserve soil moisture and reduce weed growth."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are small, soft-bodied insects that feed on radicchio leaves by sucking sap from the plant. They reproduce rapidly and can cause distorted growth, yellowing, and wilting. To control aphids, spray affected plants with water to dislodge them, introduce natural predators like ladybugs or lacewings, and use insecticidal soap or neem oil as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Downy Mildew",
-            "description": "Downy mildew is a fungal disease that affects radicchio, causing yellow or brown spots on leaves and a fuzzy growth on the undersides of leaves. It thrives in cool, moist conditions and can lead to reduced plant vigor and yield. Prevent downy mildew by providing good air circulation around plants, avoiding overhead watering, and applying fungicidal sprays as needed."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest radicchio when the heads are firm and compact for the best flavor and texture.",
-        "Store harvested radicchio in the refrigerator for up to several weeks to prolong freshness.",
-        "Rotate radicchio crops annually to prevent the buildup of soilborne pests and diseases."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Fennel",
+              "description": "Fennel is not recommended as a companion for radicchio. Fennel produces chemicals that inhibit the growth of nearby plants, which can negatively affect radicchio. Planting radicchio near fennel may result in stunted growth and poor yields for both crops."
+            },
+            {
+              "name": "Lettuce",
+              "description": "Lettuce may not be the best companion for radicchio. While both are leafy greens, they have different growth habits and nutrient requirements. Planting them together may result in competition for resources like water and nutrients, leading to reduced yields for both crops."
+            },
+            {
+              "name": "Spinach",
+              "description": "Spinach may not be an ideal companion for radicchio. Both plants have similar growing requirements, which can result in competition for resources like sunlight, water, and nutrients. Planting them together may lead to overcrowding and reduced yields for both crops."
+            },
+            {
+              "name": "Tomatoes",
+              "description": "Tomatoes are not recommended as companions for radicchio. Tomatoes are heavy feeders and may compete with radicchio for nutrients in the soil. Additionally, the allelopathic compounds produced by tomatoes may inhibit the growth of radicchio and other nearby plants."
+            },
+            {
+              "name": "Squash",
+              "description": "Squash may not be the best companion for radicchio. Both plants have sprawling growth habits and may compete for space and resources in the garden. Planting them together may result in overcrowding and reduced yields for both crops."
+            }
+          ]
+        },
+      "pests": [
+        "Aphids",
+        "Flea Beetle",
+        "Slug",
+      "Snail",
+        "Cutworm",
+        "Looper",
+        "Leafminer",
+        "Thrips",
+        "Wireworm",
+        "Armyworm"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
+      ],
+      "diseases": [
+        "Downy Mildew",
+        "Powdery Mildew",
+        "Fusarium Wilt",
+        "Leaf Spot",
+        "Root Rot"
+      ],
+      "tipsAndTricks": [
+        "Plant radicchio in well-drained soil with full sun to partial shade.",
+        "Space radicchio plants properly to allow for healthy growth and air circulation.",
+        "Water radicchio regularly, keeping the soil consistently moist but not waterlogged.",
+        "Mulch around radicchio plants to retain moisture and suppress weeds.",
+        "Harvest radicchio when heads are firm and compact, typically when they reach full size.",
+        "Rotate crops to prevent the buildup of pests and diseases in the soil.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Radicchio: Planting Guide",

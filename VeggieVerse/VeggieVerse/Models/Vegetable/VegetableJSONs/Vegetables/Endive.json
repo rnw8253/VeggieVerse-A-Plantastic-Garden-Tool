@@ -33,42 +33,98 @@
         "storageRecommendations": "Harvest endive when the leaves are young and tender, usually before they become bitter. Cut the outer leaves from the plant using scissors or a sharp knife, allowing the inner leaves to continue growing. Store harvested endive in the refrigerator for up to a week. Wash and dry the leaves before storing to remove any dirt or debris.",
         "harvestDescription": "Harvest endive by cutting the outer leaves from the plant as needed. Leave the inner leaves to continue growing, and harvest them as they reach the desired size."
       },
-    "companionPlants": {
-        "goodCompanionPlants": [
+      "SpringSowing": {
+        "Indoors": [-10, -8],
+        "Transplant": [-4, -3],
+        "Outdoors": [-4, -2],
+        "LastSowDate": null
+      },
+      "FallSowing": {
+        "Outdoors": [-13, -12],
+        "Transplant": [],
+        "DaysToMaturity": 90,
+        "FrostTolerance": "Tolerant"
+      },
+      "companionPlants": {
+          "goodCompanionPlants": [
             {
-                "name": "Lettuce",
-                "description": "Lettuce can be planted near endive to provide shade and moisture retention for the shallow-rooted endive plants."
+              "name": "Beans",
+              "description": "Beans, such as bush beans or pole beans, can enrich the soil with nitrogen through nitrogen fixation, benefiting endive plants. Interplanting beans with endive can improve soil fertility and promote healthier growth."
             },
             {
-                "name": "Radishes",
-                "description": "Radishes can be planted near endive to help repel pests and provide natural pest control in the garden."
-            }
-        ],
-        "badCompanionPlants": [
+              "name": "Lettuce",
+              "description": "Lettuce has shallow roots and grows well in the shade of taller plants like endive. Interplanting lettuce with endive can help conserve soil moisture, suppress weeds, and provide living mulch to cool the soil."
+            },
             {
-                "name": "Potatoes",
-                "description": "Potatoes are not recommended to be planted near endive as they may compete for space and nutrients."
+              "name": "Radishes",
+              "description": "Radishes are fast-growing and can help break up compacted soil, making it easier for endive roots to penetrate. Interplanting radishes with endive can improve soil aeration, drainage, and overall plant health."
+            },
+            {
+              "name": "Carrots",
+              "description": "Carrots and endive have complementary root structures, with carrots growing deeper while endive grows shallower. Interplanting them can maximize space in the garden and reduce competition for soil nutrients."
+            },
+            {
+              "name": "Chives",
+              "description": "Chives can repel aphids, which are common pests of endive. Interplanting chives with endive can help protect them from aphid infestations, reducing the need for chemical pesticides."
             }
-        ]
-    },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are small, soft-bodied insects that feed on endive plants by sucking sap from leaves and stems. They reproduce rapidly and can cause distorted growth, yellowing, and wilting. Control aphids by spraying affected plants with water to dislodge them, introducing natural predators like ladybugs or lacewings, and using insecticidal soap or neem oil."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Downy Mildew",
-            "description": "Downy mildew is a fungal disease that affects endive, causing yellow spots on leaves that eventually turn brown and die. It thrives in cool, humid conditions. Prevent downy mildew by providing good air circulation around plants, avoiding overhead watering, and using fungicides as needed."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest endive leaves when they reach the desired size and texture for the best flavor and tenderness.",
-        "Thin seedlings as needed to ensure proper spacing and promote healthy growth.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed.",
-        "Water endive plants at the base to avoid wetting foliage and reduce the risk of disease."
-    ],
+          ],
+          "badCompanionPlants": [
+            {
+              "name": "Beans",
+              "description": "While beans are generally good companions for endive, certain types of beans, such as lima beans, can release substances that inhibit the growth of endive. It's best to avoid planting lima beans near endive."
+            },
+            {
+              "name": "Dill",
+              "description": "Dill can attract pests like aphids and spider mites, which may also affect nearby endive plants. Planting dill near endive may increase the risk of pest infestations and damage to endive crops."
+            },
+            {
+              "name": "Fennel",
+              "description": "Fennel contains compounds that can inhibit the growth of nearby plants, including endive. Planting endive near fennel may result in stunted growth and reduced yield for endive crops."
+            },
+            {
+              "name": "Kale",
+              "description": "Kale and endive have similar cultural requirements and may compete for resources like sunlight, water, and nutrients. Planting them too close together may lead to overcrowding and reduced growth for both crops."
+            },
+            {
+              "name": "Sunflower",
+              "description": "Sunflowers have dense root systems that may compete with endive for water and nutrients. Planting them together may result in reduced growth and yield for endive crops."
+            }
+          ]
+        },
+      "pests": [
+        "Aphids",
+        "Leafhopper",
+        "Whiteflies",
+        "Thrips",
+        "Cutworm",
+        "Armyworm",
+        "Flea Beetle",
+        "Looper",
+        "Cabbage Worm",
+        "Mite"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
+      ],
+      "diseases": [
+        "Downy Mildew",
+        "Powdery Mildew",
+        "Anthracnose",
+        "Rust",
+        "Botrytis"
+      ],
+      "tipsAndTricks": [
+        "Plant endive in well-drained soil with full sun to partial shade exposure.",
+        "Space endive plants properly to allow good air circulation and prevent diseases.",
+        "Water endive regularly, keeping the soil consistently moist but not waterlogged.",
+        "Apply mulch around the base of plants to retain moisture and suppress weeds.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+        "Harvest endive leaves when they reach the desired size, typically when they are young and tender."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Endive: Planting Guide",

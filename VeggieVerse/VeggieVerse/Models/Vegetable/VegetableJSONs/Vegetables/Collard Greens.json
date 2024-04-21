@@ -33,42 +33,95 @@
        "storageRecommendations": "Harvest collard greens when the leaves are large and tender, typically 8-10 inches long. Cut the leaves from the outer edges of the plant, leaving the inner leaves to continue growing. Store harvested collard greens in the refrigerator for up to a week. Wash and dry the leaves before storing to remove any dirt or debris.",
        "harvestDescription": "Harvest collard greens by cutting the outer leaves from the plant as needed. Leave the inner leaves to continue growing, and harvest them as they reach the desired size."
      },
-    "companionPlants": {
+     "SpringSowing": {
+         "Indoors": [-8, -6],
+         "Transplant": [-2, 0],
+         "Outdoors": [-3, -2],
+         "LastSowDate": -10
+     },
+     "FallSowing": {
+         "Outdoors": [],
+         "Transplant": [],
+         "DaysToMaturity": 70,
+         "FrostTolerance": "Hardy"
+     },
+     "companionPlants": {
         "goodCompanionPlants": [
-            {
-                "name": "Radishes",
-                "description": "Radishes can be planted near collard greens to help repel pests and provide natural pest control in the garden."
-            },
-            {
-                "name": "Lettuce",
-                "description": "Lettuce can be planted near collard greens as a living mulch to help retain soil moisture and shade the roots."
-            }
+          {
+            "name": "Beans",
+            "description": "Beans are nitrogen-fixing legumes that can enrich the soil with nitrogen, benefiting the growth of collard greens. Interplanting them can improve soil fertility and overall plant health."
+          },
+          {
+            "name": "Cabbage",
+            "description": "Collard greens and cabbage belong to the same family (Brassicaceae) but have different pests and diseases. Interplanting them can confuse pests and reduce the risk of infestation or disease spread."
+          },
+          {
+            "name": "Lettuce",
+            "description": "Lettuce has shallow roots and grows quickly, providing living mulch for collard greens. Interplanting them can help suppress weeds, retain soil moisture, and regulate soil temperature."
+          },
+          {
+            "name": "Radishes",
+            "description": "Radishes are fast-growing and can help break up compacted soil, making it easier for collard greens' roots to penetrate. Interplanting them can improve soil structure and overall plant growth."
+          },
+          {
+            "name": "Spinach",
+            "description": "Spinach is a cool-season crop that complements collard greens well. Interplanting them can maximize space and harvest in the garden, as they have similar cultural requirements and growth habits."
+          }
         ],
         "badCompanionPlants": [
-            {
-                "name": "Tomatoes",
-                "description": "Tomatoes are not recommended to be planted near collard greens as they may compete for space and nutrients."
-            }
+          {
+            "name": "Tomatoes",
+            "description": "Tomatoes and collard greens have different cultural requirements and may compete for nutrients and space. Planting them together may result in reduced growth and yield for both crops."
+          },
+          {
+            "name": "Pole Beans",
+            "description": "Pole beans can overshadow collard greens, reducing their access to sunlight. Planting them together may result in decreased photosynthesis and lower overall plant productivity."
+          },
+          {
+            "name": "Sunflower",
+            "description": "Sunflowers have deep roots that may compete with collard greens for water and nutrients. Planting them together may result in water and nutrient stress for collard greens, affecting their growth and yield."
+          },
+          {
+            "name": "Potatoes",
+            "description": "Potatoes and collard greens have different soil pH and moisture requirements. Planting them together may result in imbalanced soil conditions and reduced growth and yield for both crops."
+          }
         ]
-    },
-    "pests": [
-        {
-            "name": "Cabbage Worms",
-            "description": "Cabbage worms are the larvae of cabbage white butterflies and can damage collard green plants by feeding on the foliage. Control cabbage worms by handpicking them off plants, applying organic insecticides like Bacillus thuringiensis (Bt), and using row covers to exclude adult butterflies."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Clubroot",
-            "description": "Clubroot is a soilborne disease that affects members of the Brassica family, including collard greens. It causes swelling and distortion of the roots, leading to stunted growth and poor yields. Prevent clubroot by practicing crop rotation, improving soil drainage, and using disease-resistant varieties."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest collard green leaves when they reach the desired size and texture for the best flavor and tenderness.",
-        "Remove any yellowing or damaged leaves from collard green plants throughout the growing season to promote air circulation and reduce the risk of disease.",
-        "Provide consistent moisture and fertility to collard green plants for optimal growth and development.",
-        "Monitor plants regularly for signs of pests and diseases, and take appropriate action as needed."
-    ],
+      },
+     "pests": [
+       "Aphids",
+       "Cabbage Worm",
+       "Diamondback Moth",
+       "Cutworm",
+       "Thrips",
+       "Armyworm",
+       "Leafhopper",
+       "Whiteflies",
+       "Flea Beetle",
+       "Looper"
+     ],
+     "beneficial_insects": [
+       "Ladybugs",
+       "Lacewings",
+       "Hoverflies",
+       "Parasitic Wasps",
+       "Predatory Mites"
+     ],
+     "diseases": [
+       "Downy Mildew",
+       "Clubroot",
+       "Fusarium Wilt",
+       "Alternaria Leaf Spot",
+       "Powdery Mildew"
+     ],
+     "tipsAndTricks": [
+       "Plant collard greens in well-drained soil with full sun to partial shade exposure.",
+       "Space collard greens properly to allow good air circulation and prevent diseases.",
+       "Apply a balanced fertilizer or compost to provide necessary nutrients for growth.",
+       "Mulch around the base of plants to retain moisture and suppress weeds.",
+       "Water collard greens regularly, especially during dry periods.",
+       "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+       "Harvest collard greens by picking the outer leaves when they are large enough, leaving the center leaves to continue growing."
+     ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Collard Greens: Planting Guide",

@@ -7,8 +7,8 @@
       "sowingAndPlanting": {
         "sowingIndoorsDescription": "Watermelons are typically planted directly in the ground from seeds. Start seeds indoors 2-4 weeks before the last frost date in your area to get a head start on the growing season. Plant seeds in biodegradable pots filled with seed starting mix and keep them warm and moist until seedlings emerge.",
         "sowingOutdoorsDescription": "Watermelons prefer warm soil for germination and growth. Plant seeds or seedlings directly in well-draining soil after the last frost date in your area. Choose a sunny location with plenty of space for vines to spread out. Space plants or hills according to their mature size, typically 3-5 feet apart.",
-        "spaceBetweenPlants": "3\'-5\'",
-        "spaceBetweenRows": "Varies based on planting scheme",
+        "spaceBetweenPlants": "3'-5'",
+        "spaceBetweenRows": "Varies",
         "squareFootPlantingRecommendationsMin": 1,
         "squareFootPlantingRecommendationsMax": 2,
         "lifeCycle": "Annual",
@@ -32,10 +32,22 @@
         "storageRecommendations": "Harvest watermelons when they are fully ripe, usually when the tendrils near the stem begin to dry out and the underside of the fruit turns creamy yellow. Cut the fruit from the vine with a sharp knife, leaving a short stem attached. Store harvested watermelons at room temperature for a few days, or refrigerate them for longer storage.",
         "harvestDescription": "Harvest watermelons by cutting the fruit from the vine with a sharp knife when they are fully ripe. Avoid pulling or twisting the fruit, as this can damage the plant."
       },
+      "SpringSowing": {
+        "Indoors": [-3, -1],
+        "Transplant": [2, 3],
+        "Outdoors": [1, 2],
+        "LastSowDate": -13
+      },
+      "FallSowing": {
+        "Outdoors": [],
+        "Transplant": [],
+        "DaysToMaturity": 70,
+        "FrostTolerance": "Tender"
+      },
       "companionPlants": {
           "goodCompanionPlants": [
             {
-              "name": "Nasturtiums",
+              "name": "Nasturtium",
               "description": "Nasturtiums can help repel pests like aphids, cucumber beetles, and squash bugs when planted near watermelon vines. Their flowers also attract beneficial insects like ladybugs and lacewings."
             },
             {
@@ -73,36 +85,49 @@
               "description": "Squash and watermelons are susceptible to similar pests and diseases, such as squash bugs and powdery mildew. Planting them in close proximity may increase the risk of disease transmission."
             },
             {
-              "name": "Sunflowers",
+              "name": "Sunflower",
               "description": "Sunflowers produce tall stalks that can shade out watermelon vines and compete for water and nutrients. Additionally, sunflowers may attract pests like aphids and cucumber beetles."
             }
           ]
         },
-    "pests": [
-        {
-            "name": "Aphids",
-            "description": "Aphids are common pests of watermelon plants, feeding on sap and causing distorted growth, yellowing, and wilting. Control aphid populations by spraying affected plants with water to dislodge them, introducing natural predators like ladybugs, lacewings, or parasitic wasps, and using insecticidal soap or neem oil."
-        },
-        {
-            "name": "Squash Bugs",
-            "description": "Squash bugs are pests of watermelon plants, feeding on sap and causing wilting, yellowing, and stunting. They can transmit diseases like bacterial wilt and squash mosaic virus. Control squash bug populations by handpicking them from plants, using row covers to exclude them, and applying insecticidal sprays as needed."
-        }
-    ],
-    "diseases": [
-        {
-            "name": "Fusarium Wilt",
-            "description": "Fusarium wilt is a fungal disease that affects watermelon plants, causing wilting, yellowing, and stunting. It can lead to reduced fruit production and overall plant vigor. Control fusarium wilt by planting resistant varieties, practicing crop rotation, and improving soil drainage."
-        },
-        {
-            "name": "Anthracnose",
-            "description": "Anthracnose is a fungal disease that affects watermelon plants, causing dark, sunken lesions on fruit and foliage. It can lead to fruit rot and reduced yields. Control anthracnose by removing and destroying infected plant material, improving air circulation around plants, and applying fungicidal sprays preventatively."
-        }
-    ],
-    "tipsAndTricks": [
-        "Harvest watermelons when fully ripe for the best flavor and sweetness.",
-        "Provide consistent moisture throughout the growing season, particularly during flowering and fruit set.",
-        "Monitor plants regularly for signs of pests and diseases, and take prompt action to control infestations."
-    ],
+      "pests": [
+        "Fruit Fly",
+        "Aphids",
+        "Thrips",
+        "Leafminer",
+        "Whiteflies",
+        "Mite",
+        "Beetle",
+        "Borer",
+        "Flea Beetle",
+        "Stink Bug",
+        "Pickleworm",
+        "Melonworm"
+      ],
+      "beneficial_insects": [
+        "Ladybugs",
+        "Lacewings",
+        "Hoverflies",
+        "Parasitic Wasps",
+        "Predatory Mites"
+      ],
+      "diseases": [
+        "Anthracnose",
+        "Fusarium Wilt",
+        "Powdery Mildew",
+        "Downy Mildew",
+        "Bacterial Fruit Blotch",
+        "Curly Top"
+      ],
+      "tipsAndTricks": [
+        "Plant watermelon seeds or transplants in well-drained soil with full sun exposure.",
+        "Space watermelon plants properly to allow good air circulation and prevent diseases.",
+        "Water watermelon plants regularly, especially during dry periods.",
+        "Apply a balanced fertilizer during the growing season to promote healthy growth and fruiting.",
+        "Mulch around the base of plants to retain moisture and suppress weeds.",
+        "Monitor plants regularly for signs of pests and diseases, and take appropriate action.",
+        "Harvest watermelons when they have a deep, hollow sound when tapped and the underside is creamy yellow."
+      ],
     "linksToAdditionalResources": [
         {
             "title": "Growing Watermelons: Planting Guide",
